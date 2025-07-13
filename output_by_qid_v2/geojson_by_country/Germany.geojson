@@ -1859,6 +1859,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.19893,
+          47.64128
+        ]
+      },
+      "properties": {
+        "label": "Oberaudorf-Ebbs power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q21517380",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q21517380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.5881,
           47.6515
         ]
@@ -1869,6 +1886,23 @@
         "entity": "http://www.wikidata.org/entity/Q1786146",
         "country_qid": "Q183",
         "Wikidata Qid": "Q1786146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4389,
+          48.4354
+        ]
+      },
+      "properties": {
+        "label": "Schärding-Neuhaus power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1786198",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1786198"
       }
     },
     {
@@ -2012,6 +2046,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.00666667,
+          48.245
+        ]
+      },
+      "properties": {
+        "label": "Braunau-Simbach power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q17124137",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q17124137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.22722,
           50.1242
         ]
@@ -2107,23 +2158,6 @@
         "entity": "http://www.wikidata.org/entity/Q1807528",
         "country_qid": "Q183",
         "Wikidata Qid": "Q1807528"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.915,
-          48.68472222
-        ]
-      },
-      "properties": {
-        "label": "Gambsheim barrage",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q15130268",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q15130268"
       }
     },
     {
@@ -2301,6 +2335,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.1608,
+          48.2898
+        ]
+      },
+      "properties": {
+        "label": "Ering-Frauenstein power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1786092",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1786092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.58167,
           50.3658
         ]
@@ -2471,6 +2522,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.43694444,
+          48.55361111
+        ]
+      },
+      "properties": {
+        "label": "Passau-Ingling power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q17124139",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q17124139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.5169,
           50.8772
         ]
@@ -2583,6 +2651,23 @@
         "entity": "http://www.wikidata.org/entity/Q2583480",
         "country_qid": "Q183",
         "Wikidata Qid": "Q2583480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7075,
+          48.5183
+        ]
+      },
+      "properties": {
+        "label": "Jochenstein power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q2752192",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q2752192"
       }
     },
     {
@@ -6765,23 +6850,6 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.36668,
-          49.46697
-        ]
-      },
-      "properties": {
-        "label": "Écluse d'Apach-Schengen",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q13105104",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -47735,23 +47803,6 @@
         "entity": "http://www.wikidata.org/entity/Q111440699",
         "country_qid": "Q183",
         "Wikidata Qid": "Q111440699"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70753,
-          47.53747
-        ]
-      },
-      "properties": {
-        "label": "Wehrbrücke Augst/Wyhlen",
-        "type": "Weir",
-        "entity": "http://www.wikidata.org/entity/Q104215252",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q104215252"
       }
     },
     {
@@ -117935,6 +117986,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.23266,
+          48.769298
+        ]
+      },
+      "properties": {
+        "label": "Batschari",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q393125",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q393125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.7936494,
           50.9718916
         ]
@@ -141949,6 +142017,23 @@
         "entity": "http://www.wikidata.org/entity/Q14540868",
         "country_qid": "Q183",
         "Wikidata Qid": "Q14540868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08764,
+          50.91487
+        ]
+      },
+      "properties": {
+        "label": "Rimburg mills",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q14277995",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q14277995"
       }
     },
     {

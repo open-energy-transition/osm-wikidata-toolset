@@ -431,6 +431,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.379986,
+          53.908718
+        ]
+      },
+      "properties": {
+        "label": "Technopribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132578171",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q132578171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.478555,
+          52.562053
+        ]
+      },
+      "properties": {
+        "label": "Pružany Radio Component Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132158036",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q132158036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           44.8463,
           41.0881
         ]
