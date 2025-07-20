@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95,
+          40.633333
+        ]
+      },
+      "properties": {
+        "label": "Thessalonica",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4024000",
+        "country_qid": "Q1747689",
+        "Wikidata Qid": "Q4024000"
+      }
+    }
+  ]
+}

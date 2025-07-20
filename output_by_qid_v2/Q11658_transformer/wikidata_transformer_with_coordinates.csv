@@ -1,7 +1,7 @@
 country_name,country_qid,entity,label,type,latitude,longitude
 Spain,Q29,http://www.wikidata.org/entity/Q42885274,Antiga Estació Tèrmica Transformadora H.E.,Transformer,39.456389,-0.331944
 Spain,Q29,http://www.wikidata.org/entity/Q54913436,Q54913436,Transformer,41.701173,-0.867433
-Denmark,Q35,http://www.wikidata.org/entity/Q75827794,Western Power Station,Transformer,55.6715,12.5685
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26560549,Electric transformer at junction with High Cliffe Road,Transformer,53.36214,-1.52559
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26560896,Electric transformer at junction with Belgrave Road,Transformer,53.371878,-1.528774
+Denmark,Q35,http://www.wikidata.org/entity/Q75827794,Western Power Station,Transformer,55.6715,12.5685
 Poland,Q36,http://www.wikidata.org/entity/Q118732548,Trafoturm,Transformer,50.726245025,16.836381554

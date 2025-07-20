@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.70959,
+          51.01517
+        ]
+      },
+      "properties": {
+        "label": "Feldschlößchen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1402818",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q1402818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.506019,
           52.416767
         ]
@@ -16,6 +33,57 @@
         "entity": "http://www.wikidata.org/entity/Q130611054",
         "country_qid": "Q16957",
         "Wikidata Qid": "Q130611054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.058404,
+          50.724559
+        ]
+      },
+      "properties": {
+        "label": "Q900376",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q900376",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q900376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64583333,
+          51.46361111
+        ]
+      },
+      "properties": {
+        "label": "Eilenburger Chemiewerk",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1304015",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q1304015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.328463,
+          51.516468
+        ]
+      },
+      "properties": {
+        "label": "Q227835",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q227835",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q227835"
       }
     },
     {
@@ -57,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.447611111,
+          50.710694444
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Zwickau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111601902",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q111601902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.34286,
           51.33777
         ]
@@ -67,6 +152,23 @@
         "entity": "http://www.wikidata.org/entity/Q1728273",
         "country_qid": "Q16957",
         "Wikidata Qid": "Q1728273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38363,
+          51.315673
+        ]
+      },
+      "properties": {
+        "label": "Schlachthof Leipzig",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2237843",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q2237843"
       }
     },
     {
@@ -101,6 +203,23 @@
         "entity": "http://www.wikidata.org/entity/Q122942711",
         "country_qid": "Q16957",
         "Wikidata Qid": "Q122942711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0,
+          51.285
+        ]
+      },
+      "properties": {
+        "label": "Total Refinery Mitteldeutschland",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111976857",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q111976857"
       }
     },
     {
@@ -159,6 +278,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.24,
+          53.1
+        ]
+      },
+      "properties": {
+        "label": "PCK refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q14524622",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q14524622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.96361111,
           50.67472222
         ]
@@ -193,6 +329,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.511016,
+          51.157869
+        ]
+      },
+      "properties": {
+        "label": "Meißner Schuhfabrik",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1734630",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q1734630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.6586,
           51.04008
         ]
@@ -210,6 +363,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.09339,
+          51.95485
+        ]
+      },
+      "properties": {
+        "label": "EMAG Zerbst Maschinenfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2560582",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q2560582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98795,
+          51.56027
+        ]
+      },
+      "properties": {
+        "label": "Brauerei Torgau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q113506218",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q113506218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.648274,
           51.006609
         ]
@@ -220,6 +407,57 @@
         "entity": "http://www.wikidata.org/entity/Q900193",
         "country_qid": "Q16957",
         "Wikidata Qid": "Q900193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.662758,
+          52.081552
+        ]
+      },
+      "properties": {
+        "label": "Q1660481",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1660481",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q1660481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.67720278,
+          52.17733056
+        ]
+      },
+      "properties": {
+        "label": "Shipyard Edgar Andre",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q15635042",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q15635042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7019,
+          51.054
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Dresden",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2139374",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q2139374"
       }
     },
     {
@@ -271,6 +509,40 @@
         "entity": "http://www.wikidata.org/entity/Q1924962",
         "country_qid": "Q16957",
         "Wikidata Qid": "Q1924962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.016196,
+          50.960529
+        ]
+      },
+      "properties": {
+        "label": "Gebrüder Treitschke",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q21685518",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q21685518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9382,
+          50.8559
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Chemnitz",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2139372",
+        "country_qid": "Q16957",
+        "Wikidata Qid": "Q2139372"
       }
     },
     {

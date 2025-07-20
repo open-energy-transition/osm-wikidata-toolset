@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.370607,
+          53.210732
+        ]
+      },
+      "properties": {
+        "label": "Lleweni bleach works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q29560275",
+        "country_qid": "Q161885",
+        "Wikidata Qid": "Q29560275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10419,
+          51.853344
+        ]
+      },
+      "properties": {
+        "label": "Llangenny Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28859133",
+        "country_qid": "Q161885",
+        "Wikidata Qid": "Q28859133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.798269444,
+          56.022838888
+        ]
+      },
+      "properties": {
+        "label": "Carron Company",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2940338",
+        "country_qid": "Q161885",
+        "Wikidata Qid": "Q2940338"
+      }
+    }
+  ]
+}

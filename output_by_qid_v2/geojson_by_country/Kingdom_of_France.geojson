@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.087159784,
+          49.42447253
+        ]
+      },
+      "properties": {
+        "label": "Beauvais Tapestry Manufactory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2566130",
+        "country_qid": "Q70972",
+        "Wikidata Qid": "Q2566130"
+      }
+    }
+  ]
+}

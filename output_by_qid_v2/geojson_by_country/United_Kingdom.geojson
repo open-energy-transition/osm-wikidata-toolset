@@ -45039,23 +45039,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.798269444,
-          56.022838888
-        ]
-      },
-      "properties": {
-        "label": "Carron Company",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2940338",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q2940338"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.517621,
           52.081664
         ]
@@ -99541,23 +99524,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.49761,
-          52.40539
-        ]
-      },
-      "properties": {
-        "label": "Shut Lane Mill",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q29015174",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q29015174"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.738739,
           54.074836
         ]
@@ -110159,23 +110125,6 @@
         "entity": "http://www.wikidata.org/entity/Q26561425",
         "country_qid": "Q145",
         "Wikidata Qid": "Q26561425"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.162826,
-          51.521778
-        ]
-      },
-      "properties": {
-        "label": "The Landmark London",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q7745419",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q7745419"
       }
     },
     {

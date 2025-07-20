@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.357935054,
+          52.574633352
+        ]
+      },
+      "properties": {
+        "label": "Q123760408",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q123760408",
+        "country_qid": "Q43287",
+        "Wikidata Qid": "Q123760408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.364032431,
           52.582602964
         ]
@@ -74,16 +91,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.547747,
-          50.103131
+          13.7086,
+          51.0422
         ]
       },
       "properties": {
-        "label": "second station building Frankfurt-Höchst",
+        "label": "Q1723859",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q105476169",
+        "entity": "http://www.wikidata.org/entity/Q1723859",
         "country_qid": "Q43287",
-        "Wikidata Qid": "Q105476169"
+        "Wikidata Qid": "Q1723859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36513476,
+          52.503001517
+        ]
+      },
+      "properties": {
+        "label": "Atelier Victoria",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q62627743",
+        "country_qid": "Q43287",
+        "Wikidata Qid": "Q62627743"
       }
     }
   ]

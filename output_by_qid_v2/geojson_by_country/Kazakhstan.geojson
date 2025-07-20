@@ -1485,6 +1485,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          78.821,
+          44.851
+        ]
+      },
+      "properties": {
+        "label": "Q12565163",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q12565163",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q12565163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.954722222,
+          52.325
+        ]
+      },
+      "properties": {
+        "label": "PTZ tractors",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4341878",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q4341878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           69.16972222,
           54.85638889
         ]
@@ -1570,6 +1604,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          69.4222,
+          53.2881
+        ]
+      },
+      "properties": {
+        "label": "Kokshetau-1 station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q102047169",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q102047169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           68.212113,
           43.28591
         ]
@@ -1580,6 +1631,40 @@
         "entity": "http://www.wikidata.org/entity/Q131440847",
         "country_qid": "Q232",
         "Wikidata Qid": "Q131440847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.013613888,
+          50.052333333
+        ]
+      },
+      "properties": {
+        "label": "Qarağandı metallurgical plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4213686",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q4213686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.361111111,
+          51.238611111
+        ]
+      },
+      "properties": {
+        "label": "Q16683019",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q16683019",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q16683019"
       }
     },
     {

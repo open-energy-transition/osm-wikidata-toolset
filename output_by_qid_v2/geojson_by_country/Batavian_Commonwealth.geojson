@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36282,
+          52.0126
+        ]
+      },
+      "properties": {
+        "label": "De Lampetkan",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q64498158",
+        "country_qid": "Q13134747",
+        "Wikidata Qid": "Q64498158"
+      }
+    }
+  ]
+}

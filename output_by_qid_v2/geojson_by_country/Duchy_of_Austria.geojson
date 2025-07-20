@@ -23,6 +23,142 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.228972814,
+          48.007859534
+        ]
+      },
+      "properties": {
+        "label": "Q115052207",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115052207",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q115052207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.220725277,
+          48.00837139
+        ]
+      },
+      "properties": {
+        "label": "Weikersdorfer Schlossmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116374599",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q116374599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.299953437,
+          47.956566416
+        ]
+      },
+      "properties": {
+        "label": "Old mill of Tattendorf",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q114928766",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q114928766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.250744,
+          48.007894
+        ]
+      },
+      "properties": {
+        "label": "Leesdorfer Hofmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q98446661",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q98446661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.238702849,
+          48.007034536
+        ]
+      },
+      "properties": {
+        "label": "Trottmannmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116314992",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q116314992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.230878144,
+          48.006869526
+        ]
+      },
+      "properties": {
+        "label": "Q115052315",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115052315",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q115052315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.255351269,
+          48.006781157
+        ]
+      },
+      "properties": {
+        "label": "Hansymühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116380379",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q116380379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.227145833,
+          48.008389122
+        ]
+      },
+      "properties": {
+        "label": "Q115051990",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115051990",
+        "country_qid": "Q3624335",
+        "Wikidata Qid": "Q115051990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.244551135,
           48.007285732
         ]

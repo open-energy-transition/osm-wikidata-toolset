@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280052,
+          59.93781
+        ]
+      },
+      "properties": {
+        "label": "Academy of Sciences Printing House",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86670242",
+        "country_qid": "Q2305208",
+        "Wikidata Qid": "Q86670242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45,
+          59.885
+        ]
+      },
+      "properties": {
+        "label": "Vargunin Brothers Paper Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q33536749",
+        "country_qid": "Q2305208",
+        "Wikidata Qid": "Q33536749"
+      }
+    }
+  ]
+}

@@ -11770,23 +11770,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.240593,
-          47.810572
-        ]
-      },
-      "properties": {
-        "label": "Brauhof Wiener Neustadt",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q61578062",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q61578062"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.098724,
           47.683751
         ]
@@ -70998,23 +70981,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.299953437,
-          47.956566416
-        ]
-      },
-      "properties": {
-        "label": "Old mill of Tattendorf",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q114928766",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q114928766"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           16.159582,
           47.775874
         ]
@@ -71542,23 +71508,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.238702849,
-          48.007034536
-        ]
-      },
-      "properties": {
-        "label": "Trottmannmühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116314992",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116314992"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4584462,
           47.078992
         ]
@@ -71671,23 +71620,6 @@
         "entity": "http://www.wikidata.org/entity/Q95693648",
         "country_qid": "Q40",
         "Wikidata Qid": "Q95693648"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.19205,
-          47.84673
-        ]
-      },
-      "properties": {
-        "label": "Wöllersdorfer Werke",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q63822737",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q63822737"
       }
     },
     {
@@ -72674,23 +72606,6 @@
         "entity": "http://www.wikidata.org/entity/Q1750962",
         "country_qid": "Q40",
         "Wikidata Qid": "Q1750962"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.218053,
-          48.070522
-        ]
-      },
-      "properties": {
-        "label": "Lackfabrik Ludwig Marx",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q73415275",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q73415275"
       }
     },
     {
@@ -74143,23 +74058,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.255351269,
-          48.006781157
-        ]
-      },
-      "properties": {
-        "label": "Hansymühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116380379",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116380379"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.57417315,
           47.57908008
         ]
@@ -74986,23 +74884,6 @@
         "entity": "http://www.wikidata.org/entity/Q98582629",
         "country_qid": "Q40",
         "Wikidata Qid": "Q98582629"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.220725277,
-          48.00837139
-        ]
-      },
-      "properties": {
-        "label": "Weikersdorfer Schlossmühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116374599",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116374599"
       }
     },
     {
