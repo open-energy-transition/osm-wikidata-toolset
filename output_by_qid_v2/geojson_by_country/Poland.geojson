@@ -28243,6 +28243,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.9597,
+          50.3014
+        ]
+      },
+      "properties": {
+        "label": "Huta Kościuszko",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q9295161",
+        "country_qid": "Q36",
+        "Wikidata Qid": "Q9295161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.632653415,
           54.256460097
         ]
@@ -48925,23 +48942,6 @@
         "entity": "http://www.wikidata.org/entity/Q11743387",
         "country_qid": "Q36",
         "Wikidata Qid": "Q11743387"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.5801,
-          49.8264
-        ]
-      },
-      "properties": {
-        "label": "Morcinek coal mine in Kaczyce",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q11743383",
-        "country_qid": "Q36",
-        "Wikidata Qid": "Q11743383"
       }
     },
     {

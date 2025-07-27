@@ -17,23 +17,6 @@
         "country_qid": "Q38872",
         "Wikidata Qid": "Q56682440"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.547747,
-          50.103131
-        ]
-      },
-      "properties": {
-        "label": "second station building Frankfurt-Höchst",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q105476169",
-        "country_qid": "Q38872",
-        "Wikidata Qid": "Q105476169"
-      }
     }
   ]
 }

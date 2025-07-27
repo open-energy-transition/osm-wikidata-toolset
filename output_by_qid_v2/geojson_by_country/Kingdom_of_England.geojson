@@ -6,57 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.162826,
-          51.521778
-        ]
-      },
-      "properties": {
-        "label": "The Landmark London",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q7745419",
-        "country_qid": "Q179876",
-        "Wikidata Qid": "Q7745419"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.89931,
-          52.4979
-        ]
-      },
-      "properties": {
-        "label": "Aston Furnace",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q110656871",
-        "country_qid": "Q179876",
-        "Wikidata Qid": "Q110656871"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.49761,
-          52.40539
-        ]
-      },
-      "properties": {
-        "label": "Shut Lane Mill",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q29015174",
-        "country_qid": "Q179876",
-        "Wikidata Qid": "Q29015174"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.181666666,
           51.4825
         ]

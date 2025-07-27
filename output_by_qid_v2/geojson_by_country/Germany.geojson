@@ -2165,23 +2165,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.915,
-          48.68472222
-        ]
-      },
-      "properties": {
-        "label": "Gambsheim barrage",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q15130268",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q15130268"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.22098,
           51.4127
         ]
@@ -6867,23 +6850,6 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.36668,
-          49.46697
-        ]
-      },
-      "properties": {
-        "label": "Écluse d'Apach-Schengen",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q13105104",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -51312,6 +51278,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.058404,
+          50.724559
+        ]
+      },
+      "properties": {
+        "label": "Q900376",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q900376",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q900376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.50389,
           51.4897
         ]
@@ -64164,6 +64147,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.295667,
+          51.7397
+        ]
+      },
+      "properties": {
+        "label": "Kalkarer Mühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3916184",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q3916184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.34205,
           52.208317
         ]
@@ -64497,6 +64497,23 @@
         "entity": "http://www.wikidata.org/entity/Q64814200",
         "country_qid": "Q183",
         "Wikidata Qid": "Q64814200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.016196,
+          50.960529
+        ]
+      },
+      "properties": {
+        "label": "Gebrüder Treitschke",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q21685518",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q21685518"
       }
     },
     {
@@ -66792,6 +66809,23 @@
         "entity": "http://www.wikidata.org/entity/Q111834667",
         "country_qid": "Q183",
         "Wikidata Qid": "Q111834667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98795,
+          51.56027
+        ]
+      },
+      "properties": {
+        "label": "Brauerei Torgau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q113506218",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q113506218"
       }
     },
     {
@@ -74007,23 +74041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q2569078"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.25816,
           51.090335
         ]
@@ -76183,6 +76200,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.529677,
+          52.27832
+        ]
+      },
+      "properties": {
+        "label": "Braunschweig Nord railway station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q78355036",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q78355036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.17309,
           51.31263
         ]
@@ -76193,6 +76227,23 @@
         "entity": "http://www.wikidata.org/entity/Q27479402",
         "country_qid": "Q183",
         "Wikidata Qid": "Q27479402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.328463,
+          51.516468
+        ]
+      },
+      "properties": {
+        "label": "Q227835",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q227835",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q227835"
       }
     },
     {
@@ -79525,6 +79576,23 @@
         "entity": "http://www.wikidata.org/entity/Q58064949",
         "country_qid": "Q183",
         "Wikidata Qid": "Q58064949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.559653033,
+          52.977808591
+        ]
+      },
+      "properties": {
+        "label": "Zuckerfabrik Uelzen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q58325721",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q58325721"
       }
     },
     {
@@ -83782,6 +83850,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.70959,
+          51.01517
+        ]
+      },
+      "properties": {
+        "label": "Feldschlößchen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1402818",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1402818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.045662,
           51.506188
         ]
@@ -84268,6 +84353,23 @@
         "entity": "http://www.wikidata.org/entity/Q110218347",
         "country_qid": "Q183",
         "Wikidata Qid": "Q110218347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          53.1
+        ]
+      },
+      "properties": {
+        "label": "PCK refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q14524622",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q14524622"
       }
     },
     {
@@ -85669,6 +85771,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.853602777,
+          47.9848
+        ]
+      },
+      "properties": {
+        "label": "Old Wiehre railway station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130340058",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q130340058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.25362,
           49.3627
         ]
@@ -86597,6 +86716,23 @@
         "entity": "http://www.wikidata.org/entity/Q116519644",
         "country_qid": "Q183",
         "Wikidata Qid": "Q116519644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0,
+          51.285
+        ]
+      },
+      "properties": {
+        "label": "Total Refinery Mitteldeutschland",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111976857",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q111976857"
       }
     },
     {
@@ -100969,6 +101105,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.819586,
+          52.43104
+        ]
+      },
+      "properties": {
+        "label": "Q134693472",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q134693472",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q134693472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.495031,
           51.099618
         ]
@@ -107592,6 +107745,23 @@
         "entity": "http://www.wikidata.org/entity/Q1511143",
         "country_qid": "Q183",
         "Wikidata Qid": "Q1511143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.692,
+          52.4195
+        ]
+      },
+      "properties": {
+        "label": "Waldemar Pruss Armaturenfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124370619",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q124370619"
       }
     },
     {
@@ -117816,23 +117986,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.23266,
-          48.769298
-        ]
-      },
-      "properties": {
-        "label": "Batschari",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q393125",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q393125"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.7936494,
           50.9718916
         ]
@@ -118115,6 +118268,23 @@
         "entity": "http://www.wikidata.org/entity/Q350571",
         "country_qid": "Q183",
         "Wikidata Qid": "Q350571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384284266,
+          52.568214894
+        ]
+      },
+      "properties": {
+        "label": "Berliner Motorwagen-Fabrik",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q821656",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q821656"
       }
     },
     {
@@ -119125,6 +119295,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.09339,
+          51.95485
+        ]
+      },
+      "properties": {
+        "label": "EMAG Zerbst Maschinenfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2560582",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q2560582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.394444743,
           52.504385498
         ]
@@ -119958,6 +120145,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.64583333,
+          51.46361111
+        ]
+      },
+      "properties": {
+        "label": "Eilenburger Chemiewerk",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1304015",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1304015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.386097454,
           52.523775627
         ]
@@ -120553,6 +120757,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.511016,
+          51.157869
+        ]
+      },
+      "properties": {
+        "label": "Meißner Schuhfabrik",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1734630",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1734630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.716293,
           50.399259
         ]
@@ -120648,6 +120869,23 @@
         "entity": "http://www.wikidata.org/entity/Q1423850",
         "country_qid": "Q183",
         "Wikidata Qid": "Q1423850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7086,
+          51.0422
+        ]
+      },
+      "properties": {
+        "label": "Q1723859",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1723859",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1723859"
       }
     },
     {
@@ -122729,6 +122967,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.662758,
+          52.081552
+        ]
+      },
+      "properties": {
+        "label": "Q1660481",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1660481",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1660481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7019,
+          51.054
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Dresden",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2139374",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q2139374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.58489,
           50.106395
         ]
@@ -122756,6 +123028,23 @@
         "entity": "http://www.wikidata.org/entity/Q20972943",
         "country_qid": "Q183",
         "Wikidata Qid": "Q20972943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9382,
+          50.8559
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Chemnitz",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2139372",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q2139372"
       }
     },
     {
@@ -122824,6 +123113,23 @@
         "entity": "http://www.wikidata.org/entity/Q5147848",
         "country_qid": "Q183",
         "Wikidata Qid": "Q5147848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36513476,
+          52.503001517
+        ]
+      },
+      "properties": {
+        "label": "Atelier Victoria",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q62627743",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q62627743"
       }
     },
     {
@@ -123341,6 +123647,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.327096624,
+          52.564066724
+        ]
+      },
+      "properties": {
+        "label": "Q123760267",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q123760267",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q123760267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.5435,
           52.4778
         ]
@@ -123351,6 +123674,23 @@
         "entity": "http://www.wikidata.org/entity/Q14906715",
         "country_qid": "Q183",
         "Wikidata Qid": "Q14906715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00833333,
+          51.31861111
+        ]
+      },
+      "properties": {
+        "label": "Leuna works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1821579",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1821579"
       }
     },
     {
@@ -123545,6 +123885,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.375073567,
+          52.563597389
+        ]
+      },
+      "properties": {
+        "label": "Q123760275",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q123760275",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q123760275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.907306,
           51.205707
         ]
@@ -123640,6 +123997,40 @@
         "entity": "http://www.wikidata.org/entity/Q134427740",
         "country_qid": "Q183",
         "Wikidata Qid": "Q134427740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357935054,
+          52.574633352
+        ]
+      },
+      "properties": {
+        "label": "Q123760408",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q123760408",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q123760408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38363,
+          51.315673
+        ]
+      },
+      "properties": {
+        "label": "Schlachthof Leipzig",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2237843",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q2237843"
       }
     },
     {
@@ -126809,6 +127200,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.386256,
+          51.340675
+        ]
+      },
+      "properties": {
+        "label": "F.A. Brockhaus AG",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q19446818",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q19446818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.08872939,
           49.020018165
         ]
@@ -127210,6 +127618,23 @@
         "entity": "http://www.wikidata.org/entity/Q27595385",
         "country_qid": "Q183",
         "Wikidata Qid": "Q27595385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.059,
+          47.8504
+        ]
+      },
+      "properties": {
+        "label": "Baumwollspinnerei Kolbermoor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q811650",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q811650"
       }
     },
     {
@@ -128706,6 +129131,23 @@
         "entity": "http://www.wikidata.org/entity/Q98720772",
         "country_qid": "Q183",
         "Wikidata Qid": "Q98720772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351425765,
+          52.5763803
+        ]
+      },
+      "properties": {
+        "label": "Schraubenfabrik A. Schwartzkopff",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q61769995",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q61769995"
       }
     },
     {
@@ -131059,6 +131501,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.364166154,
+          52.577834521
+        ]
+      },
+      "properties": {
+        "label": "C. L. P. Fleck Söhne",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q95588055",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q95588055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.9325,
           48.243055555
         ]
@@ -131307,6 +131766,23 @@
         "entity": "http://www.wikidata.org/entity/Q88578554",
         "country_qid": "Q183",
         "Wikidata Qid": "Q88578554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.879444444,
+          51.989694444
+        ]
+      },
+      "properties": {
+        "label": "Q87409347",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q87409347",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q87409347"
       }
     },
     {
@@ -134017,6 +134493,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.366728649,
+          51.366741108
+        ]
+      },
+      "properties": {
+        "label": "Q129652226",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q129652226",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q129652226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.068317473,
           49.42625176
         ]
@@ -134663,6 +135156,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.447611111,
+          50.710694444
+        ]
+      },
+      "properties": {
+        "label": "Reichsbahnausbesserungswerk Zwickau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111601902",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q111601902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.84317,
           51.3884
         ]
@@ -134775,6 +135285,23 @@
         "entity": "http://www.wikidata.org/entity/Q98740989",
         "country_qid": "Q183",
         "Wikidata Qid": "Q98740989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.748611111,
+          53.112222222
+        ]
+      },
+      "properties": {
+        "label": "AG Weser",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q292748",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q292748"
       }
     },
     {
@@ -135360,6 +135887,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.970258,
+          53.51435
+        ]
+      },
+      "properties": {
+        "label": "Oelkers-Werft",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q34417933",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q34417933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.4537,
           53.21784
         ]
@@ -135421,6 +135965,23 @@
         "entity": "http://www.wikidata.org/entity/Q26794418",
         "country_qid": "Q183",
         "Wikidata Qid": "Q26794418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.67720278,
+          52.17733056
+        ]
+      },
+      "properties": {
+        "label": "Shipyard Edgar Andre",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q15635042",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q15635042"
       }
     },
     {
@@ -141439,23 +142000,6 @@
         "entity": "http://www.wikidata.org/entity/Q14540868",
         "country_qid": "Q183",
         "Wikidata Qid": "Q14540868"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.08764,
-          50.91487
-        ]
-      },
-      "properties": {
-        "label": "Rimburg mills",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q14277995",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q14277995"
       }
     },
     {
@@ -151265,6 +151809,23 @@
         "entity": "http://www.wikidata.org/entity/Q18620301",
         "country_qid": "Q183",
         "Wikidata Qid": "Q18620301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385537242,
+          52.567972805
+        ]
+      },
+      "properties": {
+        "label": "Industriegebäude Kühnemannstraße 51",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111394181",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q111394181"
       }
     },
     {

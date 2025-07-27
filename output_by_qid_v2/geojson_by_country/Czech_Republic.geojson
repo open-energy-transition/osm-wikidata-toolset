@@ -88848,6 +88848,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.512261,
+          49.143368
+        ]
+      },
+      "properties": {
+        "label": "Joh. Loetz Witwe",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q997185",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q997185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.678944444,
           49.875444444
         ]
@@ -123929,6 +123946,23 @@
         "entity": "http://www.wikidata.org/entity/Q15703426",
         "country_qid": "Q213",
         "Wikidata Qid": "Q15703426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5801,
+          49.8264
+        ]
+      },
+      "properties": {
+        "label": "Morcinek coal mine in Kaczyce",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11743383",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11743383"
       }
     },
     {

@@ -1,4 +1,7 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Indonesia,Q252,http://www.wikidata.org/entity/Q7975855,Wayang Windu Geothermal Power Station,Geothermal power station,-7.2,107.625
+Indonesia,Q252,http://www.wikidata.org/entity/Q79606322,Darajat Power Station,Geothermal power station,-7.2175,107.7394
+Indonesia,Q252,http://www.wikidata.org/entity/Q11979998,Q11979998,Geothermal power station,-7.13871,107.78475
 Iceland,Q189,http://www.wikidata.org/entity/Q693330,Nesjavellir Power Station,Geothermal power station,64.108055555,-21.256388888
 Iceland,Q189,http://www.wikidata.org/entity/Q111357016,Theistareykir Power Station,Geothermal power station,65.88979,-16.96108
 Iceland,Q189,http://www.wikidata.org/entity/Q2944551,Svartsengi Power Station,Geothermal power station,63.8789,-22.4328
@@ -7,6 +10,59 @@ Iceland,Q189,http://www.wikidata.org/entity/Q2508514,Hellisheiði Power Station,
 Iceland,Q189,http://www.wikidata.org/entity/Q879338,Bjarnarflag Power Station,Geothermal power station,65.6409,-16.8569
 Iceland,Q189,http://www.wikidata.org/entity/Q2944543,Reykjanes Power Station,Geothermal power station,63.82638889,-22.68194444
 Iceland,Q189,http://www.wikidata.org/entity/Q5948950,Husavik Power station,Geothermal power station,66.02181,-17.35165
+Philippines,Q928,http://www.wikidata.org/entity/Q23048102,BacMan Geothermal Production Field,Geothermal power station,13.0601,123.92935
+Philippines,Q928,http://www.wikidata.org/entity/Q6743831,Malitbog Geothermal Power Station,Geothermal power station,11.15194444,124.64944444
+Philippines,Q928,http://www.wikidata.org/entity/Q117480284,Tiwi Geothermal Power Plant,Geothermal power station,13.465694444,123.649472222
+Philippines,Q928,http://www.wikidata.org/entity/Q118900615,Mak–Ban Geothermal Power Plant,Geothermal power station,14.091222222,121.218583333
+Philippines,Q928,http://www.wikidata.org/entity/Q19818687,Mount Apo Geothermal Power Plant,Geothermal power station,7.013,125.22
+Philippines,Q928,http://www.wikidata.org/entity/Q118901881,Palinpinon Geothermal Power Plant,Geothermal power station,9.2935,123.171694444
+Kenya,Q114,http://www.wikidata.org/entity/Q7088234,Olkaria II Geothermal Power Plant,Geothermal power station,-0.8625,36.296111111
+Kenya,Q114,http://www.wikidata.org/entity/Q59155517,Suswa Geothermal Power Station,Geothermal power station,-1.160556,36.238056
+Kenya,Q114,http://www.wikidata.org/entity/Q24236460,Menengai III Geothermal Power Station,Geothermal power station,-0.19527778,36.08166667
+Kenya,Q114,http://www.wikidata.org/entity/Q24236280,Akiira One Geothermal Power Station,Geothermal power station,-0.93333333,36.3
+Kenya,Q114,http://www.wikidata.org/entity/Q24236455,Menengai I Geothermal Power Station,Geothermal power station,-0.19305556,36.07
+Kenya,Q114,http://www.wikidata.org/entity/Q16896123,Olkaria III Geothermal Power Station,Geothermal power station,-0.888961,36.2550491
+Kenya,Q114,http://www.wikidata.org/entity/Q25387983,Olkaria IV Geothermal Power Station,Geothermal power station,-0.91805556,36.33444444
+Kenya,Q114,http://www.wikidata.org/entity/Q7088237,Olkaria I Geothermal Power Plant,Geothermal power station,-0.893333,36.3083
+Kenya,Q114,http://www.wikidata.org/entity/Q111944867,Olkaria VI Geothermal Power Station,Geothermal power station,-0.861944444,36.314444444
+Kenya,Q114,http://www.wikidata.org/entity/Q62415560,Turkana Geothermal Power Station,Geothermal power station,2.31444444,36.58194444
+Kenya,Q114,http://www.wikidata.org/entity/Q48784352,Olkaria V Geothermal Power Station,Geothermal power station,-0.90916667,36.27638889
+Kenya,Q114,http://www.wikidata.org/entity/Q24236458,Menengai II Geothermal Power Station,Geothermal power station,-0.19611111,36.06305556
+Germany,Q183,http://www.wikidata.org/entity/Q132459151,Q132459151,Geothermal power station,48.134844,11.715964
+Germany,Q183,http://www.wikidata.org/entity/Q132472274,Q132472274,Geothermal power station,48.139813888,11.406488888
+Germany,Q183,http://www.wikidata.org/entity/Q63762042,Q63762042,Geothermal power station,48.193171,11.659037
+Germany,Q183,http://www.wikidata.org/entity/Q1509586,Q1509586,Geothermal power station,48.2573,13.011
+Germany,Q183,http://www.wikidata.org/entity/Q132473051,Q132473051,Geothermal power station,48.229673,11.69713
+Germany,Q183,http://www.wikidata.org/entity/Q132473033,Q132473033,Geothermal power station,47.995979,11.726071
+Germany,Q183,http://www.wikidata.org/entity/Q132472676,Q132472676,Geothermal power station,48.020029,11.562992
+Germany,Q183,http://www.wikidata.org/entity/Q132472729,Q132472729,Geothermal power station,48.067733,11.525624
+Germany,Q183,http://www.wikidata.org/entity/Q1509591,Geothermiekraftwerk Neustadt-Glewe,Geothermal power station,53.37,11.5864
+Germany,Q183,http://www.wikidata.org/entity/Q1509594,Geothermische Heizzentrale Neubrandenburg,Geothermal power station,53.5592,13.2476
+Germany,Q183,http://www.wikidata.org/entity/Q132473440,Q132473440,Geothermal power station,49.125628,8.566836
+Germany,Q183,http://www.wikidata.org/entity/Q132472966,Q132472966,Geothermal power station,48.170086,11.735115
+Germany,Q183,http://www.wikidata.org/entity/Q17321918,Insheim Geothermal Power Station,Geothermal power station,49.153894,8.153443
+Germany,Q183,http://www.wikidata.org/entity/Q85632363,Geothermiekraftwerk Holzkirchen,Geothermal power station,47.881586,11.719462
+Germany,Q183,http://www.wikidata.org/entity/Q1486371,Landau geothermal power station,Geothermal power station,49.186388888,8.122777777
+Germany,Q183,http://www.wikidata.org/entity/Q16857508,Q16857508,Geothermal power station,48.099074,12.64535
+Germany,Q183,http://www.wikidata.org/entity/Q132472882,Q132472882,Geothermal power station,48.16735,11.79161
+Germany,Q183,http://www.wikidata.org/entity/Q132473012,Q132473012,Geothermal power station,48.098599,12.645457
+Germany,Q183,http://www.wikidata.org/entity/Q132473472,Q132473472,Geothermal power station,53.507757362,12.70158574
+Germany,Q183,http://www.wikidata.org/entity/Q132472791,Q132472791,Geothermal power station,48.027308,11.68749
+Germany,Q183,http://www.wikidata.org/entity/Q132472471,Q132472471,Geothermal power station,48.023621684,11.620968118
+Germany,Q183,http://www.wikidata.org/entity/Q1509592,Unterhaching Power station,Geothermal power station,48.0569,11.5981
+Germany,Q183,http://www.wikidata.org/entity/Q132472926,Q132472926,Geothermal power station,48.201392632,12.420364349
+Germany,Q183,http://www.wikidata.org/entity/Q132473083,Q132473083,Geothermal power station,47.972981,12.579603
+Germany,Q183,http://www.wikidata.org/entity/Q132472756,Q132472756,Geothermal power station,48.257061,11.666821
+Germany,Q183,http://www.wikidata.org/entity/Q132472342,Q132472342,Geothermal power station,47.97234941,11.668253197
+Taiwan,Q865,http://www.wikidata.org/entity/Q119518290,Sihuangziping Pilot Geothermal Power Plant,Geothermal power station,25.195444444,121.602361111
+Taiwan,Q865,http://www.wikidata.org/entity/Q60995444,Rainbow Resort Geothermal Power Plant,Geothermal power station,22.69,120.99933333
+Taiwan,Q865,http://www.wikidata.org/entity/Q118583117,Q118583117,Geothermal power station,24.546956204,121.509463957
+Taiwan,Q865,http://www.wikidata.org/entity/Q15901473,Qingshui Geothermal Power Plant,Geothermal power station,24.612305555,121.636972222
+France,Q142,http://www.wikidata.org/entity/Q132473275,Q132473275,Geothermal power station,48.930839,7.866318
+France,Q142,http://www.wikidata.org/entity/Q2944535,Geothermal power plant of Bouillante,Geothermal power station,16.127306612,-61.769074204
+Mexico,Q96,http://www.wikidata.org/entity/Q122853721,Los Humeros Geothermal Power Station,Geothermal power station,19.6714131,-97.4562514
+Mexico,Q96,http://www.wikidata.org/entity/Q3624174,Cerro Prieto Geothermal Power Station,Geothermal power station,32.4111,-115.244
+Mexico,Q96,http://www.wikidata.org/entity/Q121427626,Los Azufres Geothermal Power Station,Geothermal power station,19.790277777,-100.666305555
 Japan,Q17,http://www.wikidata.org/entity/Q11620963,Kakkonda geothermal power station,Geothermal power station,39.829121,140.864942
 Japan,Q17,http://www.wikidata.org/entity/Q11390439,Hatchobaru Geothermal Power Plant,Geothermal power station,33.10633053,131.18773448
 Japan,Q17,http://www.wikidata.org/entity/Q11540186,Mori geothermal power station,Geothermal power station,42.13369444,140.45536111
@@ -22,6 +78,11 @@ Japan,Q17,http://www.wikidata.org/entity/Q11437121,Onuma Geothermal Power Plant,
 Japan,Q17,http://www.wikidata.org/entity/Q11468308,Yamakawa Geothermal Power Plant,Geothermal power station,31.190833,130.614222
 Japan,Q17,http://www.wikidata.org/entity/Q11565792,Sumikawa geothermal power station,Geothermal power station,39.981229,140.78218
 Japan,Q17,http://www.wikidata.org/entity/Q11441820,Ogiri Geothermal Power Plant,Geothermal power station,31.930861,130.794944
+Russia,Q159,http://www.wikidata.org/entity/Q4332503,Q4332503,Geothermal power station,45.092868,147.987471
+Russia,Q159,http://www.wikidata.org/entity/Q4290374,Q4290374,Geothermal power station,43.99222222,145.7725
+Russia,Q159,http://www.wikidata.org/entity/Q4347147,Pauzhetskaya Power Station,Geothermal power station,51.46527778,156.81166667
+Russia,Q159,http://www.wikidata.org/entity/Q2219238,Mutnovskaya Power Station,Geothermal power station,52.53861111,158.20166667
+Russia,Q159,http://www.wikidata.org/entity/Q4108285,Verhne-Mutnovskaya Power Station,Geothermal power station,52.551404,158.237672
 United States,Q30,http://www.wikidata.org/entity/Q84698648,Mammoth Geothermal Complex,Geothermal power station,37.645555555,-118.911666666
 United States,Q30,http://www.wikidata.org/entity/Q106742231,Bottle Rock Power Plant,Geothermal power station,38.8349,-122.76818
 United States,Q30,http://www.wikidata.org/entity/Q133815721,TIGER,Geothermal power station,40.345676,-74.644013
@@ -95,10 +156,6 @@ United States,Q30,http://www.wikidata.org/entity/Q116713014,Geo East Mesa II,Geo
 United States,Q30,http://www.wikidata.org/entity/Q116713229,Steamboat II,Geothermal power station,39.395603,-119.7468
 United States,Q30,http://www.wikidata.org/entity/Q116712128,Desert Peak Power Plant,Geothermal power station,39.753999,-118.9535
 United States,Q30,http://www.wikidata.org/entity/Q116720071,Paisley Geothermal Generating Plant,Geothermal power station,42.695833,-120.5578
-Taiwan,Q865,http://www.wikidata.org/entity/Q119518290,Sihuangziping Pilot Geothermal Power Plant,Geothermal power station,25.195444444,121.602361111
-Taiwan,Q865,http://www.wikidata.org/entity/Q60995444,Rainbow Resort Geothermal Power Plant,Geothermal power station,22.69,120.99933333
-Taiwan,Q865,http://www.wikidata.org/entity/Q118583117,Q118583117,Geothermal power station,24.546956204,121.509463957
-Taiwan,Q865,http://www.wikidata.org/entity/Q15901473,Qingshui Geothermal Power Plant,Geothermal power station,24.612305555,121.636972222
 New Zealand,Q664,http://www.wikidata.org/entity/Q7207841,Poihipi Power Station,Geothermal power station,-38.63027778,176.04166667
 New Zealand,Q664,http://www.wikidata.org/entity/Q15379053,Mokai Power Station,Geothermal power station,-38.5306,175.926
 New Zealand,Q664,http://www.wikidata.org/entity/Q7690821,Te Huka Power Station,Geothermal power station,-38.6669,176.118
@@ -111,80 +168,23 @@ New Zealand,Q664,http://www.wikidata.org/entity/Q7370574,Rotokawa Power Station,
 New Zealand,Q664,http://www.wikidata.org/entity/Q7690882,Te Mihi Power Station,Geothermal power station,-38.619166666,176.048055555
 New Zealand,Q664,http://www.wikidata.org/entity/Q7021804,Nga Awa Purua Power Station,Geothermal power station,-38.614166666,176.184166666
 New Zealand,Q664,http://www.wikidata.org/entity/Q3434500,Wairakei Power Station,Geothermal power station,-38.6269,176.105
-Indonesia,Q252,http://www.wikidata.org/entity/Q7975855,Wayang Windu Geothermal Power Station,Geothermal power station,-7.2,107.625
-Indonesia,Q252,http://www.wikidata.org/entity/Q79606322,Darajat Power Station,Geothermal power station,-7.2175,107.7394
-Indonesia,Q252,http://www.wikidata.org/entity/Q11979998,Q11979998,Geothermal power station,-7.13871,107.78475
-Germany,Q183,http://www.wikidata.org/entity/Q132459151,Q132459151,Geothermal power station,48.134844,11.715964
-Germany,Q183,http://www.wikidata.org/entity/Q132472274,Q132472274,Geothermal power station,48.139813888,11.406488888
-Germany,Q183,http://www.wikidata.org/entity/Q63762042,Q63762042,Geothermal power station,48.193171,11.659037
-Germany,Q183,http://www.wikidata.org/entity/Q1509586,Q1509586,Geothermal power station,48.2573,13.011
-Germany,Q183,http://www.wikidata.org/entity/Q132473051,Q132473051,Geothermal power station,48.229673,11.69713
-Germany,Q183,http://www.wikidata.org/entity/Q132473033,Q132473033,Geothermal power station,47.995979,11.726071
-Germany,Q183,http://www.wikidata.org/entity/Q132472676,Q132472676,Geothermal power station,48.020029,11.562992
-Germany,Q183,http://www.wikidata.org/entity/Q132472729,Q132472729,Geothermal power station,48.067733,11.525624
-Germany,Q183,http://www.wikidata.org/entity/Q1509591,Geothermiekraftwerk Neustadt-Glewe,Geothermal power station,53.37,11.5864
-Germany,Q183,http://www.wikidata.org/entity/Q1509594,Geothermische Heizzentrale Neubrandenburg,Geothermal power station,53.5592,13.2476
-Germany,Q183,http://www.wikidata.org/entity/Q132473440,Q132473440,Geothermal power station,49.125628,8.566836
-Germany,Q183,http://www.wikidata.org/entity/Q132472966,Q132472966,Geothermal power station,48.170086,11.735115
-Germany,Q183,http://www.wikidata.org/entity/Q17321918,Insheim Geothermal Power Station,Geothermal power station,49.153894,8.153443
-Germany,Q183,http://www.wikidata.org/entity/Q85632363,Geothermiekraftwerk Holzkirchen,Geothermal power station,47.881586,11.719462
-Germany,Q183,http://www.wikidata.org/entity/Q1486371,Landau geothermal power station,Geothermal power station,49.186388888,8.122777777
-Germany,Q183,http://www.wikidata.org/entity/Q16857508,Q16857508,Geothermal power station,48.099074,12.64535
-Germany,Q183,http://www.wikidata.org/entity/Q132472882,Q132472882,Geothermal power station,48.16735,11.79161
-Germany,Q183,http://www.wikidata.org/entity/Q132473012,Q132473012,Geothermal power station,48.098599,12.645457
-Germany,Q183,http://www.wikidata.org/entity/Q132473472,Q132473472,Geothermal power station,53.507757362,12.70158574
-Germany,Q183,http://www.wikidata.org/entity/Q132472791,Q132472791,Geothermal power station,48.027308,11.68749
-Germany,Q183,http://www.wikidata.org/entity/Q132472471,Q132472471,Geothermal power station,48.023621684,11.620968118
-Germany,Q183,http://www.wikidata.org/entity/Q1509592,Unterhaching Power station,Geothermal power station,48.0569,11.5981
-Germany,Q183,http://www.wikidata.org/entity/Q132472926,Q132472926,Geothermal power station,48.201392632,12.420364349
-Germany,Q183,http://www.wikidata.org/entity/Q132473083,Q132473083,Geothermal power station,47.972981,12.579603
-Germany,Q183,http://www.wikidata.org/entity/Q132472756,Q132472756,Geothermal power station,48.257061,11.666821
-Germany,Q183,http://www.wikidata.org/entity/Q132472342,Q132472342,Geothermal power station,47.97234941,11.668253197
-Kenya,Q114,http://www.wikidata.org/entity/Q7088234,Olkaria II Geothermal Power Plant,Geothermal power station,-0.8625,36.296111111
-Kenya,Q114,http://www.wikidata.org/entity/Q59155517,Suswa Geothermal Power Station,Geothermal power station,-1.160556,36.238056
-Kenya,Q114,http://www.wikidata.org/entity/Q24236460,Menengai III Geothermal Power Station,Geothermal power station,-0.19527778,36.08166667
-Kenya,Q114,http://www.wikidata.org/entity/Q24236280,Akiira One Geothermal Power Station,Geothermal power station,-0.93333333,36.3
-Kenya,Q114,http://www.wikidata.org/entity/Q24236455,Menengai I Geothermal Power Station,Geothermal power station,-0.19305556,36.07
-Kenya,Q114,http://www.wikidata.org/entity/Q16896123,Olkaria III Geothermal Power Station,Geothermal power station,-0.888961,36.2550491
-Kenya,Q114,http://www.wikidata.org/entity/Q25387983,Olkaria IV Geothermal Power Station,Geothermal power station,-0.91805556,36.33444444
-Kenya,Q114,http://www.wikidata.org/entity/Q7088237,Olkaria I Geothermal Power Plant,Geothermal power station,-0.893333,36.3083
-Kenya,Q114,http://www.wikidata.org/entity/Q111944867,Olkaria VI Geothermal Power Station,Geothermal power station,-0.861944444,36.314444444
-Kenya,Q114,http://www.wikidata.org/entity/Q62415560,Turkana Geothermal Power Station,Geothermal power station,2.31444444,36.58194444
-Kenya,Q114,http://www.wikidata.org/entity/Q48784352,Olkaria V Geothermal Power Station,Geothermal power station,-0.90916667,36.27638889
-Kenya,Q114,http://www.wikidata.org/entity/Q24236458,Menengai II Geothermal Power Station,Geothermal power station,-0.19611111,36.06305556
-Philippines,Q928,http://www.wikidata.org/entity/Q23048102,BacMan Geothermal Production Field,Geothermal power station,13.0601,123.92935
-Philippines,Q928,http://www.wikidata.org/entity/Q6743831,Malitbog Geothermal Power Station,Geothermal power station,11.15194444,124.64944444
-Philippines,Q928,http://www.wikidata.org/entity/Q117480284,Tiwi Geothermal Power Plant,Geothermal power station,13.465694444,123.649472222
-Philippines,Q928,http://www.wikidata.org/entity/Q118900615,Mak–Ban Geothermal Power Plant,Geothermal power station,14.091222222,121.218583333
-Philippines,Q928,http://www.wikidata.org/entity/Q19818687,Mount Apo Geothermal Power Plant,Geothermal power station,7.013,125.22
-Philippines,Q928,http://www.wikidata.org/entity/Q118901881,Palinpinon Geothermal Power Plant,Geothermal power station,9.2935,123.171694444
-France,Q142,http://www.wikidata.org/entity/Q132473275,Q132473275,Geothermal power station,48.930839,7.866318
-France,Q142,http://www.wikidata.org/entity/Q2944535,Geothermal power plant of Bouillante,Geothermal power station,16.127306612,-61.769074204
-Mexico,Q96,http://www.wikidata.org/entity/Q122853721,Los Humeros Geothermal Power Station,Geothermal power station,19.6714131,-97.4562514
-Mexico,Q96,http://www.wikidata.org/entity/Q3624174,Cerro Prieto Geothermal Power Station,Geothermal power station,32.4111,-115.244
-Mexico,Q96,http://www.wikidata.org/entity/Q121427626,Los Azufres Geothermal Power Station,Geothermal power station,19.790277777,-100.666305555
-Turkey,Q43,http://www.wikidata.org/entity/Q16060094,Gümüşköy Geothermal Power Plant,Geothermal power station,37.8556,27.4633
-Turkey,Q43,http://www.wikidata.org/entity/Q16893510,Kızıldere Geothermal Power Plant,Geothermal power station,37.95,28.8431
-Russia,Q159,http://www.wikidata.org/entity/Q4332503,Q4332503,Geothermal power station,45.092868,147.987471
-Russia,Q159,http://www.wikidata.org/entity/Q4290374,Q4290374,Geothermal power station,43.99222222,145.7725
-Russia,Q159,http://www.wikidata.org/entity/Q4347147,Pauzhetskaya Power Station,Geothermal power station,51.46527778,156.81166667
-Russia,Q159,http://www.wikidata.org/entity/Q2219238,Mutnovskaya Power Station,Geothermal power station,52.53861111,158.20166667
-Russia,Q159,http://www.wikidata.org/entity/Q4108285,Verhne-Mutnovskaya Power Station,Geothermal power station,52.551404,158.237672
-Armenia,Q399,http://www.wikidata.org/entity/Q30589243,Karkar Geothermal Power Plant,Geothermal power station,39.78338889,45.941
-Switzerland,Q39,http://www.wikidata.org/entity/Q132473388,Q132473388,Geothermal power station,47.587108,7.649462
-Austria,Q40,http://www.wikidata.org/entity/Q132473336,Q132473336,Geothermal power station,48.248373621,13.229684486
-Iran,Q794,http://www.wikidata.org/entity/Q6821299,Meshkinshahr Geothermal Power Plant,Geothermal power station,38.256435,47.741256
+Italy,Q38,http://www.wikidata.org/entity/Q100705202,Larderello geothermal power plant,Geothermal power station,43.231888,10.884598
+Italy,Q38,http://www.wikidata.org/entity/Q107636622,Bagnore 3,Geothermal power station,42.841802636,11.558572546
 Ethiopia,Q115,http://www.wikidata.org/entity/Q55603750,Aluto–Langano Geothermal Power Station,Geothermal power station,7.788611,38.794722
 Ethiopia,Q115,http://www.wikidata.org/entity/Q108749762,Corbetti Geothermal Power Station,Geothermal power station,7.173888888,38.458055555
 Ethiopia,Q115,http://www.wikidata.org/entity/Q107564443,Tulu Moye Geothermal Power Station,Geothermal power station,8.161388888,39.129444444
-Chile,Q298,http://www.wikidata.org/entity/Q76762843,Cerro Pabellon Geothermal Power Plant,Geothermal power station,-21.8608,-68.1502
-Uganda,Q1036,http://www.wikidata.org/entity/Q25226994,Buranga Geothermal Power Station,Geothermal power station,0.83305556,30.16694444
-Thailand,Q869,http://www.wikidata.org/entity/Q130599993,Fang Geothermal Power Plant,Geothermal power station,19.964444444,99.155277777
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19841073,Yangbajain Geothermal Field,Geothermal power station,30.0976,90.5072
-Italy,Q38,http://www.wikidata.org/entity/Q100705202,Larderello geothermal power plant,Geothermal power station,43.231888,10.884598
-Italy,Q38,http://www.wikidata.org/entity/Q107636622,Bagnore 3,Geothermal power station,42.841802636,11.558572546
-Portugal,Q45,http://www.wikidata.org/entity/Q105725776,Campo Geotérmico da Ribeira Grande,Geothermal power station,37.778989,-25.491018
-United Kingdom,Q145,http://www.wikidata.org/entity/Q108167126,Whitetail Clean Energy,Geothermal power station,54.575,-1.127
+Turkey,Q43,http://www.wikidata.org/entity/Q16060094,Gümüşköy Geothermal Power Plant,Geothermal power station,37.8556,27.4633
+Turkey,Q43,http://www.wikidata.org/entity/Q16893510,Kızıldere Geothermal Power Plant,Geothermal power station,37.95,28.8431
+Austria,Q40,http://www.wikidata.org/entity/Q132473336,Q132473336,Geothermal power station,48.248373621,13.229684486
+Iran,Q794,http://www.wikidata.org/entity/Q6821299,Meshkinshahr Geothermal Power Plant,Geothermal power station,38.256435,47.741256
+Uganda,Q1036,http://www.wikidata.org/entity/Q25226994,Buranga Geothermal Power Station,Geothermal power station,0.83305556,30.16694444
+Armenia,Q399,http://www.wikidata.org/entity/Q30589243,Karkar Geothermal Power Plant,Geothermal power station,39.78338889,45.941
+Chile,Q298,http://www.wikidata.org/entity/Q76762843,Cerro Pabellon Geothermal Power Plant,Geothermal power station,-21.8608,-68.1502
 Lithuania,Q37,http://www.wikidata.org/entity/Q6419605,Klaipėda Geothermal Demonstration Plant,Geothermal power station,55.68388889,21.20111111
-El Salvador,Q792,http://www.wikidata.org/entity/Q85528607,Central Geotérmica Ahuachapán,Geothermal power station,13.919986111,-89.817202777
+United Kingdom,Q145,http://www.wikidata.org/entity/Q108167126,Whitetail Clean Energy,Geothermal power station,54.575,-1.127
+Switzerland,Q39,http://www.wikidata.org/entity/Q132473388,Q132473388,Geothermal power station,47.587108,7.649462
 Croatia,Q224,http://www.wikidata.org/entity/Q85516428,Q85516428,Geothermal power station,45.8558286,16.9469339
+El Salvador,Q792,http://www.wikidata.org/entity/Q85528607,Central Geotérmica Ahuachapán,Geothermal power station,13.919986111,-89.817202777
+Thailand,Q869,http://www.wikidata.org/entity/Q130599993,Fang Geothermal Power Plant,Geothermal power station,19.964444444,99.155277777
+Portugal,Q45,http://www.wikidata.org/entity/Q105725776,Campo Geotérmico da Ribeira Grande,Geothermal power station,37.778989,-25.491018

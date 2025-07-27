@@ -278,23 +278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.864818,
-          47.057349
-        ]
-      },
-      "properties": {
-        "label": "Mezon",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q132263145",
-        "country_qid": "Q217",
-        "Wikidata Qid": "Q132263145"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.463537483,
           47.617364016
         ]
@@ -509,23 +492,6 @@
         "entity": "http://www.wikidata.org/entity/Q108270758",
         "country_qid": "Q217",
         "Wikidata Qid": "Q108270758"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.2270182,
-          47.839837
-        ]
-      },
-      "properties": {
-        "label": "Stânca-Costești Dam",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q7629892",
-        "country_qid": "Q217",
-        "Wikidata Qid": "Q7629892"
       }
     },
     {

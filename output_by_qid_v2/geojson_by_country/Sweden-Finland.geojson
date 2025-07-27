@@ -23,23 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.756724138,
-          61.492977527
-        ]
-      },
-      "properties": {
-        "label": "Q78762814",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q78762814",
-        "country_qid": "Q3279296",
-        "Wikidata Qid": "Q78762814"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           24.867,
           60.268
         ]

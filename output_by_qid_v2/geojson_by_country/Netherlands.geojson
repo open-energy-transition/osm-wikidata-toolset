@@ -27954,6 +27954,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.36282,
+          52.0126
+        ]
+      },
+      "properties": {
+        "label": "De Lampetkan",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q64498158",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q64498158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.36362,
           52.0111
         ]
@@ -40619,6 +40636,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.23266,
+          48.769298
+        ]
+      },
+      "properties": {
+        "label": "Batschari",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q393125",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q393125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.992333,
           51.190447
         ]
@@ -52223,6 +52257,23 @@
         "entity": "http://www.wikidata.org/entity/Q113009692",
         "country_qid": "Q55",
         "Wikidata Qid": "Q113009692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08764,
+          50.91487
+        ]
+      },
+      "properties": {
+        "label": "Rimburg mills",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q14277995",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q14277995"
       }
     },
     {

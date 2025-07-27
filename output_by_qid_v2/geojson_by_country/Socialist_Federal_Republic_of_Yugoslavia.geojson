@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.955938,
-          45.801128
-        ]
-      },
-      "properties": {
-        "label": "Fenor",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q131199732",
-        "country_qid": "Q83286",
-        "Wikidata Qid": "Q131199732"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.161111111,
           46.083055555
         ]
