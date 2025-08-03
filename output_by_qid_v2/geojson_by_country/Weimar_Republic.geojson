@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.75221,
-          48.3966
+          8.998261571,
+          49.680256145
         ]
       },
       "properties": {
-        "label": "Lerchenfeld Bridge Gate",
-        "type": "Energy infrastructure",
-        "entity": "http://www.wikidata.org/entity/Q116181773",
+        "label": "Continental-Gelatine-Industrie",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q125869182",
         "country_qid": "Q41304",
-        "Wikidata Qid": "Q116181773"
+        "Wikidata Qid": "Q125869182"
       }
     }
   ]

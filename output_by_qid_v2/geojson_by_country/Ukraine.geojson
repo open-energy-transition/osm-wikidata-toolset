@@ -5599,6 +5599,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.5206,
+          44.6116
+        ]
+      },
+      "properties": {
+        "label": "Chernomorets design studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86685442",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q86685442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.510555555,
           47.986388888
         ]
@@ -6364,6 +6381,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.266,
+          44.974
+        ]
+      },
+      "properties": {
+        "label": "Koktebel winery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4183131",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4183131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.3410116,
           49.5064274
         ]
@@ -7054,6 +7088,23 @@
         "entity": "http://www.wikidata.org/entity/Q131868211",
         "country_qid": "Q212",
         "Wikidata Qid": "Q131868211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.513333333,
+          50.407777777
+        ]
+      },
+      "properties": {
+        "label": "Q112720425",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q112720425",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q112720425"
       }
     },
     {
