@@ -499,23 +499,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.2270182,
-          47.839837
-        ]
-      },
-      "properties": {
-        "label": "Stânca-Costești Dam",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q7629892",
-        "country_qid": "Q217",
-        "Wikidata Qid": "Q7629892"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.932457371,
           47.891165994
         ]

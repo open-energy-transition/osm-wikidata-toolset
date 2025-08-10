@@ -1,14 +1,7 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Australia,Q408,http://www.wikidata.org/entity/Q98399618,Bulwer Island oil refinery,Oil refinery,-27.4034,153.134449
-Australia,Q408,http://www.wikidata.org/entity/Q6450451,Kwinana Oil Refinery,Oil refinery,-32.2295,115.765
-Australia,Q408,http://www.wikidata.org/entity/Q77023721,Altona oil refinery,Oil refinery,-37.85,144.85
-Australia,Q408,http://www.wikidata.org/entity/Q7230956,Port Stanvac Refinery,Oil refinery,-35.110204,138.471234
-Australia,Q408,http://www.wikidata.org/entity/Q77023949,Lytton oil refinery,Oil refinery,-27.415,153.157
-Australia,Q408,http://www.wikidata.org/entity/Q106019141,Matraville Refinery,Oil refinery,-33.971,151.233
-Australia,Q408,http://www.wikidata.org/entity/Q106159442,Eromanga Refinery,Oil refinery,-26.668,143.273
-Australia,Q408,http://www.wikidata.org/entity/Q6446212,Kurnell Refinery,Oil refinery,-34.0173,151.2164
-Australia,Q408,http://www.wikidata.org/entity/Q105988813,Westernport Refinery,Oil refinery,-38.349,145.213
-Australia,Q408,http://www.wikidata.org/entity/Q77024153,Geelong oil refinery,Oil refinery,-38.0777744,144.3821741
+Saudi Arabia,Q851,http://www.wikidata.org/entity/Q16510565,Ras Tanura Refinery,Oil refinery,26.6919,50.1079
+Italy,Q38,http://www.wikidata.org/entity/Q16594322,Livorno refinery,Oil refinery,43.584777,10.34338
+Italy,Q38,http://www.wikidata.org/entity/Q125083346,Q125083346,Oil refinery,37.213350198,15.173095232
 Germany,Q183,http://www.wikidata.org/entity/Q15125781,Burghausen refinery,Oil refinery,48.1938,12.8392
 Germany,Q183,http://www.wikidata.org/entity/Q15107079,Eurotank,Oil refinery,53.53388889,9.89666667
 Germany,Q183,http://www.wikidata.org/entity/Q53513418,Gasolin-Raffinerie Dollbergen,Oil refinery,52.418333333,10.180277777
@@ -27,6 +20,15 @@ Germany,Q183,http://www.wikidata.org/entity/Q117813125,Q117813125,Oil refinery,4
 Germany,Q183,http://www.wikidata.org/entity/Q1782213,Raffinerie Salzbergen,Oil refinery,52.317,7.3478
 Germany,Q183,http://www.wikidata.org/entity/Q15110396,Q15110396,Oil refinery,49.52472222,8.44444444
 Germany,Q183,http://www.wikidata.org/entity/Q1761694,MiRO,Oil refinery,49.059317,8.329647
+Spain,Q29,http://www.wikidata.org/entity/Q19826580,Complex Petroquímic de Tarragona,Oil refinery,41.102141,1.22514
+Spain,Q29,http://www.wikidata.org/entity/Q5790595,Gibraltar-San Roque Refinery,Oil refinery,36.1858,-5.39897
+Spain,Q29,http://www.wikidata.org/entity/Q107392586,Escombreras oil refinery,Oil refinery,37.572855082,-0.923484268
+Spain,Q29,http://www.wikidata.org/entity/Q97627632,La Rábida oil refinery,Oil refinery,37.185631601,-6.898670095
+Spain,Q29,http://www.wikidata.org/entity/Q25905848,Oil refinery of Muskiz,Oil refinery,43.32767222,-3.10870556
+Spain,Q29,http://www.wikidata.org/entity/Q12398795,A Coruña oil refinery,Oil refinery,43.351206705,-8.440411746
+Spain,Q29,http://www.wikidata.org/entity/Q3929289,Refinería de Santa Cruz de Tenerife,Oil refinery,28.45277778,-16.26472222
+Spain,Q29,http://www.wikidata.org/entity/Q87069547,Q87069547,Oil refinery,38.354502,-0.465347
+Spain,Q29,http://www.wikidata.org/entity/Q6103453,Puertollano Refinery,Oil refinery,38.671432948,-4.053828267
 United States,Q30,http://www.wikidata.org/entity/Q19605583,Laurel Refinery,Oil refinery,45.6597,-108.766
 United States,Q30,http://www.wikidata.org/entity/Q4911959,Billings Refinery,Oil refinery,45.7803,-108.49
 United States,Q30,http://www.wikidata.org/entity/Q4874965,Baytown Refinery,Oil refinery,29.739,-95.0106
@@ -65,35 +67,6 @@ United States,Q30,http://www.wikidata.org/entity/Q124672559,Big Spring Refinery,
 United States,Q30,http://www.wikidata.org/entity/Q24259683,Trainer Refinery,Oil refinery,39.82222222,-75.40444444
 United States,Q30,http://www.wikidata.org/entity/Q22022474,Ferndale Refinery,Oil refinery,48.8304,-122.6943
 United States,Q30,http://www.wikidata.org/entity/Q7230873,Port Reading Refinery,Oil refinery,40.564,-74.249
-India,Q668,http://www.wikidata.org/entity/Q6935320,Mumbai Refinery Mahul,Oil refinery,19.011939,72.860086
-India,Q668,http://www.wikidata.org/entity/Q5275564,Digboi Refinery,Oil refinery,27.39083333,95.61861111
-India,Q668,http://www.wikidata.org/entity/Q7134170,Paradip Refinery,Oil refinery,20.247638888,86.598194444
-India,Q668,http://www.wikidata.org/entity/Q5620369,Guru Gobind Singh Refinery,Oil refinery,30.23,74.951944444
-India,Q668,http://www.wikidata.org/entity/Q113987261,Manali Refinery,Oil refinery,13.160444444,80.277527777
-India,Q668,http://www.wikidata.org/entity/Q17018647,Bina Refinery,Oil refinery,24.2515,78.1587
-India,Q668,http://www.wikidata.org/entity/Q4858511,Barauni Refinery,Oil refinery,25.466,85.987
-India,Q668,http://www.wikidata.org/entity/Q5641276,Haldia Refinery,Oil refinery,22.03333333,88.13333333
-India,Q668,http://www.wikidata.org/entity/Q4941822,Bongaigaon Refinery,Oil refinery,26.51583333,90.53166667
-India,Q668,http://www.wikidata.org/entity/Q12417189,Essar Refinery,Oil refinery,22.33166667,69.74722222
-India,Q668,http://www.wikidata.org/entity/Q61268627,Pachpadra Refinery,Oil refinery,25.94364,72.203672
-India,Q668,http://www.wikidata.org/entity/Q7131186,Panipat Refinery,Oil refinery,29.470944444,76.87225
-India,Q668,http://www.wikidata.org/entity/Q15982506,Mathura Refinery,Oil refinery,27.378305555,77.686444444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6552903,Lindsey Oil Refinery,Oil refinery,53.64063,-0.25782
-United Kingdom,Q145,http://www.wikidata.org/entity/Q60753152,Occidental Refinery,Oil refinery,51.523,0.5353
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5617512,Gulf Refinery,Oil refinery,51.705,-4.992
-United Kingdom,Q145,http://www.wikidata.org/entity/Q104844874,Heysham Refinery,Oil refinery,54.024166666,-2.886944444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7694579,Teesside Refinery,Oil refinery,54.6338,-1.2189
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5399947,Esso Refinery,Oil refinery,51.713888888,-5.077777777
-United Kingdom,Q145,http://www.wikidata.org/entity/Q29625285,Kent Refinery,Oil refinery,51.45,0.689
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7600090,Stanlow Oil Refinery,Oil refinery,53.2728,-2.84
-United Kingdom,Q145,http://www.wikidata.org/entity/Q2127138,Coryton Refinery,Oil refinery,51.5134,0.51869
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5438770,Fawley Refinery,Oil refinery,50.833,-1.365
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5939818,Humber Refinery,Oil refinery,53.633,-0.252
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5595715,Grangemouth Refinery,Oil refinery,56.018,-3.698
-United Kingdom,Q145,http://www.wikidata.org/entity/Q125291,Shell Haven,Oil refinery,51.5052,0.4902
-United Kingdom,Q145,http://www.wikidata.org/entity/Q27957412,Llandarcy oil refinery,Oil refinery,51.646,-3.863
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7161972,Pembroke Refinery,Oil refinery,51.686,-5.029
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15253387,Milford Haven Refinery,Oil refinery,51.735,-5.06555556
 Japan,Q17,http://www.wikidata.org/entity/Q11226747,Ohita Refinery,Oil refinery,33.26647222,131.68947222
 Japan,Q17,http://www.wikidata.org/entity/Q16826197,Hokkaido Refinery,Oil refinery,42.6329406,141.6567966
 Japan,Q17,http://www.wikidata.org/entity/Q11528049,Wakayama Refinery,Oil refinery,34.10519444,135.12038889
@@ -113,6 +86,50 @@ Canada,Q16,http://www.wikidata.org/entity/Q6906318,Montreal Refinery,Oil refiner
 Canada,Q16,http://www.wikidata.org/entity/Q130782325,Sarnia Refinery - Sunoco & Suncor,Oil refinery,42.931323,-82.439921
 Canada,Q16,http://www.wikidata.org/entity/Q5949397,Husky Lloydminster Refinery,Oil refinery,53.2896,-110.0197
 Canada,Q16,http://www.wikidata.org/entity/Q23706051,Turner Valley Gas Plant,Oil refinery,50.671279,-114.269228
+Australia,Q408,http://www.wikidata.org/entity/Q98399618,Bulwer Island oil refinery,Oil refinery,-27.4034,153.134449
+Australia,Q408,http://www.wikidata.org/entity/Q6450451,Kwinana Oil Refinery,Oil refinery,-32.2295,115.765
+Australia,Q408,http://www.wikidata.org/entity/Q77023721,Altona oil refinery,Oil refinery,-37.85,144.85
+Australia,Q408,http://www.wikidata.org/entity/Q7230956,Port Stanvac Refinery,Oil refinery,-35.110204,138.471234
+Australia,Q408,http://www.wikidata.org/entity/Q77023949,Lytton oil refinery,Oil refinery,-27.415,153.157
+Australia,Q408,http://www.wikidata.org/entity/Q106019141,Matraville Refinery,Oil refinery,-33.971,151.233
+Australia,Q408,http://www.wikidata.org/entity/Q106159442,Eromanga Refinery,Oil refinery,-26.668,143.273
+Australia,Q408,http://www.wikidata.org/entity/Q6446212,Kurnell Refinery,Oil refinery,-34.0173,151.2164
+Australia,Q408,http://www.wikidata.org/entity/Q105988813,Westernport Refinery,Oil refinery,-38.349,145.213
+Australia,Q408,http://www.wikidata.org/entity/Q77024153,Geelong oil refinery,Oil refinery,-38.0777744,144.3821741
+India,Q668,http://www.wikidata.org/entity/Q6935320,Mumbai Refinery Mahul,Oil refinery,19.011939,72.860086
+India,Q668,http://www.wikidata.org/entity/Q5275564,Digboi Refinery,Oil refinery,27.39083333,95.61861111
+India,Q668,http://www.wikidata.org/entity/Q7134170,Paradip Refinery,Oil refinery,20.247638888,86.598194444
+India,Q668,http://www.wikidata.org/entity/Q5620369,Guru Gobind Singh Refinery,Oil refinery,30.23,74.951944444
+India,Q668,http://www.wikidata.org/entity/Q113987261,Manali Refinery,Oil refinery,13.160444444,80.277527777
+India,Q668,http://www.wikidata.org/entity/Q17018647,Bina Refinery,Oil refinery,24.2515,78.1587
+India,Q668,http://www.wikidata.org/entity/Q4858511,Barauni Refinery,Oil refinery,25.466,85.987
+India,Q668,http://www.wikidata.org/entity/Q5641276,Haldia Refinery,Oil refinery,22.03333333,88.13333333
+India,Q668,http://www.wikidata.org/entity/Q4941822,Bongaigaon Refinery,Oil refinery,26.51583333,90.53166667
+India,Q668,http://www.wikidata.org/entity/Q12417189,Essar Refinery,Oil refinery,22.33166667,69.74722222
+India,Q668,http://www.wikidata.org/entity/Q61268627,Pachpadra Refinery,Oil refinery,25.94364,72.203672
+India,Q668,http://www.wikidata.org/entity/Q7131186,Panipat Refinery,Oil refinery,29.470944444,76.87225
+India,Q668,http://www.wikidata.org/entity/Q15982506,Mathura Refinery,Oil refinery,27.378305555,77.686444444
+Mexico,Q96,http://www.wikidata.org/entity/Q98833946,Tula Refinery,Oil refinery,20.0487427,-99.2719035
+Mexico,Q96,http://www.wikidata.org/entity/Q96192296,Refinería Lázaro Cárdenas del Río,Oil refinery,18.016944444,-94.551111111
+Mexico,Q96,http://www.wikidata.org/entity/Q107051202,Dos Bocas Refinery,Oil refinery,18.422002986,-93.190859049
+Mexico,Q96,http://www.wikidata.org/entity/Q38214236,Francisco I. Madero Refinery,Oil refinery,22.27027778,-97.80638889
+Mexico,Q96,http://www.wikidata.org/entity/Q107365152,Ing. Antonio M. Amor Refinery,Oil refinery,20.573931111,-101.195716944
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6552903,Lindsey Oil Refinery,Oil refinery,53.64063,-0.25782
+United Kingdom,Q145,http://www.wikidata.org/entity/Q60753152,Occidental Refinery,Oil refinery,51.523,0.5353
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5617512,Gulf Refinery,Oil refinery,51.705,-4.992
+United Kingdom,Q145,http://www.wikidata.org/entity/Q104844874,Heysham Refinery,Oil refinery,54.024166666,-2.886944444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7694579,Teesside Refinery,Oil refinery,54.6338,-1.2189
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5399947,Esso Refinery,Oil refinery,51.713888888,-5.077777777
+United Kingdom,Q145,http://www.wikidata.org/entity/Q29625285,Kent Refinery,Oil refinery,51.45,0.689
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7600090,Stanlow Oil Refinery,Oil refinery,53.2728,-2.84
+United Kingdom,Q145,http://www.wikidata.org/entity/Q2127138,Coryton Refinery,Oil refinery,51.5134,0.51869
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5438770,Fawley Refinery,Oil refinery,50.833,-1.365
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5939818,Humber Refinery,Oil refinery,53.633,-0.252
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5595715,Grangemouth Refinery,Oil refinery,56.018,-3.698
+United Kingdom,Q145,http://www.wikidata.org/entity/Q125291,Shell Haven,Oil refinery,51.5052,0.4902
+United Kingdom,Q145,http://www.wikidata.org/entity/Q27957412,Llandarcy oil refinery,Oil refinery,51.646,-3.863
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7161972,Pembroke Refinery,Oil refinery,51.686,-5.029
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15253387,Milford Haven Refinery,Oil refinery,51.735,-5.06555556
 Russia,Q159,http://www.wikidata.org/entity/Q654845,Ufaneftekhim,Oil refinery,54.933333333,56.066666666
 Russia,Q159,http://www.wikidata.org/entity/Q104857611,JSC Antipinsky Refinery,Oil refinery,57.100027777,65.758722222
 Russia,Q159,http://www.wikidata.org/entity/Q16829348,Chernigov Refinery,Oil refinery,55.6125,86.145
@@ -123,46 +140,6 @@ Russia,Q159,http://www.wikidata.org/entity/Q108817949,Volgograd Refinery,Oil ref
 Russia,Q159,http://www.wikidata.org/entity/Q4408468,Saratov Oil Refinery,Oil refinery,51.45055556,45.94388889
 Russia,Q159,http://www.wikidata.org/entity/Q112960406,Afipsky refinery,Oil refinery,44.881666666,38.821944444
 Russia,Q159,http://www.wikidata.org/entity/Q4337084,Orsk Oil Refinery,Oil refinery,51.247733,58.514986
-Italy,Q38,http://www.wikidata.org/entity/Q16594322,Livorno refinery,Oil refinery,43.584777,10.34338
-Italy,Q38,http://www.wikidata.org/entity/Q125083346,Q125083346,Oil refinery,37.213350198,15.173095232
-France,Q142,http://www.wikidata.org/entity/Q3417396,Normandy Refinery,Oil refinery,49.4858,0.23509
-France,Q142,http://www.wikidata.org/entity/Q3417401,Q3417401,Oil refinery,51.019069,2.259994
-France,Q142,http://www.wikidata.org/entity/Q3417399,Raffinerie de Port-Jérôme-Gravenchon,Oil refinery,49.4766,0.55099
-France,Q142,http://www.wikidata.org/entity/Q3417393,Lavéra Refinery,Oil refinery,43.3887,4.99736
-France,Q142,http://www.wikidata.org/entity/Q3417389,Raffinerie de Feyzin,Oil refinery,45.6719,4.84306
-France,Q142,http://www.wikidata.org/entity/Q585061,Q585061,Oil refinery,43.445,4.92722222
-France,Q142,http://www.wikidata.org/entity/Q3417391,Oil refinerie of Grandpuits,Oil refinery,48.5888,2.94753
-France,Q142,http://www.wikidata.org/entity/Q126927706,Bordeaux Refinery,Oil refinery,45.012222222,-0.529166666
-Spain,Q29,http://www.wikidata.org/entity/Q19826580,Complex Petroquímic de Tarragona,Oil refinery,41.102141,1.22514
-Spain,Q29,http://www.wikidata.org/entity/Q5790595,Gibraltar-San Roque Refinery,Oil refinery,36.1858,-5.39897
-Spain,Q29,http://www.wikidata.org/entity/Q107392586,Escombreras oil refinery,Oil refinery,37.572855082,-0.923484268
-Spain,Q29,http://www.wikidata.org/entity/Q97627632,La Rábida oil refinery,Oil refinery,37.185631601,-6.898670095
-Spain,Q29,http://www.wikidata.org/entity/Q25905848,Oil refinery of Muskiz,Oil refinery,43.32767222,-3.10870556
-Spain,Q29,http://www.wikidata.org/entity/Q12398795,A Coruña oil refinery,Oil refinery,43.351206705,-8.440411746
-Spain,Q29,http://www.wikidata.org/entity/Q3929289,Refinería de Santa Cruz de Tenerife,Oil refinery,28.45277778,-16.26472222
-Spain,Q29,http://www.wikidata.org/entity/Q87069547,Q87069547,Oil refinery,38.354502,-0.465347
-Spain,Q29,http://www.wikidata.org/entity/Q6103453,Puertollano Refinery,Oil refinery,38.671432948,-4.053828267
-Saudi Arabia,Q851,http://www.wikidata.org/entity/Q16510565,Ras Tanura Refinery,Oil refinery,26.6919,50.1079
-Netherlands,Q55,http://www.wikidata.org/entity/Q2569045,Esso refinery in Botlek,Oil refinery,51.870556,4.300833
-Netherlands,Q55,http://www.wikidata.org/entity/Q2035024,Shell Pernis,Oil refinery,51.876281,4.346191
-Netherlands,Q55,http://www.wikidata.org/entity/Q14525812,Zeeland Refinery,Oil refinery,51.444951,3.7304163
-Netherlands,Q55,http://www.wikidata.org/entity/Q2935831,BP Europoort,Oil refinery,51.946363888,4.105152777
-Iraq,Q796,http://www.wikidata.org/entity/Q28936282,Power Plant in Dora,Oil refinery,33.27527778,44.4275
-Iraq,Q796,http://www.wikidata.org/entity/Q17991536,Baiji oil refinery,Oil refinery,35.01156,43.49431
-Mexico,Q96,http://www.wikidata.org/entity/Q98833946,Tula Refinery,Oil refinery,20.0487427,-99.2719035
-Mexico,Q96,http://www.wikidata.org/entity/Q96192296,Refinería Lázaro Cárdenas del Río,Oil refinery,18.016944444,-94.551111111
-Mexico,Q96,http://www.wikidata.org/entity/Q107051202,Dos Bocas Refinery,Oil refinery,18.422002986,-93.190859049
-Mexico,Q96,http://www.wikidata.org/entity/Q38214236,Francisco I. Madero Refinery,Oil refinery,22.27027778,-97.80638889
-Mexico,Q96,http://www.wikidata.org/entity/Q107365152,Ing. Antonio M. Amor Refinery,Oil refinery,20.573931111,-101.195716944
-Romania,Q218,http://www.wikidata.org/entity/Q18547291,Dărmănești oil refinery,Oil refinery,46.360094444,26.442847222
-Romania,Q218,http://www.wikidata.org/entity/Q4795740,Arpechim Refinery,Oil refinery,44.8,24.93
-Syria,Q858,http://www.wikidata.org/entity/Q114316894,Baniyas Refinery,Oil refinery,35.21891,35.96786
-Syria,Q858,http://www.wikidata.org/entity/Q12243474,Homs Petroleum Refinery,Oil refinery,34.71738,36.63893
-Syria,Q858,http://www.wikidata.org/entity/Q12243472,Baniyas Refinery,Oil refinery,35.216944444,35.959444444
-Iran,Q794,http://www.wikidata.org/entity/Q4118481,Abadan Refinery,Oil refinery,30.345972222,48.274805555
-Iran,Q794,http://www.wikidata.org/entity/Q97165770,Shazand Refinery,Oil refinery,34.003333333,49.476111111
-Iran,Q794,http://www.wikidata.org/entity/Q5699698,Kermanshah Refinery,Oil refinery,34.351944444,47.103055555
-Iran,Q794,http://www.wikidata.org/entity/Q5715313,Tehran Refinery,Oil refinery,35.54,51.425833333
 Brazil,Q155,http://www.wikidata.org/entity/Q10358466,Q10358466,Oil refinery,-5.127772,-36.380399
 Brazil,Q155,http://www.wikidata.org/entity/Q18478356,Rio de Janeiro Petrochemical Complex,Oil refinery,-22.6708,-42.8467
 Brazil,Q155,http://www.wikidata.org/entity/Q10358469,Refinaria Presidente Getúlio Vargas,Oil refinery,-25.568275,-49.36428611
@@ -178,76 +155,99 @@ Brazil,Q155,http://www.wikidata.org/entity/Q10358467,Refinaria Presidente Bernar
 Brazil,Q155,http://www.wikidata.org/entity/Q10358472,Refinaria de Manguinhos,Oil refinery,-22.8856646,-43.2352214
 Brazil,Q155,http://www.wikidata.org/entity/Q10358470,Refinaria de Capuava,Oil refinery,-23.6563206,-46.4816901
 Brazil,Q155,http://www.wikidata.org/entity/Q10358458,Abreu e Lima Refinery,Oil refinery,-8.376852321,-35.008370565
-South Africa,Q258,http://www.wikidata.org/entity/Q131757270,Sapref oil refinery,Oil refinery,-29.97174,30.96612
-South Africa,Q258,http://www.wikidata.org/entity/Q121308044,Engen refinery,Oil refinery,-29.9491,30.98419
-South Africa,Q258,http://www.wikidata.org/entity/Q2369624,Secunda CTL,Oil refinery,-26.553694444,29.16575
-Venezuela,Q717,http://www.wikidata.org/entity/Q2219131,Paraguaná Refinery Complex,Oil refinery,11.74666667,-70.195
-Venezuela,Q717,http://www.wikidata.org/entity/Q6103449,Puerto la Cruz refinery,Oil refinery,10.2219,-64.6204
-Venezuela,Q717,http://www.wikidata.org/entity/Q5779930,Amuay refinery,Oil refinery,11.74666667,-70.195
-Venezuela,Q717,http://www.wikidata.org/entity/Q5779953,El Palito oil refinery,Oil refinery,10.4825,-68.118611111
-Denmark,Q35,http://www.wikidata.org/entity/Q12335113,Crossbridge Energy,Oil refinery,55.592,9.75165
-Denmark,Q35,http://www.wikidata.org/entity/Q12336918,Kalundborg Refinery,Oil refinery,55.655,11.096944444
-Austria,Q40,http://www.wikidata.org/entity/Q1781733,Oil refinery Vösendorf,Oil refinery,48.123548,16.315861
-Austria,Q40,http://www.wikidata.org/entity/Q20740205,OMV Oil refinery Schwechat,Oil refinery,48.145387,16.4983
-Austria,Q40,http://www.wikidata.org/entity/Q2127134,Q2127134,Oil refinery,48.2611,16.4079
-Poland,Q36,http://www.wikidata.org/entity/Q5529384,Gdańsk refinery,Oil refinery,54.347,18.736
-Poland,Q36,http://www.wikidata.org/entity/Q65976364,Gdańsk refinery,Oil refinery,54.346477777,18.739591666
-Poland,Q36,http://www.wikidata.org/entity/Q7265108,Płock refinery,Oil refinery,52.5858,19.6839
-Vietnam,Q881,http://www.wikidata.org/entity/Q7022321,Nghi Son Refinery,Oil refinery,19.34222222,105.79777778
-Vietnam,Q881,http://www.wikidata.org/entity/Q3041307,Dung Quat refinery,Oil refinery,15.3525,108.82972222
-Peru,Q419,http://www.wikidata.org/entity/Q20024814,La Pampilla Refinery,Oil refinery,-11.920593,-77.133465
-Peru,Q419,http://www.wikidata.org/entity/Q19950531,Refinery of Talara,Oil refinery,-4.583962,-81.282294
-Taiwan,Q865,http://www.wikidata.org/entity/Q16928890,Dalin Refinery,Oil refinery,22.529388888,120.347361111
-Taiwan,Q865,http://www.wikidata.org/entity/Q7215612,Mailiao Refinery,Oil refinery,23.792333333,120.194888888
-Taiwan,Q865,http://www.wikidata.org/entity/Q17028074,Taoyuan oil refinery,Oil refinery,25.0334,121.308
-Taiwan,Q865,http://www.wikidata.org/entity/Q15909831,Kaohsiung Refinery,Oil refinery,22.704435912,120.303683577
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q111976857,Total Refinery Mitteldeutschland,Oil refinery,51.285,12.0
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q14524622,PCK refinery,Oil refinery,53.1,14.24
-Hungary,Q28,http://www.wikidata.org/entity/Q118453851,Q118453851,Oil refinery,47.89235,21.02869
-Algeria,Q262,http://www.wikidata.org/entity/Q56033648,Skikda  Refinery,Oil refinery,36.874403,6.976233
-Algeria,Q262,http://www.wikidata.org/entity/Q56053961,Algiers Refinery,Oil refinery,36.675873,3.116303
-Algeria,Q262,http://www.wikidata.org/entity/Q3417377,Adrar Refinery,Oil refinery,28.2074,-0.155568
-Algeria,Q262,http://www.wikidata.org/entity/Q3417379,Arzew Refinery,Oil refinery,35.8129,-0.261912
+France,Q142,http://www.wikidata.org/entity/Q3417396,Normandy Refinery,Oil refinery,49.4858,0.23509
+France,Q142,http://www.wikidata.org/entity/Q3417401,Q3417401,Oil refinery,51.019069,2.259994
+France,Q142,http://www.wikidata.org/entity/Q3417399,Raffinerie de Port-Jérôme-Gravenchon,Oil refinery,49.4766,0.55099
+France,Q142,http://www.wikidata.org/entity/Q3417393,Lavéra Refinery,Oil refinery,43.3887,4.99736
+France,Q142,http://www.wikidata.org/entity/Q3417389,Raffinerie de Feyzin,Oil refinery,45.6719,4.84306
+France,Q142,http://www.wikidata.org/entity/Q585061,Q585061,Oil refinery,43.445,4.92722222
+France,Q142,http://www.wikidata.org/entity/Q3417391,Oil refinerie of Grandpuits,Oil refinery,48.5888,2.94753
+France,Q142,http://www.wikidata.org/entity/Q126927706,Bordeaux Refinery,Oil refinery,45.012222222,-0.529166666
+Iraq,Q796,http://www.wikidata.org/entity/Q28936282,Power Plant in Dora,Oil refinery,33.27527778,44.4275
+Iraq,Q796,http://www.wikidata.org/entity/Q17991536,Baiji oil refinery,Oil refinery,35.01156,43.49431
+Netherlands,Q55,http://www.wikidata.org/entity/Q2569045,Esso refinery in Botlek,Oil refinery,51.870556,4.300833
+Netherlands,Q55,http://www.wikidata.org/entity/Q2035024,Shell Pernis,Oil refinery,51.876281,4.346191
+Netherlands,Q55,http://www.wikidata.org/entity/Q14525812,Zeeland Refinery,Oil refinery,51.444951,3.7304163
+Netherlands,Q55,http://www.wikidata.org/entity/Q2935831,BP Europoort,Oil refinery,51.946363888,4.105152777
 Turkey,Q43,http://www.wikidata.org/entity/Q6017970,Tüpraş İzmit Oil Refinery,Oil refinery,40.75,29.766666666
 Turkey,Q43,http://www.wikidata.org/entity/Q6013148,Tüpraş İzmir Oil Refinery,Oil refinery,38.805,26.940555555
 Turkey,Q43,http://www.wikidata.org/entity/Q5992824,STAR Refinery,Oil refinery,38.8,26.930555555
 Turkey,Q43,http://www.wikidata.org/entity/Q25472342,Tüpraş Batman Oil Refinery,Oil refinery,37.88138889,41.14277778
 Turkey,Q43,http://www.wikidata.org/entity/Q48815547,Tüpraş Kırıkkale Oil Refinery,Oil refinery,39.752981,33.463819
-Bulgaria,Q219,http://www.wikidata.org/entity/Q901440,LUKOIL Neftochim Burgas,Oil refinery,42.54555556,27.33333333
-Bulgaria,Q219,http://www.wikidata.org/entity/Q55240813,Plama Pleven Oil Refinery,Oil refinery,43.401209,24.489544
+Romania,Q218,http://www.wikidata.org/entity/Q18547291,Dărmănești oil refinery,Oil refinery,46.360094444,26.442847222
+Romania,Q218,http://www.wikidata.org/entity/Q4795740,Arpechim Refinery,Oil refinery,44.8,24.93
+Syria,Q858,http://www.wikidata.org/entity/Q114316894,Baniyas Refinery,Oil refinery,35.21891,35.96786
+Syria,Q858,http://www.wikidata.org/entity/Q12243474,Homs Petroleum Refinery,Oil refinery,34.71738,36.63893
+Syria,Q858,http://www.wikidata.org/entity/Q12243472,Baniyas Refinery,Oil refinery,35.216944444,35.959444444
+Iran,Q794,http://www.wikidata.org/entity/Q4118481,Abadan Refinery,Oil refinery,30.345972222,48.274805555
+Iran,Q794,http://www.wikidata.org/entity/Q97165770,Shazand Refinery,Oil refinery,34.003333333,49.476111111
+Iran,Q794,http://www.wikidata.org/entity/Q5699698,Kermanshah Refinery,Oil refinery,34.351944444,47.103055555
+Iran,Q794,http://www.wikidata.org/entity/Q5715313,Tehran Refinery,Oil refinery,35.54,51.425833333
+Denmark,Q35,http://www.wikidata.org/entity/Q12335113,Crossbridge Energy,Oil refinery,55.592,9.75165
+Denmark,Q35,http://www.wikidata.org/entity/Q12336918,Kalundborg Refinery,Oil refinery,55.655,11.096944444
+South Africa,Q258,http://www.wikidata.org/entity/Q131757270,Sapref oil refinery,Oil refinery,-29.97174,30.96612
+South Africa,Q258,http://www.wikidata.org/entity/Q121308044,Engen refinery,Oil refinery,-29.9491,30.98419
+South Africa,Q258,http://www.wikidata.org/entity/Q2369624,Secunda CTL,Oil refinery,-26.553694444,29.16575
+Poland,Q36,http://www.wikidata.org/entity/Q5529384,Gdańsk refinery,Oil refinery,54.347,18.736
+Poland,Q36,http://www.wikidata.org/entity/Q65976364,Gdańsk refinery,Oil refinery,54.346477777,18.739591666
+Poland,Q36,http://www.wikidata.org/entity/Q7265108,Płock refinery,Oil refinery,52.5858,19.6839
+Taiwan,Q865,http://www.wikidata.org/entity/Q16928890,Dalin Refinery,Oil refinery,22.529388888,120.347361111
+Taiwan,Q865,http://www.wikidata.org/entity/Q7215612,Mailiao Refinery,Oil refinery,23.792333333,120.194888888
+Taiwan,Q865,http://www.wikidata.org/entity/Q17028074,Taoyuan oil refinery,Oil refinery,25.0334,121.308
+Taiwan,Q865,http://www.wikidata.org/entity/Q15909831,Kaohsiung Refinery,Oil refinery,22.704435912,120.303683577
+Algeria,Q262,http://www.wikidata.org/entity/Q56033648,Skikda  Refinery,Oil refinery,36.874403,6.976233
+Algeria,Q262,http://www.wikidata.org/entity/Q56053961,Algiers Refinery,Oil refinery,36.675873,3.116303
+Algeria,Q262,http://www.wikidata.org/entity/Q3417377,Adrar Refinery,Oil refinery,28.2074,-0.155568
+Algeria,Q262,http://www.wikidata.org/entity/Q3417379,Arzew Refinery,Oil refinery,35.8129,-0.261912
+Vietnam,Q881,http://www.wikidata.org/entity/Q7022321,Nghi Son Refinery,Oil refinery,19.34222222,105.79777778
+Vietnam,Q881,http://www.wikidata.org/entity/Q3041307,Dung Quat refinery,Oil refinery,15.3525,108.82972222
+Austria,Q40,http://www.wikidata.org/entity/Q1781733,Oil refinery Vösendorf,Oil refinery,48.123548,16.315861
+Austria,Q40,http://www.wikidata.org/entity/Q20740205,OMV Oil refinery Schwechat,Oil refinery,48.145387,16.4983
+Austria,Q40,http://www.wikidata.org/entity/Q2127134,Q2127134,Oil refinery,48.2611,16.4079
+Finland,Q33,http://www.wikidata.org/entity/Q18660939,Naantali refinery,Oil refinery,60.44725,22.09144444
+Finland,Q33,http://www.wikidata.org/entity/Q18689092,Porvoo refinery,Oil refinery,60.31416667,25.525
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q111976857,Total Refinery Mitteldeutschland,Oil refinery,51.285,12.0
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q14524622,PCK refinery,Oil refinery,53.1,14.24
 United Arab Emirates,Q878,http://www.wikidata.org/entity/Q39049731,Ruwais Refinery,Oil refinery,24.106288,52.727833
+Venezuela,Q717,http://www.wikidata.org/entity/Q2219131,Paraguaná Refinery Complex,Oil refinery,11.74666667,-70.195
+Venezuela,Q717,http://www.wikidata.org/entity/Q6103449,Puerto la Cruz refinery,Oil refinery,10.2219,-64.6204
+Venezuela,Q717,http://www.wikidata.org/entity/Q5779930,Amuay refinery,Oil refinery,11.74666667,-70.195
+Venezuela,Q717,http://www.wikidata.org/entity/Q5779953,El Palito oil refinery,Oil refinery,10.4825,-68.118611111
+Sweden,Q34,http://www.wikidata.org/entity/Q1184868,Preemraff Lysekil,Oil refinery,58.34805556,11.41666667
+Sweden,Q34,http://www.wikidata.org/entity/Q493050,Engelsbergs oljefabrik,Oil refinery,59.957222222,16.002777777
 Norway,Q20,http://www.wikidata.org/entity/Q28719627,Q28719627,Oil refinery,59.258424,10.495662
 Norway,Q20,http://www.wikidata.org/entity/Q59199378,Mongstad Refinery,Oil refinery,60.81022,5.02979
 North Korea,Q423,http://www.wikidata.org/entity/Q25105079,Ponghwa Chemical Factory,Oil refinery,40.06666667,124.55
 North Korea,Q423,http://www.wikidata.org/entity/Q25105078,Sungri Refinery,Oil refinery,42.31194444,130.34861111
-Sweden,Q34,http://www.wikidata.org/entity/Q1184868,Preemraff Lysekil,Oil refinery,58.34805556,11.41666667
-Sweden,Q34,http://www.wikidata.org/entity/Q493050,Engelsbergs oljefabrik,Oil refinery,59.957222222,16.002777777
-Ghana,Q117,http://www.wikidata.org/entity/Q7697962,Tema Oil Refinery,Oil refinery,5.67304,0.00562
-Greece,Q41,http://www.wikidata.org/entity/Q4034479,Aspropyrgos Refinery,Oil refinery,38.0323,23.5984
-Greece,Q41,http://www.wikidata.org/entity/Q5170669,Corinth Refinery,Oil refinery,37.9222,23.0707
-Singapore,Q334,http://www.wikidata.org/entity/Q16510567,ExxonMobil Singapore Chemical Plant,Oil refinery,1.27448,103.702
-Paraguay,Q733,http://www.wikidata.org/entity/Q7930312,Villa Elisa Refinery,Oil refinery,-25.3869172,-57.6039085
-Finland,Q33,http://www.wikidata.org/entity/Q18660939,Naantali refinery,Oil refinery,60.44725,22.09144444
-Finland,Q33,http://www.wikidata.org/entity/Q18689092,Porvoo refinery,Oil refinery,60.31416667,25.525
-Portugal,Q45,http://www.wikidata.org/entity/Q101273991,Porto Refinery,Oil refinery,41.209344,-8.706535
-Portugal,Q45,http://www.wikidata.org/entity/Q101421676,Sines Refinery,Oil refinery,37.961777,-8.809464
-Angola,Q916,http://www.wikidata.org/entity/Q10358476,Lobito Oil Refinery,Oil refinery,-12.329311,13.6093139
-Sudan,Q1049,http://www.wikidata.org/entity/Q7230962,Port Sudan Refinery,Oil refinery,19.598715,37.226296
 Libya,Q1016,http://www.wikidata.org/entity/Q7278341,Ras Lanuf Refinery,Oil refinery,30.4747,18.5736
-Colombia,Q739,http://www.wikidata.org/entity/Q3417387,Cartagena Refinery,Oil refinery,10.315,-75.49722222
-Switzerland,Q39,http://www.wikidata.org/entity/Q2127126,Raffinerie Collombey,Oil refinery,46.285052,6.951792
-United States Virgin Islands,Q11703,http://www.wikidata.org/entity/Q5917063,Hovensa,Oil refinery,17.70444444,-64.75527778
+Hungary,Q28,http://www.wikidata.org/entity/Q118453851,Q118453851,Oil refinery,47.89235,21.02869
+Peru,Q419,http://www.wikidata.org/entity/Q20024814,La Pampilla Refinery,Oil refinery,-11.920593,-77.133465
+Peru,Q419,http://www.wikidata.org/entity/Q19950531,Refinery of Talara,Oil refinery,-4.583962,-81.282294
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q61761953,Sapugaskanda Refinery,Oil refinery,6.965833333,79.958333333
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q65084514,Hambantota Refinery,Oil refinery,6.121388888,81.0725
-Curaçao,Q25279,http://www.wikidata.org/entity/Q6103445,Isla,Oil refinery,12.1343,-68.9332
-Bangladesh,Q902,http://www.wikidata.org/entity/Q5330401,Eastern Refinery Limited,Oil refinery,22.16,91.48
+Angola,Q916,http://www.wikidata.org/entity/Q10358476,Lobito Oil Refinery,Oil refinery,-12.329311,13.6093139
+Portugal,Q45,http://www.wikidata.org/entity/Q101273991,Porto Refinery,Oil refinery,41.209344,-8.706535
+Portugal,Q45,http://www.wikidata.org/entity/Q101421676,Sines Refinery,Oil refinery,37.961777,-8.809464
+Ghana,Q117,http://www.wikidata.org/entity/Q7697962,Tema Oil Refinery,Oil refinery,5.67304,0.00562
+Bulgaria,Q219,http://www.wikidata.org/entity/Q901440,LUKOIL Neftochim Burgas,Oil refinery,42.54555556,27.33333333
+Bulgaria,Q219,http://www.wikidata.org/entity/Q55240813,Plama Pleven Oil Refinery,Oil refinery,43.401209,24.489544
+Greece,Q41,http://www.wikidata.org/entity/Q4034479,Aspropyrgos Refinery,Oil refinery,38.0323,23.5984
+Greece,Q41,http://www.wikidata.org/entity/Q5170669,Corinth Refinery,Oil refinery,37.9222,23.0707
+Sudan,Q1049,http://www.wikidata.org/entity/Q7230962,Port Sudan Refinery,Oil refinery,19.598715,37.226296
+Switzerland,Q39,http://www.wikidata.org/entity/Q2127126,Raffinerie Collombey,Oil refinery,46.285052,6.951792
 Mongolia,Q711,http://www.wikidata.org/entity/Q131675310,Mongol Refinery,Oil refinery,45.001388888,110.3485
+Singapore,Q334,http://www.wikidata.org/entity/Q16510567,ExxonMobil Singapore Chemical Plant,Oil refinery,1.27448,103.702
+Paraguay,Q733,http://www.wikidata.org/entity/Q7930312,Villa Elisa Refinery,Oil refinery,-25.3869172,-57.6039085
+Azerbaijan,Q227,http://www.wikidata.org/entity/Q55704222,Heydar Aliyev Baku Oil Refinery,Oil refinery,40.406794,49.918732
+United States Virgin Islands,Q11703,http://www.wikidata.org/entity/Q5917063,Hovensa,Oil refinery,17.70444444,-64.75527778
+Curaçao,Q25279,http://www.wikidata.org/entity/Q6103445,Isla,Oil refinery,12.1343,-68.9332
+Argentina,Q414,http://www.wikidata.org/entity/Q133254939,Q133254939,Oil refinery,-38.766666666,-62.283333333
+Bangladesh,Q902,http://www.wikidata.org/entity/Q5330401,Eastern Refinery Limited,Oil refinery,22.16,91.48
+Colombia,Q739,http://www.wikidata.org/entity/Q3417387,Cartagena Refinery,Oil refinery,10.315,-75.49722222
 New Zealand,Q664,http://www.wikidata.org/entity/Q6773242,Marsden Point Oil Refinery,Oil refinery,-35.840986,174.494734
+Philippines,Q928,http://www.wikidata.org/entity/Q104848936,Tabangao Refinery,Oil refinery,13.722083333,121.066027777
+Uruguay,Q77,http://www.wikidata.org/entity/Q110722911,La Teja Refinery,Oil refinery,-34.87515,-56.22998
+Oman,Q842,http://www.wikidata.org/entity/Q111710552,Duqm Refinery,Oil refinery,19.68459,57.683
+Zambia,Q953,http://www.wikidata.org/entity/Q96382026,Indeni Petroleum Refinery,Oil refinery,-13.039166666,28.68
 Ireland,Q27,http://www.wikidata.org/entity/Q98399621,Whitegate refinery,Oil refinery,51.818888888,-8.2475
 Chile,Q298,http://www.wikidata.org/entity/Q108122217,Refinería Aconcagua,Oil refinery,-32.927862325,-71.502005957
-Azerbaijan,Q227,http://www.wikidata.org/entity/Q55704222,Heydar Aliyev Baku Oil Refinery,Oil refinery,40.406794,49.918732
-Philippines,Q928,http://www.wikidata.org/entity/Q104848936,Tabangao Refinery,Oil refinery,13.722083333,121.066027777
-Oman,Q842,http://www.wikidata.org/entity/Q111710552,Duqm Refinery,Oil refinery,19.68459,57.683
-Argentina,Q414,http://www.wikidata.org/entity/Q133254939,Q133254939,Oil refinery,-38.766666666,-62.283333333
-Uruguay,Q77,http://www.wikidata.org/entity/Q110722911,La Teja Refinery,Oil refinery,-34.87515,-56.22998
-Zambia,Q953,http://www.wikidata.org/entity/Q96382026,Indeni Petroleum Refinery,Oil refinery,-13.039166666,28.68
