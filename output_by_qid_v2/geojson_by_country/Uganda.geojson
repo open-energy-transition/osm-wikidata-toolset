@@ -703,6 +703,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.309722222,
+          0.736944444
+        ]
+      },
+      "properties": {
+        "label": "Angololo Multipurpose Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q113499585",
+        "country_qid": "Q1036",
+        "Wikidata Qid": "Q113499585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.92,
           2.36305556
         ]
@@ -1155,23 +1172,6 @@
         "entity": "http://www.wikidata.org/entity/Q48811981",
         "country_qid": "Q1036",
         "Wikidata Qid": "Q48811981"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.207778,
-          0.694444
-        ]
-      },
-      "properties": {
-        "label": "Bujagali–Tororo–Lessos High Voltage Power Line",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q48792663",
-        "country_qid": "Q1036",
-        "Wikidata Qid": "Q48792663"
       }
     },
     {
