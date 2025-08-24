@@ -1,9 +1,9 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+United States,Q30,http://www.wikidata.org/entity/Q6475736,Lake Elsinore Advanced Pumped Storage,Pumped-storage power station,,
+United States,Q30,http://www.wikidata.org/entity/Q28407155,Gordon Butte Pumped Storage Project,Pumped-storage power station,,
 Austria,Q40,http://www.wikidata.org/entity/Q2118211,Q2118211,Pumped-storage power station,,
 Austria,Q40,http://www.wikidata.org/entity/Q1376792,Tauernkraftwerk,Pumped-storage power station,,
 Japan,Q17,http://www.wikidata.org/entity/Q124709156,Q124709156,Pumped-storage power station,,
-Switzerland,Q39,http://www.wikidata.org/entity/Q1371993,Etzelwerk,Pumped-storage power station,,
 Germany,Q183,http://www.wikidata.org/entity/Q73423398,Q73423398,Pumped-storage power station,,
-United States,Q30,http://www.wikidata.org/entity/Q6475736,Lake Elsinore Advanced Pumped Storage,Pumped-storage power station,,
-United States,Q30,http://www.wikidata.org/entity/Q28407155,Gordon Butte Pumped Storage Project,Pumped-storage power station,,
+Switzerland,Q39,http://www.wikidata.org/entity/Q1371993,Etzelwerk,Pumped-storage power station,,
 Slovenia,Q215,http://www.wikidata.org/entity/Q131704648,Q131704648,Pumped-storage power station,,

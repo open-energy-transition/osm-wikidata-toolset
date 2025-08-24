@@ -1,15 +1,15 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-United States,Q30,http://www.wikidata.org/entity/Q4805243,Ashland Dam and Spillway,Spillway,42.246111,-71.460278
-United States,Q30,http://www.wikidata.org/entity/Q7619029,"Stone Spillway, National Defense Stockpile Center",Spillway,42.155,-75.876111
-United States,Q30,http://www.wikidata.org/entity/Q7227519,Pompton Dam,Spillway,40.971388888,-74.278888888
-United States,Q30,http://www.wikidata.org/entity/Q98959436,Montserrat Recreation Demonstration Area Dam and Spillway,Spillway,38.749445,-93.582297
-United States,Q30,http://www.wikidata.org/entity/Q7166557,Pequannoc Spillway,Spillway,,
-United States,Q30,http://www.wikidata.org/entity/Q64657913,Dam and Spillway in the Hatchery Area at Montauk State Park,Spillway,37.455277777,-91.684722222
-United Kingdom,Q145,http://www.wikidata.org/entity/Q17861620,"Bell-mouth spillway, Silent Valley Reservoir",Spillway,54.1287,-5.99957
+Netherlands,Q55,http://www.wikidata.org/entity/Q2074076,Q2074076,Spillway,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q17604987,spillway S3 of Peel-Raam Line,Spillway,51.27286,5.75055
 Japan,Q17,http://www.wikidata.org/entity/Q11357609,Misato Floodway,Spillway,,
-Germany,Q183,http://www.wikidata.org/entity/Q97016927,Hochwasserentlastung bei Breitenfurt,Spillway,49.13898,11.44962
-Germany,Q183,http://www.wikidata.org/entity/Q115971403,Fudt,Spillway,48.3954,11.73619
-Germany,Q183,http://www.wikidata.org/entity/Q131754394,Entlastung Isnyer Ach,Spillway,47.7075562,9.9985736
+Czech Republic,Q213,http://www.wikidata.org/entity/Q108150153,Bezpečnostní přeliv mezi Libeňským přístavem a Rokytkou,Spillway,50.1075356,14.4672056
+Czech Republic,Q213,http://www.wikidata.org/entity/Q116974592,Q116974592,Spillway,50.16496,15.4599944
+Belgium,Q31,http://www.wikidata.org/entity/Q108059008,Déversoir d'Aa - Aa Overlaat,Spillway,50.81875,4.30308
+Belgium,Q31,http://www.wikidata.org/entity/Q56641004,Q56641004,Spillway,51.136044,2.756717
+Canada,Q16,http://www.wikidata.org/entity/Q115066830,Évacuateur de Manouane,Spillway,50.6577778,-70.5288889
+Canada,Q16,http://www.wikidata.org/entity/Q115109528,Trou du Diable,Spillway,46.530278,-72.7625
+Canada,Q16,http://www.wikidata.org/entity/Q22444757,Robert-Bourassa spillway,Spillway,53.7972,-77.44091
+New Zealand,Q664,http://www.wikidata.org/entity/Q32291747,Moutoa Floodway,Spillway,-40.50826,175.32021
 France,Q142,http://www.wikidata.org/entity/Q16891048,Épanchoir des Patiasses,Spillway,43.2797,2.91489
 France,Q142,http://www.wikidata.org/entity/Q23647197,Spillway of Jargeau,Spillway,47.855097,2.144174
 France,Q142,http://www.wikidata.org/entity/Q3396387,Argent-Double Aqueduct,Spillway,43.25111111,2.66618611
@@ -21,14 +21,14 @@ France,Q142,http://www.wikidata.org/entity/Q16891047,Épanchoir de Charques,Spil
 France,Q142,http://www.wikidata.org/entity/Q22996614,Q22996614,Spillway,43.329392,3.015412
 France,Q142,http://www.wikidata.org/entity/Q90808043,Q90808043,Spillway,,
 France,Q142,http://www.wikidata.org/entity/Q131225717,Q131225717,Spillway,45.495284,6.943305
-Belgium,Q31,http://www.wikidata.org/entity/Q108059008,Déversoir d'Aa - Aa Overlaat,Spillway,50.81875,4.30308
-Belgium,Q31,http://www.wikidata.org/entity/Q56641004,Q56641004,Spillway,51.136044,2.756717
-Netherlands,Q55,http://www.wikidata.org/entity/Q2074076,Q2074076,Spillway,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q17604987,spillway S3 of Peel-Raam Line,Spillway,51.27286,5.75055
-Canada,Q16,http://www.wikidata.org/entity/Q115066830,Évacuateur de Manouane,Spillway,50.6577778,-70.5288889
-Canada,Q16,http://www.wikidata.org/entity/Q115109528,Trou du Diable,Spillway,46.530278,-72.7625
-Canada,Q16,http://www.wikidata.org/entity/Q22444757,Robert-Bourassa spillway,Spillway,53.7972,-77.44091
-Czech Republic,Q213,http://www.wikidata.org/entity/Q108150153,Bezpečnostní přeliv mezi Libeňským přístavem a Rokytkou,Spillway,50.1075356,14.4672056
-Czech Republic,Q213,http://www.wikidata.org/entity/Q116974592,Q116974592,Spillway,50.16496,15.4599944
-New Zealand,Q664,http://www.wikidata.org/entity/Q32291747,Moutoa Floodway,Spillway,-40.50826,175.32021
+Germany,Q183,http://www.wikidata.org/entity/Q97016927,Hochwasserentlastung bei Breitenfurt,Spillway,49.13898,11.44962
+Germany,Q183,http://www.wikidata.org/entity/Q115971403,Fudt,Spillway,48.3954,11.73619
+Germany,Q183,http://www.wikidata.org/entity/Q131754394,Entlastung Isnyer Ach,Spillway,47.7075562,9.9985736
+United States,Q30,http://www.wikidata.org/entity/Q4805243,Ashland Dam and Spillway,Spillway,42.246111,-71.460278
+United States,Q30,http://www.wikidata.org/entity/Q7619029,"Stone Spillway, National Defense Stockpile Center",Spillway,42.155,-75.876111
+United States,Q30,http://www.wikidata.org/entity/Q7227519,Pompton Dam,Spillway,40.971388888,-74.278888888
+United States,Q30,http://www.wikidata.org/entity/Q98959436,Montserrat Recreation Demonstration Area Dam and Spillway,Spillway,38.749445,-93.582297
+United States,Q30,http://www.wikidata.org/entity/Q7166557,Pequannoc Spillway,Spillway,,
+United States,Q30,http://www.wikidata.org/entity/Q64657913,Dam and Spillway in the Hatchery Area at Montauk State Park,Spillway,37.455277777,-91.684722222
+United Kingdom,Q145,http://www.wikidata.org/entity/Q17861620,"Bell-mouth spillway, Silent Valley Reservoir",Spillway,54.1287,-5.99957
 Portugal,Q45,http://www.wikidata.org/entity/Q66943473,Comportas de Regadio do Poço de Cal,Spillway,40.17769,-8.663799
