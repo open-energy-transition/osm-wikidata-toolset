@@ -244,6 +244,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          29.930833333,
+          -2.623611111
+        ]
+      },
+      "properties": {
+        "label": "Akanyaru Multipurpose Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q105972846",
+        "country_qid": "Q967",
+        "Wikidata Qid": "Q105972846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.55797,
           -3.88845
         ]

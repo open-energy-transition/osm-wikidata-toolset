@@ -652,23 +652,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.602777777,
-          44.554166666
-        ]
-      },
-      "properties": {
-        "label": "Balaklavskaya TPS",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q21644346",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q21644346"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.203888888,
           52.250833333
         ]
@@ -805,23 +788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.551886,
-          45.134392
-        ]
-      },
-      "properties": {
-        "label": "Q48922533",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q48922533",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q48922533"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           36.13987,
           51.766565
         ]
@@ -832,23 +798,6 @@
         "entity": "http://www.wikidata.org/entity/Q16669104",
         "country_qid": "Q159",
         "Wikidata Qid": "Q16669104"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.22222,
-          44.94194
-        ]
-      },
-      "properties": {
-        "label": "Tavricheskaya TPS",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q48922473",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q48922473"
       }
     },
     {
@@ -5191,23 +5140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.931188,
-          45.038111
-        ]
-      },
-      "properties": {
-        "label": "Q4395941",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4395941",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q4395941"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           142.909722,
           53.573056
         ]
@@ -5463,23 +5395,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.14694444,
-          45.39638889
-        ]
-      },
-      "properties": {
-        "label": "Q12102061",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q12102061",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q12102061"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           43.89138889,
           56.3525
         ]
@@ -5582,23 +5497,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.754849,
-          44.969412
-        ]
-      },
-      "properties": {
-        "label": "Q16680871",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16680871",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q16680871"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           39.1981888,
           51.2699437
         ]
@@ -5626,40 +5524,6 @@
         "entity": "http://www.wikidata.org/entity/Q4376050",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4376050"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.5978,
-          45.2869
-        ]
-      },
-      "properties": {
-        "label": "Okhotnykovo Solar Park",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4340484",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q4340484"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.08491667,
-          44.80966667
-        ]
-      },
-      "properties": {
-        "label": "Sudak wind farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16702868",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q16702868"
       }
     },
     {
@@ -5956,23 +5820,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.675606,
-          45.236807
-        ]
-      },
-      "properties": {
-        "label": "Q4297014",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4297014",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q4297014"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           37.615427,
           55.75948
         ]
@@ -6058,23 +5905,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.77,
-          45.421111111
-        ]
-      },
-      "properties": {
-        "label": "Tarkhankut Wind Farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4452226",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q4452226"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.385214,
           59.934667
         ]
@@ -6119,23 +5949,6 @@
         "entity": "http://www.wikidata.org/entity/Q4239218",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4239218"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.10306,
-          45.32833
-        ]
-      },
-      "properties": {
-        "label": "Saky wind farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16693904",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q16693904"
       }
     },
     {
@@ -17805,6 +17618,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.57612,
+          55.42805
+        ]
+      },
+      "properties": {
+        "label": "Podolsk chemical metallurgy plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131597728",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131597728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.689444444,
           55.750277777
         ]
@@ -18308,6 +18138,23 @@
         "entity": "http://www.wikidata.org/entity/Q4069150",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4069150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.814752,
+          58.121012
+        ]
+      },
+      "properties": {
+        "label": "Q28527718",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28527718",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q28527718"
       }
     },
     {
@@ -21086,6 +20933,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.857382,
+          56.637601
+        ]
+      },
+      "properties": {
+        "label": "Izotop",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131358642",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131358642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           47.235868,
           56.151631
         ]
@@ -21147,6 +21011,23 @@
         "entity": "http://www.wikidata.org/entity/Q4069148",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4069148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.686308,
+          55.708365
+        ]
+      },
+      "properties": {
+        "label": "Topaz",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q134347102",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q134347102"
       }
     },
     {
@@ -21341,6 +21222,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          43.664992,
+          43.462073
+        ]
+      },
+      "properties": {
+        "label": "Elkor Nalchik",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131826601",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131826601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.33911,
           59.97422
         ]
@@ -21351,6 +21249,23 @@
         "entity": "http://www.wikidata.org/entity/Q4237979",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4237979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.763713,
+          54.611849
+        ]
+      },
+      "properties": {
+        "label": "Ryazan Electronic Devices Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132130588",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132130588"
       }
     },
     {
@@ -21426,6 +21341,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          84.963991,
+          56.463672
+        ]
+      },
+      "properties": {
+        "label": "Scientific Research Institute for Semiconductors",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130501790",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q130501790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.757936,
+          55.803038
+        ]
+      },
+      "properties": {
+        "label": "Delta",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132325272",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132325272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.969244,
           60.1005
         ]
@@ -21453,6 +21402,23 @@
         "entity": "http://www.wikidata.org/entity/Q4183129",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4183129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.709095,
+          56.393114
+        ]
+      },
+      "properties": {
+        "label": "Alexandrov semiconductor plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131605695",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131605695"
       }
     },
     {
@@ -21579,6 +21545,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.337847,
+          53.59844
+        ]
+      },
+      "properties": {
+        "label": "Anod",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132129247",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132129247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           39.18,
           51.688
         ]
@@ -21589,6 +21572,74 @@
         "entity": "http://www.wikidata.org/entity/Q4125434",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4125434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01361,
+          43.758477
+        ]
+      },
+      "properties": {
+        "label": "Prokhladnensky semiconductor plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132348459",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132348459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.358159,
+          54.352858
+        ]
+      },
+      "properties": {
+        "label": "NPP Iskra",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131926004",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131926004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.343273,
+          59.964636
+        ]
+      },
+      "properties": {
+        "label": "Meson Capacitor Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130729794",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q130729794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.271211,
+          51.692909
+        ]
+      },
+      "properties": {
+        "label": "VZEVP",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q135012523",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q135012523"
       }
     },
     {
@@ -21630,6 +21681,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          38.062749,
+          55.966743
+        ]
+      },
+      "properties": {
+        "label": "FZMT",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131730113",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131730113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.2686,
           54.5384
         ]
@@ -21657,6 +21725,57 @@
         "entity": "http://www.wikidata.org/entity/Q4498095",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4498095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.288845,
+          58.52262
+        ]
+      },
+      "properties": {
+        "label": "Planeta",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132177482",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132177482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.047608,
+          48.553863
+        ]
+      },
+      "properties": {
+        "label": "Splav",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132356952",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132356952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.569552,
+          55.850884
+        ]
+      },
+      "properties": {
+        "label": "Vladykinsky Mechanical Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132532460",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132532460"
       }
     },
     {
@@ -21708,6 +21827,23 @@
         "entity": "http://www.wikidata.org/entity/Q4042290",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4042290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.739083,
+          55.668712
+        ]
+      },
+      "properties": {
+        "label": "Lyublino Foundry and Mechanical Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q134739983",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q134739983"
       }
     },
     {
@@ -21936,6 +22072,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          38.935493,
+          47.215213
+        ]
+      },
+      "properties": {
+        "label": "Vibropribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4110499",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4110499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.504091,
           55.742308
         ]
@@ -22116,6 +22269,23 @@
         "entity": "http://www.wikidata.org/entity/Q124249424",
         "country_qid": "Q159",
         "Wikidata Qid": "Q124249424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.754161,
+          54.614125
+        ]
+      },
+      "properties": {
+        "label": "Ryazan computing and analytical machine plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q48955703",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q48955703"
       }
     },
     {
@@ -22490,6 +22660,23 @@
         "entity": "http://www.wikidata.org/entity/Q76936956",
         "country_qid": "Q159",
         "Wikidata Qid": "Q76936956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.490515,
+          55.804394
+        ]
+      },
+      "properties": {
+        "label": "First Moscow radio component plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4349731",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4349731"
       }
     },
     {
@@ -23109,6 +23296,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          46.60008,
+          54.85569
+        ]
+      },
+      "properties": {
+        "label": "Electropribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q32361861",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q32361861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           47.536694444,
           55.5225
         ]
@@ -23432,6 +23636,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          45.19409,
+          54.191899
+        ]
+      },
+      "properties": {
+        "label": "NIITFA Saransk plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132533499",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132533499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.912832,
+          45.040907
+        ]
+      },
+      "properties": {
+        "label": "Optron",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131382844",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131382844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.329165,
+          54.29657
+        ]
+      },
+      "properties": {
+        "label": "Ulyanovsk Vacuum Tube Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131922384",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131922384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.842265,
+          54.073812
+        ]
+      },
+      "properties": {
+        "label": "Zubovo-Polyansky Radio Component Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131934774",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131934774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.548205626,
+          53.402014075
+        ]
+      },
+      "properties": {
+        "label": "Zhigulyovsk Radio Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131740470",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131740470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.298254,
+          60.089514
+        ]
+      },
+      "properties": {
+        "label": "Amfi",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130739063",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q130739063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.731984,
           55.386105
         ]
@@ -23442,6 +23748,108 @@
         "entity": "http://www.wikidata.org/entity/Q125466246",
         "country_qid": "Q159",
         "Wikidata Qid": "Q125466246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.631366,
+          55.703488
+        ]
+      },
+      "properties": {
+        "label": "Geliymash",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q133934682",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q133934682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.245377,
+          59.954647
+        ]
+      },
+      "properties": {
+        "label": "Morion",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132742240",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132742240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.505684,
+          43.939316
+        ]
+      },
+      "properties": {
+        "label": "Elia",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131898679",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131898679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.081259,
+          54.77901
+        ]
+      },
+      "properties": {
+        "label": "Piramida",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132579986",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132579986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.234327,
+          58.523028
+        ]
+      },
+      "properties": {
+        "label": "Start",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132208416",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132208416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.539559,
+          56.334046
+        ]
+      },
+      "properties": {
+        "label": "Potential",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132156528",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132156528"
       }
     },
     {
@@ -23466,6 +23874,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          39.173888888,
+          51.683611111
+        ]
+      },
+      "properties": {
+        "label": "Voronezh Radio Component Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131859349",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131859349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.678905,
           59.113992
         ]
@@ -23483,6 +23908,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          86.300853,
+          54.432332
+        ]
+      },
+      "properties": {
+        "label": "Kuzbassradio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132186887",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132186887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.977733,
+          51.576235
+        ]
+      },
+      "properties": {
+        "label": "Tantal",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132227662",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132227662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.19842,
+          54.191697
+        ]
+      },
+      "properties": {
+        "label": "Saransk Precision Instrument Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132559670",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132559670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.201209,
+          51.642972
+        ]
+      },
+      "properties": {
+        "label": "Elektropribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131860703",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131860703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.963444,
+          55.663372
+        ]
+      },
+      "properties": {
+        "label": "Tomilino electronic plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130447680",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q130447680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.952314,
           55.499767
         ]
@@ -23493,6 +24003,40 @@
         "entity": "http://www.wikidata.org/entity/Q125420080",
         "country_qid": "Q159",
         "Wikidata Qid": "Q125420080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.353883,
+          57.350684
+        ]
+      },
+      "properties": {
+        "label": "Vector",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132157790",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132157790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.176384,
+          54.196051
+        ]
+      },
+      "properties": {
+        "label": "Elektrovypryamitel",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131575082",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131575082"
       }
     },
     {
@@ -23534,6 +24078,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.361106,
+          60.009137
+        ]
+      },
+      "properties": {
+        "label": "Rekond",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132773923",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132773923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.553478,
+          56.33745
+        ]
+      },
+      "properties": {
+        "label": "Kopir",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132157053",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132157053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.655855,
+          52.854606
+        ]
+      },
+      "properties": {
+        "label": "Rezistor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131937692",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131937692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           61.40303,
           57.372439
         ]
@@ -23568,6 +24163,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          44.2352,
+          43.066049
+        ]
+      },
+      "properties": {
+        "label": "Alagir resistor plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132212961",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132212961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6562,
+          43.045791
+        ]
+      },
+      "properties": {
+        "label": "Razryad",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131922929",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131922929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.610805,
+          57.361178
+        ]
+      },
+      "properties": {
+        "label": "Kashin electrical apparatus plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132776284",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q132776284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.492523,
+          52.587806
+        ]
+      },
+      "properties": {
+        "label": "Almaz",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131711747",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131711747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           38.13757,
           55.90676
         ]
@@ -23578,6 +24241,23 @@
         "entity": "http://www.wikidata.org/entity/Q130602408",
         "country_qid": "Q159",
         "Wikidata Qid": "Q130602408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.510171,
+          56.333756
+        ]
+      },
+      "properties": {
+        "label": "Dmitrov knitwear",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131921429",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131921429"
       }
     },
     {
@@ -24105,6 +24785,23 @@
         "entity": "http://www.wikidata.org/entity/Q112960363",
         "country_qid": "Q159",
         "Wikidata Qid": "Q112960363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.935753,
+          54.719153
+        ]
+      },
+      "properties": {
+        "label": "BETO",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q112960393",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q112960393"
       }
     },
     {
@@ -25414,6 +26111,23 @@
         "entity": "http://www.wikidata.org/entity/Q7219457",
         "country_qid": "Q159",
         "Wikidata Qid": "Q7219457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0648565,
+          68.9736247
+        ]
+      },
+      "properties": {
+        "label": "Murmansk Ship Repair Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131176050",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q131176050"
       }
     },
     {
