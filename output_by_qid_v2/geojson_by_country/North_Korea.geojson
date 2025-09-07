@@ -516,6 +516,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          124.983333333,
+          40.469444444
+        ]
+      },
+      "properties": {
+        "label": "Supung Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7361836",
+        "country_qid": "Q423",
+        "Wikidata Qid": "Q7361836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           126.044444444,
           40.901666666
         ]

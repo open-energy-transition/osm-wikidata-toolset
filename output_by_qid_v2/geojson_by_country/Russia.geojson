@@ -652,6 +652,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.602777777,
+          44.554166666
+        ]
+      },
+      "properties": {
+        "label": "Balaklavskaya TPS",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q21644346",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q21644346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.203888888,
           52.250833333
         ]
@@ -788,6 +805,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.551886,
+          45.134392
+        ]
+      },
+      "properties": {
+        "label": "Q48922533",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q48922533",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q48922533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.13987,
           51.766565
         ]
@@ -798,6 +832,23 @@
         "entity": "http://www.wikidata.org/entity/Q16669104",
         "country_qid": "Q159",
         "Wikidata Qid": "Q16669104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.22222,
+          44.94194
+        ]
+      },
+      "properties": {
+        "label": "Tavricheskaya TPS",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q48922473",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q48922473"
       }
     },
     {
@@ -5140,6 +5191,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.931188,
+          45.038111
+        ]
+      },
+      "properties": {
+        "label": "Q4395941",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4395941",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4395941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.909722,
           53.573056
         ]
@@ -5395,6 +5463,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.14694444,
+          45.39638889
+        ]
+      },
+      "properties": {
+        "label": "Q12102061",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q12102061",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q12102061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           43.89138889,
           56.3525
         ]
@@ -5497,6 +5582,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.754849,
+          44.969412
+        ]
+      },
+      "properties": {
+        "label": "Q16680871",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16680871",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q16680871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           39.1981888,
           51.2699437
         ]
@@ -5524,6 +5626,40 @@
         "entity": "http://www.wikidata.org/entity/Q4376050",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4376050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5978,
+          45.2869
+        ]
+      },
+      "properties": {
+        "label": "Okhotnykovo Solar Park",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4340484",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4340484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08491667,
+          44.80966667
+        ]
+      },
+      "properties": {
+        "label": "Sudak wind farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16702868",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q16702868"
       }
     },
     {
@@ -5820,6 +5956,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.675606,
+          45.236807
+        ]
+      },
+      "properties": {
+        "label": "Q4297014",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4297014",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4297014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.615427,
           55.75948
         ]
@@ -5905,6 +6058,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.77,
+          45.421111111
+        ]
+      },
+      "properties": {
+        "label": "Tarkhankut Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4452226",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4452226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.385214,
           59.934667
         ]
@@ -5949,6 +6119,23 @@
         "entity": "http://www.wikidata.org/entity/Q4239218",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4239218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.10306,
+          45.32833
+        ]
+      },
+      "properties": {
+        "label": "Saky wind farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16693904",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q16693904"
       }
     },
     {
@@ -10233,23 +10420,6 @@
         "entity": "http://www.wikidata.org/entity/Q1431535",
         "country_qid": "Q159",
         "Wikidata Qid": "Q1431535"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.166666666,
-          59.333333333
-        ]
-      },
-      "properties": {
-        "label": "Narva Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q2458214",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q2458214"
       }
     },
     {
@@ -17074,6 +17244,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          60.0087833,
+          59.7493801
+        ]
+      },
+      "properties": {
+        "label": "Bogoslovsky Copper Melting Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130288377",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q130288377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.371323,
           61.797961
         ]
@@ -17985,6 +18172,23 @@
         "entity": "http://www.wikidata.org/entity/Q4028929",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4028929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280052,
+          59.93781
+        ]
+      },
+      "properties": {
+        "label": "Academy of Sciences Printing House",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86670242",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q86670242"
       }
     },
     {
@@ -19454,6 +19658,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          60.811093,
+          56.494063
+        ]
+      },
+      "properties": {
+        "label": "Q119931281",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q119931281",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q119931281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.72869,
           55.76142
         ]
@@ -19481,6 +19702,23 @@
         "entity": "http://www.wikidata.org/entity/Q4461930",
         "country_qid": "Q159",
         "Wikidata Qid": "Q4461930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3437576,
+          51.9068232
+        ]
+      },
+      "properties": {
+        "label": "Ramon sugar factory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110748608",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q110748608"
       }
     },
     {
@@ -20025,6 +20263,23 @@
         "entity": "http://www.wikidata.org/entity/Q108786848",
         "country_qid": "Q159",
         "Wikidata Qid": "Q108786848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.743,
+          47.2203
+        ]
+      },
+      "properties": {
+        "label": "Paramonov’s Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28218000",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q28218000"
       }
     },
     {
@@ -20705,6 +20960,23 @@
         "entity": "http://www.wikidata.org/entity/Q30890247",
         "country_qid": "Q159",
         "Wikidata Qid": "Q30890247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.147877,
+          58.776317
+        ]
+      },
+      "properties": {
+        "label": "Chermoz iron works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110273358",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q110273358"
       }
     },
     {
@@ -21970,6 +22242,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.635405,
+          55.728375
+        ]
+      },
+      "properties": {
+        "label": "Malaya Pionerskaya 12-4",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q133776746",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q133776746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           44.606111111,
           48.802222222
         ]
@@ -22201,6 +22490,23 @@
         "entity": "http://www.wikidata.org/entity/Q19906622",
         "country_qid": "Q159",
         "Wikidata Qid": "Q19906622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45,
+          59.885
+        ]
+      },
+      "properties": {
+        "label": "Vargunin Brothers Paper Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q33536749",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q33536749"
       }
     },
     {
@@ -22983,6 +23289,23 @@
         "entity": "http://www.wikidata.org/entity/Q43634135",
         "country_qid": "Q159",
         "Wikidata Qid": "Q43634135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.64528,
+          57.86694
+        ]
+      },
+      "properties": {
+        "label": "Q28667084",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28667084",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q28667084"
       }
     },
     {
@@ -24316,6 +24639,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          59.134409,
+          55.28161
+        ]
+      },
+      "properties": {
+        "label": "Q86678111",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86678111",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q86678111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           38.706357479,
           55.324456858
         ]
@@ -24537,6 +24877,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          49.1215682,
+          55.7721196
+        ]
+      },
+      "properties": {
+        "label": "Petzold Brewery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q104632644",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q104632644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           41.0045654,
           56.9982973
         ]
@@ -24666,6 +25023,23 @@
         "entity": "http://www.wikidata.org/entity/Q122901617",
         "country_qid": "Q159",
         "Wikidata Qid": "Q122901617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26575,
+          59.928305555
+        ]
+      },
+      "properties": {
+        "label": "Leningrad Steel Rolling Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q97661664",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q97661664"
       }
     },
     {
