@@ -261,6 +261,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.106777777,
+          44.367972222
+        ]
+      },
+      "properties": {
+        "label": "Zvornik Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q12011284",
+        "country_qid": "Q225",
+        "Wikidata Qid": "Q12011284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.114317,
           44.08977
         ]
@@ -373,6 +390,23 @@
         "entity": "http://www.wikidata.org/entity/Q56026061",
         "country_qid": "Q225",
         "Wikidata Qid": "Q56026061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.41025,
+          43.964083333
+        ]
+      },
+      "properties": {
+        "label": "Bajina Bašta Hydroelectric Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q30974191",
+        "country_qid": "Q225",
+        "Wikidata Qid": "Q30974191"
       }
     },
     {

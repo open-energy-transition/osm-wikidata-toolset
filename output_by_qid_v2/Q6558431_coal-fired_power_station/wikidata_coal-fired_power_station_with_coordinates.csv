@@ -1,4 +1,70 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Australia,Q408,http://www.wikidata.org/entity/Q125358755,Muja C Unit 6 Power Station,Coal-fired power station,-33.445875,116.307528
+Australia,Q408,http://www.wikidata.org/entity/Q7653563,Swanbank Power Stations,Coal-fired power station,-27.6598,152.813
+Australia,Q408,http://www.wikidata.org/entity/Q7263616,Pyrmont Power Station,Coal-fired power station,-33.8683,151.195
+Australia,Q408,http://www.wikidata.org/entity/Q7963055,Wallerawang Power Station,Coal-fired power station,-33.4039,150.084
+Australia,Q408,http://www.wikidata.org/entity/Q7305456,Redbank Power Station,Coal-fired power station,-32.58,151.072
+Australia,Q408,http://www.wikidata.org/entity/Q7203324,Playford B Power Station,Coal-fired power station,-32.538886,137.781822
+Australia,Q408,http://www.wikidata.org/entity/Q2944656,Callide Power Station,Coal-fired power station,-24.3472,150.609
+Australia,Q408,http://www.wikidata.org/entity/Q4852341,Balmain Power Station,Coal-fired power station,-33.8597,151.166
+Australia,Q408,http://www.wikidata.org/entity/Q11990135,Mount Piper Power Station,Coal-fired power station,-33.3589,150.032
+Australia,Q408,http://www.wikidata.org/entity/Q2944653,Bayswater Power Station,Coal-fired power station,-32.3958,150.949
+Australia,Q408,http://www.wikidata.org/entity/Q2944646,Eraring Power Station,Coal-fired power station,-33.0622,151.52
+Australia,Q408,http://www.wikidata.org/entity/Q1440627,Anglesea Power Station,Coal-fired power station,-38.389,144.181
+Australia,Q408,http://www.wikidata.org/entity/Q5139629,Cockle Creek Power Station,Coal-fired power station,-32.9416,151.606
+Australia,Q408,http://www.wikidata.org/entity/Q2944709,Tarong Power Station,Coal-fired power station,-26.7811,151.915
+Australia,Q408,http://www.wikidata.org/entity/Q11990196,Munmorah Power Station,Coal-fired power station,-33.2118,151.542
+Australia,Q408,http://www.wikidata.org/entity/Q125564710,MUJA_G8,Coal-fired power station,-33.4463,116.307
+Australia,Q408,http://www.wikidata.org/entity/Q7911515,Vales Point Power Station,Coal-fired power station,-33.1606,151.542
+Australia,Q408,http://www.wikidata.org/entity/Q5147151,Collie Power Station,Coal-fired power station,-33.342,116.262
+Australia,Q408,http://www.wikidata.org/entity/Q2944708,Tarong North Power Station,Coal-fired power station,-26.7761,151.914
+Australia,Q408,http://www.wikidata.org/entity/Q2944702,Stanwell Power Station,Coal-fired power station,-23.5097,150.319
+Australia,Q408,http://www.wikidata.org/entity/Q6450455,Kwinana Power Station,Coal-fired power station,-32.1986,115.775
+Australia,Q408,http://www.wikidata.org/entity/Q6413585,Kingston Powerhouse,Coal-fired power station,-35.311,149.143
+Australia,Q408,http://www.wikidata.org/entity/Q7994460,White Bay Power Station,Coal-fired power station,-33.8667,151.177
+Australia,Q408,http://www.wikidata.org/entity/Q5147465,Collinsville Power Station,Coal-fired power station,-20.5433,147.807
+Australia,Q408,http://www.wikidata.org/entity/Q125446596,BW1 BLUEWATERS G2,Coal-fired power station,-33.329661503,116.226547196
+Australia,Q408,http://www.wikidata.org/entity/Q1165095,Loy Yang Power Station,Coal-fired power station,-38.2544,146.577
+Australia,Q408,http://www.wikidata.org/entity/Q4997819,Bunnerong Power Station,Coal-fired power station,-33.9714,151.227
+Australia,Q408,http://www.wikidata.org/entity/Q6543608,Liddell Power Station,Coal-fired power station,-32.3719,150.977
+Australia,Q408,http://www.wikidata.org/entity/Q7576187,Spencer Street Power Station,Coal-fired power station,-37.8148,144.953
+Australia,Q408,http://www.wikidata.org/entity/Q5529851,Geelong Power Station,Coal-fired power station,-38.14611111,144.36361111
+Australia,Q408,http://www.wikidata.org/entity/Q125446699,BW2_BLUEWATERS_G1,Coal-fired power station,-33.329706324,116.226450637
+Australia,Q408,http://www.wikidata.org/entity/Q6933294,Muja Power Station,Coal-fired power station,-33.4463,116.307
+Australia,Q408,http://www.wikidata.org/entity/Q38251296,Playford A Power Station,Coal-fired power station,-32.538886,137.781822
+Australia,Q408,http://www.wikidata.org/entity/Q125521941,COLLIE G1,Coal-fired power station,-33.341664936,116.262436787
+Australia,Q408,http://www.wikidata.org/entity/Q5376905,Energy Brix Power Station,Coal-fired power station,-38.2546,146.414
+Australia,Q408,http://www.wikidata.org/entity/Q8047501,Yallourn Power Station,Coal-fired power station,-38.1783,146.339
+Australia,Q408,http://www.wikidata.org/entity/Q5566351,Gladstone Power Station,Coal-fired power station,-23.8507,151.219
+Australia,Q408,http://www.wikidata.org/entity/Q6859892,Millmerran Power Station,Coal-fired power station,-27.9617,151.279
+Australia,Q408,http://www.wikidata.org/entity/Q7967873,Wangi Power Station,Coal-fired power station,-33.0658,151.5744
+Australia,Q408,http://www.wikidata.org/entity/Q6425761,Kogan Creek Power Station,Coal-fired power station,-26.9164,150.749
+Australia,Q408,http://www.wikidata.org/entity/Q7700523,Tennyson Power Station,Coal-fired power station,-27.5246,153.006
+Australia,Q408,http://www.wikidata.org/entity/Q7058867,Northern Power Station,Coal-fired power station,-32.5429,137.787
+Australia,Q408,http://www.wikidata.org/entity/Q1786119,Hazelwood Power Station,Coal-fired power station,-38.2728,146.392
+Australia,Q408,http://www.wikidata.org/entity/Q14935280,Richmond Power Station,Coal-fired power station,-37.8322,144.9941
+Australia,Q408,http://www.wikidata.org/entity/Q125522006,MUJA_G7,Coal-fired power station,-33.44606969,116.306541839
+Australia,Q408,http://www.wikidata.org/entity/Q17001515,Bluewaters Power Station,Coal-fired power station,-33.330601487,116.227815744
+Czech Republic,Q213,http://www.wikidata.org/entity/Q3435621,Elektrárna Dětmarovice,Coal-fired power station,49.9031,18.4692
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878029,Počerady Power Plant,Coal-fired power station,50.429,13.6771
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878035,Tisová power station,Coal-fired power station,50.1533333,12.6119444
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11775147,Oslavany Power Plant,Coal-fired power station,49.1204,16.344
+Czech Republic,Q213,http://www.wikidata.org/entity/Q106715452,CCGT Počerady,Coal-fired power station,50.429,13.6771
+Czech Republic,Q213,http://www.wikidata.org/entity/Q2153090,Chvaletice Power Station,Coal-fired power station,50.02861111,15.45277778
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878024,Opatovice Power Station,Coal-fired power station,50.127115,15.791521
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878017,Hodonín power plant,Coal-fired power station,48.8469,17.12
+Czech Republic,Q213,http://www.wikidata.org/entity/Q2944705,Prunéřov Power Stations,Coal-fired power station,50.418,13.259
+Czech Republic,Q213,http://www.wikidata.org/entity/Q17138606,Q17138606,Coal-fired power station,50.386363,13.333959
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878040,Q11878040,Coal-fired power station,49.8161,18.2739
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878019,Komořany power plant,Coal-fired power station,50.5217,13.57
+Czech Republic,Q213,http://www.wikidata.org/entity/Q1786166,Melnik Power Station,Coal-fired power station,50.41355,14.415436
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878031,Poříčí power plant,Coal-fired power station,50.5722603,15.9642211
+Czech Republic,Q213,http://www.wikidata.org/entity/Q117049020,Q117049020,Coal-fired power station,50.5271719,13.5445381
+Czech Republic,Q213,http://www.wikidata.org/entity/Q12007471,Trmice Power Plant,Coal-fired power station,50.645,13.986666666
+Czech Republic,Q213,http://www.wikidata.org/entity/Q104535226,Kolín Power Plant,Coal-fired power station,50.029991666,15.2093
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878039,Třebovice power plant,Coal-fired power station,49.8316,18.2116
+Czech Republic,Q213,http://www.wikidata.org/entity/Q2944731,Tušimice Power Station,Coal-fired power station,50.3811,13.3392
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11878023,Ledvice power station,Coal-fired power station,50.5767,13.7808
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19383013,Q19383013,Coal-fired power station,26.7575,119.7373
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19385958,Huaneng Qinbei Power Plant,Coal-fired power station,35.1697,112.7155
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19398798,Q19398798,Coal-fired power station,38.4428,106.123
@@ -746,52 +812,101 @@ South Africa,Q258,http://www.wikidata.org/entity/Q2330023,Athlone Power Station,
 South Africa,Q258,http://www.wikidata.org/entity/Q6428195,Komati Power Station,Coal-fired power station,-26.09,29.47194444
 South Africa,Q258,http://www.wikidata.org/entity/Q56374108,Rooiwal Power Station,Coal-fired power station,-25.5553,28.237799
 South Africa,Q258,http://www.wikidata.org/entity/Q11974989,Hendrina Power Station,Coal-fired power station,-26.03333333,29.6
-Australia,Q408,http://www.wikidata.org/entity/Q125358755,Muja C Unit 6 Power Station,Coal-fired power station,-33.445875,116.307528
-Australia,Q408,http://www.wikidata.org/entity/Q7653563,Swanbank Power Stations,Coal-fired power station,-27.6598,152.813
-Australia,Q408,http://www.wikidata.org/entity/Q7263616,Pyrmont Power Station,Coal-fired power station,-33.8683,151.195
-Australia,Q408,http://www.wikidata.org/entity/Q7963055,Wallerawang Power Station,Coal-fired power station,-33.4039,150.084
-Australia,Q408,http://www.wikidata.org/entity/Q7305456,Redbank Power Station,Coal-fired power station,-32.58,151.072
-Australia,Q408,http://www.wikidata.org/entity/Q7203324,Playford B Power Station,Coal-fired power station,-32.538886,137.781822
-Australia,Q408,http://www.wikidata.org/entity/Q2944656,Callide Power Station,Coal-fired power station,-24.3472,150.609
-Australia,Q408,http://www.wikidata.org/entity/Q4852341,Balmain Power Station,Coal-fired power station,-33.8597,151.166
-Australia,Q408,http://www.wikidata.org/entity/Q11990135,Mount Piper Power Station,Coal-fired power station,-33.3589,150.032
-Australia,Q408,http://www.wikidata.org/entity/Q2944653,Bayswater Power Station,Coal-fired power station,-32.3958,150.949
-Australia,Q408,http://www.wikidata.org/entity/Q2944646,Eraring Power Station,Coal-fired power station,-33.0622,151.52
-Australia,Q408,http://www.wikidata.org/entity/Q1440627,Anglesea Power Station,Coal-fired power station,-38.389,144.181
-Australia,Q408,http://www.wikidata.org/entity/Q5139629,Cockle Creek Power Station,Coal-fired power station,-32.9416,151.606
-Australia,Q408,http://www.wikidata.org/entity/Q2944709,Tarong Power Station,Coal-fired power station,-26.7811,151.915
-Australia,Q408,http://www.wikidata.org/entity/Q11990196,Munmorah Power Station,Coal-fired power station,-33.2118,151.542
-Australia,Q408,http://www.wikidata.org/entity/Q125564710,MUJA_G8,Coal-fired power station,-33.4463,116.307
-Australia,Q408,http://www.wikidata.org/entity/Q7911515,Vales Point Power Station,Coal-fired power station,-33.1606,151.542
-Australia,Q408,http://www.wikidata.org/entity/Q5147151,Collie Power Station,Coal-fired power station,-33.342,116.262
-Australia,Q408,http://www.wikidata.org/entity/Q2944708,Tarong North Power Station,Coal-fired power station,-26.7761,151.914
-Australia,Q408,http://www.wikidata.org/entity/Q2944702,Stanwell Power Station,Coal-fired power station,-23.5097,150.319
-Australia,Q408,http://www.wikidata.org/entity/Q6450455,Kwinana Power Station,Coal-fired power station,-32.1986,115.775
-Australia,Q408,http://www.wikidata.org/entity/Q6413585,Kingston Powerhouse,Coal-fired power station,-35.311,149.143
-Australia,Q408,http://www.wikidata.org/entity/Q7994460,White Bay Power Station,Coal-fired power station,-33.8667,151.177
-Australia,Q408,http://www.wikidata.org/entity/Q5147465,Collinsville Power Station,Coal-fired power station,-20.5433,147.807
-Australia,Q408,http://www.wikidata.org/entity/Q125446596,BW1 BLUEWATERS G2,Coal-fired power station,-33.329661503,116.226547196
-Australia,Q408,http://www.wikidata.org/entity/Q1165095,Loy Yang Power Station,Coal-fired power station,-38.2544,146.577
-Australia,Q408,http://www.wikidata.org/entity/Q4997819,Bunnerong Power Station,Coal-fired power station,-33.9714,151.227
-Australia,Q408,http://www.wikidata.org/entity/Q6543608,Liddell Power Station,Coal-fired power station,-32.3719,150.977
-Australia,Q408,http://www.wikidata.org/entity/Q7576187,Spencer Street Power Station,Coal-fired power station,-37.8148,144.953
-Australia,Q408,http://www.wikidata.org/entity/Q5529851,Geelong Power Station,Coal-fired power station,-38.14611111,144.36361111
-Australia,Q408,http://www.wikidata.org/entity/Q125446699,BW2_BLUEWATERS_G1,Coal-fired power station,-33.329706324,116.226450637
-Australia,Q408,http://www.wikidata.org/entity/Q6933294,Muja Power Station,Coal-fired power station,-33.4463,116.307
-Australia,Q408,http://www.wikidata.org/entity/Q38251296,Playford A Power Station,Coal-fired power station,-32.538886,137.781822
-Australia,Q408,http://www.wikidata.org/entity/Q125521941,COLLIE G1,Coal-fired power station,-33.341664936,116.262436787
-Australia,Q408,http://www.wikidata.org/entity/Q5376905,Energy Brix Power Station,Coal-fired power station,-38.2546,146.414
-Australia,Q408,http://www.wikidata.org/entity/Q8047501,Yallourn Power Station,Coal-fired power station,-38.1783,146.339
-Australia,Q408,http://www.wikidata.org/entity/Q5566351,Gladstone Power Station,Coal-fired power station,-23.8507,151.219
-Australia,Q408,http://www.wikidata.org/entity/Q6859892,Millmerran Power Station,Coal-fired power station,-27.9617,151.279
-Australia,Q408,http://www.wikidata.org/entity/Q7967873,Wangi Power Station,Coal-fired power station,-33.0658,151.5744
-Australia,Q408,http://www.wikidata.org/entity/Q6425761,Kogan Creek Power Station,Coal-fired power station,-26.9164,150.749
-Australia,Q408,http://www.wikidata.org/entity/Q7700523,Tennyson Power Station,Coal-fired power station,-27.5246,153.006
-Australia,Q408,http://www.wikidata.org/entity/Q7058867,Northern Power Station,Coal-fired power station,-32.5429,137.787
-Australia,Q408,http://www.wikidata.org/entity/Q1786119,Hazelwood Power Station,Coal-fired power station,-38.2728,146.392
-Australia,Q408,http://www.wikidata.org/entity/Q14935280,Richmond Power Station,Coal-fired power station,-37.8322,144.9941
-Australia,Q408,http://www.wikidata.org/entity/Q125522006,MUJA_G7,Coal-fired power station,-33.44606969,116.306541839
-Australia,Q408,http://www.wikidata.org/entity/Q17001515,Bluewaters Power Station,Coal-fired power station,-33.330601487,116.227815744
+United Kingdom,Q145,http://www.wikidata.org/entity/Q18343594,Poole Power Station,Coal-fired power station,50.7156,-1.99615
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6984460,Neasden Power Station,Coal-fired power station,51.5597,-0.2613
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15265289,Pandon Dene Power Station,Coal-fired power station,54.969972,-1.603206
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5604870,Greenwich Power Station,Coal-fired power station,51.485,-0.001
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7607155,Stella power stations,Coal-fired power station,54.9728,-1.72722
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4915741,Birchills Power Station,Coal-fired power station,52.5961,-1.99778
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5473376,Foss Island Power Station,Coal-fired power station,53.96,-1.068
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7989910,Westwood Power Station,Coal-fired power station,53.5382,-2.62765
+United Kingdom,Q145,http://www.wikidata.org/entity/Q1871101,Lots Road Power Station,Coal-fired power station,51.4779093,-0.1813089
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7370436,Rotherham Power Station,Coal-fired power station,53.4356,-1.35722
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7611051,Stepney Power Station,Coal-fired power station,51.5096,-0.0345
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5135218,Close Power Station,Coal-fired power station,54.965,-1.614
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15223133,Hartshead Power Station,Coal-fired power station,53.4913,-2.045177
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7961084,Wakefield power station,Coal-fired power station,53.6737,-1.47355
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4691942,Agecroft Power Station,Coal-fired power station,53.5154,-2.3009
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6410462,Kincardine power station,Coal-fired power station,56.0735,-3.7285
+United Kingdom,Q145,http://www.wikidata.org/entity/Q8564808,Forth Banks Power Station,Coal-fired power station,54.965,-1.615
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7330378,Richborough Power Station,Coal-fired power station,51.3106,1.34601
+United Kingdom,Q145,http://www.wikidata.org/entity/Q28408115,Southampton Power Station,Coal-fired power station,50.90648,-1.40984
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5646385,Hams Hall power stations,Coal-fired power station,52.5246,-1.70518
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7627138,Stuart Street Power Station,Coal-fired power station,53.4858,-2.19286
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6413380,Kingsnorth power station,Coal-fired power station,51.4189,0.602702
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15261684,Neptune Bank Power Station,Coal-fired power station,54.985,-1.536
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7280035,Radcliffe Power Station,Coal-fired power station,53.553527777,-2.339519444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122909220,Nechells power stations,Coal-fired power station,52.501388888,-1.858611111
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5315747,Dunston Power Station,Coal-fired power station,54.9603,-1.65889
+United Kingdom,Q145,http://www.wikidata.org/entity/Q85763937,Goldington Power Station,Coal-fired power station,52.1375,-0.4275
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117803559,Cottam Power Station,Coal-fired power station,53.3036,-0.7764
+United Kingdom,Q145,http://www.wikidata.org/entity/Q2944663,Fiddlers Ferry power station,Coal-fired power station,53.372,-2.687
+United Kingdom,Q145,http://www.wikidata.org/entity/Q104847834,Llynfi power station,Coal-fired power station,51.570277777,-3.611111111
+United Kingdom,Q145,http://www.wikidata.org/entity/Q104847634,Bath power station,Coal-fired power station,51.377777777,-2.358888888
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4968150,Brimsdown Power Station,Coal-fired power station,51.661,-0.022
+United Kingdom,Q145,http://www.wikidata.org/entity/Q96401743,Ribble power station,Coal-fired power station,53.757222222,-2.728055555
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5401419,Eston Grange Power Station,Coal-fired power station,54.579,-1.161
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6413583,Kingston Power Station,Coal-fired power station,51.4154,-0.3061
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6393138,Kepier power station,Coal-fired power station,54.786,-1.562
+United Kingdom,Q145,http://www.wikidata.org/entity/Q104849458,Thornhill power station,Coal-fired power station,53.677222222,-1.654722222
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7059416,Northfleet Power Station,Coal-fired power station,51.445,0.347
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6382256,Kearsley Power Station,Coal-fired power station,53.5394,-2.35917
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4677677,Acton Lane Power Station,Coal-fired power station,51.5305,-0.2559
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116912852,Didcot A Power Station,Coal-fired power station,51.6233,-1.2598
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5132734,Cliff Quay Power Station,Coal-fired power station,52.0358,1.1579
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5347869,Eggborough power station,Coal-fired power station,53.7116,-1.1269
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15208952,Chamber Hall Power Station,Coal-fired power station,53.5973,-2.2985
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5046442,Carrington Power Station,Coal-fired power station,53.4358,-2.41089
+United Kingdom,Q145,http://www.wikidata.org/entity/Q8033983,Woolwich Power Station,Coal-fired power station,51.4944,0.0657
+United Kingdom,Q145,http://www.wikidata.org/entity/Q96381427,Huncoat power station,Coal-fired power station,53.776111111,-2.3375
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5260953,Deptford Power Station,Coal-fired power station,51.4824,-0.0203
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7796705,Thorpe Marsh Power Station,Coal-fired power station,53.5806,-1.08534
+United Kingdom,Q145,http://www.wikidata.org/entity/Q20878103,Carmarthen Bay Power Station,Coal-fired power station,51.679722222,-4.243055555
+United Kingdom,Q145,http://www.wikidata.org/entity/Q85764685,Grove Road Power Station,Coal-fired power station,51.5275,-0.170833333
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4895966,Berwick-upon-Tweed Power Station,Coal-fired power station,55.7667,-2.00476
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5295513,Doncaster Power Station,Coal-fired power station,53.5242,-1.1462
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7076543,Ocker Hill Power Station,Coal-fired power station,52.5429,-2.03514
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5050049,Castle Donington Power Station,Coal-fired power station,52.8478,-1.35851
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6521163,Lemington Power Station,Coal-fired power station,54.9744,-1.71167
+United Kingdom,Q145,http://www.wikidata.org/entity/Q12059330,Hackney Power Station,Coal-fired power station,51.5587,-0.0401
+United Kingdom,Q145,http://www.wikidata.org/entity/Q26535777,Salisbury Generating Station,Coal-fired power station,51.069130972,-1.79793941
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5420126,Exeter Power Station,Coal-fired power station,50.7157,-3.5297
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6823642,Methil power station,Coal-fired power station,56.1909,-2.99673
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117196728,Ferrybridge B Power Station,Coal-fired power station,53.7184,-1.2792
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6415825,Kirkstall Power Station,Coal-fired power station,53.8042,-1.59245
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4939065,Bold Power Station,Coal-fired power station,53.434,-2.6883
+United Kingdom,Q145,http://www.wikidata.org/entity/Q819981,Tilbury power stations,Coal-fired power station,51.4549,0.391677
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7295516,Ratcliffe-on-Soar power station,Coal-fired power station,52.8653,-1.255
+United Kingdom,Q145,http://www.wikidata.org/entity/Q105275011,Roath Power Station,Coal-fired power station,51.494816666,-3.145719444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7056951,North Tees Power Station,Coal-fired power station,54.587,-1.263
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5755907,High Marnham Power Station,Coal-fired power station,53.229,-0.792565
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6825712,Mexborough Power Station,Coal-fired power station,53.4937,-1.26359
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7366390,Roosecote Power Station,Coal-fired power station,54.105,-3.18773
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4667192,Aberthaw power stations,Coal-fired power station,51.3873,-3.40487
+United Kingdom,Q145,http://www.wikidata.org/entity/Q11987128,Lynemouth power station,Coal-fired power station,55.2042,-1.52083
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7568452,South Shore Road power station,Coal-fired power station,54.969,-1.595
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5305645,Drakelow Power Station,Coal-fired power station,52.7736,-1.65681
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7986670,West Thurrock Power Station,Coal-fired power station,51.4696,0.288756
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4930863,Blyth Power Station,Coal-fired power station,55.1417,-1.52861
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7123743,Padiham Power Station,Coal-fired power station,53.7963,-2.33952
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4979559,Brunswick Wharf Power Station,Coal-fired power station,51.5081,0.001
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5139574,Cockenzie power station,Coal-fired power station,55.9683,-2.97154
+United Kingdom,Q145,http://www.wikidata.org/entity/Q880957,Blackwall Point Power Station,Coal-fired power station,51.4978,0.0115
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6673595,Longannet power station,Coal-fired power station,56.0489,-3.68234
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5507926,Fulham Power Station,Coal-fired power station,51.47,-0.183
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7057631,Northampton Power Station,Coal-fired power station,52.2312,-0.88577
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117196720,Ferrybridge A Power Station,Coal-fired power station,53.7175,-1.2715
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6408172,Kilroot power station,Coal-fired power station,54.725,-5.767
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5364630,Elland Power Station,Coal-fired power station,53.6943,-1.82277
+United Kingdom,Q145,http://www.wikidata.org/entity/Q104847162,Sculcoates power station,Coal-fired power station,53.763611111,-0.345
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7985291,West Ham Power Station,Coal-fired power station,51.518,0.0014
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4865668,Barton Power Station,Coal-fired power station,53.473,-2.34881
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6014222,Ince Power Station,Coal-fired power station,53.2782,-2.8083
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5047571,Carville power stations,Coal-fired power station,54.9889,-1.525
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7231838,Portishead power station,Coal-fired power station,51.4912,-2.75505
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5223994,Darlington Power Station,Coal-fired power station,54.5285,-1.5456
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117196738,Ferrybridge C Power Station,Coal-fired power station,53.718,-1.2813
+United Kingdom,Q145,http://www.wikidata.org/entity/Q810953,Battersea Power Station,Coal-fired power station,51.4811,-0.144444
 India,Q668,http://www.wikidata.org/entity/Q24949052,Singareni Thermal Power Plant,Coal-fired power station,18.828884927,79.573073376
 India,Q668,http://www.wikidata.org/entity/Q120425172,Nawapara Thermal Power Station,Coal-fired power station,22.1312942,83.2636964
 India,Q668,http://www.wikidata.org/entity/Q96759848,Panipat Thermal Power Station,Coal-fired power station,29.396963,76.8765006
@@ -996,39 +1111,26 @@ India,Q668,http://www.wikidata.org/entity/Q3446157,Anpara Thermal Power Station,
 India,Q668,http://www.wikidata.org/entity/Q7135861,Paras Thermal Power Station,Coal-fired power station,20.718548,76.800056
 India,Q668,http://www.wikidata.org/entity/Q6966850,Nashik Thermal Power Station,Coal-fired power station,19.979721,73.891168
 India,Q668,http://www.wikidata.org/entity/Q5445210,Feroze Gandhi Unchahar Thermal Power Plant,Coal-fired power station,25.9146,81.3274
-Turkey,Q43,http://www.wikidata.org/entity/Q97666430,Soma A power station,Coal-fired power station,39.1936,27.6303
-Turkey,Q43,http://www.wikidata.org/entity/Q60569577,Afşin-Elbistan C power station,Coal-fired power station,38.3525,37.005
-Turkey,Q43,http://www.wikidata.org/entity/Q97640811,Bolu Göynük power station,Coal-fired power station,40.2522067,30.8111143
-Turkey,Q43,http://www.wikidata.org/entity/Q56755056,Soma power station,Coal-fired power station,39.19509,27.635359833
-Turkey,Q43,http://www.wikidata.org/entity/Q97642134,İzdemir power station,Coal-fired power station,38.741666666,26.929166666
-Turkey,Q43,http://www.wikidata.org/entity/Q97709075,ZETES 2,Coal-fired power station,41.5032985,31.8862295
-Turkey,Q43,http://www.wikidata.org/entity/Q85773487,Kangal power station,Coal-fired power station,39.0777171,37.2951722
-Turkey,Q43,http://www.wikidata.org/entity/Q97708818,ZETES 1,Coal-fired power station,41.5074244,31.8953651
-Turkey,Q43,http://www.wikidata.org/entity/Q97613544,18 Mart Çan power station,Coal-fired power station,40.0218,26.9744
-Turkey,Q43,http://www.wikidata.org/entity/Q60313985,ZETES power stations,Coal-fired power station,41.5057492,31.8895554
-Turkey,Q43,http://www.wikidata.org/entity/Q85967587,Afşin-Elbistan A power station,Coal-fired power station,38.3475,37.025
-Turkey,Q43,http://www.wikidata.org/entity/Q31191365,Kemerköy power station,Coal-fired power station,37.0355,27.9007
-Turkey,Q43,http://www.wikidata.org/entity/Q97640059,Bekirli‑1,Coal-fired power station,40.4435505,27.1305334
-Turkey,Q43,http://www.wikidata.org/entity/Q63656905,Emba Hunutlu power station,Coal-fired power station,36.81609,35.85481
-Turkey,Q43,http://www.wikidata.org/entity/Q97666447,Tufanbeyli power station,Coal-fired power station,38.1856784,36.2686157
-Turkey,Q43,http://www.wikidata.org/entity/Q85800540,Seyitömer power station,Coal-fired power station,39.574254,29.882336833
-Turkey,Q43,http://www.wikidata.org/entity/Q97641152,Çan-2 power station,Coal-fired power station,40.0344576,26.9504928
-Turkey,Q43,http://www.wikidata.org/entity/Q97613608,Atlas power station,Coal-fired power station,36.69028,36.20909
-Turkey,Q43,http://www.wikidata.org/entity/Q97666426,Soma Kolin power station,Coal-fired power station,39.3169103,27.7479887
-Turkey,Q43,http://www.wikidata.org/entity/Q97666406,Polat power station,Coal-fired power station,39.6160695,29.4431877
-Turkey,Q43,http://www.wikidata.org/entity/Q85811080,Tunçbilek power station,Coal-fired power station,39.6281,29.4626
-Turkey,Q43,http://www.wikidata.org/entity/Q85973759,Orhaneli power station,Coal-fired power station,39.9515,28.8708
-Turkey,Q43,http://www.wikidata.org/entity/Q85817274,Şırnak Silopi power station,Coal-fired power station,37.3100249,42.594696
-Turkey,Q43,http://www.wikidata.org/entity/Q97285076,Yunus Emre Power Station,Coal-fired power station,39.985,31.636111111
-Turkey,Q43,http://www.wikidata.org/entity/Q97640270,Bekirli-2,Coal-fired power station,40.399529833,27.04973
-Turkey,Q43,http://www.wikidata.org/entity/Q97709205,ZETES 3,Coal-fired power station,41.5172137,31.9007027
-Turkey,Q43,http://www.wikidata.org/entity/Q97641013,Cenal power station,Coal-fired power station,40.4201,27.3195
-Turkey,Q43,http://www.wikidata.org/entity/Q85817252,İsken Sugözü power station,Coal-fired power station,36.835,35.88
-Turkey,Q43,http://www.wikidata.org/entity/Q12010956,Yatağan Thermal Power Plant,Coal-fired power station,37.3314,28.1022
-Turkey,Q43,http://www.wikidata.org/entity/Q6022911,Yeniköy power station,Coal-fired power station,37.141,27.87275
-Turkey,Q43,http://www.wikidata.org/entity/Q6099668,Çatalağzı power station,Coal-fired power station,41.5173181,31.9007778
-Turkey,Q43,http://www.wikidata.org/entity/Q6077955,Çayırhan power station,Coal-fired power station,40.097,31.695
-Turkey,Q43,http://www.wikidata.org/entity/Q6101862,Afşin-Elbistan B power station,Coal-fired power station,38.3525,36.98
+Russia,Q159,http://www.wikidata.org/entity/Q679340,Kashira Power Plant,Coal-fired power station,54.85805557,38.25972223
+Russia,Q159,http://www.wikidata.org/entity/Q4325436,Novosibirsk Thermal Power Plant 5,Coal-fired power station,55.00556,83.06056
+Russia,Q159,http://www.wikidata.org/entity/Q21639926,Q21639926,Coal-fired power station,66.040833333,60.156944444
+Russia,Q159,http://www.wikidata.org/entity/Q4508682,CHPP-2,Coal-fired power station,55.15333333,61.49972222
+Russia,Q159,http://www.wikidata.org/entity/Q460046,Konakovo Power Station,Coal-fired power station,56.74305556,36.77027778
+Russia,Q159,http://www.wikidata.org/entity/Q4408346,Saransk CHP-2,Coal-fired power station,54.21583333,45.20805556
+Russia,Q159,http://www.wikidata.org/entity/Q4273871,Magadan Thermal Power Plant,Coal-fired power station,59.58347222,150.7869444
+Russia,Q159,http://www.wikidata.org/entity/Q28648147,Q28648147,Coal-fired power station,48.05361,142.1875
+Russia,Q159,http://www.wikidata.org/entity/Q820764,Beryozovskaya GRES,Coal-fired power station,55.57944444,89.0725
+Russia,Q159,http://www.wikidata.org/entity/Q25426936,Q25426936,Coal-fired power station,58.050957,102.807036
+Russia,Q159,http://www.wikidata.org/entity/Q4325435,Novosibirsk CHPP-4,Coal-fired power station,55.1,82.99
+Russia,Q159,http://www.wikidata.org/entity/Q4494338,Q4494338,Coal-fired power station,48.41361111,135.1175
+Russia,Q159,http://www.wikidata.org/entity/Q4203280,Q4203280,Coal-fired power station,52.46219444,103.9790833
+Russia,Q159,http://www.wikidata.org/entity/Q4412617,Q4412617,Coal-fired power station,56.6175,84.81166667
+Russia,Q159,http://www.wikidata.org/entity/Q3430237,Southern Kuzbass GRES,Coal-fired power station,53.51222223,87.26527779
+Russia,Q159,http://www.wikidata.org/entity/Q25426948,Q25426948,Coal-fired power station,55.0016,73.4877
+Russia,Q159,http://www.wikidata.org/entity/Q4508681,Chelyabinsk TETs-1,Coal-fired power station,55.13388889,61.4775
+Russia,Q159,http://www.wikidata.org/entity/Q3432259,Shatura Power Station,Coal-fired power station,55.58333333,39.56111111
+Russia,Q159,http://www.wikidata.org/entity/Q25426938,Q25426938,Coal-fired power station,56.8399,60.8409
+Russia,Q159,http://www.wikidata.org/entity/Q4312224,Nazarovo power station,Coal-fired power station,56.03722222,90.3475
 Germany,Q183,http://www.wikidata.org/entity/Q1333390,Grosskraftwerk Mannheim,Coal-fired power station,49.44456,8.49807
 Germany,Q183,http://www.wikidata.org/entity/Q1740916,Moorburg Power Plant,Coal-fired power station,53.49,9.95166667
 Germany,Q183,http://www.wikidata.org/entity/Q1341228,Zolling power station,Coal-fired power station,48.455,11.799
@@ -1155,6 +1257,104 @@ Germany,Q183,http://www.wikidata.org/entity/Q123239973,Q123239973,Coal-fired pow
 Germany,Q183,http://www.wikidata.org/entity/Q515143,Niederaußem Power Station,Coal-fired power station,50.99555556,6.66916667
 Germany,Q183,http://www.wikidata.org/entity/Q1786183,Weiher power plant,Coal-fired power station,49.3353,7.03056
 Germany,Q183,http://www.wikidata.org/entity/Q5743936,Herrenwyk power station,Coal-fired power station,53.89988,10.80223
+Poland,Q36,http://www.wikidata.org/entity/Q990952,Jaworzno Power Station,Coal-fired power station,50.206666666,19.203333333
+Poland,Q36,http://www.wikidata.org/entity/Q8080562,Łaziska Power Station,Coal-fired power station,50.1336,18.8414
+Poland,Q36,http://www.wikidata.org/entity/Q19377929,Konin Power Station,Coal-fired power station,52.28534,18.26888
+Poland,Q36,http://www.wikidata.org/entity/Q1546242,Bełchatów Power Station,Coal-fired power station,51.26626,19.32684
+Poland,Q36,http://www.wikidata.org/entity/Q801764,Q801764,Coal-fired power station,50.51580048,16.49665833
+Poland,Q36,http://www.wikidata.org/entity/Q6377825,Katowice Power Station,Coal-fired power station,50.285591666,19.053908333
+Poland,Q36,http://www.wikidata.org/entity/Q11771990,Elektrownia,Coal-fired power station,51.3981,21.1498
+Poland,Q36,http://www.wikidata.org/entity/Q6405238,Kielce Power Station,Coal-fired power station,50.897778,20.616667
+Poland,Q36,http://www.wikidata.org/entity/Q11696582,Halemba Power Station,Coal-fired power station,50.2325,18.851944444
+Poland,Q36,http://www.wikidata.org/entity/Q2216198,Kawęczyn Heat Plant,Coal-fired power station,52.268056,21.128611
+Poland,Q36,http://www.wikidata.org/entity/Q779196,Chorzów Power Station,Coal-fired power station,50.308167,18.969583
+Poland,Q36,http://www.wikidata.org/entity/Q9390228,Ostrołęka Power Station,Coal-fired power station,53.10361111,21.6125
+Poland,Q36,http://www.wikidata.org/entity/Q3503862,Połaniec Power Station,Coal-fired power station,50.437364,21.337103
+Poland,Q36,http://www.wikidata.org/entity/Q9252500,Opole Power Station,Coal-fired power station,50.7514,17.8839
+Poland,Q36,http://www.wikidata.org/entity/Q11696554,Szombierki Heat Power Station,Coal-fired power station,50.345,18.886388888
+Poland,Q36,http://www.wikidata.org/entity/Q1418949,Turów power station,Coal-fired power station,50.94725,14.912056
+Poland,Q36,http://www.wikidata.org/entity/Q3504783,Siersza Power Station,Coal-fired power station,50.206111,19.4625
+Poland,Q36,http://www.wikidata.org/entity/Q1786249,Żerań Power Station,Coal-fired power station,52.294444,20.993611
+Poland,Q36,http://www.wikidata.org/entity/Q742665,Bielsko-Biała Power Plant,Coal-fired power station,49.812,19.052
+Poland,Q36,http://www.wikidata.org/entity/Q1786153,Kozienice Power Station,Coal-fired power station,51.665277777,21.464444444
+Poland,Q36,http://www.wikidata.org/entity/Q8081139,Łódź Heat Power Stations,Coal-fired power station,51.745556,19.537778
+Poland,Q36,http://www.wikidata.org/entity/Q11994866,Pątnów Power Station,Coal-fired power station,52.301111111,18.236111111
+Poland,Q36,http://www.wikidata.org/entity/Q7385772,Rzeszów Power Station,Coal-fired power station,50.064167,22.030278
+Poland,Q36,http://www.wikidata.org/entity/Q751203,Rybnik Power Station,Coal-fired power station,50.133055555,18.523055555
+Poland,Q36,http://www.wikidata.org/entity/Q5529380,Gdańsk Power Station,Coal-fired power station,54.378306,18.641694
+Poland,Q36,http://www.wikidata.org/entity/Q1786207,Siekierki Power Station,Coal-fired power station,52.189722,21.089444
+Poland,Q36,http://www.wikidata.org/entity/Q1786042,Adamów Power Station,Coal-fired power station,52.011111111,18.545556111
+Poland,Q36,http://www.wikidata.org/entity/Q1164234,Dolna Odra Power Station,Coal-fired power station,53.206667,14.464722
+Poland,Q36,http://www.wikidata.org/entity/Q8080403,Łagisza Power Station,Coal-fired power station,50.3492,19.1444
+Canada,Q16,http://www.wikidata.org/entity/Q14358040,H. R. Milner Generating Station,Coal-fired power station,54.0073,-119.103
+Canada,Q16,http://www.wikidata.org/entity/Q7487893,Shand Power Station,Coal-fired power station,49.0883,-102.864
+Canada,Q16,http://www.wikidata.org/entity/Q6383236,Keephills Generating Station,Coal-fired power station,53.44833333,-114.45055556
+Canada,Q16,http://www.wikidata.org/entity/Q7492507,Sheerness Generating Station,Coal-fired power station,51.44222222,-111.79222222
+Canada,Q16,http://www.wikidata.org/entity/Q4949936,Boundary Dam Power Station,Coal-fired power station,49.0964,-103.03
+Canada,Q16,http://www.wikidata.org/entity/Q4815789,Atikokan Generating Station,Coal-fired power station,48.8381,-91.5708
+Canada,Q16,http://www.wikidata.org/entity/Q7229425,Poplar River Power Station,Coal-fired power station,49.0575,-105.483
+Canada,Q16,http://www.wikidata.org/entity/Q7448546,Selkirk Generating Station,Coal-fired power station,50.1422,-96.8842
+Canada,Q16,http://www.wikidata.org/entity/Q4956866,Brandon Generating Station,Coal-fired power station,49.8453,-99.8892
+Canada,Q16,http://www.wikidata.org/entity/Q7208178,Point Tupper Generating Station,Coal-fired power station,45.5869,-61.3481
+Canada,Q16,http://www.wikidata.org/entity/Q11960505,Belledune Generating Station,Coal-fired power station,47.906,-65.8635
+Canada,Q16,http://www.wikidata.org/entity/Q5691682,Hearn Generating Station,Coal-fired power station,43.6455,-79.3351
+Canada,Q16,http://www.wikidata.org/entity/Q7798925,Thunder Bay Generating Station,Coal-fired power station,48.36,-89.22
+Canada,Q16,http://www.wikidata.org/entity/Q6479239,Lakeview Generating Station,Coal-fired power station,43.5711,-79.5517
+Canada,Q16,http://www.wikidata.org/entity/Q4870103,Battle River Generating Station,Coal-fired power station,52.46888889,-112.13388889
+Canada,Q16,http://www.wikidata.org/entity/Q5532732,Genesee Generating Station,Coal-fired power station,53.343,-114.303
+Canada,Q16,http://www.wikidata.org/entity/Q6481597,Lambton Generating Station,Coal-fired power station,42.7972,-82.4694
+Canada,Q16,http://www.wikidata.org/entity/Q7958598,Wabamun Generating Station,Coal-fired power station,53.5583,-114.488
+Canada,Q16,http://www.wikidata.org/entity/Q6553764,Lingan Generating Station,Coal-fired power station,46.235541,-60.03927
+Canada,Q16,http://www.wikidata.org/entity/Q7207928,Point Aconi Generating Station,Coal-fired power station,46.321633,-60.329987
+Canada,Q16,http://www.wikidata.org/entity/Q7639182,Sundance Power Station,Coal-fired power station,53.5075,-114.557
+Canada,Q16,http://www.wikidata.org/entity/Q7838579,Trenton Generating Station,Coal-fired power station,45.6209,-62.6467
+Canada,Q16,http://www.wikidata.org/entity/Q2944695,Nanticoke Generating Station,Coal-fired power station,42.8,-80.0503
+Canada,Q16,http://www.wikidata.org/entity/Q5210868,Dalhousie Generating Station,Coal-fired power station,48.0519,-66.3708
+Turkey,Q43,http://www.wikidata.org/entity/Q97666430,Soma A power station,Coal-fired power station,39.1936,27.6303
+Turkey,Q43,http://www.wikidata.org/entity/Q60569577,Afşin-Elbistan C power station,Coal-fired power station,38.3525,37.005
+Turkey,Q43,http://www.wikidata.org/entity/Q97640811,Bolu Göynük power station,Coal-fired power station,40.2522067,30.8111143
+Turkey,Q43,http://www.wikidata.org/entity/Q56755056,Soma power station,Coal-fired power station,39.19509,27.635359833
+Turkey,Q43,http://www.wikidata.org/entity/Q97642134,İzdemir power station,Coal-fired power station,38.741666666,26.929166666
+Turkey,Q43,http://www.wikidata.org/entity/Q97709075,ZETES 2,Coal-fired power station,41.5032985,31.8862295
+Turkey,Q43,http://www.wikidata.org/entity/Q85773487,Kangal power station,Coal-fired power station,39.0777171,37.2951722
+Turkey,Q43,http://www.wikidata.org/entity/Q97708818,ZETES 1,Coal-fired power station,41.5074244,31.8953651
+Turkey,Q43,http://www.wikidata.org/entity/Q97613544,18 Mart Çan power station,Coal-fired power station,40.0218,26.9744
+Turkey,Q43,http://www.wikidata.org/entity/Q60313985,ZETES power stations,Coal-fired power station,41.5057492,31.8895554
+Turkey,Q43,http://www.wikidata.org/entity/Q85967587,Afşin-Elbistan A power station,Coal-fired power station,38.3475,37.025
+Turkey,Q43,http://www.wikidata.org/entity/Q31191365,Kemerköy power station,Coal-fired power station,37.0355,27.9007
+Turkey,Q43,http://www.wikidata.org/entity/Q97640059,Bekirli‑1,Coal-fired power station,40.4435505,27.1305334
+Turkey,Q43,http://www.wikidata.org/entity/Q63656905,Emba Hunutlu power station,Coal-fired power station,36.81609,35.85481
+Turkey,Q43,http://www.wikidata.org/entity/Q97666447,Tufanbeyli power station,Coal-fired power station,38.1856784,36.2686157
+Turkey,Q43,http://www.wikidata.org/entity/Q85800540,Seyitömer power station,Coal-fired power station,39.574254,29.882336833
+Turkey,Q43,http://www.wikidata.org/entity/Q97641152,Çan-2 power station,Coal-fired power station,40.0344576,26.9504928
+Turkey,Q43,http://www.wikidata.org/entity/Q97613608,Atlas power station,Coal-fired power station,36.69028,36.20909
+Turkey,Q43,http://www.wikidata.org/entity/Q97666426,Soma Kolin power station,Coal-fired power station,39.3169103,27.7479887
+Turkey,Q43,http://www.wikidata.org/entity/Q97666406,Polat power station,Coal-fired power station,39.6160695,29.4431877
+Turkey,Q43,http://www.wikidata.org/entity/Q85811080,Tunçbilek power station,Coal-fired power station,39.6281,29.4626
+Turkey,Q43,http://www.wikidata.org/entity/Q85973759,Orhaneli power station,Coal-fired power station,39.9515,28.8708
+Turkey,Q43,http://www.wikidata.org/entity/Q85817274,Şırnak Silopi power station,Coal-fired power station,37.3100249,42.594696
+Turkey,Q43,http://www.wikidata.org/entity/Q97285076,Yunus Emre Power Station,Coal-fired power station,39.985,31.636111111
+Turkey,Q43,http://www.wikidata.org/entity/Q97640270,Bekirli-2,Coal-fired power station,40.399529833,27.04973
+Turkey,Q43,http://www.wikidata.org/entity/Q97709205,ZETES 3,Coal-fired power station,41.5172137,31.9007027
+Turkey,Q43,http://www.wikidata.org/entity/Q97641013,Cenal power station,Coal-fired power station,40.4201,27.3195
+Turkey,Q43,http://www.wikidata.org/entity/Q85817252,İsken Sugözü power station,Coal-fired power station,36.835,35.88
+Turkey,Q43,http://www.wikidata.org/entity/Q12010956,Yatağan Thermal Power Plant,Coal-fired power station,37.3314,28.1022
+Turkey,Q43,http://www.wikidata.org/entity/Q6022911,Yeniköy power station,Coal-fired power station,37.141,27.87275
+Turkey,Q43,http://www.wikidata.org/entity/Q6099668,Çatalağzı power station,Coal-fired power station,41.5173181,31.9007778
+Turkey,Q43,http://www.wikidata.org/entity/Q6077955,Çayırhan power station,Coal-fired power station,40.097,31.695
+Turkey,Q43,http://www.wikidata.org/entity/Q6101862,Afşin-Elbistan B power station,Coal-fired power station,38.3525,36.98
+Indonesia,Q252,http://www.wikidata.org/entity/Q17762472,Cilacap Power Plant,Coal-fired power station,-7.6856287,109.0929864
+Indonesia,Q252,http://www.wikidata.org/entity/Q11994608,Pacitan Power Plant,Coal-fired power station,-8.2582072,111.3737969
+Indonesia,Q252,http://www.wikidata.org/entity/Q5121854,Cirebon Steam Power Plant,Coal-fired power station,-6.77,108.615
+Indonesia,Q252,http://www.wikidata.org/entity/Q19730961,Adipala Power Plant,Coal-fired power station,-7.6836378,109.1372529
+Indonesia,Q252,http://www.wikidata.org/entity/Q12005459,Q12005459,Coal-fired power station,-6.0592373,106.464445
+Indonesia,Q252,http://www.wikidata.org/entity/Q19375553,Indramayu Power Plant,Coal-fired power station,-6.2746363,107.9702339
+Indonesia,Q252,http://www.wikidata.org/entity/Q19378710,Labuan Angin Power Plant,Coal-fired power station,-6.3917358,105.8290619
+Indonesia,Q252,http://www.wikidata.org/entity/Q19386456,Rembang Power Plant,Coal-fired power station,-6.6360318,111.4756054
+Indonesia,Q252,http://www.wikidata.org/entity/Q6333253,Suralaya Power Station,Coal-fired power station,-5.892388888,106.030333333
+Indonesia,Q252,http://www.wikidata.org/entity/Q25470952,Palabuhanratu Power Plant,Coal-fired power station,-7.0234246,106.5461504
+Indonesia,Q252,http://www.wikidata.org/entity/Q12005195,Tanjung Jati Power Plant,Coal-fired power station,-6.4455381,110.7431513
+Indonesia,Q252,http://www.wikidata.org/entity/Q16896355,Paiton Power Station,Coal-fired power station,-7.713833333,113.582611111
 Japan,Q17,http://www.wikidata.org/entity/Q55528976,Q55528976,Coal-fired power station,35.12361111,136.91555556
 Japan,Q17,http://www.wikidata.org/entity/Q48746545,Q48746545,Coal-fired power station,33.89111111,130.87
 Japan,Q17,http://www.wikidata.org/entity/Q48748380,Q48748380,Coal-fired power station,33.88833333,130.86944444
@@ -1207,253 +1407,6 @@ Japan,Q17,http://www.wikidata.org/entity/Q11435058,Osaki Power Station,Coal-fire
 Japan,Q17,http://www.wikidata.org/entity/Q11499552,Tsuruga Thermal Power Plant,Coal-fired power station,35.672917,136.078528
 Japan,Q17,http://www.wikidata.org/entity/Q11604889,Q11604889,Coal-fired power station,37.0281449,137.850985
 Japan,Q17,http://www.wikidata.org/entity/Q11611899,Noshiro Thermal Power Station,Coal-fired power station,40.191389,139.993611
-United Kingdom,Q145,http://www.wikidata.org/entity/Q18343594,Poole Power Station,Coal-fired power station,50.7156,-1.99615
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6984460,Neasden Power Station,Coal-fired power station,51.5597,-0.2613
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15265289,Pandon Dene Power Station,Coal-fired power station,54.969972,-1.603206
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5604870,Greenwich Power Station,Coal-fired power station,51.485,-0.001
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7607155,Stella power stations,Coal-fired power station,54.9728,-1.72722
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4915741,Birchills Power Station,Coal-fired power station,52.5961,-1.99778
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5473376,Foss Island Power Station,Coal-fired power station,53.96,-1.068
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7989910,Westwood Power Station,Coal-fired power station,53.5382,-2.62765
-United Kingdom,Q145,http://www.wikidata.org/entity/Q1871101,Lots Road Power Station,Coal-fired power station,51.4779093,-0.1813089
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7370436,Rotherham Power Station,Coal-fired power station,53.4356,-1.35722
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7611051,Stepney Power Station,Coal-fired power station,51.5096,-0.0345
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5135218,Close Power Station,Coal-fired power station,54.965,-1.614
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15223133,Hartshead Power Station,Coal-fired power station,53.4913,-2.045177
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7961084,Wakefield power station,Coal-fired power station,53.6737,-1.47355
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4691942,Agecroft Power Station,Coal-fired power station,53.5154,-2.3009
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6410462,Kincardine power station,Coal-fired power station,56.0735,-3.7285
-United Kingdom,Q145,http://www.wikidata.org/entity/Q8564808,Forth Banks Power Station,Coal-fired power station,54.965,-1.615
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7330378,Richborough Power Station,Coal-fired power station,51.3106,1.34601
-United Kingdom,Q145,http://www.wikidata.org/entity/Q28408115,Southampton Power Station,Coal-fired power station,50.90648,-1.40984
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5646385,Hams Hall power stations,Coal-fired power station,52.5246,-1.70518
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7627138,Stuart Street Power Station,Coal-fired power station,53.4858,-2.19286
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6413380,Kingsnorth power station,Coal-fired power station,51.4189,0.602702
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15261684,Neptune Bank Power Station,Coal-fired power station,54.985,-1.536
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7280035,Radcliffe Power Station,Coal-fired power station,53.553527777,-2.339519444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122909220,Nechells power stations,Coal-fired power station,52.501388888,-1.858611111
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5315747,Dunston Power Station,Coal-fired power station,54.9603,-1.65889
-United Kingdom,Q145,http://www.wikidata.org/entity/Q85763937,Goldington Power Station,Coal-fired power station,52.1375,-0.4275
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117803559,Cottam Power Station,Coal-fired power station,53.3036,-0.7764
-United Kingdom,Q145,http://www.wikidata.org/entity/Q2944663,Fiddlers Ferry power station,Coal-fired power station,53.372,-2.687
-United Kingdom,Q145,http://www.wikidata.org/entity/Q104847834,Llynfi power station,Coal-fired power station,51.570277777,-3.611111111
-United Kingdom,Q145,http://www.wikidata.org/entity/Q104847634,Bath power station,Coal-fired power station,51.377777777,-2.358888888
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4968150,Brimsdown Power Station,Coal-fired power station,51.661,-0.022
-United Kingdom,Q145,http://www.wikidata.org/entity/Q96401743,Ribble power station,Coal-fired power station,53.757222222,-2.728055555
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5401419,Eston Grange Power Station,Coal-fired power station,54.579,-1.161
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6413583,Kingston Power Station,Coal-fired power station,51.4154,-0.3061
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6393138,Kepier power station,Coal-fired power station,54.786,-1.562
-United Kingdom,Q145,http://www.wikidata.org/entity/Q104849458,Thornhill power station,Coal-fired power station,53.677222222,-1.654722222
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7059416,Northfleet Power Station,Coal-fired power station,51.445,0.347
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6382256,Kearsley Power Station,Coal-fired power station,53.5394,-2.35917
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4677677,Acton Lane Power Station,Coal-fired power station,51.5305,-0.2559
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116912852,Didcot A Power Station,Coal-fired power station,51.6233,-1.2598
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5132734,Cliff Quay Power Station,Coal-fired power station,52.0358,1.1579
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5347869,Eggborough power station,Coal-fired power station,53.7116,-1.1269
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15208952,Chamber Hall Power Station,Coal-fired power station,53.5973,-2.2985
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5046442,Carrington Power Station,Coal-fired power station,53.4358,-2.41089
-United Kingdom,Q145,http://www.wikidata.org/entity/Q8033983,Woolwich Power Station,Coal-fired power station,51.4944,0.0657
-United Kingdom,Q145,http://www.wikidata.org/entity/Q96381427,Huncoat power station,Coal-fired power station,53.776111111,-2.3375
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5260953,Deptford Power Station,Coal-fired power station,51.4824,-0.0203
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7796705,Thorpe Marsh Power Station,Coal-fired power station,53.5806,-1.08534
-United Kingdom,Q145,http://www.wikidata.org/entity/Q20878103,Carmarthen Bay Power Station,Coal-fired power station,51.679722222,-4.243055555
-United Kingdom,Q145,http://www.wikidata.org/entity/Q85764685,Grove Road Power Station,Coal-fired power station,51.5275,-0.170833333
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4895966,Berwick-upon-Tweed Power Station,Coal-fired power station,55.7667,-2.00476
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5295513,Doncaster Power Station,Coal-fired power station,53.5242,-1.1462
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7076543,Ocker Hill Power Station,Coal-fired power station,52.5429,-2.03514
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5050049,Castle Donington Power Station,Coal-fired power station,52.8478,-1.35851
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6521163,Lemington Power Station,Coal-fired power station,54.9744,-1.71167
-United Kingdom,Q145,http://www.wikidata.org/entity/Q12059330,Hackney Power Station,Coal-fired power station,51.5587,-0.0401
-United Kingdom,Q145,http://www.wikidata.org/entity/Q26535777,Salisbury Generating Station,Coal-fired power station,51.069130972,-1.79793941
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5420126,Exeter Power Station,Coal-fired power station,50.7157,-3.5297
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6823642,Methil power station,Coal-fired power station,56.1909,-2.99673
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117196728,Ferrybridge B Power Station,Coal-fired power station,53.7184,-1.2792
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6415825,Kirkstall Power Station,Coal-fired power station,53.8042,-1.59245
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4939065,Bold Power Station,Coal-fired power station,53.434,-2.6883
-United Kingdom,Q145,http://www.wikidata.org/entity/Q819981,Tilbury power stations,Coal-fired power station,51.4549,0.391677
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7295516,Ratcliffe-on-Soar power station,Coal-fired power station,52.8653,-1.255
-United Kingdom,Q145,http://www.wikidata.org/entity/Q105275011,Roath Power Station,Coal-fired power station,51.494816666,-3.145719444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7056951,North Tees Power Station,Coal-fired power station,54.587,-1.263
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5755907,High Marnham Power Station,Coal-fired power station,53.229,-0.792565
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6825712,Mexborough Power Station,Coal-fired power station,53.4937,-1.26359
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7366390,Roosecote Power Station,Coal-fired power station,54.105,-3.18773
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4667192,Aberthaw power stations,Coal-fired power station,51.3873,-3.40487
-United Kingdom,Q145,http://www.wikidata.org/entity/Q11987128,Lynemouth power station,Coal-fired power station,55.2042,-1.52083
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7568452,South Shore Road power station,Coal-fired power station,54.969,-1.595
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5305645,Drakelow Power Station,Coal-fired power station,52.7736,-1.65681
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7986670,West Thurrock Power Station,Coal-fired power station,51.4696,0.288756
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4930863,Blyth Power Station,Coal-fired power station,55.1417,-1.52861
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7123743,Padiham Power Station,Coal-fired power station,53.7963,-2.33952
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4979559,Brunswick Wharf Power Station,Coal-fired power station,51.5081,0.001
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5139574,Cockenzie power station,Coal-fired power station,55.9683,-2.97154
-United Kingdom,Q145,http://www.wikidata.org/entity/Q880957,Blackwall Point Power Station,Coal-fired power station,51.4978,0.0115
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6673595,Longannet power station,Coal-fired power station,56.0489,-3.68234
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5507926,Fulham Power Station,Coal-fired power station,51.47,-0.183
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7057631,Northampton Power Station,Coal-fired power station,52.2312,-0.88577
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117196720,Ferrybridge A Power Station,Coal-fired power station,53.7175,-1.2715
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6408172,Kilroot power station,Coal-fired power station,54.725,-5.767
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5364630,Elland Power Station,Coal-fired power station,53.6943,-1.82277
-United Kingdom,Q145,http://www.wikidata.org/entity/Q104847162,Sculcoates power station,Coal-fired power station,53.763611111,-0.345
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7985291,West Ham Power Station,Coal-fired power station,51.518,0.0014
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4865668,Barton Power Station,Coal-fired power station,53.473,-2.34881
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6014222,Ince Power Station,Coal-fired power station,53.2782,-2.8083
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5047571,Carville power stations,Coal-fired power station,54.9889,-1.525
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7231838,Portishead power station,Coal-fired power station,51.4912,-2.75505
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5223994,Darlington Power Station,Coal-fired power station,54.5285,-1.5456
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117196738,Ferrybridge C Power Station,Coal-fired power station,53.718,-1.2813
-United Kingdom,Q145,http://www.wikidata.org/entity/Q810953,Battersea Power Station,Coal-fired power station,51.4811,-0.144444
-Canada,Q16,http://www.wikidata.org/entity/Q14358040,H. R. Milner Generating Station,Coal-fired power station,54.0073,-119.103
-Canada,Q16,http://www.wikidata.org/entity/Q7487893,Shand Power Station,Coal-fired power station,49.0883,-102.864
-Canada,Q16,http://www.wikidata.org/entity/Q6383236,Keephills Generating Station,Coal-fired power station,53.44833333,-114.45055556
-Canada,Q16,http://www.wikidata.org/entity/Q7492507,Sheerness Generating Station,Coal-fired power station,51.44222222,-111.79222222
-Canada,Q16,http://www.wikidata.org/entity/Q4949936,Boundary Dam Power Station,Coal-fired power station,49.0964,-103.03
-Canada,Q16,http://www.wikidata.org/entity/Q4815789,Atikokan Generating Station,Coal-fired power station,48.8381,-91.5708
-Canada,Q16,http://www.wikidata.org/entity/Q7229425,Poplar River Power Station,Coal-fired power station,49.0575,-105.483
-Canada,Q16,http://www.wikidata.org/entity/Q7448546,Selkirk Generating Station,Coal-fired power station,50.1422,-96.8842
-Canada,Q16,http://www.wikidata.org/entity/Q4956866,Brandon Generating Station,Coal-fired power station,49.8453,-99.8892
-Canada,Q16,http://www.wikidata.org/entity/Q7208178,Point Tupper Generating Station,Coal-fired power station,45.5869,-61.3481
-Canada,Q16,http://www.wikidata.org/entity/Q11960505,Belledune Generating Station,Coal-fired power station,47.906,-65.8635
-Canada,Q16,http://www.wikidata.org/entity/Q5691682,Hearn Generating Station,Coal-fired power station,43.6455,-79.3351
-Canada,Q16,http://www.wikidata.org/entity/Q7798925,Thunder Bay Generating Station,Coal-fired power station,48.36,-89.22
-Canada,Q16,http://www.wikidata.org/entity/Q6479239,Lakeview Generating Station,Coal-fired power station,43.5711,-79.5517
-Canada,Q16,http://www.wikidata.org/entity/Q4870103,Battle River Generating Station,Coal-fired power station,52.46888889,-112.13388889
-Canada,Q16,http://www.wikidata.org/entity/Q5532732,Genesee Generating Station,Coal-fired power station,53.343,-114.303
-Canada,Q16,http://www.wikidata.org/entity/Q6481597,Lambton Generating Station,Coal-fired power station,42.7972,-82.4694
-Canada,Q16,http://www.wikidata.org/entity/Q7958598,Wabamun Generating Station,Coal-fired power station,53.5583,-114.488
-Canada,Q16,http://www.wikidata.org/entity/Q6553764,Lingan Generating Station,Coal-fired power station,46.235541,-60.03927
-Canada,Q16,http://www.wikidata.org/entity/Q7207928,Point Aconi Generating Station,Coal-fired power station,46.321633,-60.329987
-Canada,Q16,http://www.wikidata.org/entity/Q7639182,Sundance Power Station,Coal-fired power station,53.5075,-114.557
-Canada,Q16,http://www.wikidata.org/entity/Q7838579,Trenton Generating Station,Coal-fired power station,45.6209,-62.6467
-Canada,Q16,http://www.wikidata.org/entity/Q2944695,Nanticoke Generating Station,Coal-fired power station,42.8,-80.0503
-Canada,Q16,http://www.wikidata.org/entity/Q5210868,Dalhousie Generating Station,Coal-fired power station,48.0519,-66.3708
-Poland,Q36,http://www.wikidata.org/entity/Q990952,Jaworzno Power Station,Coal-fired power station,50.206666666,19.203333333
-Poland,Q36,http://www.wikidata.org/entity/Q8080562,Łaziska Power Station,Coal-fired power station,50.1336,18.8414
-Poland,Q36,http://www.wikidata.org/entity/Q19377929,Konin Power Station,Coal-fired power station,52.28534,18.26888
-Poland,Q36,http://www.wikidata.org/entity/Q1546242,Bełchatów Power Station,Coal-fired power station,51.26626,19.32684
-Poland,Q36,http://www.wikidata.org/entity/Q801764,Q801764,Coal-fired power station,50.51580048,16.49665833
-Poland,Q36,http://www.wikidata.org/entity/Q6377825,Katowice Power Station,Coal-fired power station,50.285591666,19.053908333
-Poland,Q36,http://www.wikidata.org/entity/Q11771990,Elektrownia,Coal-fired power station,51.3981,21.1498
-Poland,Q36,http://www.wikidata.org/entity/Q6405238,Kielce Power Station,Coal-fired power station,50.897778,20.616667
-Poland,Q36,http://www.wikidata.org/entity/Q11696582,Halemba Power Station,Coal-fired power station,50.2325,18.851944444
-Poland,Q36,http://www.wikidata.org/entity/Q2216198,Kawęczyn Heat Plant,Coal-fired power station,52.268056,21.128611
-Poland,Q36,http://www.wikidata.org/entity/Q779196,Chorzów Power Station,Coal-fired power station,50.308167,18.969583
-Poland,Q36,http://www.wikidata.org/entity/Q9390228,Ostrołęka Power Station,Coal-fired power station,53.10361111,21.6125
-Poland,Q36,http://www.wikidata.org/entity/Q3503862,Połaniec Power Station,Coal-fired power station,50.437364,21.337103
-Poland,Q36,http://www.wikidata.org/entity/Q9252500,Opole Power Station,Coal-fired power station,50.7514,17.8839
-Poland,Q36,http://www.wikidata.org/entity/Q11696554,Szombierki Heat Power Station,Coal-fired power station,50.345,18.886388888
-Poland,Q36,http://www.wikidata.org/entity/Q1418949,Turów power station,Coal-fired power station,50.94725,14.912056
-Poland,Q36,http://www.wikidata.org/entity/Q3504783,Siersza Power Station,Coal-fired power station,50.206111,19.4625
-Poland,Q36,http://www.wikidata.org/entity/Q1786249,Żerań Power Station,Coal-fired power station,52.294444,20.993611
-Poland,Q36,http://www.wikidata.org/entity/Q742665,Bielsko-Biała Power Plant,Coal-fired power station,49.812,19.052
-Poland,Q36,http://www.wikidata.org/entity/Q1786153,Kozienice Power Station,Coal-fired power station,51.665277777,21.464444444
-Poland,Q36,http://www.wikidata.org/entity/Q8081139,Łódź Heat Power Stations,Coal-fired power station,51.745556,19.537778
-Poland,Q36,http://www.wikidata.org/entity/Q11994866,Pątnów Power Station,Coal-fired power station,52.301111111,18.236111111
-Poland,Q36,http://www.wikidata.org/entity/Q7385772,Rzeszów Power Station,Coal-fired power station,50.064167,22.030278
-Poland,Q36,http://www.wikidata.org/entity/Q751203,Rybnik Power Station,Coal-fired power station,50.133055555,18.523055555
-Poland,Q36,http://www.wikidata.org/entity/Q5529380,Gdańsk Power Station,Coal-fired power station,54.378306,18.641694
-Poland,Q36,http://www.wikidata.org/entity/Q1786207,Siekierki Power Station,Coal-fired power station,52.189722,21.089444
-Poland,Q36,http://www.wikidata.org/entity/Q1786042,Adamów Power Station,Coal-fired power station,52.011111111,18.545556111
-Poland,Q36,http://www.wikidata.org/entity/Q1164234,Dolna Odra Power Station,Coal-fired power station,53.206667,14.464722
-Poland,Q36,http://www.wikidata.org/entity/Q8080403,Łagisza Power Station,Coal-fired power station,50.3492,19.1444
-Russia,Q159,http://www.wikidata.org/entity/Q679340,Kashira Power Plant,Coal-fired power station,54.85805557,38.25972223
-Russia,Q159,http://www.wikidata.org/entity/Q4325436,Novosibirsk Thermal Power Plant 5,Coal-fired power station,55.00556,83.06056
-Russia,Q159,http://www.wikidata.org/entity/Q21639926,Q21639926,Coal-fired power station,66.040833333,60.156944444
-Russia,Q159,http://www.wikidata.org/entity/Q4508682,CHPP-2,Coal-fired power station,55.15333333,61.49972222
-Russia,Q159,http://www.wikidata.org/entity/Q460046,Konakovo Power Station,Coal-fired power station,56.74305556,36.77027778
-Russia,Q159,http://www.wikidata.org/entity/Q4408346,Saransk CHP-2,Coal-fired power station,54.21583333,45.20805556
-Russia,Q159,http://www.wikidata.org/entity/Q4273871,Magadan Thermal Power Plant,Coal-fired power station,59.58347222,150.7869444
-Russia,Q159,http://www.wikidata.org/entity/Q28648147,Q28648147,Coal-fired power station,48.05361,142.1875
-Russia,Q159,http://www.wikidata.org/entity/Q820764,Beryozovskaya GRES,Coal-fired power station,55.57944444,89.0725
-Russia,Q159,http://www.wikidata.org/entity/Q25426936,Q25426936,Coal-fired power station,58.050957,102.807036
-Russia,Q159,http://www.wikidata.org/entity/Q4325435,Novosibirsk CHPP-4,Coal-fired power station,55.1,82.99
-Russia,Q159,http://www.wikidata.org/entity/Q4494338,Q4494338,Coal-fired power station,48.41361111,135.1175
-Russia,Q159,http://www.wikidata.org/entity/Q4203280,Q4203280,Coal-fired power station,52.46219444,103.9790833
-Russia,Q159,http://www.wikidata.org/entity/Q4412617,Q4412617,Coal-fired power station,56.6175,84.81166667
-Russia,Q159,http://www.wikidata.org/entity/Q3430237,Southern Kuzbass GRES,Coal-fired power station,53.51222223,87.26527779
-Russia,Q159,http://www.wikidata.org/entity/Q25426948,Q25426948,Coal-fired power station,55.0016,73.4877
-Russia,Q159,http://www.wikidata.org/entity/Q4508681,Chelyabinsk TETs-1,Coal-fired power station,55.13388889,61.4775
-Russia,Q159,http://www.wikidata.org/entity/Q3432259,Shatura Power Station,Coal-fired power station,55.58333333,39.56111111
-Russia,Q159,http://www.wikidata.org/entity/Q25426938,Q25426938,Coal-fired power station,56.8399,60.8409
-Russia,Q159,http://www.wikidata.org/entity/Q4312224,Nazarovo power station,Coal-fired power station,56.03722222,90.3475
-Indonesia,Q252,http://www.wikidata.org/entity/Q17762472,Cilacap Power Plant,Coal-fired power station,-7.6856287,109.0929864
-Indonesia,Q252,http://www.wikidata.org/entity/Q11994608,Pacitan Power Plant,Coal-fired power station,-8.2582072,111.3737969
-Indonesia,Q252,http://www.wikidata.org/entity/Q5121854,Cirebon Steam Power Plant,Coal-fired power station,-6.77,108.615
-Indonesia,Q252,http://www.wikidata.org/entity/Q19730961,Adipala Power Plant,Coal-fired power station,-7.6836378,109.1372529
-Indonesia,Q252,http://www.wikidata.org/entity/Q12005459,Q12005459,Coal-fired power station,-6.0592373,106.464445
-Indonesia,Q252,http://www.wikidata.org/entity/Q19375553,Indramayu Power Plant,Coal-fired power station,-6.2746363,107.9702339
-Indonesia,Q252,http://www.wikidata.org/entity/Q19378710,Labuan Angin Power Plant,Coal-fired power station,-6.3917358,105.8290619
-Indonesia,Q252,http://www.wikidata.org/entity/Q19386456,Rembang Power Plant,Coal-fired power station,-6.6360318,111.4756054
-Indonesia,Q252,http://www.wikidata.org/entity/Q6333253,Suralaya Power Station,Coal-fired power station,-5.892388888,106.030333333
-Indonesia,Q252,http://www.wikidata.org/entity/Q25470952,Palabuhanratu Power Plant,Coal-fired power station,-7.0234246,106.5461504
-Indonesia,Q252,http://www.wikidata.org/entity/Q12005195,Tanjung Jati Power Plant,Coal-fired power station,-6.4455381,110.7431513
-Indonesia,Q252,http://www.wikidata.org/entity/Q16896355,Paiton Power Station,Coal-fired power station,-7.713833333,113.582611111
-Czech Republic,Q213,http://www.wikidata.org/entity/Q3435621,Elektrárna Dětmarovice,Coal-fired power station,49.9031,18.4692
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878029,Počerady Power Plant,Coal-fired power station,50.429,13.6771
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878035,Tisová power station,Coal-fired power station,50.1533333,12.6119444
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11775147,Oslavany Power Plant,Coal-fired power station,49.1204,16.344
-Czech Republic,Q213,http://www.wikidata.org/entity/Q106715452,CCGT Počerady,Coal-fired power station,50.429,13.6771
-Czech Republic,Q213,http://www.wikidata.org/entity/Q2153090,Chvaletice Power Station,Coal-fired power station,50.02861111,15.45277778
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878024,Opatovice Power Station,Coal-fired power station,50.127115,15.791521
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878017,Hodonín power plant,Coal-fired power station,48.8469,17.12
-Czech Republic,Q213,http://www.wikidata.org/entity/Q2944705,Prunéřov Power Stations,Coal-fired power station,50.418,13.259
-Czech Republic,Q213,http://www.wikidata.org/entity/Q17138606,Q17138606,Coal-fired power station,50.386363,13.333959
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878040,Q11878040,Coal-fired power station,49.8161,18.2739
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878019,Komořany power plant,Coal-fired power station,50.5217,13.57
-Czech Republic,Q213,http://www.wikidata.org/entity/Q1786166,Melnik Power Station,Coal-fired power station,50.41355,14.415436
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878031,Poříčí power plant,Coal-fired power station,50.5722603,15.9642211
-Czech Republic,Q213,http://www.wikidata.org/entity/Q117049020,Q117049020,Coal-fired power station,50.5271719,13.5445381
-Czech Republic,Q213,http://www.wikidata.org/entity/Q12007471,Trmice Power Plant,Coal-fired power station,50.645,13.986666666
-Czech Republic,Q213,http://www.wikidata.org/entity/Q104535226,Kolín Power Plant,Coal-fired power station,50.029991666,15.2093
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878039,Třebovice power plant,Coal-fired power station,49.8316,18.2116
-Czech Republic,Q213,http://www.wikidata.org/entity/Q2944731,Tušimice Power Station,Coal-fired power station,50.3811,13.3392
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11878023,Ledvice power station,Coal-fired power station,50.5767,13.7808
-Spain,Q29,http://www.wikidata.org/entity/Q5760908,Los Barrios power plant,Coal-fired power station,36.18277778,-5.42
-Spain,Q29,http://www.wikidata.org/entity/Q23503987,Fígols power plant,Coal-fired power station,42.176047222,1.860180555
-Spain,Q29,http://www.wikidata.org/entity/Q4168052,Velilla Power Plant,Coal-fired power station,42.8180718,-4.8543157
-Spain,Q29,http://www.wikidata.org/entity/Q3410626,La Robla Power Plant,Coal-fired power station,42.79222222,-5.63444444
-Spain,Q29,http://www.wikidata.org/entity/Q8343544,Compostilla II Power Plant,Coal-fired power station,42.61111111,-6.56583333
-Spain,Q29,http://www.wikidata.org/entity/Q8343548,Litoral de Almería Power Plant,Coal-fired power station,36.978394,-1.90502
-Spain,Q29,http://www.wikidata.org/entity/Q5760844,Aboño Power Plant,Coal-fired power station,43.55305556,-5.72305556
-Spain,Q29,http://www.wikidata.org/entity/Q5760854,Anllares Power Plant,Coal-fired power station,42.83805556,-6.53305556
-Spain,Q29,http://www.wikidata.org/entity/Q5760918,Soto de Ribera Power Plant,Coal-fired power station,43.3125,-5.87444444
-Spain,Q29,http://www.wikidata.org/entity/Q3398721,Meirama Power Plant,Coal-fired power station,43.16805556,-8.41111111
-Spain,Q29,http://www.wikidata.org/entity/Q8343551,Lada Power Plant,Coal-fired power station,43.308694444,-5.698194444
-Spain,Q29,http://www.wikidata.org/entity/Q5760925,Narcea Power Plant,Coal-fired power station,43.292271,-6.3939357
-Spain,Q29,http://www.wikidata.org/entity/Q11996454,Puente Nuevo Power Station,Coal-fired power station,38.110644,-4.934213
-Spain,Q29,http://www.wikidata.org/entity/Q1786223,Teruel Power Plant,Coal-fired power station,40.997777777,-0.382777777
-Romania,Q218,http://www.wikidata.org/entity/Q6869635,Mintia-Deva Power Station,Coal-fired power station,45.91333333,22.82555556
-Romania,Q218,http://www.wikidata.org/entity/Q5643811,Halânga Power Station,Coal-fired power station,44.67666667,22.685
-Romania,Q218,http://www.wikidata.org/entity/Q11995771,Q11995771,Coal-fired power station,44.85833333,24.86666667
-Romania,Q218,http://www.wikidata.org/entity/Q2944717,Turceni Power Station,Coal-fired power station,44.6697,23.4078
-Romania,Q218,http://www.wikidata.org/entity/Q7371723,Rovinari Power Station,Coal-fired power station,44.90833889,23.13503889
-Romania,Q218,http://www.wikidata.org/entity/Q4783611,Arad Power Station,Coal-fired power station,46.221095988,21.328157104
-Romania,Q218,http://www.wikidata.org/entity/Q7198916,Pitești Sud Power Station,Coal-fired power station,44.85833333,24.86666667
-Romania,Q218,http://www.wikidata.org/entity/Q7139610,Paroșeni Power Station,Coal-fired power station,45.3654997,23.2617637
-Romania,Q218,http://www.wikidata.org/entity/Q5611794,Grozăvești Power Station,Coal-fired power station,44.44027778,26.06277778
-South Korea,Q884,http://www.wikidata.org/entity/Q11975772,Honam Coal-Fired Power Plant,Coal-fired power station,34.8535553,127.7352691
-South Korea,Q884,http://www.wikidata.org/entity/Q31180579,Bukpyeong Power Plant,Coal-fired power station,37.4796857,129.1470337
-South Korea,Q884,http://www.wikidata.org/entity/Q16097744,Seoul Power Station,Coal-fired power station,37.54416,126.918057
-South Korea,Q884,http://www.wikidata.org/entity/Q12622419,Hadong Power Plant,Coal-fired power station,34.9524975,127.8214679
-South Korea,Q884,http://www.wikidata.org/entity/Q12601497,Seocheon Power Plant,Coal-fired power station,36.1362371,126.4959812
-South Korea,Q884,http://www.wikidata.org/entity/Q11965928,Donghae Coal-Fired Power Plant,Coal-fired power station,37.4857985,129.145875
-South Korea,Q884,http://www.wikidata.org/entity/Q11999235,Samcheonpo Power Plant,Coal-fired power station,34.9117924,128.1096411
-South Korea,Q884,http://www.wikidata.org/entity/Q12591122,Dangjin Power Station,Coal-fired power station,37.055109,126.511302
-South Korea,Q884,http://www.wikidata.org/entity/Q19398844,Yeongdong Thermal Power Plant,Coal-fired power station,37.7387721,128.9808018
-South Korea,Q884,http://www.wikidata.org/entity/Q12011011,Yonghungdo power station,Coal-fired power station,37.2410147,126.4385676
-South Korea,Q884,http://www.wikidata.org/entity/Q22974294,Shin Boryeong Power Plant,Coal-fired power station,36.3848418,126.4867329
-South Korea,Q884,http://www.wikidata.org/entity/Q12598340,Boryeong Power Plant,Coal-fired power station,36.402,126.49
-South Korea,Q884,http://www.wikidata.org/entity/Q19940084,Samcheok Power Plant,Coal-fired power station,37.1855016,129.3410754
-South Korea,Q884,http://www.wikidata.org/entity/Q16179275,Taean Thermal Power Plant,Coal-fired power station,36.905555555,126.234722222
-South Korea,Q884,http://www.wikidata.org/entity/Q19398848,Yeosu Power Plant,Coal-fired power station,34.8401541,127.6915491
-Mongolia,Q711,http://www.wikidata.org/entity/Q121733995,Darkhan Thermal Power Plant,Coal-fired power station,49.436916666,105.958027777
-Mongolia,Q711,http://www.wikidata.org/entity/Q131453957,Thermal Power Plant No. 2,Coal-fired power station,47.905083333,106.807361111
-Mongolia,Q711,http://www.wikidata.org/entity/Q131387897,Buuruljuut Power Plant,Coal-fired power station,47.272305555,107.890361111
-Mongolia,Q711,http://www.wikidata.org/entity/Q121283205,Thermal Power Plant No. 3 (Ulaanbaatar),Coal-fired power station,47.896055555,106.864083333
-Mongolia,Q711,http://www.wikidata.org/entity/Q131620607,Dalanzadgad Thermal Power Plant,Coal-fired power station,43.569722222,104.435277777
-Mongolia,Q711,http://www.wikidata.org/entity/Q131831004,Baganuur Power Plant,Coal-fired power station,47.745666666,108.355027777
-Mongolia,Q711,http://www.wikidata.org/entity/Q121734003,Erdenet Thermal Power Plant,Coal-fired power station,49.04075,104.097444444
-Mongolia,Q711,http://www.wikidata.org/entity/Q123746419,Ukhaa Khudag Power Plant,Coal-fired power station,43.672277777,105.539638888
-Mongolia,Q711,http://www.wikidata.org/entity/Q121536502,Thermal Power Plant No. 4,Coal-fired power station,47.894083333,106.803722222
 France,Q142,http://www.wikidata.org/entity/Q17748376,Q17748376,Coal-fired power station,43.953838165,2.141389825
 France,Q142,http://www.wikidata.org/entity/Q65923030,Q65923030,Coal-fired power station,-21.279747228,55.397202367
 France,Q142,http://www.wikidata.org/entity/Q17162669,Q17162669,Coal-fired power station,49.151005,7.036185
@@ -1471,36 +1424,64 @@ France,Q142,http://www.wikidata.org/entity/Q19378689,La Maxe power plant,Coal-fi
 France,Q142,http://www.wikidata.org/entity/Q65922679,Q65922679,Coal-fired power station,16.3046676,-61.3264432
 France,Q142,http://www.wikidata.org/entity/Q28496355,Émile-Huchet,Coal-fired power station,49.1524433,6.7024201
 France,Q142,http://www.wikidata.org/entity/Q2944672,Centrale thermique de Lucy,Coal-fired power station,46.6675,4.35162
-Finland,Q33,http://www.wikidata.org/entity/Q11882096,Meri-Pori power plant,Coal-fired power station,61.63166667,21.40666667
-Finland,Q33,http://www.wikidata.org/entity/Q11883487,Q11883487,Coal-fired power station,60.43516667,26.91180556
-Finland,Q33,http://www.wikidata.org/entity/Q11900623,Vaskiluoto power stations,Coal-fired power station,63.09138889,21.55388889
-Finland,Q33,http://www.wikidata.org/entity/Q21582274,Hanasaari Power Plant,Coal-fired power station,60.1835155,24.9713394
-Finland,Q33,http://www.wikidata.org/entity/Q3432740,Rauhalahti Power Station,Coal-fired power station,62.23555556,25.81388889
-Finland,Q33,http://www.wikidata.org/entity/Q11895176,Suomenoja power plant,Coal-fired power station,60.149878,24.7181129
-Finland,Q33,http://www.wikidata.org/entity/Q11992895,Naantali Power Plant,Coal-fired power station,60.45766667,22.05516667
-Finland,Q33,http://www.wikidata.org/entity/Q11895958,Tahkoluoto power plant,Coal-fired power station,61.632222,21.405
-Finland,Q33,http://www.wikidata.org/entity/Q11873050,Kristiina power plant,Coal-fired power station,62.25555556,21.32805556
-Finland,Q33,http://www.wikidata.org/entity/Q11892112,Salmisaari Power Plant,Coal-fired power station,60.16472244,24.9038887
-Finland,Q33,http://www.wikidata.org/entity/Q5404479,Kymijärvi power plant,Coal-fired power station,60.991667,25.72
-Finland,Q33,http://www.wikidata.org/entity/Q11977308,Inkoo power plant,Coal-fired power station,60.0203839,23.9129662
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q764289,Ekibastuz GRES-2 Power Station,Coal-fired power station,52.023888888,75.476388888
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q30893421,Q30893421,Coal-fired power station,52.11861,76.87583
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q48941379,Q48941379,Coal-fired power station,49.98333,82.61
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q25390606,Petropavlovsk 2 CHP station,Coal-fired power station,54.898333333,69.187222222
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q11980769,Q11980769,Coal-fired power station,49.673265,58.619555
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q22914837,Zhezkazgan CHP station,Coal-fired power station,47.784166666,67.746111111
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q16432066,Qarağandı 2 CHP station,Coal-fired power station,50.046666666,73.051944444
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q2656363,Ekibastuz GRES-1,Coal-fired power station,51.88638889,75.37666667
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q22083509,Karaganda 3 CHP station,Coal-fired power station,49.9144,73.2353
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q48941987,Q48941987,Coal-fired power station,52.36667,76.93389
-Malaysia,Q833,http://www.wikidata.org/entity/Q116628936,Sejingkat Power Station,Coal-fired power station,1.6369,110.464
-Malaysia,Q833,http://www.wikidata.org/entity/Q7441454,Sultan Salahuddin Abdul Aziz Power Station,Coal-fired power station,3.117,101.322
-Malaysia,Q833,http://www.wikidata.org/entity/Q116696059,Jimah East Power Plant,Coal-fired power station,2.5934859,101.7304373
-Malaysia,Q833,http://www.wikidata.org/entity/Q12005196,Tanjung Bin Power Station,Coal-fired power station,1.334,103.5422
-Malaysia,Q833,http://www.wikidata.org/entity/Q19380991,Manjung Power Station,Coal-fired power station,4.163069,100.64292
-Malaysia,Q833,http://www.wikidata.org/entity/Q116654839,Mukah Power Station,Coal-fired power station,2.969,112.3234
-Malaysia,Q833,http://www.wikidata.org/entity/Q11978589,Jimah Power Plant,Coal-fired power station,2.5923391,101.7243433
-Malaysia,Q833,http://www.wikidata.org/entity/Q116628728,Balingian Power Station,Coal-fired power station,2.7375301,112.47461
+Spain,Q29,http://www.wikidata.org/entity/Q5760908,Los Barrios power plant,Coal-fired power station,36.18277778,-5.42
+Spain,Q29,http://www.wikidata.org/entity/Q23503987,Fígols power plant,Coal-fired power station,42.176047222,1.860180555
+Spain,Q29,http://www.wikidata.org/entity/Q4168052,Velilla Power Plant,Coal-fired power station,42.8180718,-4.8543157
+Spain,Q29,http://www.wikidata.org/entity/Q3410626,La Robla Power Plant,Coal-fired power station,42.79222222,-5.63444444
+Spain,Q29,http://www.wikidata.org/entity/Q8343544,Compostilla II Power Plant,Coal-fired power station,42.61111111,-6.56583333
+Spain,Q29,http://www.wikidata.org/entity/Q8343548,Litoral de Almería Power Plant,Coal-fired power station,36.978394,-1.90502
+Spain,Q29,http://www.wikidata.org/entity/Q5760844,Aboño Power Plant,Coal-fired power station,43.55305556,-5.72305556
+Spain,Q29,http://www.wikidata.org/entity/Q5760854,Anllares Power Plant,Coal-fired power station,42.83805556,-6.53305556
+Spain,Q29,http://www.wikidata.org/entity/Q5760918,Soto de Ribera Power Plant,Coal-fired power station,43.3125,-5.87444444
+Spain,Q29,http://www.wikidata.org/entity/Q3398721,Meirama Power Plant,Coal-fired power station,43.16805556,-8.41111111
+Spain,Q29,http://www.wikidata.org/entity/Q8343551,Lada Power Plant,Coal-fired power station,43.308694444,-5.698194444
+Spain,Q29,http://www.wikidata.org/entity/Q5760925,Narcea Power Plant,Coal-fired power station,43.292271,-6.3939357
+Spain,Q29,http://www.wikidata.org/entity/Q11996454,Puente Nuevo Power Station,Coal-fired power station,38.110644,-4.934213
+Spain,Q29,http://www.wikidata.org/entity/Q1786223,Teruel Power Plant,Coal-fired power station,40.997777777,-0.382777777
+South Korea,Q884,http://www.wikidata.org/entity/Q11975772,Honam Coal-Fired Power Plant,Coal-fired power station,34.8535553,127.7352691
+South Korea,Q884,http://www.wikidata.org/entity/Q31180579,Bukpyeong Power Plant,Coal-fired power station,37.4796857,129.1470337
+South Korea,Q884,http://www.wikidata.org/entity/Q16097744,Seoul Power Station,Coal-fired power station,37.54416,126.918057
+South Korea,Q884,http://www.wikidata.org/entity/Q12622419,Hadong Power Plant,Coal-fired power station,34.9524975,127.8214679
+South Korea,Q884,http://www.wikidata.org/entity/Q12601497,Seocheon Power Plant,Coal-fired power station,36.1362371,126.4959812
+South Korea,Q884,http://www.wikidata.org/entity/Q11965928,Donghae Coal-Fired Power Plant,Coal-fired power station,37.4857985,129.145875
+South Korea,Q884,http://www.wikidata.org/entity/Q11999235,Samcheonpo Power Plant,Coal-fired power station,34.9117924,128.1096411
+South Korea,Q884,http://www.wikidata.org/entity/Q12591122,Dangjin Power Station,Coal-fired power station,37.055109,126.511302
+South Korea,Q884,http://www.wikidata.org/entity/Q19398844,Yeongdong Thermal Power Plant,Coal-fired power station,37.7387721,128.9808018
+South Korea,Q884,http://www.wikidata.org/entity/Q12011011,Yonghungdo power station,Coal-fired power station,37.2410147,126.4385676
+South Korea,Q884,http://www.wikidata.org/entity/Q22974294,Shin Boryeong Power Plant,Coal-fired power station,36.3848418,126.4867329
+South Korea,Q884,http://www.wikidata.org/entity/Q12598340,Boryeong Power Plant,Coal-fired power station,36.402,126.49
+South Korea,Q884,http://www.wikidata.org/entity/Q19940084,Samcheok Power Plant,Coal-fired power station,37.1855016,129.3410754
+South Korea,Q884,http://www.wikidata.org/entity/Q16179275,Taean Thermal Power Plant,Coal-fired power station,36.905555555,126.234722222
+South Korea,Q884,http://www.wikidata.org/entity/Q19398848,Yeosu Power Plant,Coal-fired power station,34.8401541,127.6915491
+Romania,Q218,http://www.wikidata.org/entity/Q6869635,Mintia-Deva Power Station,Coal-fired power station,45.91333333,22.82555556
+Romania,Q218,http://www.wikidata.org/entity/Q5643811,Halânga Power Station,Coal-fired power station,44.67666667,22.685
+Romania,Q218,http://www.wikidata.org/entity/Q11995771,Q11995771,Coal-fired power station,44.85833333,24.86666667
+Romania,Q218,http://www.wikidata.org/entity/Q2944717,Turceni Power Station,Coal-fired power station,44.6697,23.4078
+Romania,Q218,http://www.wikidata.org/entity/Q7371723,Rovinari Power Station,Coal-fired power station,44.90833889,23.13503889
+Romania,Q218,http://www.wikidata.org/entity/Q4783611,Arad Power Station,Coal-fired power station,46.221095988,21.328157104
+Romania,Q218,http://www.wikidata.org/entity/Q7198916,Pitești Sud Power Station,Coal-fired power station,44.85833333,24.86666667
+Romania,Q218,http://www.wikidata.org/entity/Q7139610,Paroșeni Power Station,Coal-fired power station,45.3654997,23.2617637
+Romania,Q218,http://www.wikidata.org/entity/Q5611794,Grozăvești Power Station,Coal-fired power station,44.44027778,26.06277778
+Ukraine,Q212,http://www.wikidata.org/entity/Q4412574,Sievierodonetsk Power Station,Coal-fired power station,48.9375,38.452777777
+Ukraine,Q212,http://www.wikidata.org/entity/Q2032458,Zuevska thermal power station,Coal-fired power station,48.0347,38.285
+Ukraine,Q212,http://www.wikidata.org/entity/Q4247823,Kurakhovka power station,Coal-fired power station,47.99543611,37.23713056
+Ukraine,Q212,http://www.wikidata.org/entity/Q3443767,Slovianska thermal power plant,Coal-fired power station,48.8719556,37.7647305
+Ukraine,Q212,http://www.wikidata.org/entity/Q2566637,Vuhlehirska thermal power plant,Coal-fired power station,48.4644,38.1981
+Ukraine,Q212,http://www.wikidata.org/entity/Q3443758,Luhansk power station,Coal-fired power station,48.74781389,39.26238889
+Ukraine,Q212,http://www.wikidata.org/entity/Q4296146,Myronivsky power station,Coal-fired power station,48.48055556,38.28972222
+Ukraine,Q212,http://www.wikidata.org/entity/Q3443751,Zmiivska power plant,Coal-fired power station,49.585,36.525
+Ukraine,Q212,http://www.wikidata.org/entity/Q3443445,Starobesheve thermal power station,Coal-fired power station,47.799118,38.004705
+Ukraine,Q212,http://www.wikidata.org/entity/Q3365756,Zaporizhzhia thermal power station,Coal-fired power station,47.5086,34.6256
+Ukraine,Q212,http://www.wikidata.org/entity/Q2072200,Burshtyn TES,Coal-fired power station,49.209088888,24.665894444
+Mongolia,Q711,http://www.wikidata.org/entity/Q121733995,Darkhan Thermal Power Plant,Coal-fired power station,49.436916666,105.958027777
+Mongolia,Q711,http://www.wikidata.org/entity/Q131453957,Thermal Power Plant No. 2,Coal-fired power station,47.905083333,106.807361111
+Mongolia,Q711,http://www.wikidata.org/entity/Q131387897,Buuruljuut Power Plant,Coal-fired power station,47.272305555,107.890361111
+Mongolia,Q711,http://www.wikidata.org/entity/Q121283205,Thermal Power Plant No. 3 (Ulaanbaatar),Coal-fired power station,47.896055555,106.864083333
+Mongolia,Q711,http://www.wikidata.org/entity/Q131620607,Dalanzadgad Thermal Power Plant,Coal-fired power station,43.569722222,104.435277777
+Mongolia,Q711,http://www.wikidata.org/entity/Q131831004,Baganuur Power Plant,Coal-fired power station,47.745666666,108.355027777
+Mongolia,Q711,http://www.wikidata.org/entity/Q121734003,Erdenet Thermal Power Plant,Coal-fired power station,49.04075,104.097444444
+Mongolia,Q711,http://www.wikidata.org/entity/Q123746419,Ukhaa Khudag Power Plant,Coal-fired power station,43.672277777,105.539638888
+Mongolia,Q711,http://www.wikidata.org/entity/Q121536502,Thermal Power Plant No. 4,Coal-fired power station,47.894083333,106.803722222
 Bulgaria,Q219,http://www.wikidata.org/entity/Q12279878,Maritsa East 3 TPP,Coal-fired power station,42.1446941,26.0039633
 Bulgaria,Q219,http://www.wikidata.org/entity/Q3428971,Ruse Iztok Power Plant,Coal-fired power station,43.865,26.01111111
 Bulgaria,Q219,http://www.wikidata.org/entity/Q3441556,Bobov Dol Power Plant,Coal-fired power station,42.28555556,23.03277778
@@ -1510,41 +1491,6 @@ Bulgaria,Q219,http://www.wikidata.org/entity/Q25435577,Q25435577,Coal-fired powe
 Bulgaria,Q219,http://www.wikidata.org/entity/Q3441851,Republika Power Plant,Coal-fired power station,42.60638889,23.07916667
 Bulgaria,Q219,http://www.wikidata.org/entity/Q6765913,Maritsa 3 Power Plant,Coal-fired power station,42.05416667,25.62638889
 Bulgaria,Q219,http://www.wikidata.org/entity/Q12295921,Maritsa East 2 TPP,Coal-fired power station,42.254167,26.130833
-Italy,Q38,http://www.wikidata.org/entity/Q3664518,Federico II power station,Coal-fired power station,40.56324,18.03182
-Italy,Q38,http://www.wikidata.org/entity/Q3664649,Torrevaldaliga Nord coal-fired power plant,Coal-fired power station,42.127432,11.758437
-Italy,Q38,http://www.wikidata.org/entity/Q3664640,Edipower Brindisi power plant,Coal-fired power station,40.6438532,17.9789503
-Italy,Q38,http://www.wikidata.org/entity/Q3664639,Andrea Palladio power plant,Coal-fired power station,45.4305635,12.2467364
-Italy,Q38,http://www.wikidata.org/entity/Q3664641,Eugenio Montale thermoelectric plant,Coal-fired power station,44.11083333,9.87444444
-Italy,Q38,http://www.wikidata.org/entity/Q12008789,Vado Ligure power plant,Coal-fired power station,44.2758371,8.4308229
-Italy,Q38,http://www.wikidata.org/entity/Q17772520,Fiume Santo coal-fired power plant,Coal-fired power station,40.847838888,8.30515
-Italy,Q38,http://www.wikidata.org/entity/Q12003920,Sulcis power plant,Coal-fired power station,39.1963096,8.4004104
-Denmark,Q35,http://www.wikidata.org/entity/Q3432984,Asnæs Power Station,Coal-fired power station,55.66130556,11.07894444
-Denmark,Q35,http://www.wikidata.org/entity/Q3432599,Svanemølle Power Station,Coal-fired power station,55.7133,12.5881
-Denmark,Q35,http://www.wikidata.org/entity/Q3432315,Ensted Power Station,Coal-fired power station,55.0215,9.4401
-Denmark,Q35,http://www.wikidata.org/entity/Q3432898,H. C. Ørsted Power Station,Coal-fired power station,55.65685278,12.55696389
-Denmark,Q35,http://www.wikidata.org/entity/Q1140285,Esbjerg Power Station,Coal-fired power station,55.45458333,8.45530556
-Denmark,Q35,http://www.wikidata.org/entity/Q3432240,Avedøre Power Station,Coal-fired power station,55.602761,12.47925
-Denmark,Q35,http://www.wikidata.org/entity/Q12301241,Amager power station,Coal-fired power station,55.68555556,12.62611111
-Denmark,Q35,http://www.wikidata.org/entity/Q1355591,Studstrup Power Station,Coal-fired power station,56.251388888,10.344444444
-Denmark,Q35,http://www.wikidata.org/entity/Q3432980,Nordjylland Power Station,Coal-fired power station,57.0745,10.041
-Denmark,Q35,http://www.wikidata.org/entity/Q3432295,Fyn Power Station,Coal-fired power station,55.42980556,10.411
-Netherlands,Q55,http://www.wikidata.org/entity/Q4600031,Amercentrale,Coal-fired power station,51.709444,4.843333
-Netherlands,Q55,http://www.wikidata.org/entity/Q2161394,Gelderland power plant,Coal-fired power station,51.85556,5.83056
-Netherlands,Q55,http://www.wikidata.org/entity/Q2552071,Maasvlakte Power Plant,Coal-fired power station,51.958055555,4.025
-Netherlands,Q55,http://www.wikidata.org/entity/Q21608678,Q21608678,Coal-fired power station,51.431944,3.716667
-Netherlands,Q55,http://www.wikidata.org/entity/Q23988593,Eemshaven Power Station,Coal-fired power station,53.44015278,6.86136389
-Netherlands,Q55,http://www.wikidata.org/entity/Q1962746,Magnum power station,Coal-fired power station,53.44971111,6.85428333
-Netherlands,Q55,http://www.wikidata.org/entity/Q29414104,Maasvlakte Power Station (Engie),Coal-fired power station,51.944722222,4.0725
-Netherlands,Q55,http://www.wikidata.org/entity/Q1942326,Willem-Alexander Centrale,Coal-fired power station,51.22389,5.97111
-Netherlands,Q55,http://www.wikidata.org/entity/Q2131713,Hemwegcentrale,Coal-fired power station,52.40516,4.84513
-Chile,Q298,http://www.wikidata.org/entity/Q11988917,Mejillones Power Plant,Coal-fired power station,-23.08912,-70.4106151
-Chile,Q298,http://www.wikidata.org/entity/Q16490607,Q16490607,Coal-fired power station,-28.56777778,-71.31055556
-Chile,Q298,http://www.wikidata.org/entity/Q5682329,Campiche Central Thermoelectric Plant,Coal-fired power station,-32.747992,-71.483708
-Chile,Q298,http://www.wikidata.org/entity/Q7920230,Ventanas Power Plant,Coal-fired power station,-32.749745,-71.483016
-Chile,Q298,http://www.wikidata.org/entity/Q15617825,Q15617825,Coal-fired power station,-28.46527778,-71.25611111
-Chile,Q298,http://www.wikidata.org/entity/Q12005236,Tarapacá Power Plant,Coal-fired power station,-20.8060227,-70.1930323
-Chile,Q298,http://www.wikidata.org/entity/Q11992014,Norgener Power Plant,Coal-fired power station,-22.0962333,-70.2102858
-Chile,Q298,http://www.wikidata.org/entity/Q99922790,Q99922790,Coal-fired power station,-33.431866,-70.663514
 Vietnam,Q881,http://www.wikidata.org/entity/Q17779747,Hai Phong Thermal Power Station,Coal-fired power station,20.9421021,106.7576051
 Vietnam,Q881,http://www.wikidata.org/entity/Q7179855,Pha Lai Power Station,Coal-fired power station,21.1155,106.309
 Vietnam,Q881,http://www.wikidata.org/entity/Q12008544,Uông Bí Power Station,Coal-fired power station,21.0400352,106.7858934
@@ -1566,17 +1512,36 @@ Philippines,Q928,http://www.wikidata.org/entity/Q11988604,Masinloc Power Plant,C
 Philippines,Q928,http://www.wikidata.org/entity/Q123982775,SLTEC Calaca Power Station,Coal-fired power station,13.919083333,120.826861111
 Philippines,Q928,http://www.wikidata.org/entity/Q21852409,Mariveles Coal-Fired Power Plant,Coal-fired power station,14.424777777,120.536583333
 Philippines,Q928,http://www.wikidata.org/entity/Q117480272,Limay Coal Power Plant,Coal-fired power station,14.519861111,120.603472222
-Ukraine,Q212,http://www.wikidata.org/entity/Q4412574,Sievierodonetsk Power Station,Coal-fired power station,48.9375,38.452777777
-Ukraine,Q212,http://www.wikidata.org/entity/Q2032458,Zuevska thermal power station,Coal-fired power station,48.0347,38.285
-Ukraine,Q212,http://www.wikidata.org/entity/Q4247823,Kurakhovka power station,Coal-fired power station,47.99543611,37.23713056
-Ukraine,Q212,http://www.wikidata.org/entity/Q3443767,Slovianska thermal power plant,Coal-fired power station,48.8719556,37.7647305
-Ukraine,Q212,http://www.wikidata.org/entity/Q2566637,Vuhlehirska thermal power plant,Coal-fired power station,48.4644,38.1981
-Ukraine,Q212,http://www.wikidata.org/entity/Q3443758,Luhansk power station,Coal-fired power station,48.74781389,39.26238889
-Ukraine,Q212,http://www.wikidata.org/entity/Q4296146,Myronivsky power station,Coal-fired power station,48.48055556,38.28972222
-Ukraine,Q212,http://www.wikidata.org/entity/Q3443751,Zmiivska power plant,Coal-fired power station,49.585,36.525
-Ukraine,Q212,http://www.wikidata.org/entity/Q3443445,Starobesheve thermal power station,Coal-fired power station,47.799118,38.004705
-Ukraine,Q212,http://www.wikidata.org/entity/Q3365756,Zaporizhzhia thermal power station,Coal-fired power station,47.5086,34.6256
-Ukraine,Q212,http://www.wikidata.org/entity/Q2072200,Burshtyn TES,Coal-fired power station,49.209088888,24.665894444
+Finland,Q33,http://www.wikidata.org/entity/Q11882096,Meri-Pori power plant,Coal-fired power station,61.63166667,21.40666667
+Finland,Q33,http://www.wikidata.org/entity/Q11883487,Q11883487,Coal-fired power station,60.43516667,26.91180556
+Finland,Q33,http://www.wikidata.org/entity/Q11900623,Vaskiluoto power stations,Coal-fired power station,63.09138889,21.55388889
+Finland,Q33,http://www.wikidata.org/entity/Q21582274,Hanasaari Power Plant,Coal-fired power station,60.1835155,24.9713394
+Finland,Q33,http://www.wikidata.org/entity/Q3432740,Rauhalahti Power Station,Coal-fired power station,62.23555556,25.81388889
+Finland,Q33,http://www.wikidata.org/entity/Q11895176,Suomenoja power plant,Coal-fired power station,60.149878,24.7181129
+Finland,Q33,http://www.wikidata.org/entity/Q11992895,Naantali Power Plant,Coal-fired power station,60.45766667,22.05516667
+Finland,Q33,http://www.wikidata.org/entity/Q11895958,Tahkoluoto power plant,Coal-fired power station,61.632222,21.405
+Finland,Q33,http://www.wikidata.org/entity/Q11873050,Kristiina power plant,Coal-fired power station,62.25555556,21.32805556
+Finland,Q33,http://www.wikidata.org/entity/Q11892112,Salmisaari Power Plant,Coal-fired power station,60.16472244,24.9038887
+Finland,Q33,http://www.wikidata.org/entity/Q5404479,Kymijärvi power plant,Coal-fired power station,60.991667,25.72
+Finland,Q33,http://www.wikidata.org/entity/Q11977308,Inkoo power plant,Coal-fired power station,60.0203839,23.9129662
+Italy,Q38,http://www.wikidata.org/entity/Q3664518,Federico II power station,Coal-fired power station,40.56324,18.03182
+Italy,Q38,http://www.wikidata.org/entity/Q3664649,Torrevaldaliga Nord coal-fired power plant,Coal-fired power station,42.127432,11.758437
+Italy,Q38,http://www.wikidata.org/entity/Q3664640,Edipower Brindisi power plant,Coal-fired power station,40.6438532,17.9789503
+Italy,Q38,http://www.wikidata.org/entity/Q3664639,Andrea Palladio power plant,Coal-fired power station,45.4305635,12.2467364
+Italy,Q38,http://www.wikidata.org/entity/Q3664641,Eugenio Montale thermoelectric plant,Coal-fired power station,44.11083333,9.87444444
+Italy,Q38,http://www.wikidata.org/entity/Q12008789,Vado Ligure power plant,Coal-fired power station,44.2758371,8.4308229
+Italy,Q38,http://www.wikidata.org/entity/Q17772520,Fiume Santo coal-fired power plant,Coal-fired power station,40.847838888,8.30515
+Italy,Q38,http://www.wikidata.org/entity/Q12003920,Sulcis power plant,Coal-fired power station,39.1963096,8.4004104
+Denmark,Q35,http://www.wikidata.org/entity/Q3432984,Asnæs Power Station,Coal-fired power station,55.66130556,11.07894444
+Denmark,Q35,http://www.wikidata.org/entity/Q3432599,Svanemølle Power Station,Coal-fired power station,55.7133,12.5881
+Denmark,Q35,http://www.wikidata.org/entity/Q3432315,Ensted Power Station,Coal-fired power station,55.0215,9.4401
+Denmark,Q35,http://www.wikidata.org/entity/Q3432898,H. C. Ørsted Power Station,Coal-fired power station,55.65685278,12.55696389
+Denmark,Q35,http://www.wikidata.org/entity/Q1140285,Esbjerg Power Station,Coal-fired power station,55.45458333,8.45530556
+Denmark,Q35,http://www.wikidata.org/entity/Q3432240,Avedøre Power Station,Coal-fired power station,55.602761,12.47925
+Denmark,Q35,http://www.wikidata.org/entity/Q12301241,Amager power station,Coal-fired power station,55.68555556,12.62611111
+Denmark,Q35,http://www.wikidata.org/entity/Q1355591,Studstrup Power Station,Coal-fired power station,56.251388888,10.344444444
+Denmark,Q35,http://www.wikidata.org/entity/Q3432980,Nordjylland Power Station,Coal-fired power station,57.0745,10.041
+Denmark,Q35,http://www.wikidata.org/entity/Q3432295,Fyn Power Station,Coal-fired power station,55.42980556,10.411
 Brazil,Q155,http://www.wikidata.org/entity/Q18478373,Complexo Termelétrico Jorge Lacerda,Coal-fired power station,-28.45436,-48.9689
 Brazil,Q155,http://www.wikidata.org/entity/Q106413966,Q106413966,Coal-fired power station,-31.45039,-53.77708
 Brazil,Q155,http://www.wikidata.org/entity/Q11977639,Porto do Itaqui Power Plant,Coal-fired power station,-2.5874518,-44.3386102
@@ -1584,20 +1549,23 @@ Brazil,Q155,http://www.wikidata.org/entity/Q65171143,Figueira Thermal Power Stat
 Brazil,Q155,http://www.wikidata.org/entity/Q10388459,Pecém I Power Plant,Coal-fired power station,-3.5814701,-38.8757783
 Brazil,Q155,http://www.wikidata.org/entity/Q10388457,Presidente Médici Power Plant,Coal-fired power station,-31.551,-53.682
 Brazil,Q155,http://www.wikidata.org/entity/Q106548235,Pecém II Power Plant,Coal-fired power station,-3.5815417,-38.8750738
-Bangladesh,Q902,http://www.wikidata.org/entity/Q28225221,Payra Power Plant,Coal-fired power station,21.9974615,90.3036987
-Bangladesh,Q902,http://www.wikidata.org/entity/Q111265821,Patuakhali power plant,Coal-fired power station,22.0245655,90.3093123
-Bangladesh,Q902,http://www.wikidata.org/entity/Q111265768,Banshkhali power plant,Coal-fired power station,21.9761506,91.8903673
-Bangladesh,Q902,http://www.wikidata.org/entity/Q111265773,Barisal Electric Power Company Limited,Coal-fired power station,21.965277777,90.068888888
-Bangladesh,Q902,http://www.wikidata.org/entity/Q28225223,Matarbari Power Plant,Coal-fired power station,21.8,92.0
-Bangladesh,Q902,http://www.wikidata.org/entity/Q16253289,Barapukuria Power Station,Coal-fired power station,25.5541,88.9494
-Bangladesh,Q902,http://www.wikidata.org/entity/Q15071638,Rampal Power Station,Coal-fired power station,22.595556,89.55402778
-Serbia,Q403,http://www.wikidata.org/entity/Q11991316,Nikola Tesla B thermal power plant,Coal-fired power station,44.6548824,20.0053288
-Serbia,Q403,http://www.wikidata.org/entity/Q105964305,Morava thermal power plant,Coal-fired power station,44.224673,21.1627492
-Serbia,Q403,http://www.wikidata.org/entity/Q11991325,Nikola Tesla A thermal power plant,Coal-fired power station,44.6708181,20.15963
-Serbia,Q403,http://www.wikidata.org/entity/Q11878022,Kostolac B Power Station,Coal-fired power station,44.7299442,21.2097394
-Serbia,Q403,http://www.wikidata.org/entity/Q20435253,Врдник,Coal-fired power station,45.120333,19.787666
-Serbia,Q403,http://www.wikidata.org/entity/Q18394121,Thermal power plant Kolubara,Coal-fired power station,44.4808167,20.2937686
-Serbia,Q403,http://www.wikidata.org/entity/Q11981887,Kostolac A Power Station,Coal-fired power station,44.722535,21.1713088
+Malaysia,Q833,http://www.wikidata.org/entity/Q116628936,Sejingkat Power Station,Coal-fired power station,1.6369,110.464
+Malaysia,Q833,http://www.wikidata.org/entity/Q7441454,Sultan Salahuddin Abdul Aziz Power Station,Coal-fired power station,3.117,101.322
+Malaysia,Q833,http://www.wikidata.org/entity/Q116696059,Jimah East Power Plant,Coal-fired power station,2.5934859,101.7304373
+Malaysia,Q833,http://www.wikidata.org/entity/Q12005196,Tanjung Bin Power Station,Coal-fired power station,1.334,103.5422
+Malaysia,Q833,http://www.wikidata.org/entity/Q19380991,Manjung Power Station,Coal-fired power station,4.163069,100.64292
+Malaysia,Q833,http://www.wikidata.org/entity/Q116654839,Mukah Power Station,Coal-fired power station,2.969,112.3234
+Malaysia,Q833,http://www.wikidata.org/entity/Q11978589,Jimah Power Plant,Coal-fired power station,2.5923391,101.7243433
+Malaysia,Q833,http://www.wikidata.org/entity/Q116628728,Balingian Power Station,Coal-fired power station,2.7375301,112.47461
+Netherlands,Q55,http://www.wikidata.org/entity/Q4600031,Amercentrale,Coal-fired power station,51.709444,4.843333
+Netherlands,Q55,http://www.wikidata.org/entity/Q2161394,Gelderland power plant,Coal-fired power station,51.85556,5.83056
+Netherlands,Q55,http://www.wikidata.org/entity/Q2552071,Maasvlakte Power Plant,Coal-fired power station,51.958055555,4.025
+Netherlands,Q55,http://www.wikidata.org/entity/Q21608678,Q21608678,Coal-fired power station,51.431944,3.716667
+Netherlands,Q55,http://www.wikidata.org/entity/Q23988593,Eemshaven Power Station,Coal-fired power station,53.44015278,6.86136389
+Netherlands,Q55,http://www.wikidata.org/entity/Q1962746,Magnum power station,Coal-fired power station,53.44971111,6.85428333
+Netherlands,Q55,http://www.wikidata.org/entity/Q29414104,Maasvlakte Power Station (Engie),Coal-fired power station,51.944722222,4.0725
+Netherlands,Q55,http://www.wikidata.org/entity/Q1942326,Willem-Alexander Centrale,Coal-fired power station,51.22389,5.97111
+Netherlands,Q55,http://www.wikidata.org/entity/Q2131713,Hemwegcentrale,Coal-fired power station,52.40516,4.84513
 Austria,Q40,http://www.wikidata.org/entity/Q19392536,Q19392536,Coal-fired power station,48.013102003,13.589164674
 Austria,Q40,http://www.wikidata.org/entity/Q1158822,Q1158822,Coal-fired power station,48.196261111,16.3536
 Austria,Q40,http://www.wikidata.org/entity/Q1158819,Dampfkraftwerk Ebenfurth,Coal-fired power station,47.87,16.35
@@ -1607,16 +1575,44 @@ Austria,Q40,http://www.wikidata.org/entity/Q1158823,Dampfkraftwerk Engerthstraß
 Austria,Q40,http://www.wikidata.org/entity/Q1158824,Voitsberg power station,Coal-fired power station,47.0513,15.1333
 Austria,Q40,http://www.wikidata.org/entity/Q1786193,Kraftwerk Riedersbach,Coal-fired power station,48.0314,12.8422
 Austria,Q40,http://www.wikidata.org/entity/Q11988975,Q11988975,Coal-fired power station,46.910911,15.488597
+Chile,Q298,http://www.wikidata.org/entity/Q11988917,Mejillones Power Plant,Coal-fired power station,-23.08912,-70.4106151
+Chile,Q298,http://www.wikidata.org/entity/Q16490607,Q16490607,Coal-fired power station,-28.56777778,-71.31055556
+Chile,Q298,http://www.wikidata.org/entity/Q5682329,Campiche Central Thermoelectric Plant,Coal-fired power station,-32.747992,-71.483708
+Chile,Q298,http://www.wikidata.org/entity/Q7920230,Ventanas Power Plant,Coal-fired power station,-32.749745,-71.483016
+Chile,Q298,http://www.wikidata.org/entity/Q15617825,Q15617825,Coal-fired power station,-28.46527778,-71.25611111
+Chile,Q298,http://www.wikidata.org/entity/Q12005236,Tarapacá Power Plant,Coal-fired power station,-20.8060227,-70.1930323
+Chile,Q298,http://www.wikidata.org/entity/Q11992014,Norgener Power Plant,Coal-fired power station,-22.0962333,-70.2102858
+Chile,Q298,http://www.wikidata.org/entity/Q99922790,Q99922790,Coal-fired power station,-33.431866,-70.663514
+Serbia,Q403,http://www.wikidata.org/entity/Q11991316,Nikola Tesla B thermal power plant,Coal-fired power station,44.6548824,20.0053288
+Serbia,Q403,http://www.wikidata.org/entity/Q105964305,Morava thermal power plant,Coal-fired power station,44.224673,21.1627492
+Serbia,Q403,http://www.wikidata.org/entity/Q11991325,Nikola Tesla A thermal power plant,Coal-fired power station,44.6708181,20.15963
+Serbia,Q403,http://www.wikidata.org/entity/Q11878022,Kostolac B Power Station,Coal-fired power station,44.7299442,21.2097394
+Serbia,Q403,http://www.wikidata.org/entity/Q20435253,Врдник,Coal-fired power station,45.120333,19.787666
+Serbia,Q403,http://www.wikidata.org/entity/Q18394121,Thermal power plant Kolubara,Coal-fired power station,44.4808167,20.2937686
+Serbia,Q403,http://www.wikidata.org/entity/Q11981887,Kostolac A Power Station,Coal-fired power station,44.722535,21.1713088
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q764289,Ekibastuz GRES-2 Power Station,Coal-fired power station,52.023888888,75.476388888
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q30893421,Q30893421,Coal-fired power station,52.11861,76.87583
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q48941379,Q48941379,Coal-fired power station,49.98333,82.61
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q25390606,Petropavlovsk 2 CHP station,Coal-fired power station,54.898333333,69.187222222
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q11980769,Q11980769,Coal-fired power station,49.673265,58.619555
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q22914837,Zhezkazgan CHP station,Coal-fired power station,47.784166666,67.746111111
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q16432066,Qarağandı 2 CHP station,Coal-fired power station,50.046666666,73.051944444
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q2656363,Ekibastuz GRES-1,Coal-fired power station,51.88638889,75.37666667
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q22083509,Karaganda 3 CHP station,Coal-fired power station,49.9144,73.2353
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q48941987,Q48941987,Coal-fired power station,52.36667,76.93389
 Zimbabwe,Q954,http://www.wikidata.org/entity/Q56373948,Munyati Thermal Power Station,Coal-fired power station,-18.655333333,29.781833333
 Zimbabwe,Q954,http://www.wikidata.org/entity/Q1657787,Hwange Thermal Power Station,Coal-fired power station,-18.3835,26.47
 Zimbabwe,Q954,http://www.wikidata.org/entity/Q56373946,Harare Thermal Power Station,Coal-fired power station,-17.845722222,31.031805555
 Zimbabwe,Q954,http://www.wikidata.org/entity/Q56373952,Bulawayo Thermal Power Station,Coal-fired power station,-20.159194444,28.575611111
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q17097885,"Thermal Power Station Kakanj, Catici",Coal-fired power station,44.13111111,18.0875
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q7857286,Tuzla Power Station,Coal-fired power station,44.52,18.6061
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q1780876,Ugljevik Power Plant,Coal-fired power station,44.681944,18.967222
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q1786135,Kakanj Power Station,Coal-fired power station,44.08977,18.114317
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q17775734,Gacko Power Plant,Coal-fired power station,43.173619444,18.516288888
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q18392784,Stanari Thermal Power Plant,Coal-fired power station,44.7538346,17.7914142
+Morocco,Q1028,http://www.wikidata.org/entity/Q18214312,Safi Power Plant,Coal-fired power station,32.148138888,-9.2805
+Morocco,Q1028,http://www.wikidata.org/entity/Q20828761,Jorf Lasfar Power Plant,Coal-fired power station,33.104805555,-8.636694444
+Morocco,Q1028,http://www.wikidata.org/entity/Q11989768,Mohammedia Power Plant,Coal-fired power station,33.682,-7.433805555
+Morocco,Q1028,http://www.wikidata.org/entity/Q11978473,Jerada Thermal Power Station,Coal-fired power station,34.309611111,-2.190805555
+Portugal,Q45,http://www.wikidata.org/entity/Q19391970,Tapada do Outeiro,Coal-fired power station,41.067704,-8.460406
+Portugal,Q45,http://www.wikidata.org/entity/Q968458,Tejo Power Station,Coal-fired power station,38.695823,-9.194977
+Hungary,Q28,http://www.wikidata.org/entity/Q168477,Mátra Power Plant,Coal-fired power station,47.79027778,20.0625
+Hungary,Q28,http://www.wikidata.org/entity/Q19392588,Power Plant Tiszapalkonya,Coal-fired power station,47.90531,21.05574
+Hungary,Q28,http://www.wikidata.org/entity/Q4946672,Borsod Power Plant,Coal-fired power station,48.234722,20.684722
 Taiwan,Q865,http://www.wikidata.org/entity/Q7212656,Hsinta Power Plant,Coal-fired power station,22.85638889,120.19694444
 Taiwan,Q865,http://www.wikidata.org/entity/Q24835991,Q24835991,Coal-fired power station,24.30261111,120.52383333
 Taiwan,Q865,http://www.wikidata.org/entity/Q10935779,Talin Power Plant,Coal-fired power station,22.5361,120.336
@@ -1625,77 +1621,81 @@ Taiwan,Q865,http://www.wikidata.org/entity/Q15243860,Mailiao Power Plant,Coal-fi
 Taiwan,Q865,http://www.wikidata.org/entity/Q584095,Taichung Power Plant,Coal-fired power station,24.2128,120.481
 Taiwan,Q865,http://www.wikidata.org/entity/Q11105601,Linkou Power Plant,Coal-fired power station,25.12083333,121.29833333
 Taiwan,Q865,http://www.wikidata.org/entity/Q16926651,Shen'ao Power Plant,Coal-fired power station,25.127333333,121.814972222
-Portugal,Q45,http://www.wikidata.org/entity/Q19391970,Tapada do Outeiro,Coal-fired power station,41.067704,-8.460406
-Portugal,Q45,http://www.wikidata.org/entity/Q968458,Tejo Power Station,Coal-fired power station,38.695823,-9.194977
+Bangladesh,Q902,http://www.wikidata.org/entity/Q28225221,Payra Power Plant,Coal-fired power station,21.9974615,90.3036987
+Bangladesh,Q902,http://www.wikidata.org/entity/Q111265821,Patuakhali power plant,Coal-fired power station,22.0245655,90.3093123
+Bangladesh,Q902,http://www.wikidata.org/entity/Q111265768,Banshkhali power plant,Coal-fired power station,21.9761506,91.8903673
+Bangladesh,Q902,http://www.wikidata.org/entity/Q111265773,Barisal Electric Power Company Limited,Coal-fired power station,21.965277777,90.068888888
+Bangladesh,Q902,http://www.wikidata.org/entity/Q28225223,Matarbari Power Plant,Coal-fired power station,21.8,92.0
+Bangladesh,Q902,http://www.wikidata.org/entity/Q16253289,Barapukuria Power Station,Coal-fired power station,25.5541,88.9494
+Bangladesh,Q902,http://www.wikidata.org/entity/Q15071638,Rampal Power Station,Coal-fired power station,22.595556,89.55402778
 Norway,Q20,http://www.wikidata.org/entity/Q11986759,Longyear Energiverk,Coal-fired power station,78.2253,15.6186
 Norway,Q20,http://www.wikidata.org/entity/Q19385861,Q19385861,Coal-fired power station,78.657,16.39
 Norway,Q20,http://www.wikidata.org/entity/Q11960204,Q11960204,Coal-fired power station,78.055,14.212
-Morocco,Q1028,http://www.wikidata.org/entity/Q18214312,Safi Power Plant,Coal-fired power station,32.148138888,-9.2805
-Morocco,Q1028,http://www.wikidata.org/entity/Q20828761,Jorf Lasfar Power Plant,Coal-fired power station,33.104805555,-8.636694444
-Morocco,Q1028,http://www.wikidata.org/entity/Q11989768,Mohammedia Power Plant,Coal-fired power station,33.682,-7.433805555
-Morocco,Q1028,http://www.wikidata.org/entity/Q11978473,Jerada Thermal Power Station,Coal-fired power station,34.309611111,-2.190805555
-Pakistan,Q843,http://www.wikidata.org/entity/Q24942712,Pakistan Port Qasim Power Project,Coal-fired power station,24.7854,67.3695
-Pakistan,Q843,http://www.wikidata.org/entity/Q104854929,China Power Hub Power Plant,Coal-fired power station,24.9150665,66.6885996
-Pakistan,Q843,http://www.wikidata.org/entity/Q7710720,Thar Engro Coal Power Project,Coal-fired power station,24.812748531,70.394811619
-Pakistan,Q843,http://www.wikidata.org/entity/Q55616512,Lakhra Power Plant,Coal-fired power station,25.7051383,68.286142
-Pakistan,Q843,http://www.wikidata.org/entity/Q24942715,Sahiwal Coal Power Project,Coal-fired power station,30.71527778,73.23888889
+New Zealand,Q664,http://www.wikidata.org/entity/Q5945709,Huntly Power Station,Coal-fired power station,-37.54388889,175.15277778
+New Zealand,Q664,http://www.wikidata.org/entity/Q6819028,Meremere Power Station,Coal-fired power station,-37.31416667,175.06833333
 Greece,Q41,http://www.wikidata.org/entity/Q11996445,Ptolemaida Power Plant,Coal-fired power station,40.4807487,21.7281568
 Greece,Q41,http://www.wikidata.org/entity/Q19376943,Kardia Power Plant,Coal-fired power station,40.41,21.786
 Greece,Q41,http://www.wikidata.org/entity/Q1786096,Meliti thermal power station,Coal-fired power station,40.81194444,21.60111111
 Greece,Q41,http://www.wikidata.org/entity/Q3438365,Amyntaio Power Station,Coal-fired power station,40.6193112,21.6829133
 Greece,Q41,http://www.wikidata.org/entity/Q954726,Agios Dimitrios Power Station,Coal-fired power station,40.393757,21.925106
 Greece,Q41,http://www.wikidata.org/entity/Q3443962,Megalopoli Power Plant,Coal-fired power station,37.4177,22.1075
-Kosovo,Q1246,http://www.wikidata.org/entity/Q6433360,Kosovo A Power Station,Coal-fired power station,42.67527778,21.08333333
-Kosovo,Q1246,http://www.wikidata.org/entity/Q6433362,Kosovo B Power Station,Coal-fired power station,42.69555556,21.05
-New Zealand,Q664,http://www.wikidata.org/entity/Q5945709,Huntly Power Station,Coal-fired power station,-37.54388889,175.15277778
-New Zealand,Q664,http://www.wikidata.org/entity/Q6819028,Meremere Power Station,Coal-fired power station,-37.31416667,175.06833333
+Pakistan,Q843,http://www.wikidata.org/entity/Q24942712,Pakistan Port Qasim Power Project,Coal-fired power station,24.7854,67.3695
+Pakistan,Q843,http://www.wikidata.org/entity/Q104854929,China Power Hub Power Plant,Coal-fired power station,24.9150665,66.6885996
+Pakistan,Q843,http://www.wikidata.org/entity/Q7710720,Thar Engro Coal Power Project,Coal-fired power station,24.812748531,70.394811619
+Pakistan,Q843,http://www.wikidata.org/entity/Q55616512,Lakhra Power Plant,Coal-fired power station,25.7051383,68.286142
+Pakistan,Q843,http://www.wikidata.org/entity/Q24942715,Sahiwal Coal Power Project,Coal-fired power station,30.71527778,73.23888889
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q17097885,"Thermal Power Station Kakanj, Catici",Coal-fired power station,44.13111111,18.0875
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q7857286,Tuzla Power Station,Coal-fired power station,44.52,18.6061
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q1780876,Ugljevik Power Plant,Coal-fired power station,44.681944,18.967222
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q1786135,Kakanj Power Station,Coal-fired power station,44.08977,18.114317
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q17775734,Gacko Power Plant,Coal-fired power station,43.173619444,18.516288888
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q18392784,Stanari Thermal Power Plant,Coal-fired power station,44.7538346,17.7914142
 Botswana,Q963,http://www.wikidata.org/entity/Q6885794,Mmamabula,Coal-fired power station,-23.609295,26.774952
 Botswana,Q963,http://www.wikidata.org/entity/Q915912,Morupule Power Station,Coal-fired power station,-22.52,27.03666667
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q7410265,Sampur Power Station,Coal-fired power station,8.48611111,81.3
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q6479997,Lakvijaya Power Station,Coal-fired power station,8.018333333,79.722777777
+Croatia,Q224,http://www.wikidata.org/entity/Q656885,Plomin Power Station,Coal-fired power station,45.13647,14.16492
+Soviet Union,Q15180,http://www.wikidata.org/entity/Q3443758,Luhansk power station,Coal-fired power station,48.74781389,39.26238889
+Soviet Union,Q15180,http://www.wikidata.org/entity/Q16432066,Qarağandı 2 CHP station,Coal-fired power station,50.046666666,73.051944444
+Singapore,Q334,http://www.wikidata.org/entity/Q7593503,St James Power Station,Coal-fired power station,1.2647,103.825
+Singapore,Q334,http://www.wikidata.org/entity/Q116735026,Tembusu Multi-Utilities Complex,Coal-fired power station,1.2763845,103.6677057
 Slovenia,Q215,http://www.wikidata.org/entity/Q1601480,Ljubljana Thermal Power Station,Coal-fired power station,46.0576188,14.5454448
 Slovenia,Q215,http://www.wikidata.org/entity/Q12804020,Trbovlje Power Station,Coal-fired power station,46.1258,15.0614
+Kosovo,Q1246,http://www.wikidata.org/entity/Q6433360,Kosovo A Power Station,Coal-fired power station,42.67527778,21.08333333
+Kosovo,Q1246,http://www.wikidata.org/entity/Q6433362,Kosovo B Power Station,Coal-fired power station,42.69555556,21.05
 Mexico,Q96,http://www.wikidata.org/entity/Q11963104,Carbón II thermal power station,Coal-fired power station,28.4671068,-100.6989885
 Mexico,Q96,http://www.wikidata.org/entity/Q11963103,José López Portillo thermal power station,Coal-fired power station,28.4856666,-100.6904054
 Mexico,Q96,http://www.wikidata.org/entity/Q19818968,Petacalco thermal power station,Coal-fired power station,17.98365,-102.1154389
-Belgium,Q31,http://www.wikidata.org/entity/Q22032595,Langerlo power station,Coal-fired power station,50.9405,5.49059972
-Belgium,Q31,http://www.wikidata.org/entity/Q2367229,Ruien power plant,Coal-fired power station,50.783056,3.489722
-Singapore,Q334,http://www.wikidata.org/entity/Q7593503,St James Power Station,Coal-fired power station,1.2647,103.825
-Singapore,Q334,http://www.wikidata.org/entity/Q116735026,Tembusu Multi-Utilities Complex,Coal-fired power station,1.2763845,103.6677057
-Thailand,Q869,http://www.wikidata.org/entity/Q11959919,BLCP Power Plant,Coal-fired power station,12.64467,101.16023
-Thailand,Q869,http://www.wikidata.org/entity/Q11987728,Mae Moh Power Plant,Coal-fired power station,18.2953706,99.7513716
-North Macedonia,Q221,http://www.wikidata.org/entity/Q104849389,TPP Oslomej,Coal-fired power station,41.581944444,21.001666666
-North Macedonia,Q221,http://www.wikidata.org/entity/Q109894770,Bitola power plant,Coal-fired power station,41.056944444,21.482777777
-Soviet Union,Q15180,http://www.wikidata.org/entity/Q3443758,Luhansk power station,Coal-fired power station,48.74781389,39.26238889
-Soviet Union,Q15180,http://www.wikidata.org/entity/Q16432066,Qarağandı 2 CHP station,Coal-fired power station,50.046666666,73.051944444
 Colombia,Q739,http://www.wikidata.org/entity/Q25227005,Termotasajero,Coal-fired power station,7.8481411,-72.6324177
 Colombia,Q739,http://www.wikidata.org/entity/Q12005596,Martín del Corral thermal power station,Coal-fired power station,4.9704119,-73.9475658
 Colombia,Q739,http://www.wikidata.org/entity/Q113330515,Gecelca 3,Coal-fired power station,7.9920131,-75.5937803
 Colombia,Q739,http://www.wikidata.org/entity/Q113330552,Termoguajira,Coal-fired power station,11.2611637,-73.4154186
 Colombia,Q739,http://www.wikidata.org/entity/Q1346032,Termopaipa,Coal-fired power station,5.76833333,-73.14694444
-Zambia,Q953,http://www.wikidata.org/entity/Q56373911,Maamba Power Plant,Coal-fired power station,-17.352861111,27.18575
-Hungary,Q28,http://www.wikidata.org/entity/Q168477,Mátra Power Plant,Coal-fired power station,47.79027778,20.0625
-Hungary,Q28,http://www.wikidata.org/entity/Q19392588,Power Plant Tiszapalkonya,Coal-fired power station,47.90531,21.05574
-Hungary,Q28,http://www.wikidata.org/entity/Q4946672,Borsod Power Plant,Coal-fired power station,48.234722,20.684722
+North Macedonia,Q221,http://www.wikidata.org/entity/Q104849389,TPP Oslomej,Coal-fired power station,41.581944444,21.001666666
+North Macedonia,Q221,http://www.wikidata.org/entity/Q109894770,Bitola power plant,Coal-fired power station,41.056944444,21.482777777
 Israel,Q801,http://www.wikidata.org/entity/Q1931760,Orot Rabin,Coal-fired power station,32.466667,34.886111
 Israel,Q801,http://www.wikidata.org/entity/Q2904076,Rutenberg,Coal-fired power station,31.6275,34.51611111
-Albania,Q222,http://www.wikidata.org/entity/Q5447261,Fier Power Station,Coal-fired power station,40.70111111,19.55111111
-Niger,Q1032,http://www.wikidata.org/entity/Q125796875,Anou Araren Thermal Power Station,Coal-fired power station,17.25,7.788611111
 Slovakia,Q214,http://www.wikidata.org/entity/Q1583581,Nováky Power Plant,Coal-fired power station,48.69861111,18.53333333
 Slovakia,Q214,http://www.wikidata.org/entity/Q1163149,Vojany Power Station,Coal-fired power station,48.5536,21.9781
-Estonia,Q191,http://www.wikidata.org/entity/Q892643,Tallinn Power Plant,Coal-fired power station,59.444444,24.750556
-Croatia,Q224,http://www.wikidata.org/entity/Q656885,Plomin Power Station,Coal-fired power station,45.13647,14.16492
-Georgia,Q230,http://www.wikidata.org/entity/Q19392642,Tkvarcheli thermal power plant,Coal-fired power station,42.8421307,41.6780119
-Ireland,Q27,http://www.wikidata.org/entity/Q6899351,Moneypoint power station,Coal-fired power station,52.60751,-9.42435
+Belgium,Q31,http://www.wikidata.org/entity/Q22032595,Langerlo power station,Coal-fired power station,50.9405,5.49059972
+Belgium,Q31,http://www.wikidata.org/entity/Q2367229,Ruien power plant,Coal-fired power station,50.783056,3.489722
+Niger,Q1032,http://www.wikidata.org/entity/Q125796875,Anou Araren Thermal Power Station,Coal-fired power station,17.25,7.788611111
 Switzerland,Q39,http://www.wikidata.org/entity/Q1158892,Dampfzentrale,Coal-fired power station,46.94073,7.44423
-Senegal,Q1041,http://www.wikidata.org/entity/Q7450246,Sendou power station,Coal-fired power station,14.68906389,-17.21762778
-Tajikistan,Q863,http://www.wikidata.org/entity/Q28669320,Dushanbe-2 Power Plant,Coal-fired power station,38.61028,68.77278
+Georgia,Q230,http://www.wikidata.org/entity/Q19392642,Tkvarcheli thermal power plant,Coal-fired power station,42.8421307,41.6780119
+Zambia,Q953,http://www.wikidata.org/entity/Q56373911,Maamba Power Plant,Coal-fired power station,-17.352861111,27.18575
 Argentina,Q414,http://www.wikidata.org/entity/Q19387191,Río Turbio power plant,Coal-fired power station,-51.5464,-72.2312
+Thailand,Q869,http://www.wikidata.org/entity/Q11959919,BLCP Power Plant,Coal-fired power station,12.64467,101.16023
+Thailand,Q869,http://www.wikidata.org/entity/Q11987728,Mae Moh Power Plant,Coal-fired power station,18.2953706,99.7513716
+Estonia,Q191,http://www.wikidata.org/entity/Q892643,Tallinn Power Plant,Coal-fired power station,59.444444,24.750556
+Ireland,Q27,http://www.wikidata.org/entity/Q6899351,Moneypoint power station,Coal-fired power station,52.60751,-9.42435
+Senegal,Q1041,http://www.wikidata.org/entity/Q7450246,Sendou power station,Coal-fired power station,14.68906389,-17.21762778
+Montenegro,Q236,http://www.wikidata.org/entity/Q7205045,Pljevlja Power Station,Coal-fired power station,43.33397222,19.32694444
+Moldova,Q217,http://www.wikidata.org/entity/Q2022944,Cuciurgan power station,Coal-fired power station,46.63416667,29.93888889
+Tajikistan,Q863,http://www.wikidata.org/entity/Q28669320,Dushanbe-2 Power Plant,Coal-fired power station,38.61028,68.77278
+Malawi,Q1020,http://www.wikidata.org/entity/Q55615626,Kammwamba Thermal Power Station,Coal-fired power station,-15.46,34.84361111
+Albania,Q222,http://www.wikidata.org/entity/Q5447261,Fier Power Station,Coal-fired power station,40.70111111,19.55111111
+Laos,Q819,http://www.wikidata.org/entity/Q16307813,Hongsa power plant,Coal-fired power station,19.6905818,101.279515
 Kenya,Q114,http://www.wikidata.org/entity/Q24236214,Lamu Coal Power Station,Coal-fired power station,-2.15361111,40.90333333
 Iran,Q794,http://www.wikidata.org/entity/Q16053842,Tabas power plant,Coal-fired power station,33.2419,56.2258
 Kyrgyzstan,Q813,http://www.wikidata.org/entity/Q11961156,Bishkek CHP station,Coal-fired power station,42.873055555,74.656111111
-Malawi,Q1020,http://www.wikidata.org/entity/Q55615626,Kammwamba Thermal Power Station,Coal-fired power station,-15.46,34.84361111
 Namibia,Q1030,http://www.wikidata.org/entity/Q56373999,Van Eck Power Station,Coal-fired power station,-22.514,17.078916666
-Moldova,Q217,http://www.wikidata.org/entity/Q2022944,Cuciurgan power station,Coal-fired power station,46.63416667,29.93888889
-Montenegro,Q236,http://www.wikidata.org/entity/Q7205045,Pljevlja Power Station,Coal-fired power station,43.33397222,19.32694444
-Laos,Q819,http://www.wikidata.org/entity/Q16307813,Hongsa power plant,Coal-fired power station,19.6905818,101.279515

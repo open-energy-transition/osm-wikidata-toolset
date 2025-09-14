@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.75221,
+          48.3966
+        ]
+      },
+      "properties": {
+        "label": "Lerchenfeld Bridge Gate",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q116181773",
+        "country_qid": "Q7318",
+        "Wikidata Qid": "Q116181773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.23088889,
           53.42592611
         ]
@@ -16,6 +33,40 @@
         "entity": "http://www.wikidata.org/entity/Q13583396",
         "country_qid": "Q7318",
         "Wikidata Qid": "Q13583396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7442467,
+          52.3642717
+        ]
+      },
+      "properties": {
+        "label": "Q124694021",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124694021",
+        "country_qid": "Q7318",
+        "Wikidata Qid": "Q124694021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367995219,
+          52.56872715
+        ]
+      },
+      "properties": {
+        "label": "Q118669324",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118669324",
+        "country_qid": "Q7318",
+        "Wikidata Qid": "Q118669324"
       }
     },
     {

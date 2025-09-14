@@ -2,8 +2,8 @@ country_name,country_qid,entity,label,type,latitude,longitude
 Canada,Q16,http://www.wikidata.org/entity/Q167840,Hydro-Quebec,transmission system operator (TSO),45.508333,-73.5625
 Romania,Q218,http://www.wikidata.org/entity/Q750324,Transelectrica,transmission system operator (TSO),44.4291253,26.1094667
 Spain,Q29,http://www.wikidata.org/entity/Q1551220,Red Eléctrica de España,transmission system operator (TSO),40.5253657,-3.6033917
-Slovakia,Q214,http://www.wikidata.org/entity/Q12776245,Slovenská elektrizačná prenosová sústava,transmission system operator (TSO),48.144868,17.144181
 Bulgaria,Q219,http://www.wikidata.org/entity/Q12279650,Electricity System Operator,transmission system operator (TSO),42.6697,23.2699
+Slovakia,Q214,http://www.wikidata.org/entity/Q12776245,Slovenská elektrizačná prenosová sústava,transmission system operator (TSO),48.144868,17.144181
 Latvia,Q211,http://www.wikidata.org/entity/Q16822050,Augstsprieguma tīkls,transmission system operator (TSO),56.933098,24.181471
 Croatia,Q224,http://www.wikidata.org/entity/Q88774656,HOPS,transmission system operator (TSO),45.8012442,15.968425
 Hungary,Q28,http://www.wikidata.org/entity/Q88272702,MAVIR,transmission system operator (TSO),47.577905,19.050154
