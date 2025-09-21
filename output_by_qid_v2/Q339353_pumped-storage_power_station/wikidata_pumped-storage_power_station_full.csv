@@ -1,4 +1,109 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+France,Q142,http://www.wikidata.org/entity/Q6507506,Le Pouget,Pumped-storage power station,44.058951,2.768394
+France,Q142,http://www.wikidata.org/entity/Q56356858,Q56356858,Pumped-storage power station,48.449088045,6.933349106
+France,Q142,http://www.wikidata.org/entity/Q17778280,Q17778280,Pumped-storage power station,45.1456395,6.0510909
+France,Q142,http://www.wikidata.org/entity/Q256780,Barrage de Sainte-Croix,Pumped-storage power station,43.736972222,6.133861111
+France,Q142,http://www.wikidata.org/entity/Q2944476,La Coche Power Station,Pumped-storage power station,45.495888888,6.511222222
+France,Q142,http://www.wikidata.org/entity/Q16536848,Montézic Power Station,Pumped-storage power station,44.73110373,2.641922679
+France,Q142,http://www.wikidata.org/entity/Q2885331,Vouglans,Pumped-storage power station,46.39732,5.66568
+France,Q142,http://www.wikidata.org/entity/Q16627510,Revin Pumped Storage Power Plant,Pumped-storage power station,49.9256,4.61333
+France,Q142,http://www.wikidata.org/entity/Q46994621,Vallorcine hydro power plant,Pumped-storage power station,46.05075,6.949361111
+France,Q142,http://www.wikidata.org/entity/Q12004031,Super-Bissorte hydropower plant,Pumped-storage power station,45.2015008,6.5772282
+France,Q142,http://www.wikidata.org/entity/Q19379107,Q19379107,Pumped-storage power station,45.3843231,6.0019032
+Portugal,Q45,http://www.wikidata.org/entity/Q9648934,Aguieira Dam,Pumped-storage power station,40.34027778,-8.19666667
+Portugal,Q45,http://www.wikidata.org/entity/Q9649153,Foz Tua Dam,Pumped-storage power station,41.218805555,-7.422777777
+Portugal,Q45,http://www.wikidata.org/entity/Q56371701,Frades I Hydroelectric Power Plant,Pumped-storage power station,41.695166666,-8.02525
+Portugal,Q45,http://www.wikidata.org/entity/Q56371707,Frades II Hydroelectric Power Plant,Pumped-storage power station,41.695166666,-8.02525
+Portugal,Q45,http://www.wikidata.org/entity/Q9649056,Barragem de Torrão,Pumped-storage power station,41.09740448,-8.2611227
+Portugal,Q45,http://www.wikidata.org/entity/Q56371722,Gouvães Dam,Pumped-storage power station,41.492277777,-7.726111111
+Portugal,Q45,http://www.wikidata.org/entity/Q56016450,Q56016450,Pumped-storage power station,41.22925,-7.01211
+Portugal,Q45,http://www.wikidata.org/entity/Q131414381,Barragem do Pico da Urze,Pumped-storage power station,32.754269444,-17.1189
+Portugal,Q45,http://www.wikidata.org/entity/Q9649091,Alto Rabagão Dam,Pumped-storage power station,41.73972222,-7.85777778
+South Korea,Q884,http://www.wikidata.org/entity/Q8048665,Yangyang Pumped Storage Power Station,Pumped-storage power station,38.020277777,128.536944444
+South Korea,Q884,http://www.wikidata.org/entity/Q11999351,Sancheong pumped-storage power station,Pumped-storage power station,35.255277777,127.7725
+South Korea,Q884,http://www.wikidata.org/entity/Q12010964,Yecheon pumped-storage power station,Pumped-storage power station,36.7535726,128.4235114
+South Korea,Q884,http://www.wikidata.org/entity/Q11963514,Cheongsong pumped-storage power station,Pumped-storage power station,36.4056074,129.0147413
+South Korea,Q884,http://www.wikidata.org/entity/Q11963512,Cheongpyeong pumped-storage power station,Pumped-storage power station,37.7425,127.4877778
+South Korea,Q884,http://www.wikidata.org/entity/Q19387521,Samrangjin pumped-storage power station,Pumped-storage power station,35.4128776,128.8783726
+South Korea,Q884,http://www.wikidata.org/entity/Q11990169,Muju pumped-storage power plant,Pumped-storage power station,35.9615618,127.7023818
+South Korea,Q884,http://www.wikidata.org/entity/Q4754530,Andong Dam,Pumped-storage power station,36.58472222,128.77388889
+Austria,Q40,http://www.wikidata.org/entity/Q2118211,Q2118211,Pumped-storage power station,,
+Austria,Q40,http://www.wikidata.org/entity/Q19375091,Q19375091,Pumped-storage power station,47.146166666,11.967333333
+Austria,Q40,http://www.wikidata.org/entity/Q30974228,Limberg I,Pumped-storage power station,47.197222222,12.719166666
+Austria,Q40,http://www.wikidata.org/entity/Q1786097,Forstsee power station,Pumped-storage power station,46.622611111,14.073361111
+Austria,Q40,http://www.wikidata.org/entity/Q125659105,pumped-storage power station Ebensee,Pumped-storage power station,47.82715,13.76416
+Austria,Q40,http://www.wikidata.org/entity/Q1784148,Kopswerk II,Pumped-storage power station,46.9753,10.0447
+Austria,Q40,http://www.wikidata.org/entity/Q2161356,Rodundwerk,Pumped-storage power station,47.085,9.88167
+Austria,Q40,http://www.wikidata.org/entity/Q1376792,Tauernkraftwerk,Pumped-storage power station,,
+Austria,Q40,http://www.wikidata.org/entity/Q30974236,Q30974236,Pumped-storage power station,46.895232,13.343689
+Austria,Q40,http://www.wikidata.org/entity/Q21036363,Kraftwerk Koralpe,Pumped-storage power station,46.63375,14.955555555
+Austria,Q40,http://www.wikidata.org/entity/Q11982843,Kraftwerk Kühtai,Pumped-storage power station,47.207583333,11.005555555
+Austria,Q40,http://www.wikidata.org/entity/Q17127085,Rellswerk,Pumped-storage power station,47.07388889,9.87416667
+Austria,Q40,http://www.wikidata.org/entity/Q57083407,Q57083407,Pumped-storage power station,46.779319,15.005522
+Austria,Q40,http://www.wikidata.org/entity/Q30974230,Limberg II,Pumped-storage power station,47.19976,12.72215
+Austria,Q40,http://www.wikidata.org/entity/Q30974138,Galgenbichl power station,Pumped-storage power station,47.065888888,13.352777777
+Austria,Q40,http://www.wikidata.org/entity/Q30974032,Q30974032,Pumped-storage power station,46.992916666,13.046777777
+Austria,Q40,http://www.wikidata.org/entity/Q282216,Ranna Pumped Storage Power Station,Pumped-storage power station,48.490277777,13.750833333
+Austria,Q40,http://www.wikidata.org/entity/Q1786130,Powerplants Kaprun,Pumped-storage power station,47.1786,12.7214
+Austria,Q40,http://www.wikidata.org/entity/Q14546796,Rodundwerk II,Pumped-storage power station,47.085,9.88167
+Austria,Q40,http://www.wikidata.org/entity/Q18410487,Q18410487,Pumped-storage power station,46.977361111,13.052
+Austria,Q40,http://www.wikidata.org/entity/Q20791816,Dießbach power plant,Pumped-storage power station,47.4913,12.8181
+Austria,Q40,http://www.wikidata.org/entity/Q87208082,Malta Hydroelectric Power Station,Pumped-storage power station,47.080555555,13.343055555
+Austria,Q40,http://www.wikidata.org/entity/Q1880356,Lünerseewerk,Pumped-storage power station,47.0739,9.87417
+Austria,Q40,http://www.wikidata.org/entity/Q112841794,Kraftwerk Kühtai 2,Pumped-storage power station,47.195605,11.003749
+Austria,Q40,http://www.wikidata.org/entity/Q21874135,Sellrain-Silz hydro power plant group,Pumped-storage power station,47.19902778,11.02222222
+Austria,Q40,http://www.wikidata.org/entity/Q30974218,Ottenstein power station,Pumped-storage power station,48.592555555,15.332444444
+Austria,Q40,http://www.wikidata.org/entity/Q11998475,Q11998475,Pumped-storage power station,47.08671,11.77386
+Austria,Q40,http://www.wikidata.org/entity/Q1786251,Reißeck-Kreuzeck power plants,Pumped-storage power station,46.87220001,13.31212997
+Austria,Q40,http://www.wikidata.org/entity/Q17124971,Obervermuntwerke,Pumped-storage power station,46.92694444,10.05361111
+Austria,Q40,http://www.wikidata.org/entity/Q1784146,Q1784146,Pumped-storage power station,46.9728,10.0581
+Austria,Q40,http://www.wikidata.org/entity/Q2308607,Pumped Storage Station Partenstein,Pumped-storage power station,48.4336,13.9861
+Austria,Q40,http://www.wikidata.org/entity/Q30974219,Q30974219,Pumped-storage power station,47.111333333,13.463055555
+Austria,Q40,http://www.wikidata.org/entity/Q30974119,Kraftwerk Naßfeld,Pumped-storage power station,47.066638888,13.062388888
+Austria,Q40,http://www.wikidata.org/entity/Q30974132,Q30974132,Pumped-storage power station,46.870694444,13.329388888
+Austria,Q40,http://www.wikidata.org/entity/Q27067586,Q27067586,Pumped-storage power station,47.261888888,12.567805555
+Australia,Q408,http://www.wikidata.org/entity/Q8028691,Wivenhoe Power Station,Pumped-storage power station,-27.372222222,152.631944444
+Australia,Q408,http://www.wikidata.org/entity/Q61448240,Tumut 3,Pumped-storage power station,-35.61125,148.291333333
+Australia,Q408,http://www.wikidata.org/entity/Q125919011,Bendeela power station,Pumped-storage power station,-34.734,150.467
+Australia,Q408,http://www.wikidata.org/entity/Q60643984,Kangaroo Valley Hydroelectric Power Station,Pumped-storage power station,-34.723,150.4795
+Australia,Q408,http://www.wikidata.org/entity/Q104847746,Snowy 2.0 hydropower project,Pumped-storage power station,-35.781388888,148.453611111
+Australia,Q408,http://www.wikidata.org/entity/Q133465178,PRDSO WALPOLE HG1,Pumped-storage power station,-34.9772,116.7306
+Australia,Q408,http://www.wikidata.org/entity/Q84766534,Q84766534,Pumped-storage power station,-34.73397222,150.46741667
+Australia,Q408,http://www.wikidata.org/entity/Q1239270,Tumut Hydroelectric Power Station,Pumped-storage power station,-35.398527777,148.246216666
+Bulgaria,Q219,http://www.wikidata.org/entity/Q115574408,Kalin Hydroelectric Power Station,Pumped-storage power station,42.1573,23.2312
+Bulgaria,Q219,http://www.wikidata.org/entity/Q7103997,Orphey Hydroelectric Power Station,Pumped-storage power station,41.940656162,24.447606395
+Bulgaria,Q219,http://www.wikidata.org/entity/Q3441810,Chaira Hydro Power Plant,Pumped-storage power station,42.1602779,23.8612693
+Bulgaria,Q219,http://www.wikidata.org/entity/Q3441540,Belmeken Hydro Power Plant,Pumped-storage power station,42.199444444,23.858333333
+India,Q668,http://www.wikidata.org/entity/Q56368159,Kadana hydro power station,Pumped-storage power station,23.306333333,73.827027777
+India,Q668,http://www.wikidata.org/entity/Q56368041,Koyna Dam Powerhouse,Pumped-storage power station,17.402,73.750361111
+India,Q668,http://www.wikidata.org/entity/Q11971933,Ghatghar pumped-storage power station,Pumped-storage power station,19.5332449,73.6494201
+India,Q668,http://www.wikidata.org/entity/Q69091,Tehri Dam,Pumped-storage power station,30.37777778,78.48055556
+India,Q668,http://www.wikidata.org/entity/Q11996504,Purulia Pumped Storage Power Station,Pumped-storage power station,23.193111111,86.091472222
+India,Q668,http://www.wikidata.org/entity/Q2120392,Sardar Sarovar Dam,Pumped-storage power station,21.830277777,73.747222222
+India,Q668,http://www.wikidata.org/entity/Q4901813,Bhira hydro power station,Pumped-storage power station,18.454833333,73.39
+India,Q668,http://www.wikidata.org/entity/Q11979865,Kadamparai Hydroelectric Power Plant,Pumped-storage power station,10.410583333,77.0435
+Switzerland,Q39,http://www.wikidata.org/entity/Q124461335,Nant de Drance Hydropower Plant,Pumped-storage power station,46.06543,6.90034
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994647,Q46994647,Pumped-storage power station,46.880555555,8.985611111
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994603,Q46994603,Pumped-storage power station,46.411694444,8.612416666
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994634,Q46994634,Pumped-storage power station,46.567944444,8.316944444
+Switzerland,Q39,http://www.wikidata.org/entity/Q1371993,Etzelwerk,Pumped-storage power station,,
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994608,Q46994608,Pumped-storage power station,46.083638888,7.956555555
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994583,Q46994583,Pumped-storage power station,46.375472,9.659306
+Switzerland,Q39,http://www.wikidata.org/entity/Q16854962,Forces Motrices Hongrin-Léman,Pumped-storage power station,46.410219444,6.9317
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994624,Barberine power station,Pumped-storage power station,46.061167,6.958194
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994588,Q46994588,Pumped-storage power station,46.529944444,9.433388888
+Switzerland,Q39,http://www.wikidata.org/entity/Q1786104,Kraftwerk Giessen,Pumped-storage power station,47.2178,9.20941
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994578,Q46994578,Pumped-storage power station,46.679861111,10.144083333
+Switzerland,Q39,http://www.wikidata.org/entity/Q96246662,Kraftwerk Bortel,Pumped-storage power station,46.29344,8.08815
+Switzerland,Q39,http://www.wikidata.org/entity/Q1786212,Centrales de pompage-turbinage de Veytaux,Pumped-storage power station,46.41022,6.9317
+Switzerland,Q39,http://www.wikidata.org/entity/Q19381013,Q19381013,Pumped-storage power station,46.948388888,9.481111111
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994650,Q46994650,Pumped-storage power station,47.138416666,8.897416666
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994621,Vallorcine hydro power plant,Pumped-storage power station,46.05075,6.949361111
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994639,Q46994639,Pumped-storage power station,46.616916666,8.307305555
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994615,Q46994615,Pumped-storage power station,46.153027777,7.620055555
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994601,Q46994601,Pumped-storage power station,46.44216667,8.5155
+Switzerland,Q39,http://www.wikidata.org/entity/Q689068,Linth–Limmern Power Stations,Pumped-storage power station,46.84444444,9.00888889
+Switzerland,Q39,http://www.wikidata.org/entity/Q46994592,Q46994592,Pumped-storage power station,46.578972222,9.119333333
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q17406222,Yixing Pumped Storage Power Station,Pumped-storage power station,31.3147,119.758
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q107143123,Dunhua Pumped-storage Hydro Power Station,Pumped-storage power station,44.0132667,128.0882028
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q84813294,Q84813294,Pumped-storage power station,31.083055555,115.613888888
@@ -42,17 +147,59 @@ People's Republic of China,Q148,http://www.wikidata.org/entity/Q4848427,Bailianh
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19841067,Yamdrok Hydropower Station,Pumped-storage power station,29.2641,90.6064
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q19374885,Q19374885,Pumped-storage power station,33.608333333,112.509166666
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q84765508,Q84765508,Pumped-storage power station,29.699444444,121.254722222
-France,Q142,http://www.wikidata.org/entity/Q6507506,Le Pouget,Pumped-storage power station,44.058951,2.768394
-France,Q142,http://www.wikidata.org/entity/Q56356858,Q56356858,Pumped-storage power station,48.449088045,6.933349106
-France,Q142,http://www.wikidata.org/entity/Q17778280,Q17778280,Pumped-storage power station,45.1456395,6.0510909
-France,Q142,http://www.wikidata.org/entity/Q256780,Barrage de Sainte-Croix,Pumped-storage power station,43.736972222,6.133861111
-France,Q142,http://www.wikidata.org/entity/Q2944476,La Coche Power Station,Pumped-storage power station,45.495888888,6.511222222
-France,Q142,http://www.wikidata.org/entity/Q16536848,Montézic Power Station,Pumped-storage power station,44.73110373,2.641922679
-France,Q142,http://www.wikidata.org/entity/Q2885331,Vouglans,Pumped-storage power station,46.39732,5.66568
-France,Q142,http://www.wikidata.org/entity/Q16627510,Revin Pumped Storage Power Plant,Pumped-storage power station,49.9256,4.61333
-France,Q142,http://www.wikidata.org/entity/Q46994621,Vallorcine hydro power plant,Pumped-storage power station,46.05075,6.949361111
-France,Q142,http://www.wikidata.org/entity/Q12004031,Super-Bissorte hydropower plant,Pumped-storage power station,45.2015008,6.5772282
-France,Q142,http://www.wikidata.org/entity/Q19379107,Q19379107,Pumped-storage power station,45.3843231,6.0019032
+Italy,Q38,http://www.wikidata.org/entity/Q4138183,Ponale Hydroelectric Power Plant,Pumped-storage power station,45.88313611,10.83803333
+Italy,Q38,http://www.wikidata.org/entity/Q56357861,Fadalto hydroelectric power station,Pumped-storage power station,46.069277777,12.331388888
+Italy,Q38,http://www.wikidata.org/entity/Q3434274,Entracque Power Plant,Pumped-storage power station,44.22472222,7.38611111
+Italy,Q38,http://www.wikidata.org/entity/Q56357994,Q56357994,Pumped-storage power station,42.384222222,12.913472222
+Italy,Q38,http://www.wikidata.org/entity/Q7241025,Presenzano Hydroelectric Plant,Pumped-storage power station,41.38138889,14.09027778
+Italy,Q38,http://www.wikidata.org/entity/Q56357843,Gargnano hydroelectric power station,Pumped-storage power station,45.703833333,10.686083333
+Italy,Q38,http://www.wikidata.org/entity/Q56357820,Q56357820,Pumped-storage power station,46.268388888,9.876611111
+Italy,Q38,http://www.wikidata.org/entity/Q19298796,Capriati hydroelectric power station,Pumped-storage power station,41.476305555,14.128222222
+Italy,Q38,http://www.wikidata.org/entity/Q3664593,San Floriano hydroelectric power station,Pumped-storage power station,46.050111111,10.351444444
+Italy,Q38,http://www.wikidata.org/entity/Q56357819,Q56357819,Pumped-storage power station,46.091916666,9.89075
+Italy,Q38,http://www.wikidata.org/entity/Q56358183,Taloro hydroelectric power station,Pumped-storage power station,40.127055555,9.140722222
+Italy,Q38,http://www.wikidata.org/entity/Q56357818,Q56357818,Pumped-storage power station,46.304,9.928694444
+Italy,Q38,http://www.wikidata.org/entity/Q3664585,Pont Ventoux hydroelectric power station,Pumped-storage power station,45.137055555,7.032472222
+Italy,Q38,http://www.wikidata.org/entity/Q3664592,San Giacomo hydroelectric power station,Pumped-storage power station,42.537805555,13.556388888
+Italy,Q38,http://www.wikidata.org/entity/Q56357987,Bargi hydroelectric power station,Pumped-storage power station,44.116745041,11.043073829
+Italy,Q38,http://www.wikidata.org/entity/Q56358182,Anapo hydroelectric power station,Pumped-storage power station,37.116083333,15.139111111
+Italy,Q38,http://www.wikidata.org/entity/Q3664600,Q3664600,Pumped-storage power station,45.483583333,7.372583333
+Italy,Q38,http://www.wikidata.org/entity/Q97371468,Santa Massenza Hydroelectric Power Station,Pumped-storage power station,46.065972222,10.980638888
+Italy,Q38,http://www.wikidata.org/entity/Q18745015,Q18745015,Pumped-storage power station,39.192444444,16.724777777
+Italy,Q38,http://www.wikidata.org/entity/Q5340183,Edolo Pumped Storage Plant,Pumped-storage power station,46.17083333,10.34777778
+Italy,Q38,http://www.wikidata.org/entity/Q3664587,Provvidenza hydroelectric power plant,Pumped-storage power station,42.51124,13.41059
+Italy,Q38,http://www.wikidata.org/entity/Q14646095,Roncovalgrande Hydroelectric Plant,Pumped-storage power station,46.06944444,8.73194444
+Italy,Q38,http://www.wikidata.org/entity/Q56358177,Guadalami hydroelectric power station,Pumped-storage power station,37.955638888,13.279472222
+Spain,Q29,http://www.wikidata.org/entity/Q106149455,La Muela-Cortes hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
+Spain,Q29,http://www.wikidata.org/entity/Q12005170,Tanes Pumped Storage Power Plant,Pumped-storage power station,43.222166666,-5.445888888
+Spain,Q29,http://www.wikidata.org/entity/Q56371934,El Pintado hydro power plant,Pumped-storage power station,37.916333333,-5.930944444
+Spain,Q29,http://www.wikidata.org/entity/Q11957057,Aguayo hydro power station,Pumped-storage power station,43.09525,-4.00025
+Spain,Q29,http://www.wikidata.org/entity/Q56371783,Ip hydro power plant,Pumped-storage power station,42.743361111,-0.516305555
+Spain,Q29,http://www.wikidata.org/entity/Q56371962,Guijo de Granadilla hydro power plant,Pumped-storage power station,40.180027777,-6.14225
+Spain,Q29,http://www.wikidata.org/entity/Q5760789,Q5760789,Pumped-storage power station,37.6492591,-6.1072451
+Spain,Q29,http://www.wikidata.org/entity/Q56371983,Torrejón hydro power plant,Pumped-storage power station,39.835611111,-5.989027777
+Spain,Q29,http://www.wikidata.org/entity/Q12009828,Villarino hydro power plant,Pumped-storage power station,41.2548278,-6.4889102
+Spain,Q29,http://www.wikidata.org/entity/Q2885019,Aldeadávila Dam,Pumped-storage power station,41.211786111,-6.685780555
+Spain,Q29,http://www.wikidata.org/entity/Q11996457,Puente Bibey hydro power plant,Pumped-storage power station,42.314444444,-7.222444444
+Spain,Q29,http://www.wikidata.org/entity/Q12005082,Tajo de la Encantada hydro power plant,Pumped-storage power station,36.908305555,-4.763333333
+Spain,Q29,http://www.wikidata.org/entity/Q56371815,Conso hydro power plant,Pumped-storage power station,42.154166666,-7.188666666
+Spain,Q29,http://www.wikidata.org/entity/Q106171110,Valdecañas Dam,Pumped-storage power station,39.778,-5.613
+Spain,Q29,http://www.wikidata.org/entity/Q56371762,Montamara hydro power plant,Pumped-storage power station,42.673638888,1.237666666
+Spain,Q29,http://www.wikidata.org/entity/Q11989928,Moralets hydro power plant,Pumped-storage power station,42.569472222,0.756111111
+Spain,Q29,http://www.wikidata.org/entity/Q56371914,La Muela-Cortes I hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
+Spain,Q29,http://www.wikidata.org/entity/Q56371916,La Muela-Cortes II hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
+Spain,Q29,http://www.wikidata.org/entity/Q19389774,Soutelo hydro power plant,Pumped-storage power station,42.167888888,-7.174194444
+Ukraine,Q212,http://www.wikidata.org/entity/Q4220145,Kyiv Pumped Storage Power Plant,Pumped-storage power station,50.61038889,30.48775
+Ukraine,Q212,http://www.wikidata.org/entity/Q4212381,Kaniv Pumped Storage Power Station,Pumped-storage power station,49.85194444,31.45055556
+Ukraine,Q212,http://www.wikidata.org/entity/Q1153545,Dniester Pumped Storage Power Station,Pumped-storage power station,48.513611,27.473333
+Ukraine,Q212,http://www.wikidata.org/entity/Q4453055,Tashlyk Pumped-Storage Power Plant,Pumped-storage power station,47.79661111,31.18083333
+Norway,Q20,http://www.wikidata.org/entity/Q17749553,Q17749553,Pumped-storage power station,60.80095,7.56658
+Norway,Q20,http://www.wikidata.org/entity/Q17768168,Duge Power Station,Pumped-storage power station,59.11916,6.89335
+Norway,Q20,http://www.wikidata.org/entity/Q12005672,Q12005672,Pumped-storage power station,63.39044,11.9106
+Norway,Q20,http://www.wikidata.org/entity/Q11975232,Q11975232,Pumped-storage power station,61.56622,7.86239
+Norway,Q20,http://www.wikidata.org/entity/Q19399287,Q19399287,Pumped-storage power station,61.00381,8.08482
+Norway,Q20,http://www.wikidata.org/entity/Q4576004,Saurdal power station,Pumped-storage power station,59.48277,6.67265
+Norway,Q20,http://www.wikidata.org/entity/Q19384138,Q19384138,Pumped-storage power station,60.89335,6.05628
 Japan,Q17,http://www.wikidata.org/entity/Q84761735,Shin-Nariwagawa Hydro Power Station,Pumped-storage power station,34.821111111,133.401388888
 Japan,Q17,http://www.wikidata.org/entity/Q84761738,Matanogawa Pumped Storage Power Station,Pumped-storage power station,35.2575,133.509444444
 Japan,Q17,http://www.wikidata.org/entity/Q11988796,Mazegawa 1 hydro power station,Pumped-storage power station,35.75886111,137.15691667
@@ -96,6 +243,10 @@ Japan,Q17,http://www.wikidata.org/entity/Q124709156,Q124709156,Pumped-storage po
 Japan,Q17,http://www.wikidata.org/entity/Q84761754,Kisenyama Pumped Storage Power Station,Pumped-storage power station,34.895277777,135.858055555
 Japan,Q17,http://www.wikidata.org/entity/Q84761699,Q84761699,Pumped-storage power station,33.803055555,134.295833333
 Japan,Q17,http://www.wikidata.org/entity/Q12000224,Shiroyama Pumped Storage Power Station,Pumped-storage power station,35.603888888,139.273888888
+Czech Republic,Q213,http://www.wikidata.org/entity/Q12048091,Černé jezero Hydro Power Plant,Pumped-storage power station,49.1918,13.2076
+Czech Republic,Q213,http://www.wikidata.org/entity/Q12048092,Štěchovice II Hydroelectric Power Station,Pumped-storage power station,49.8458,14.4208
+Czech Republic,Q213,http://www.wikidata.org/entity/Q1507459,Dlouhé stráně Hydro Power Plant,Pumped-storage power station,50.085,17.178888888
+Czech Republic,Q213,http://www.wikidata.org/entity/Q11964594,Dalešice Hydro Power Plant,Pumped-storage power station,49.123888888,16.124333333
 United States,Q30,http://www.wikidata.org/entity/Q2125134,Raccoon Mountain Pumped-Storage Plant,Pumped-storage power station,35.048333333,-85.396666666
 United States,Q30,http://www.wikidata.org/entity/Q11962967,Cabin Creek Power Plant,Pumped-storage power station,39.65522222,-105.70841667
 United States,Q30,http://www.wikidata.org/entity/Q7087350,Olivenhain Dam,Pumped-storage power station,33.07,-117.138
@@ -138,86 +289,6 @@ United States,Q30,http://www.wikidata.org/entity/Q7355906,Rocky Mountain Hydroel
 United States,Q30,http://www.wikidata.org/entity/Q374898,Ludington Pumped Storage Power Plant,Pumped-storage power station,43.893611111,-86.445277777
 United States,Q30,http://www.wikidata.org/entity/Q116696319,Rocky River (CT),Pumped-storage power station,41.5826,-73.4349
 United States,Q30,http://www.wikidata.org/entity/Q5905501,Horse Mesa Dam,Pumped-storage power station,33.5908,-111.344
-Italy,Q38,http://www.wikidata.org/entity/Q4138183,Ponale Hydroelectric Power Plant,Pumped-storage power station,45.88313611,10.83803333
-Italy,Q38,http://www.wikidata.org/entity/Q56357861,Fadalto hydroelectric power station,Pumped-storage power station,46.069277777,12.331388888
-Italy,Q38,http://www.wikidata.org/entity/Q3434274,Entracque Power Plant,Pumped-storage power station,44.22472222,7.38611111
-Italy,Q38,http://www.wikidata.org/entity/Q56357994,Q56357994,Pumped-storage power station,42.384222222,12.913472222
-Italy,Q38,http://www.wikidata.org/entity/Q7241025,Presenzano Hydroelectric Plant,Pumped-storage power station,41.38138889,14.09027778
-Italy,Q38,http://www.wikidata.org/entity/Q56357843,Gargnano hydroelectric power station,Pumped-storage power station,45.703833333,10.686083333
-Italy,Q38,http://www.wikidata.org/entity/Q56357820,Q56357820,Pumped-storage power station,46.268388888,9.876611111
-Italy,Q38,http://www.wikidata.org/entity/Q19298796,Capriati hydroelectric power station,Pumped-storage power station,41.476305555,14.128222222
-Italy,Q38,http://www.wikidata.org/entity/Q3664593,San Floriano hydroelectric power station,Pumped-storage power station,46.050111111,10.351444444
-Italy,Q38,http://www.wikidata.org/entity/Q56357819,Q56357819,Pumped-storage power station,46.091916666,9.89075
-Italy,Q38,http://www.wikidata.org/entity/Q56358183,Taloro hydroelectric power station,Pumped-storage power station,40.127055555,9.140722222
-Italy,Q38,http://www.wikidata.org/entity/Q56357818,Q56357818,Pumped-storage power station,46.304,9.928694444
-Italy,Q38,http://www.wikidata.org/entity/Q3664585,Pont Ventoux hydroelectric power station,Pumped-storage power station,45.137055555,7.032472222
-Italy,Q38,http://www.wikidata.org/entity/Q3664592,San Giacomo hydroelectric power station,Pumped-storage power station,42.537805555,13.556388888
-Italy,Q38,http://www.wikidata.org/entity/Q56357987,Bargi hydroelectric power station,Pumped-storage power station,44.116745041,11.043073829
-Italy,Q38,http://www.wikidata.org/entity/Q56358182,Anapo hydroelectric power station,Pumped-storage power station,37.116083333,15.139111111
-Italy,Q38,http://www.wikidata.org/entity/Q3664600,Q3664600,Pumped-storage power station,45.483583333,7.372583333
-Italy,Q38,http://www.wikidata.org/entity/Q97371468,Santa Massenza Hydroelectric Power Station,Pumped-storage power station,46.065972222,10.980638888
-Italy,Q38,http://www.wikidata.org/entity/Q18745015,Q18745015,Pumped-storage power station,39.192444444,16.724777777
-Italy,Q38,http://www.wikidata.org/entity/Q5340183,Edolo Pumped Storage Plant,Pumped-storage power station,46.17083333,10.34777778
-Italy,Q38,http://www.wikidata.org/entity/Q3664587,Provvidenza hydroelectric power plant,Pumped-storage power station,42.51124,13.41059
-Italy,Q38,http://www.wikidata.org/entity/Q14646095,Roncovalgrande Hydroelectric Plant,Pumped-storage power station,46.06944444,8.73194444
-Italy,Q38,http://www.wikidata.org/entity/Q56358177,Guadalami hydroelectric power station,Pumped-storage power station,37.955638888,13.279472222
-Switzerland,Q39,http://www.wikidata.org/entity/Q124461335,Nant de Drance Hydropower Plant,Pumped-storage power station,46.06543,6.90034
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994647,Q46994647,Pumped-storage power station,46.880555555,8.985611111
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994603,Q46994603,Pumped-storage power station,46.411694444,8.612416666
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994634,Q46994634,Pumped-storage power station,46.567944444,8.316944444
-Switzerland,Q39,http://www.wikidata.org/entity/Q1371993,Etzelwerk,Pumped-storage power station,,
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994608,Q46994608,Pumped-storage power station,46.083638888,7.956555555
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994583,Q46994583,Pumped-storage power station,46.375472,9.659306
-Switzerland,Q39,http://www.wikidata.org/entity/Q16854962,Forces Motrices Hongrin-Léman,Pumped-storage power station,46.410219444,6.9317
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994624,Barberine power station,Pumped-storage power station,46.061167,6.958194
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994588,Q46994588,Pumped-storage power station,46.529944444,9.433388888
-Switzerland,Q39,http://www.wikidata.org/entity/Q1786104,Kraftwerk Giessen,Pumped-storage power station,47.2178,9.20941
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994578,Q46994578,Pumped-storage power station,46.679861111,10.144083333
-Switzerland,Q39,http://www.wikidata.org/entity/Q96246662,Kraftwerk Bortel,Pumped-storage power station,46.29344,8.08815
-Switzerland,Q39,http://www.wikidata.org/entity/Q1786212,Centrales de pompage-turbinage de Veytaux,Pumped-storage power station,46.41022,6.9317
-Switzerland,Q39,http://www.wikidata.org/entity/Q19381013,Q19381013,Pumped-storage power station,46.948388888,9.481111111
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994650,Q46994650,Pumped-storage power station,47.138416666,8.897416666
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994621,Vallorcine hydro power plant,Pumped-storage power station,46.05075,6.949361111
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994639,Q46994639,Pumped-storage power station,46.616916666,8.307305555
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994615,Q46994615,Pumped-storage power station,46.153027777,7.620055555
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994601,Q46994601,Pumped-storage power station,46.44216667,8.5155
-Switzerland,Q39,http://www.wikidata.org/entity/Q689068,Linth–Limmern Power Stations,Pumped-storage power station,46.84444444,9.00888889
-Switzerland,Q39,http://www.wikidata.org/entity/Q46994592,Q46994592,Pumped-storage power station,46.578972222,9.119333333
-Austria,Q40,http://www.wikidata.org/entity/Q2118211,Q2118211,Pumped-storage power station,,
-Austria,Q40,http://www.wikidata.org/entity/Q19375091,Q19375091,Pumped-storage power station,47.146166666,11.967333333
-Austria,Q40,http://www.wikidata.org/entity/Q30974228,Limberg I,Pumped-storage power station,47.197222222,12.719166666
-Austria,Q40,http://www.wikidata.org/entity/Q1786097,Forstsee power station,Pumped-storage power station,46.622611111,14.073361111
-Austria,Q40,http://www.wikidata.org/entity/Q125659105,pumped-storage power station Ebensee,Pumped-storage power station,47.82715,13.76416
-Austria,Q40,http://www.wikidata.org/entity/Q1784148,Kopswerk II,Pumped-storage power station,46.9753,10.0447
-Austria,Q40,http://www.wikidata.org/entity/Q2161356,Rodundwerk,Pumped-storage power station,47.085,9.88167
-Austria,Q40,http://www.wikidata.org/entity/Q1376792,Tauernkraftwerk,Pumped-storage power station,,
-Austria,Q40,http://www.wikidata.org/entity/Q30974236,Q30974236,Pumped-storage power station,46.895232,13.343689
-Austria,Q40,http://www.wikidata.org/entity/Q21036363,Kraftwerk Koralpe,Pumped-storage power station,46.63375,14.955555555
-Austria,Q40,http://www.wikidata.org/entity/Q11982843,Kraftwerk Kühtai,Pumped-storage power station,47.207583333,11.005555555
-Austria,Q40,http://www.wikidata.org/entity/Q17127085,Rellswerk,Pumped-storage power station,47.07388889,9.87416667
-Austria,Q40,http://www.wikidata.org/entity/Q57083407,Q57083407,Pumped-storage power station,46.779319,15.005522
-Austria,Q40,http://www.wikidata.org/entity/Q30974230,Limberg II,Pumped-storage power station,47.19976,12.72215
-Austria,Q40,http://www.wikidata.org/entity/Q30974138,Galgenbichl power station,Pumped-storage power station,47.065888888,13.352777777
-Austria,Q40,http://www.wikidata.org/entity/Q30974032,Q30974032,Pumped-storage power station,46.992916666,13.046777777
-Austria,Q40,http://www.wikidata.org/entity/Q282216,Ranna Pumped Storage Power Station,Pumped-storage power station,48.490277777,13.750833333
-Austria,Q40,http://www.wikidata.org/entity/Q1786130,Powerplants Kaprun,Pumped-storage power station,47.1786,12.7214
-Austria,Q40,http://www.wikidata.org/entity/Q14546796,Rodundwerk II,Pumped-storage power station,47.085,9.88167
-Austria,Q40,http://www.wikidata.org/entity/Q18410487,Q18410487,Pumped-storage power station,46.977361111,13.052
-Austria,Q40,http://www.wikidata.org/entity/Q20791816,Dießbach power plant,Pumped-storage power station,47.4913,12.8181
-Austria,Q40,http://www.wikidata.org/entity/Q87208082,Malta Hydroelectric Power Station,Pumped-storage power station,47.080555555,13.343055555
-Austria,Q40,http://www.wikidata.org/entity/Q1880356,Lünerseewerk,Pumped-storage power station,47.0739,9.87417
-Austria,Q40,http://www.wikidata.org/entity/Q112841794,Kraftwerk Kühtai 2,Pumped-storage power station,47.195605,11.003749
-Austria,Q40,http://www.wikidata.org/entity/Q21874135,Sellrain-Silz hydro power plant group,Pumped-storage power station,47.19902778,11.02222222
-Austria,Q40,http://www.wikidata.org/entity/Q30974218,Ottenstein power station,Pumped-storage power station,48.592555555,15.332444444
-Austria,Q40,http://www.wikidata.org/entity/Q11998475,Q11998475,Pumped-storage power station,47.08671,11.77386
-Austria,Q40,http://www.wikidata.org/entity/Q1786251,Reißeck-Kreuzeck power plants,Pumped-storage power station,46.87220001,13.31212997
-Austria,Q40,http://www.wikidata.org/entity/Q17124971,Obervermuntwerke,Pumped-storage power station,46.92694444,10.05361111
-Austria,Q40,http://www.wikidata.org/entity/Q1784146,Q1784146,Pumped-storage power station,46.9728,10.0581
-Austria,Q40,http://www.wikidata.org/entity/Q2308607,Pumped Storage Station Partenstein,Pumped-storage power station,48.4336,13.9861
-Austria,Q40,http://www.wikidata.org/entity/Q30974219,Q30974219,Pumped-storage power station,47.111333333,13.463055555
-Austria,Q40,http://www.wikidata.org/entity/Q30974119,Kraftwerk Naßfeld,Pumped-storage power station,47.066638888,13.062388888
-Austria,Q40,http://www.wikidata.org/entity/Q30974132,Q30974132,Pumped-storage power station,46.870694444,13.329388888
-Austria,Q40,http://www.wikidata.org/entity/Q27067586,Q27067586,Pumped-storage power station,47.261888888,12.567805555
 Germany,Q183,http://www.wikidata.org/entity/Q765399,Wendefurth Power Station,Pumped-storage power station,51.7389,10.9069
 Germany,Q183,http://www.wikidata.org/entity/Q1305032,Tanzmühle power station,Pumped-storage power station,49.5523,12.2813
 Germany,Q183,http://www.wikidata.org/entity/Q1786227,Wehr power station,Pumped-storage power station,47.653333333,7.942222222
@@ -259,84 +330,12 @@ Germany,Q183,http://www.wikidata.org/entity/Q2118212,Langenprozelten Pumped Stor
 Germany,Q183,http://www.wikidata.org/entity/Q15125613,Q15125613,Pumped-storage power station,47.62555556,11.37194444
 Germany,Q183,http://www.wikidata.org/entity/Q895734,Goldisthal Pumped Storage Station,Pumped-storage power station,50.5081,11.0258
 Germany,Q183,http://www.wikidata.org/entity/Q106540600,Q106540600,Pumped-storage power station,49.530137642,12.284661029
-Spain,Q29,http://www.wikidata.org/entity/Q106149455,La Muela-Cortes hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
-Spain,Q29,http://www.wikidata.org/entity/Q12005170,Tanes Pumped Storage Power Plant,Pumped-storage power station,43.222166666,-5.445888888
-Spain,Q29,http://www.wikidata.org/entity/Q56371934,El Pintado hydro power plant,Pumped-storage power station,37.916333333,-5.930944444
-Spain,Q29,http://www.wikidata.org/entity/Q11957057,Aguayo hydro power station,Pumped-storage power station,43.09525,-4.00025
-Spain,Q29,http://www.wikidata.org/entity/Q56371783,Ip hydro power plant,Pumped-storage power station,42.743361111,-0.516305555
-Spain,Q29,http://www.wikidata.org/entity/Q56371962,Guijo de Granadilla hydro power plant,Pumped-storage power station,40.180027777,-6.14225
-Spain,Q29,http://www.wikidata.org/entity/Q5760789,Q5760789,Pumped-storage power station,37.6492591,-6.1072451
-Spain,Q29,http://www.wikidata.org/entity/Q56371983,Torrejón hydro power plant,Pumped-storage power station,39.835611111,-5.989027777
-Spain,Q29,http://www.wikidata.org/entity/Q12009828,Villarino hydro power plant,Pumped-storage power station,41.2548278,-6.4889102
-Spain,Q29,http://www.wikidata.org/entity/Q2885019,Aldeadávila Dam,Pumped-storage power station,41.211786111,-6.685780555
-Spain,Q29,http://www.wikidata.org/entity/Q11996457,Puente Bibey hydro power plant,Pumped-storage power station,42.314444444,-7.222444444
-Spain,Q29,http://www.wikidata.org/entity/Q12005082,Tajo de la Encantada hydro power plant,Pumped-storage power station,36.908305555,-4.763333333
-Spain,Q29,http://www.wikidata.org/entity/Q56371815,Conso hydro power plant,Pumped-storage power station,42.154166666,-7.188666666
-Spain,Q29,http://www.wikidata.org/entity/Q106171110,Valdecañas Dam,Pumped-storage power station,39.778,-5.613
-Spain,Q29,http://www.wikidata.org/entity/Q56371762,Montamara hydro power plant,Pumped-storage power station,42.673638888,1.237666666
-Spain,Q29,http://www.wikidata.org/entity/Q11989928,Moralets hydro power plant,Pumped-storage power station,42.569472222,0.756111111
-Spain,Q29,http://www.wikidata.org/entity/Q56371914,La Muela-Cortes I hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
-Spain,Q29,http://www.wikidata.org/entity/Q56371916,La Muela-Cortes II hydro power plant,Pumped-storage power station,39.243861111,-0.931638888
-Spain,Q29,http://www.wikidata.org/entity/Q19389774,Soutelo hydro power plant,Pumped-storage power station,42.167888888,-7.174194444
-India,Q668,http://www.wikidata.org/entity/Q56368159,Kadana hydro power station,Pumped-storage power station,23.306333333,73.827027777
-India,Q668,http://www.wikidata.org/entity/Q56368041,Koyna Dam Powerhouse,Pumped-storage power station,17.402,73.750361111
-India,Q668,http://www.wikidata.org/entity/Q11971933,Ghatghar pumped-storage power station,Pumped-storage power station,19.5332449,73.6494201
-India,Q668,http://www.wikidata.org/entity/Q69091,Tehri Dam,Pumped-storage power station,30.37777778,78.48055556
-India,Q668,http://www.wikidata.org/entity/Q11996504,Purulia Pumped Storage Power Station,Pumped-storage power station,23.193111111,86.091472222
-India,Q668,http://www.wikidata.org/entity/Q2120392,Sardar Sarovar Dam,Pumped-storage power station,21.830277777,73.747222222
-India,Q668,http://www.wikidata.org/entity/Q4901813,Bhira hydro power station,Pumped-storage power station,18.454833333,73.39
-India,Q668,http://www.wikidata.org/entity/Q11979865,Kadamparai Hydroelectric Power Plant,Pumped-storage power station,10.410583333,77.0435
-Portugal,Q45,http://www.wikidata.org/entity/Q9648934,Aguieira Dam,Pumped-storage power station,40.34027778,-8.19666667
-Portugal,Q45,http://www.wikidata.org/entity/Q9649153,Foz Tua Dam,Pumped-storage power station,41.218805555,-7.422777777
-Portugal,Q45,http://www.wikidata.org/entity/Q56371701,Frades I Hydroelectric Power Plant,Pumped-storage power station,41.695166666,-8.02525
-Portugal,Q45,http://www.wikidata.org/entity/Q56371707,Frades II Hydroelectric Power Plant,Pumped-storage power station,41.695166666,-8.02525
-Portugal,Q45,http://www.wikidata.org/entity/Q9649056,Barragem de Torrão,Pumped-storage power station,41.09740448,-8.2611227
-Portugal,Q45,http://www.wikidata.org/entity/Q56371722,Gouvães Dam,Pumped-storage power station,41.492277777,-7.726111111
-Portugal,Q45,http://www.wikidata.org/entity/Q56016450,Q56016450,Pumped-storage power station,41.22925,-7.01211
-Portugal,Q45,http://www.wikidata.org/entity/Q131414381,Barragem do Pico da Urze,Pumped-storage power station,32.754269444,-17.1189
-Portugal,Q45,http://www.wikidata.org/entity/Q9649091,Alto Rabagão Dam,Pumped-storage power station,41.73972222,-7.85777778
-Norway,Q20,http://www.wikidata.org/entity/Q17749553,Q17749553,Pumped-storage power station,60.80095,7.56658
-Norway,Q20,http://www.wikidata.org/entity/Q17768168,Duge Power Station,Pumped-storage power station,59.11916,6.89335
-Norway,Q20,http://www.wikidata.org/entity/Q12005672,Q12005672,Pumped-storage power station,63.39044,11.9106
-Norway,Q20,http://www.wikidata.org/entity/Q11975232,Q11975232,Pumped-storage power station,61.56622,7.86239
-Norway,Q20,http://www.wikidata.org/entity/Q19399287,Q19399287,Pumped-storage power station,61.00381,8.08482
-Norway,Q20,http://www.wikidata.org/entity/Q4576004,Saurdal power station,Pumped-storage power station,59.48277,6.67265
-Norway,Q20,http://www.wikidata.org/entity/Q19384138,Q19384138,Pumped-storage power station,60.89335,6.05628
-South Korea,Q884,http://www.wikidata.org/entity/Q8048665,Yangyang Pumped Storage Power Station,Pumped-storage power station,38.020277777,128.536944444
-South Korea,Q884,http://www.wikidata.org/entity/Q11999351,Sancheong pumped-storage power station,Pumped-storage power station,35.255277777,127.7725
-South Korea,Q884,http://www.wikidata.org/entity/Q12010964,Yecheon pumped-storage power station,Pumped-storage power station,36.7535726,128.4235114
-South Korea,Q884,http://www.wikidata.org/entity/Q11963514,Cheongsong pumped-storage power station,Pumped-storage power station,36.4056074,129.0147413
-South Korea,Q884,http://www.wikidata.org/entity/Q11963512,Cheongpyeong pumped-storage power station,Pumped-storage power station,37.7425,127.4877778
-South Korea,Q884,http://www.wikidata.org/entity/Q19387521,Samrangjin pumped-storage power station,Pumped-storage power station,35.4128776,128.8783726
-South Korea,Q884,http://www.wikidata.org/entity/Q11990169,Muju pumped-storage power plant,Pumped-storage power station,35.9615618,127.7023818
-South Korea,Q884,http://www.wikidata.org/entity/Q4754530,Andong Dam,Pumped-storage power station,36.58472222,128.77388889
-Bulgaria,Q219,http://www.wikidata.org/entity/Q115574408,Kalin Hydroelectric Power Station,Pumped-storage power station,42.1573,23.2312
-Bulgaria,Q219,http://www.wikidata.org/entity/Q7103997,Orphey Hydroelectric Power Station,Pumped-storage power station,41.940656162,24.447606395
-Bulgaria,Q219,http://www.wikidata.org/entity/Q3441810,Chaira Hydro Power Plant,Pumped-storage power station,42.1602779,23.8612693
-Bulgaria,Q219,http://www.wikidata.org/entity/Q3441540,Belmeken Hydro Power Plant,Pumped-storage power station,42.199444444,23.858333333
-Czech Republic,Q213,http://www.wikidata.org/entity/Q12048091,Černé jezero Hydro Power Plant,Pumped-storage power station,49.1918,13.2076
-Czech Republic,Q213,http://www.wikidata.org/entity/Q12048092,Štěchovice II Hydroelectric Power Station,Pumped-storage power station,49.8458,14.4208
-Czech Republic,Q213,http://www.wikidata.org/entity/Q1507459,Dlouhé stráně Hydro Power Plant,Pumped-storage power station,50.085,17.178888888
-Czech Republic,Q213,http://www.wikidata.org/entity/Q11964594,Dalešice Hydro Power Plant,Pumped-storage power station,49.123888888,16.124333333
-Poland,Q36,http://www.wikidata.org/entity/Q609296,Pumped-storage hydroelectricity Żar,Pumped-storage power station,49.78722222,19.23
-Poland,Q36,http://www.wikidata.org/entity/Q9390227,Dychów hydroelectric plant,Pumped-storage power station,51.9896,15.0529
-Poland,Q36,http://www.wikidata.org/entity/Q1727941,Żarnowiec Pumped Storage Power Station,Pumped-storage power station,54.72222222,18.08222222
-Poland,Q36,http://www.wikidata.org/entity/Q9252496,Q9252496,Pumped-storage power station,49.418027777,20.324138888
-Poland,Q36,http://www.wikidata.org/entity/Q1799539,Elektrownia Żydowo,Pumped-storage power station,54.025,16.70694444
-Sweden,Q34,http://www.wikidata.org/entity/Q10551387,Q10551387,Pumped-storage power station,59.926944444,12.895944444
-Sweden,Q34,http://www.wikidata.org/entity/Q56374714,Q56374714,Pumped-storage power station,60.734083333,12.687138888
-Sweden,Q34,http://www.wikidata.org/entity/Q18291062,Q18291062,Pumped-storage power station,65.2902,17.2301
-Australia,Q408,http://www.wikidata.org/entity/Q8028691,Wivenhoe Power Station,Pumped-storage power station,-27.372222222,152.631944444
-Australia,Q408,http://www.wikidata.org/entity/Q61448240,Tumut 3,Pumped-storage power station,-35.61125,148.291333333
-Australia,Q408,http://www.wikidata.org/entity/Q125919011,Bendeela power station,Pumped-storage power station,-34.734,150.467
-Australia,Q408,http://www.wikidata.org/entity/Q60643984,Kangaroo Valley Hydroelectric Power Station,Pumped-storage power station,-34.723,150.4795
-Australia,Q408,http://www.wikidata.org/entity/Q104847746,Snowy 2.0 hydropower project,Pumped-storage power station,-35.781388888,148.453611111
-Australia,Q408,http://www.wikidata.org/entity/Q133465178,PRDSO WALPOLE HG1,Pumped-storage power station,-34.9772,116.7306
-Australia,Q408,http://www.wikidata.org/entity/Q84766534,Q84766534,Pumped-storage power station,-34.73397222,150.46741667
-Australia,Q408,http://www.wikidata.org/entity/Q1239270,Tumut Hydroelectric Power Station,Pumped-storage power station,-35.398527777,148.246216666
-Russia,Q159,http://www.wikidata.org/entity/Q4258102,Q4258102,Pumped-storage power station,60.47611,34.208639
-Russia,Q159,http://www.wikidata.org/entity/Q12115292,Kuban pumped storage station,Pumped-storage power station,44.229694,42.342944
-Russia,Q159,http://www.wikidata.org/entity/Q49526,Zagorsk Pumped Storage Station,Pumped-storage power station,56.48166667,38.19111111
+United Kingdom,Q145,http://www.wikidata.org/entity/Q15212096,Cruachan Power Station,Pumped-storage power station,56.40638889,-5.11305556
+United Kingdom,Q145,http://www.wikidata.org/entity/Q11969812,Foyers Power Station,Pumped-storage power station,57.262111111,-4.483527777
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5446209,Ffestiniog Power Station,Pumped-storage power station,52.9808,-3.96889
+United Kingdom,Q145,http://www.wikidata.org/entity/Q1146238,Dinorwig Power Station,Pumped-storage power station,53.117842582,-4.107341766
+United Kingdom,Q145,http://www.wikidata.org/entity/Q130279783,Fearna Storage project,Pumped-storage power station,57.078,-5.209
+United Kingdom,Q145,http://www.wikidata.org/entity/Q130377142,Balliemeanoch Pumped Storage Hydro,Pumped-storage power station,56.3,-5.164
 South Africa,Q258,http://www.wikidata.org/entity/Q1663455,Ingula Pumped Storage Scheme,Pumped-storage power station,-28.280163888,29.587986111
 South Africa,Q258,http://www.wikidata.org/entity/Q113114958,Steenbras Power Station,Pumped-storage power station,-34.152222222,18.898333333
 South Africa,Q258,http://www.wikidata.org/entity/Q7128394,Palmiet Pumped Storage Scheme,Pumped-storage power station,-34.1978,18.9741
@@ -345,43 +344,44 @@ Slovakia,Q214,http://www.wikidata.org/entity/Q30973032,Dobšiná hydroelectric p
 Slovakia,Q214,http://www.wikidata.org/entity/Q31927442,Čierny Váh pumped storage hydroelectric power station,Pumped-storage power station,49.0088,19.91235
 Slovakia,Q214,http://www.wikidata.org/entity/Q30973083,Mikšová II hydroelectric power station,Pumped-storage power station,49.192777777,18.508333333
 Slovakia,Q214,http://www.wikidata.org/entity/Q30973075,Liptovská Mara Dam,Pumped-storage power station,49.097658,19.4837111
-Greece,Q41,http://www.wikidata.org/entity/Q30973446,Thisavros hydroelectric power station,Pumped-storage power station,41.361805555,24.374805555
-Greece,Q41,http://www.wikidata.org/entity/Q19388300,Sfikia hydro power station,Pumped-storage power station,40.397888888,22.192777777
 Belgium,Q31,http://www.wikidata.org/entity/Q84761452,Plate-Taille hydro power plant,Pumped-storage power station,50.1886837,4.3867077
 Belgium,Q31,http://www.wikidata.org/entity/Q1639208,Coo-Trois-Ponts Hydroelectric Power Station,Pumped-storage power station,50.384969,5.861736
-United Kingdom,Q145,http://www.wikidata.org/entity/Q15212096,Cruachan Power Station,Pumped-storage power station,56.40638889,-5.11305556
-United Kingdom,Q145,http://www.wikidata.org/entity/Q11969812,Foyers Power Station,Pumped-storage power station,57.262111111,-4.483527777
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5446209,Ffestiniog Power Station,Pumped-storage power station,52.9808,-3.96889
-United Kingdom,Q145,http://www.wikidata.org/entity/Q1146238,Dinorwig Power Station,Pumped-storage power station,53.117842582,-4.107341766
-United Kingdom,Q145,http://www.wikidata.org/entity/Q130279783,Fearna Storage project,Pumped-storage power station,57.078,-5.209
-United Kingdom,Q145,http://www.wikidata.org/entity/Q130377142,Balliemeanoch Pumped Storage Hydro,Pumped-storage power station,56.3,-5.164
-Argentina,Q414,http://www.wikidata.org/entity/Q8348759,Rio Grande Hydroelectric Complex,Pumped-storage power station,-32.2218,-64.6365
-Argentina,Q414,http://www.wikidata.org/entity/Q9068117,Los Reyunos Dam,Pumped-storage power station,-34.60193,-68.64168
-Morocco,Q1028,http://www.wikidata.org/entity/Q56372923,Q56372923,Pumped-storage power station,30.698444444,-9.184583333
-Morocco,Q1028,http://www.wikidata.org/entity/Q3460110,Afourer Pumped Storage Station,Pumped-storage power station,32.20666667,-6.53083333
+Sweden,Q34,http://www.wikidata.org/entity/Q10551387,Q10551387,Pumped-storage power station,59.926944444,12.895944444
+Sweden,Q34,http://www.wikidata.org/entity/Q56374714,Q56374714,Pumped-storage power station,60.734083333,12.687138888
+Sweden,Q34,http://www.wikidata.org/entity/Q18291062,Q18291062,Pumped-storage power station,65.2902,17.2301
+Russia,Q159,http://www.wikidata.org/entity/Q4258102,Q4258102,Pumped-storage power station,60.47611,34.208639
+Russia,Q159,http://www.wikidata.org/entity/Q12115292,Kuban pumped storage station,Pumped-storage power station,44.229694,42.342944
+Russia,Q159,http://www.wikidata.org/entity/Q49526,Zagorsk Pumped Storage Station,Pumped-storage power station,56.48166667,38.19111111
+Greece,Q41,http://www.wikidata.org/entity/Q30973446,Thisavros hydroelectric power station,Pumped-storage power station,41.361805555,24.374805555
+Greece,Q41,http://www.wikidata.org/entity/Q19388300,Sfikia hydro power station,Pumped-storage power station,40.397888888,22.192777777
 Taiwan,Q865,http://www.wikidata.org/entity/Q24835688,Mingtan Pumped Storage Hydro Power Plant,Pumped-storage power station,23.83611111,120.86805556
 Taiwan,Q865,http://www.wikidata.org/entity/Q22773950,Minhu Pumped Storage Hydro Power Station,Pumped-storage power station,23.85416667,120.87083333
 Luxembourg,Q32,http://www.wikidata.org/entity/Q328955,Vianden Pumped Storage Plant,Pumped-storage power station,49.95,6.17805556
-Lithuania,Q37,http://www.wikidata.org/entity/Q1580291,Kruonis Pumped Storage Plant,Pumped-storage power station,54.799,24.26416667
-Slovenia,Q215,http://www.wikidata.org/entity/Q65194772,Q65194772,Pumped-storage power station,46.10258333,13.67069444
-Slovenia,Q215,http://www.wikidata.org/entity/Q131704648,Q131704648,Pumped-storage power station,,
-Iran,Q794,http://www.wikidata.org/entity/Q114055189,Azad pumped-storage power station,Pumped-storage power station,35.3483682,46.5479135
-Iran,Q794,http://www.wikidata.org/entity/Q4562998,Siah Bishe Pumped Storage Power Plant,Pumped-storage power station,36.217778,51.305
-Romania,Q218,http://www.wikidata.org/entity/Q7686424,Tarnița – Lăpuștești Hydroelectric Power Station,Pumped-storage power station,46.7139,23.2686
-Romania,Q218,http://www.wikidata.org/entity/Q30973983,Q30973983,Pumped-storage power station,45.671416666,23.59525
-Croatia,Q224,http://www.wikidata.org/entity/Q3376828,Velebit Pumped Storage Power Plant,Pumped-storage power station,44.2081,15.7536
-Ireland,Q27,http://www.wikidata.org/entity/Q17985032,Turlough Hill Power Station,Pumped-storage power station,53.02861111,-6.40638889
+Poland,Q36,http://www.wikidata.org/entity/Q609296,Pumped-storage hydroelectricity Żar,Pumped-storage power station,49.78722222,19.23
+Poland,Q36,http://www.wikidata.org/entity/Q9390227,Dychów hydroelectric plant,Pumped-storage power station,51.9896,15.0529
+Poland,Q36,http://www.wikidata.org/entity/Q1727941,Żarnowiec Pumped Storage Power Station,Pumped-storage power station,54.72222222,18.08222222
+Poland,Q36,http://www.wikidata.org/entity/Q9252496,Q9252496,Pumped-storage power station,49.418027777,20.324138888
+Poland,Q36,http://www.wikidata.org/entity/Q1799539,Elektrownia Żydowo,Pumped-storage power station,54.025,16.70694444
 Thailand,Q869,http://www.wikidata.org/entity/Q109673479,Lamtakong Jolabha Vadhana Power Plant,Pumped-storage power station,14.8074236,101.5452844
 Thailand,Q869,http://www.wikidata.org/entity/Q638635,Srinagarind Dam,Pumped-storage power station,14.409444444,99.128333333
 Thailand,Q869,http://www.wikidata.org/entity/Q855098,Bhumibol Dam,Pumped-storage power station,17.242777777,98.972222222
-Israel,Q801,http://www.wikidata.org/entity/Q116980507,Kokhav Hayarden Pumped Storage Power Station,Pumped-storage power station,32.601733,35.517283
-Ukraine,Q212,http://www.wikidata.org/entity/Q4220145,Kyiv Pumped Storage Power Plant,Pumped-storage power station,50.61038889,30.48775
-Ukraine,Q212,http://www.wikidata.org/entity/Q4212381,Kaniv Pumped Storage Power Station,Pumped-storage power station,49.85194444,31.45055556
-Ukraine,Q212,http://www.wikidata.org/entity/Q1153545,Dniester Pumped Storage Power Station,Pumped-storage power station,48.513611,27.473333
-Ukraine,Q212,http://www.wikidata.org/entity/Q4453055,Tashlyk Pumped-Storage Power Plant,Pumped-storage power station,47.79661111,31.18083333
-Sri Lanka,Q854,http://www.wikidata.org/entity/Q133255752,Maha Oya Pumped Storage Power Station,Pumped-storage power station,7.110833333,80.475833333
+Argentina,Q414,http://www.wikidata.org/entity/Q8348759,Rio Grande Hydroelectric Complex,Pumped-storage power station,-32.2218,-64.6365
+Argentina,Q414,http://www.wikidata.org/entity/Q9068117,Los Reyunos Dam,Pumped-storage power station,-34.60193,-68.64168
+Lithuania,Q37,http://www.wikidata.org/entity/Q1580291,Kruonis Pumped Storage Plant,Pumped-storage power station,54.799,24.26416667
+Slovenia,Q215,http://www.wikidata.org/entity/Q65194772,Q65194772,Pumped-storage power station,46.10258333,13.67069444
+Slovenia,Q215,http://www.wikidata.org/entity/Q131704648,Q131704648,Pumped-storage power station,,
 Liechtenstein,Q347,http://www.wikidata.org/entity/Q20830816,Samina Kraftwerk,Pumped-storage power station,47.130194444,9.524777777
-Egypt,Q79,http://www.wikidata.org/entity/Q106298499,Attaqa Mountain Pumped Storage Power Plant,Pumped-storage power station,29.964166666,32.256944444
-Indonesia,Q252,http://www.wikidata.org/entity/Q7898565,Upper Cisokan Pumped Storage Power Plant,Pumped-storage power station,-6.94778,107.219
+Romania,Q218,http://www.wikidata.org/entity/Q7686424,Tarnița – Lăpuștești Hydroelectric Power Station,Pumped-storage power station,46.7139,23.2686
+Romania,Q218,http://www.wikidata.org/entity/Q30973983,Q30973983,Pumped-storage power station,45.671416666,23.59525
 Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q3438049,Čapljina Hydroelectric Power Station,Pumped-storage power station,43.012764226,17.803513805
+Ireland,Q27,http://www.wikidata.org/entity/Q17985032,Turlough Hill Power Station,Pumped-storage power station,53.02861111,-6.40638889
+Iran,Q794,http://www.wikidata.org/entity/Q114055189,Azad pumped-storage power station,Pumped-storage power station,35.3483682,46.5479135
+Iran,Q794,http://www.wikidata.org/entity/Q4562998,Siah Bishe Pumped Storage Power Plant,Pumped-storage power station,36.217778,51.305
+Indonesia,Q252,http://www.wikidata.org/entity/Q7898565,Upper Cisokan Pumped Storage Power Plant,Pumped-storage power station,-6.94778,107.219
+Sri Lanka,Q854,http://www.wikidata.org/entity/Q133255752,Maha Oya Pumped Storage Power Station,Pumped-storage power station,7.110833333,80.475833333
+Morocco,Q1028,http://www.wikidata.org/entity/Q56372923,Q56372923,Pumped-storage power station,30.698444444,-9.184583333
+Morocco,Q1028,http://www.wikidata.org/entity/Q3460110,Afourer Pumped Storage Station,Pumped-storage power station,32.20666667,-6.53083333
+Croatia,Q224,http://www.wikidata.org/entity/Q3376828,Velebit Pumped Storage Power Plant,Pumped-storage power station,44.2081,15.7536
+Egypt,Q79,http://www.wikidata.org/entity/Q106298499,Attaqa Mountain Pumped Storage Power Plant,Pumped-storage power station,29.964166666,32.256944444
 Serbia,Q403,http://www.wikidata.org/entity/Q11960010,Bajina Bašta pumped-storage power station,Pumped-storage power station,43.9625,19.412305555
+Israel,Q801,http://www.wikidata.org/entity/Q116980507,Kokhav Hayarden Pumped Storage Power Station,Pumped-storage power station,32.601733,35.517283

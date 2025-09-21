@@ -3712,6 +3712,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.795,
+          45.0064
+        ]
+      },
+      "properties": {
+        "label": "Moses-Saunders Power Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q12062076",
+        "country_qid": "Q16",
+        "Wikidata Qid": "Q12062076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -56.1734,
           48.1835
         ]

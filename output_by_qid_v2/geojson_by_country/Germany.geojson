@@ -31456,6 +31456,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.23561,
+          56.20835
+        ]
+      },
+      "properties": {
+        "label": "NORD.LINK",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q1961296",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1961296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.560785055,
           48.909237025
         ]
@@ -35563,6 +35580,23 @@
         "entity": "http://www.wikidata.org/entity/Q853059",
         "country_qid": "Q183",
         "Wikidata Qid": "Q853059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.38773333,
+          50.90985556
+        ]
+      },
+      "properties": {
+        "label": "Obere Schleuse",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1325960",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1325960"
       }
     },
     {
@@ -44420,6 +44454,23 @@
         "entity": "http://www.wikidata.org/entity/Q120799459",
         "country_qid": "Q183",
         "Wikidata Qid": "Q120799459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4930583,
+          49.6182075
+        ]
+      },
+      "properties": {
+        "label": "Q134088784",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q134088784",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q134088784"
       }
     },
     {
@@ -74017,23 +74068,6 @@
         "entity": "http://www.wikidata.org/entity/Q15854789",
         "country_qid": "Q183",
         "Wikidata Qid": "Q15854789"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q2569078"
       }
     },
     {
