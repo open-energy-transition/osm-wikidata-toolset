@@ -2165,6 +2165,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.915,
+          48.68472222
+        ]
+      },
+      "properties": {
+        "label": "Gambsheim barrage",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q15130268",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q15130268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.22098,
           51.4127
         ]
@@ -6850,6 +6867,23 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -35587,23 +35621,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.38773333,
-          50.90985556
-        ]
-      },
-      "properties": {
-        "label": "Obere Schleuse",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1325960",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q1325960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.0089,
           48.0011
         ]
@@ -44461,23 +44478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4930583,
-          49.6182075
-        ]
-      },
-      "properties": {
-        "label": "Q134088784",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q134088784",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q134088784"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.02869,
           50.63335
         ]
@@ -47837,23 +47837,6 @@
         "entity": "http://www.wikidata.org/entity/Q111440699",
         "country_qid": "Q183",
         "Wikidata Qid": "Q111440699"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70753,
-          47.53747
-        ]
-      },
-      "properties": {
-        "label": "Wehrbrücke Augst/Wyhlen",
-        "type": "Weir",
-        "entity": "http://www.wikidata.org/entity/Q104215252",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q104215252"
       }
     },
     {

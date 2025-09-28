@@ -1,13 +1,10 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Netherlands,Q55,http://www.wikidata.org/entity/Q2149566,Bergermeer gas storage,Energy storage (concept),52.65045,4.71653
 Germany,Q183,http://www.wikidata.org/entity/Q1737253,Q1737253,Energy storage (concept),53.451,7.9032
 Germany,Q183,http://www.wikidata.org/entity/Q128535349,Gasspeicher,Energy storage (concept),48.510182936,9.072035551
 Germany,Q183,http://www.wikidata.org/entity/Q114268362,Gasspeicher Eschenfelden,Energy storage (concept),49.584433,11.630207
 Germany,Q183,http://www.wikidata.org/entity/Q111685892,Q111685892,Energy storage (concept),52.616,8.4937
 Germany,Q183,http://www.wikidata.org/entity/Q22674558,Empelde gas caverns,Energy storage (concept),52.3396,9.65082
-Bulgaria,Q219,http://www.wikidata.org/entity/Q61638089,Chiren gas storage,Energy storage (concept),43.350255,23.591897
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7370797,Rough,Energy storage (concept),53.6603,0.113889
-Austria,Q40,http://www.wikidata.org/entity/Q5638983,Haidach gas storage,Energy storage (concept),47.9856156,13.2306535
+Netherlands,Q55,http://www.wikidata.org/entity/Q2149566,Bergermeer gas storage,Energy storage (concept),52.65045,4.71653
 France,Q142,http://www.wikidata.org/entity/Q105535477,Q105535477,Energy storage (concept),47.3887908,1.4853529
 France,Q142,http://www.wikidata.org/entity/Q105534488,Q105534488,Energy storage (concept),45.2094052,4.9842539
 France,Q142,http://www.wikidata.org/entity/Q105535448,Q105535448,Energy storage (concept),47.282457,1.2189422
@@ -16,6 +13,9 @@ France,Q142,http://www.wikidata.org/entity/Q105534919,Q105534919,Energy storage 
 France,Q142,http://www.wikidata.org/entity/Q105531315,Q105531315,Energy storage (concept),45.240628,5.0522932
 France,Q142,http://www.wikidata.org/entity/Q105535540,Q105535540,Energy storage (concept),48.70124,6.298758
 France,Q142,http://www.wikidata.org/entity/Q105535558,Q105535558,Energy storage (concept),48.6997488,4.9731266
-Latvia,Q211,http://www.wikidata.org/entity/Q19826411,Inčukalns underground gas storage,Energy storage (concept),57.16902,24.69676
+Austria,Q40,http://www.wikidata.org/entity/Q5638983,Haidach gas storage,Energy storage (concept),47.9856156,13.2306535
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7370797,Rough,Energy storage (concept),53.6603,0.113889
+Bulgaria,Q219,http://www.wikidata.org/entity/Q61638089,Chiren gas storage,Energy storage (concept),43.350255,23.591897
 New Zealand,Q664,http://www.wikidata.org/entity/Q15178544,Ahuroa Gas Storage Facility,Energy storage (concept),-39.265,174.34027778
 Czech Republic,Q213,http://www.wikidata.org/entity/Q113990095,Uhřice Gas Storage,Energy storage (concept),49.0420538,16.9342087
+Latvia,Q211,http://www.wikidata.org/entity/Q19826411,Inčukalns underground gas storage,Energy storage (concept),57.16902,24.69676
