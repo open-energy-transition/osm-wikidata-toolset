@@ -635,23 +635,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.309722222,
-          0.736944444
-        ]
-      },
-      "properties": {
-        "label": "Angololo Multipurpose Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q113499585",
-        "country_qid": "Q114",
-        "Wikidata Qid": "Q113499585"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           36.9,
           2.6
         ]

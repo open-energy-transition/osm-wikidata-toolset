@@ -1,4 +1,5 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
 United Kingdom,Q145,http://www.wikidata.org/entity/Q918000,BritNed,electrical interconnector,51.44,0.716667
 United Kingdom,Q145,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,electrical interconnector,51.0658,1.5563
 United Kingdom,Q145,http://www.wikidata.org/entity/Q28231939,IFA-2,electrical interconnector,50.088,-0.515
@@ -7,12 +8,11 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q5636209,North Sea Link,elect
 United Kingdom,Q145,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85932728,ElecLink,electrical interconnector,51.0147,1.4967
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
+Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
+Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
 France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,electrical interconnector,51.0658,1.5563
 France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,electrical interconnector,50.088,-0.515
 France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,electrical interconnector,51.0147,1.4967
+Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,electrical interconnector,51.44,0.716667
 Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
 Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,electrical interconnector,57.5672,2.6769
-Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
-Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
-Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
-Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,electrical interconnector,51.44,0.716667
