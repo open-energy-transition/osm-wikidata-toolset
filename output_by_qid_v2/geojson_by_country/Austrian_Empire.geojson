@@ -6,16 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.241149739,
-          48.007021599
+          16.247992,
+          48.006504
         ]
       },
       "properties": {
-        "label": "Schäfflermühle",
+        "label": "Leesdorfer Paper Mill",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116317220",
+        "entity": "http://www.wikidata.org/entity/Q97666096",
         "country_qid": "Q131964",
-        "Wikidata Qid": "Q116317220"
+        "Wikidata Qid": "Q97666096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.244551135,
+          48.007285732
+        ]
+      },
+      "properties": {
+        "label": "Huppmannmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116318376",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q116318376"
       }
     },
     {

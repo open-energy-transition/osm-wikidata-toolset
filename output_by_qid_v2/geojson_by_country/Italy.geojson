@@ -5361,23 +5361,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.500422,
-          44.607999
-        ]
-      },
-      "properties": {
-        "label": "Trans-Mediterranean Pipeline",
-        "type": "Natural gas pipeline",
-        "entity": "http://www.wikidata.org/entity/Q1933027",
-        "country_qid": "Q38",
-        "Wikidata Qid": "Q1933027"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.2785,
           37.9523
         ]

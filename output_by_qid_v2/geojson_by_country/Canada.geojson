@@ -3712,23 +3712,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.795,
-          45.0064
-        ]
-      },
-      "properties": {
-        "label": "Moses-Saunders Power Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q12062076",
-        "country_qid": "Q16",
-        "Wikidata Qid": "Q12062076"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -56.1734,
           48.1835
         ]
@@ -10699,6 +10682,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.24583,
+          49.21806
+        ]
+      },
+      "properties": {
+        "label": "Lake Koocanusa",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6476491",
+        "country_qid": "Q16",
+        "Wikidata Qid": "Q6476491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -69.279,
           49.204
         ]
@@ -10794,6 +10794,23 @@
         "entity": "http://www.wikidata.org/entity/Q2179017",
         "country_qid": "Q16",
         "Wikidata Qid": "Q2179017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0379881,
+          48.8144456
+        ]
+      },
+      "properties": {
+        "label": "Ross Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7885607",
+        "country_qid": "Q16",
+        "Wikidata Qid": "Q7885607"
       }
     },
     {
@@ -11406,6 +11423,23 @@
         "entity": "http://www.wikidata.org/entity/Q22656366",
         "country_qid": "Q16",
         "Wikidata Qid": "Q22656366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.445591666,
+          49.000322222
+        ]
+      },
+      "properties": {
+        "label": "Osoyoos Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7107370",
+        "country_qid": "Q16",
+        "Wikidata Qid": "Q7107370"
       }
     },
     {

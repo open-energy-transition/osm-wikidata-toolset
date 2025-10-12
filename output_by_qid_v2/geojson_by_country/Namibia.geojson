@@ -159,6 +159,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.22266,
+          -17.39348
+        ]
+      },
+      "properties": {
+        "label": "Ruacana Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q7375640",
+        "country_qid": "Q1030",
+        "Wikidata Qid": "Q7375640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.427,
           -28.551
         ]
