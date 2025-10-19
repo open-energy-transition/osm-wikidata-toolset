@@ -1,13 +1,8 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Russia,Q159,http://www.wikidata.org/entity/Q1778398,Shukhov tower on the Oka River,Transmission tower (pylon),56.193397,43.543733
-Russia,Q159,http://www.wikidata.org/entity/Q133572309,Electricity pylon,Transmission tower (pylon),55.83513,37.62385
+Ukraine,Q212,http://www.wikidata.org/entity/Q1907988,Zaporizhzhia Pylon Triples,Transmission tower (pylon),47.85361111,35.07805556
 Taiwan,Q865,http://www.wikidata.org/entity/Q95090846,921 earthquake memorial pylon,Transmission tower (pylon),23.832658,120.710196
 Taiwan,Q865,http://www.wikidata.org/entity/Q10890030,Tower of Light,Transmission tower (pylon),22.6515,120.296
-Netherlands,Q55,http://www.wikidata.org/entity/Q17604750,electricity pylons at Radio Kootwijk 50 kV substation,Transmission tower (pylon),52.18579,5.81112
-Ukraine,Q212,http://www.wikidata.org/entity/Q1907988,Zaporizhzhia Pylon Triples,Transmission tower (pylon),47.85361111,35.07805556
-Malaysia,Q833,http://www.wikidata.org/entity/Q6393909,Kerinchi Pylon,Transmission tower (pylon),3.1169,101.664
 United Kingdom,Q145,http://www.wikidata.org/entity/Q1907806,Huddersfield Narrow Canal Pylon,Transmission tower (pylon),53.4936,-2.04028
-Latvia,Q211,http://www.wikidata.org/entity/Q7333334,Riga Hydroelectric Power Plant Crossing Pylon,Transmission tower (pylon),56.838055555,24.37
 Germany,Q183,http://www.wikidata.org/entity/Q52193675,Reuter West concrete pylon,Transmission tower (pylon),52.535761111,13.240488888
 Germany,Q183,http://www.wikidata.org/entity/Q66826825,"Anlage 7610, Mast 69",Transmission tower (pylon),49.627205,9.778846
 Germany,Q183,http://www.wikidata.org/entity/Q111602131,Mast x,Transmission tower (pylon),49.60424,9.98465
@@ -17,10 +12,15 @@ Germany,Q183,http://www.wikidata.org/entity/Q94752054,"Anlage 4101, Mast 93",Tra
 Germany,Q183,http://www.wikidata.org/entity/Q107201206,"Anlage 7610, Mast 74",Transmission tower (pylon),49.6310307,9.8075871
 Germany,Q183,http://www.wikidata.org/entity/Q113467111,Portalmasten am Koepchenwerk,Transmission tower (pylon),51.413835562,7.450768947
 Germany,Q183,http://www.wikidata.org/entity/Q7596255,Stadelheim Transmitter,Transmission tower (pylon),48.09972,11.59194
-Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Transmission tower (pylon),38.24583333,15.6325
 United States,Q30,http://www.wikidata.org/entity/Q27919255,Mickey pylon,Transmission tower (pylon),28.30385,-81.574183333
 United States,Q30,http://www.wikidata.org/entity/Q116153623,Ameren UE Tower,Transmission tower (pylon),,
-Finland,Q33,http://www.wikidata.org/entity/Q113385086,Iron Lady Memorial,Transmission tower (pylon),61.167269046,28.781557186
 Estonia,Q191,http://www.wikidata.org/entity/Q108461771,Bog Fox,Transmission tower (pylon),58.992622,24.059219
+Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Transmission tower (pylon),38.24583333,15.6325
+Russia,Q159,http://www.wikidata.org/entity/Q1778398,Shukhov tower on the Oka River,Transmission tower (pylon),56.193397,43.543733
+Russia,Q159,http://www.wikidata.org/entity/Q133572309,Electricity pylon,Transmission tower (pylon),55.83513,37.62385
 Poland,Q36,http://www.wikidata.org/entity/Q113564718,Golczewo gantry tower,Transmission tower (pylon),53.823541204,14.987438321
+Netherlands,Q55,http://www.wikidata.org/entity/Q17604750,electricity pylons at Radio Kootwijk 50 kV substation,Transmission tower (pylon),52.18579,5.81112
+Malaysia,Q833,http://www.wikidata.org/entity/Q6393909,Kerinchi Pylon,Transmission tower (pylon),3.1169,101.664
+Finland,Q33,http://www.wikidata.org/entity/Q113385086,Iron Lady Memorial,Transmission tower (pylon),61.167269046,28.781557186
+Latvia,Q211,http://www.wikidata.org/entity/Q7333334,Riga Hydroelectric Power Plant Crossing Pylon,Transmission tower (pylon),56.838055555,24.37
 Switzerland,Q39,http://www.wikidata.org/entity/Q133847899,Pylon 301,Transmission tower (pylon),47.0592674,8.2538179
