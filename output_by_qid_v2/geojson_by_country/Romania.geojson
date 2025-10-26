@@ -1893,23 +1893,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.161312,
-          44.476421
-        ]
-      },
-      "properties": {
-        "label": "Lake Đerdap",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1313598",
-        "country_qid": "Q218",
-        "Wikidata Qid": "Q1313598"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           26.054080555,
           47.019588888
         ]

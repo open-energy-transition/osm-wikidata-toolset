@@ -397,23 +397,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.118888888,
-          44.363888888
-        ]
-      },
-      "properties": {
-        "label": "Zvornik Lake",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q231499",
-        "country_qid": "Q225",
-        "Wikidata Qid": "Q231499"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.268055555,
           43.758611111
         ]
