@@ -2199,6 +2199,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.499444444,
+          50.906388888
+        ]
+      },
+      "properties": {
+        "label": "Kyiv Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1425651",
+        "country_qid": "Q184",
+        "Wikidata Qid": "Q1425651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           27.7831,
           54.4321
         ]
@@ -4120,6 +4137,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.379986,
+          53.908718
+        ]
+      },
+      "properties": {
+        "label": "Technopribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132578171",
+        "country_qid": "Q184",
+        "Wikidata Qid": "Q132578171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.235,
           52.046666666
         ]
@@ -4130,6 +4164,23 @@
         "entity": "http://www.wikidata.org/entity/Q110506036",
         "country_qid": "Q184",
         "Wikidata Qid": "Q110506036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.478555,
+          52.562053
+        ]
+      },
+      "properties": {
+        "label": "Pružany Radio Component Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132158036",
+        "country_qid": "Q184",
+        "Wikidata Qid": "Q132158036"
       }
     },
     {

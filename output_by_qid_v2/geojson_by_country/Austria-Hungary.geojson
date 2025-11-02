@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.3944,
+          45.3369
+        ]
+      },
+      "properties": {
+        "label": "3. Maj",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2297404",
+        "country_qid": "Q28513",
+        "Wikidata Qid": "Q2297404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.4037978,
           50.0426097
         ]
@@ -40,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.454861111,
+          48.992305555
+        ]
+      },
+      "properties": {
+        "label": "Chemická továrna",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q106683433",
+        "country_qid": "Q28513",
+        "Wikidata Qid": "Q106683433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.387307,
           50.091115
         ]
@@ -50,6 +84,23 @@
         "entity": "http://www.wikidata.org/entity/Q118592670",
         "country_qid": "Q28513",
         "Wikidata Qid": "Q118592670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.545202734,
+          49.86561681
+        ]
+      },
+      "properties": {
+        "label": "Q117812226",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q117812226",
+        "country_qid": "Q28513",
+        "Wikidata Qid": "Q117812226"
       }
     },
     {

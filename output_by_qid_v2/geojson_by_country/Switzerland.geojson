@@ -1876,6 +1876,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.949361111,
+          46.05075
+        ]
+      },
+      "properties": {
+        "label": "Vallorcine hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q46994621",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q46994621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.307305555,
           46.616916666
         ]
@@ -2158,6 +2175,23 @@
         "entity": "http://www.wikidata.org/entity/Q686800",
         "country_qid": "Q39",
         "Wikidata Qid": "Q686800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.976099,
+          46.160604
+        ]
+      },
+      "properties": {
+        "label": "Chancy-Pougny dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1061686",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q1061686"
       }
     },
     {

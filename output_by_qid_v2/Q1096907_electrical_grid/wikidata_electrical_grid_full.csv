@@ -1,35 +1,35 @@
 country_name,country_qid,entity,label,type
-Belarus,Q184,http://www.wikidata.org/entity/Q3920875,the energy system of Belarus,Electrical grid
-Belarus,Q184,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
-New Zealand,Q664,http://www.wikidata.org/entity/Q17054523,National Grid,Electrical grid
-Canada,Q16,http://www.wikidata.org/entity/Q3153121,Quebec Interconnection,Electrical grid
-Canada,Q16,http://www.wikidata.org/entity/Q3538027,Hydro-Québec's electricity transmission system,Electrical grid
+Sweden,Q34,http://www.wikidata.org/entity/Q96650534,Sydvästlänken,Electrical grid
+Sweden,Q34,http://www.wikidata.org/entity/Q111729091,Swedish national gas grid,Electrical grid
+Sweden,Q34,http://www.wikidata.org/entity/Q111734157,Synchronous grid of Northern Europe,Electrical grid
 United Kingdom,Q145,http://www.wikidata.org/entity/Q15261121,National Grid,Electrical grid
-Hungary,Q28,http://www.wikidata.org/entity/Q1162961,transmission grid of Hungary,Electrical grid
-Estonia,Q191,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
 Chile,Q298,http://www.wikidata.org/entity/Q5918898,wide area synchronous grid(s) of Chile,Electrical grid
 Chile,Q298,http://www.wikidata.org/entity/Q7531024,Sistema Eléctrico de Aysén,Electrical grid
-Cyprus,Q229,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
 United States,Q30,http://www.wikidata.org/entity/Q4748892,Amtrak's 25 Hz traction power system,Electrical grid
 United States,Q30,http://www.wikidata.org/entity/Q4748893,Amtrak's 60 Hz traction power system,Electrical grid
 United States,Q30,http://www.wikidata.org/entity/Q7389771,SEPTA's 25 Hz traction power system,Electrical grid
 United States,Q30,http://www.wikidata.org/entity/Q7707775,Texas Interconnection,Electrical grid
-Greece,Q41,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
-Sweden,Q34,http://www.wikidata.org/entity/Q96650534,Sydvästlänken,Electrical grid
-Sweden,Q34,http://www.wikidata.org/entity/Q111729091,Swedish national gas grid,Electrical grid
-Sweden,Q34,http://www.wikidata.org/entity/Q111734157,Synchronous grid of Northern Europe,Electrical grid
 Germany,Q183,http://www.wikidata.org/entity/Q1663985,Inner German electrical grid,Electrical grid
-Russia,Q159,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
+Brazil,Q155,http://www.wikidata.org/entity/Q10372078,Q10372078,Electrical grid
+Canada,Q16,http://www.wikidata.org/entity/Q3153121,Quebec Interconnection,Electrical grid
+Canada,Q16,http://www.wikidata.org/entity/Q3538027,Hydro-Québec's electricity transmission system,Electrical grid
+New Zealand,Q664,http://www.wikidata.org/entity/Q17054523,National Grid,Electrical grid
 Norway,Q20,http://www.wikidata.org/entity/Q61714572,transmission grid of Norway,Electrical grid
 Norway,Q20,http://www.wikidata.org/entity/Q111734157,Synchronous grid of Northern Europe,Electrical grid
-Lithuania,Q37,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
-Egypt,Q79,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
-India,Q668,http://www.wikidata.org/entity/Q28179485,National Grid,Electrical grid
-Brazil,Q155,http://www.wikidata.org/entity/Q10372078,Q10372078,Electrical grid
 Malaysia,Q833,http://www.wikidata.org/entity/Q7341539,National Grid (Malaysia),Electrical grid
+Hungary,Q28,http://www.wikidata.org/entity/Q1162961,transmission grid of Hungary,Electrical grid
+Belarus,Q184,http://www.wikidata.org/entity/Q3920875,the energy system of Belarus,Electrical grid
+Belarus,Q184,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
+Greece,Q41,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
+India,Q668,http://www.wikidata.org/entity/Q28179485,National Grid,Electrical grid
+Cyprus,Q229,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
+Egypt,Q79,http://www.wikidata.org/entity/Q48527345,EuroAfrica Interconnector,Electrical grid
 Argentina,Q414,http://www.wikidata.org/entity/Q65160176,Sistema Argentino de Interconexión,Electrical grid
-Taiwan,Q865,http://www.wikidata.org/entity/Q109344535,Gogoro Network,Electrical grid
-Latvia,Q211,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
+Russia,Q159,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
 Finland,Q33,http://www.wikidata.org/entity/Q111734157,Synchronous grid of Northern Europe,Electrical grid
+Latvia,Q211,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
+Estonia,Q191,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
 Denmark,Q35,http://www.wikidata.org/entity/Q111734157,Synchronous grid of Northern Europe,Electrical grid
+Taiwan,Q865,http://www.wikidata.org/entity/Q109344535,Gogoro Network,Electrical grid
+Lithuania,Q37,http://www.wikidata.org/entity/Q56314391,BRELL ring,Electrical grid
 Bangladesh,Q902,http://www.wikidata.org/entity/Q120084703,National Grid,Electrical grid
