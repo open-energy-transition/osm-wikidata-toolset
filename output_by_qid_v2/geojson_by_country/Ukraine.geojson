@@ -3134,6 +3134,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.499444444,
+          50.906388888
+        ]
+      },
+      "properties": {
+        "label": "Kyiv Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1425651",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q1425651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.338888888,
           46.499722222
         ]
@@ -5582,6 +5599,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.5206,
+          44.6116
+        ]
+      },
+      "properties": {
+        "label": "Chernomorets design studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86685442",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q86685442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.510555555,
           47.986388888
         ]
@@ -6340,6 +6374,23 @@
         "entity": "http://www.wikidata.org/entity/Q4220239",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4220239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.266,
+          44.974
+        ]
+      },
+      "properties": {
+        "label": "Koktebel winery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4183131",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4183131"
       }
     },
     {

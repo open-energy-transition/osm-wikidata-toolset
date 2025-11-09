@@ -16,11 +16,49 @@ France,Q142,http://www.wikidata.org/entity/Q15242260,Éolienne de Pargues,Wind t
 France,Q142,http://www.wikidata.org/entity/Q110986873,Q110986873,Wind turbine,47.9331,4.2297
 France,Q142,http://www.wikidata.org/entity/Q131148288,Q131148288,Wind turbine,46.868816646,0.17718354
 France,Q142,http://www.wikidata.org/entity/Q17354459,Éolienne de Nogent-le-Phaye,Wind turbine,48.44257,1.57372
-Poland,Q36,http://www.wikidata.org/entity/Q2583657,Rębielice Królewskie Wind Turbine,Wind turbine,50.99361111,18.86411111
-Poland,Q36,http://www.wikidata.org/entity/Q9252543,Q9252543,Wind turbine,,
-Poland,Q36,http://www.wikidata.org/entity/Q11697689,Q11697689,Wind turbine,,
-Poland,Q36,http://www.wikidata.org/entity/Q9252544,Q9252544,Wind turbine,49.6919,19.5838
-Poland,Q36,http://www.wikidata.org/entity/Q9004322,Nowy Tomyśl Wind Turbines,Wind turbine,52.29472222,16.15305556
+Denmark,Q35,http://www.wikidata.org/entity/Q3432978,Gedser wind turbine,Wind turbine,54.5975,11.9228
+Denmark,Q35,http://www.wikidata.org/entity/Q11626695,Tvindkraft Wind Turbine,Wind turbine,56.256,8.28001
+Denmark,Q35,http://www.wikidata.org/entity/Q12300630,Aeromøllen Bogense,Wind turbine,55.5659,10.0831
+Netherlands,Q55,http://www.wikidata.org/entity/Q61018270,De Boerenzwaluw,Wind turbine,53.2657,6.213825
+Netherlands,Q55,http://www.wikidata.org/entity/Q2242411,Windturbine Siemens Zoetermeer,Wind turbine,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q17600677,Windmotor Goutum 2,Wind turbine,53.16796,5.82149
+Netherlands,Q55,http://www.wikidata.org/entity/Q64898797,Het Vliegend Hert,Wind turbine,52.595501,6.22298241
+Netherlands,Q55,http://www.wikidata.org/entity/Q107498903,Haliade-X,Wind turbine,51.96234,4.01192
+Netherlands,Q55,http://www.wikidata.org/entity/Q122948025,Q122948025,Wind turbine,,
+Finland,Q33,http://www.wikidata.org/entity/Q124399976,Q124399976,Wind turbine,62.45341,21.65998
+Finland,Q33,http://www.wikidata.org/entity/Q124124030,Q124124030,Wind turbine,62.47449,21.13562
+Finland,Q33,http://www.wikidata.org/entity/Q130223703,Q130223703,Wind turbine,62.25706,21.31744
+Finland,Q33,http://www.wikidata.org/entity/Q124478386,Q124478386,Wind turbine,62.81123,22.51624
+Finland,Q33,http://www.wikidata.org/entity/Q130267225,Q130267225,Wind turbine,63.92273,23.56656
+Finland,Q33,http://www.wikidata.org/entity/Q124329409,Q124329409,Wind turbine,62.60842,23.78756
+Finland,Q33,http://www.wikidata.org/entity/Q124040412,Q124040412,Wind turbine,60.11523,20.6716
+Finland,Q33,http://www.wikidata.org/entity/Q123686670,Q123686670,Wind turbine,61.15025,22.79612
+Finland,Q33,http://www.wikidata.org/entity/Q124693369,Q124693369,Wind turbine,63.32213,23.00442
+Finland,Q33,http://www.wikidata.org/entity/Q124036743,Q124036743,Wind turbine,60.18187,19.52596
+Finland,Q33,http://www.wikidata.org/entity/Q123972724,Q123972724,Wind turbine,62.512992222,22.712649444
+Finland,Q33,http://www.wikidata.org/entity/Q124330498,Q124330498,Wind turbine,64.92835,25.091
+Finland,Q33,http://www.wikidata.org/entity/Q123653376,Q123653376,Wind turbine,61.30304,22.70059
+Finland,Q33,http://www.wikidata.org/entity/Q124000112,Q124000112,Wind turbine,59.94368,20.95257
+Finland,Q33,http://www.wikidata.org/entity/Q124427980,Q124427980,Wind turbine,60.30439,22.67725
+Finland,Q33,http://www.wikidata.org/entity/Q124497742,Q124497742,Wind turbine,62.59209,22.95335
+Finland,Q33,http://www.wikidata.org/entity/Q124460806,Q124460806,Wind turbine,61.96275,24.16442
+Finland,Q33,http://www.wikidata.org/entity/Q124024662,Q124024662,Wind turbine,60.22602,20.39665
+Finland,Q33,http://www.wikidata.org/entity/Q124300840,Q124300840,Wind turbine,62.36505556,22.74377778
+Finland,Q33,http://www.wikidata.org/entity/Q123979896,Q123979896,Wind turbine,60.13575,20.66386
+Finland,Q33,http://www.wikidata.org/entity/Q124098889,Q124098889,Wind turbine,65.4005,25.27456
+Finland,Q33,http://www.wikidata.org/entity/Q124382149,Q124382149,Wind turbine,65.65961,24.53484
+Finland,Q33,http://www.wikidata.org/entity/Q124435173,Q124435173,Wind turbine,60.36945,22.94566
+Finland,Q33,http://www.wikidata.org/entity/Q124100309,Q124100309,Wind turbine,65.03763,25.06402
+Finland,Q33,http://www.wikidata.org/entity/Q124036737,Q124036737,Wind turbine,60.24806,19.49855
+Finland,Q33,http://www.wikidata.org/entity/Q130294730,Q130294730,Wind turbine,62.91622,23.05171
+Finland,Q33,http://www.wikidata.org/entity/Q124339167,Q124339167,Wind turbine,61.78245,22.99575
+Finland,Q33,http://www.wikidata.org/entity/Q124290429,Q124290429,Wind turbine,63.83128,22.78184
+Finland,Q33,http://www.wikidata.org/entity/Q124356003,Q124356003,Wind turbine,63.05641,21.55187
+Finland,Q33,http://www.wikidata.org/entity/Q124032854,Q124032854,Wind turbine,59.99372,20.3103
+Finland,Q33,http://www.wikidata.org/entity/Q130072352,Q130072352,Wind turbine,63.33057,22.4904
+Finland,Q33,http://www.wikidata.org/entity/Q124690355,Q124690355,Wind turbine,62.46729,22.04719
+Finland,Q33,http://www.wikidata.org/entity/Q124391546,Q124391546,Wind turbine,61.79757,23.34473
+Finland,Q33,http://www.wikidata.org/entity/Q124326477,Q124326477,Wind turbine,62.3275,22.67668
 Germany,Q183,http://www.wikidata.org/entity/Q134605293,Q134605293,Wind turbine,48.135406,9.29255
 Germany,Q183,http://www.wikidata.org/entity/Q134605288,Q134605288,Wind turbine,48.13951,9.275671
 Germany,Q183,http://www.wikidata.org/entity/Q134580830,Q134580830,Wind turbine,47.963175,9.456067
@@ -112,54 +150,11 @@ Germany,Q183,http://www.wikidata.org/entity/Q130706104,Q130706104,Wind turbine,,
 Germany,Q183,http://www.wikidata.org/entity/Q2583644,Q2583644,Wind turbine,52.636,13.4298
 Germany,Q183,http://www.wikidata.org/entity/Q49448280,wind turbine Leuterwitz,Wind turbine,51.195847054,12.945947568
 Germany,Q183,http://www.wikidata.org/entity/Q98751797,Windrad Schergenhub 50 in Tacherting,Wind turbine,48.107144907,12.47250762
-Austria,Q40,http://www.wikidata.org/entity/Q2583823,Windpark Andau/Halbturn,Wind turbine,47.83,17.0223
-Austria,Q40,http://www.wikidata.org/entity/Q1796385,Q1796385,Wind turbine,47.6086,16.2036
-Sweden,Q34,http://www.wikidata.org/entity/Q43380434,Q43380434,Wind turbine,55.39,13.08
-Sweden,Q34,http://www.wikidata.org/entity/Q132036324,Q132036324,Wind turbine,56.941565184,12.616024508
-Sweden,Q34,http://www.wikidata.org/entity/Q60970199,Q60970199,Wind turbine,57.683822222,11.804883333
-Iran,Q794,http://www.wikidata.org/entity/Q42874315,Machi Windmill,Wind turbine,30.54725,61.275916666
-Iran,Q794,http://www.wikidata.org/entity/Q5900694,Tabas-e Masina Windmill Complex,Wind turbine,32.809472222,60.223222222
-Iran,Q794,http://www.wikidata.org/entity/Q5900467,Khansharaf Windmill Complex,Wind turbine,31.562388888,60.101972222
-Iran,Q794,http://www.wikidata.org/entity/Q111800633,Rostam Windmill,Wind turbine,30.55525,61.243916666
-Iran,Q794,http://www.wikidata.org/entity/Q42829485,Nehbandan Windmill Complex,Wind turbine,31.538472222,60.042583333
-Iran,Q794,http://www.wikidata.org/entity/Q5884244,Nashtifan Windmill Complex,Wind turbine,34.432222222,60.174722222
-Finland,Q33,http://www.wikidata.org/entity/Q124399976,Q124399976,Wind turbine,62.45341,21.65998
-Finland,Q33,http://www.wikidata.org/entity/Q124124030,Q124124030,Wind turbine,62.47449,21.13562
-Finland,Q33,http://www.wikidata.org/entity/Q130223703,Q130223703,Wind turbine,62.25706,21.31744
-Finland,Q33,http://www.wikidata.org/entity/Q124478386,Q124478386,Wind turbine,62.81123,22.51624
-Finland,Q33,http://www.wikidata.org/entity/Q130267225,Q130267225,Wind turbine,63.92273,23.56656
-Finland,Q33,http://www.wikidata.org/entity/Q124329409,Q124329409,Wind turbine,62.60842,23.78756
-Finland,Q33,http://www.wikidata.org/entity/Q124040412,Q124040412,Wind turbine,60.11523,20.6716
-Finland,Q33,http://www.wikidata.org/entity/Q123686670,Q123686670,Wind turbine,61.15025,22.79612
-Finland,Q33,http://www.wikidata.org/entity/Q124693369,Q124693369,Wind turbine,63.32213,23.00442
-Finland,Q33,http://www.wikidata.org/entity/Q124036743,Q124036743,Wind turbine,60.18187,19.52596
-Finland,Q33,http://www.wikidata.org/entity/Q123972724,Q123972724,Wind turbine,62.512992222,22.712649444
-Finland,Q33,http://www.wikidata.org/entity/Q124330498,Q124330498,Wind turbine,64.92835,25.091
-Finland,Q33,http://www.wikidata.org/entity/Q123653376,Q123653376,Wind turbine,61.30304,22.70059
-Finland,Q33,http://www.wikidata.org/entity/Q124000112,Q124000112,Wind turbine,59.94368,20.95257
-Finland,Q33,http://www.wikidata.org/entity/Q124427980,Q124427980,Wind turbine,60.30439,22.67725
-Finland,Q33,http://www.wikidata.org/entity/Q124497742,Q124497742,Wind turbine,62.59209,22.95335
-Finland,Q33,http://www.wikidata.org/entity/Q124460806,Q124460806,Wind turbine,61.96275,24.16442
-Finland,Q33,http://www.wikidata.org/entity/Q124024662,Q124024662,Wind turbine,60.22602,20.39665
-Finland,Q33,http://www.wikidata.org/entity/Q124300840,Q124300840,Wind turbine,62.36505556,22.74377778
-Finland,Q33,http://www.wikidata.org/entity/Q123979896,Q123979896,Wind turbine,60.13575,20.66386
-Finland,Q33,http://www.wikidata.org/entity/Q124098889,Q124098889,Wind turbine,65.4005,25.27456
-Finland,Q33,http://www.wikidata.org/entity/Q124382149,Q124382149,Wind turbine,65.65961,24.53484
-Finland,Q33,http://www.wikidata.org/entity/Q124435173,Q124435173,Wind turbine,60.36945,22.94566
-Finland,Q33,http://www.wikidata.org/entity/Q124100309,Q124100309,Wind turbine,65.03763,25.06402
-Finland,Q33,http://www.wikidata.org/entity/Q124036737,Q124036737,Wind turbine,60.24806,19.49855
-Finland,Q33,http://www.wikidata.org/entity/Q130294730,Q130294730,Wind turbine,62.91622,23.05171
-Finland,Q33,http://www.wikidata.org/entity/Q124339167,Q124339167,Wind turbine,61.78245,22.99575
-Finland,Q33,http://www.wikidata.org/entity/Q124290429,Q124290429,Wind turbine,63.83128,22.78184
-Finland,Q33,http://www.wikidata.org/entity/Q124356003,Q124356003,Wind turbine,63.05641,21.55187
-Finland,Q33,http://www.wikidata.org/entity/Q124032854,Q124032854,Wind turbine,59.99372,20.3103
-Finland,Q33,http://www.wikidata.org/entity/Q130072352,Q130072352,Wind turbine,63.33057,22.4904
-Finland,Q33,http://www.wikidata.org/entity/Q124690355,Q124690355,Wind turbine,62.46729,22.04719
-Finland,Q33,http://www.wikidata.org/entity/Q124391546,Q124391546,Wind turbine,61.79757,23.34473
-Finland,Q33,http://www.wikidata.org/entity/Q124326477,Q124326477,Wind turbine,62.3275,22.67668
-Denmark,Q35,http://www.wikidata.org/entity/Q3432978,Gedser wind turbine,Wind turbine,54.5975,11.9228
-Denmark,Q35,http://www.wikidata.org/entity/Q11626695,Tvindkraft Wind Turbine,Wind turbine,56.256,8.28001
-Denmark,Q35,http://www.wikidata.org/entity/Q12300630,Aeromøllen Bogense,Wind turbine,55.5659,10.0831
+Poland,Q36,http://www.wikidata.org/entity/Q2583657,Rębielice Królewskie Wind Turbine,Wind turbine,50.99361111,18.86411111
+Poland,Q36,http://www.wikidata.org/entity/Q9252543,Q9252543,Wind turbine,,
+Poland,Q36,http://www.wikidata.org/entity/Q11697689,Q11697689,Wind turbine,,
+Poland,Q36,http://www.wikidata.org/entity/Q9252544,Q9252544,Wind turbine,49.6919,19.5838
+Poland,Q36,http://www.wikidata.org/entity/Q9004322,Nowy Tomyśl Wind Turbines,Wind turbine,52.29472222,16.15305556
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345851,Q29345851,Wind turbine,49.9181,17.0881
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345856,Hostýn,Wind turbine,49.379941,17.701664
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345811,Q29345811,Wind turbine,48.86808,16.16537
@@ -185,24 +180,29 @@ Czech Republic,Q213,http://www.wikidata.org/entity/Q29345800,Q29345800,Wind turb
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345818,Q29345818,Wind turbine,49.72641,15.50724
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345854,Q29345854,Wind turbine,50.36207,17.1141
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345806,wind turbine in Drahany,Wind turbine,49.44144,16.90437
-Netherlands,Q55,http://www.wikidata.org/entity/Q61018270,De Boerenzwaluw,Wind turbine,53.2657,6.213825
-Netherlands,Q55,http://www.wikidata.org/entity/Q2242411,Windturbine Siemens Zoetermeer,Wind turbine,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q17600677,Windmotor Goutum 2,Wind turbine,53.16796,5.82149
-Netherlands,Q55,http://www.wikidata.org/entity/Q64898797,Het Vliegend Hert,Wind turbine,52.595501,6.22298241
-Netherlands,Q55,http://www.wikidata.org/entity/Q107498903,Haliade-X,Wind turbine,51.96234,4.01192
-Netherlands,Q55,http://www.wikidata.org/entity/Q122948025,Q122948025,Wind turbine,,
+Iran,Q794,http://www.wikidata.org/entity/Q42874315,Machi Windmill,Wind turbine,30.54725,61.275916666
+Iran,Q794,http://www.wikidata.org/entity/Q5900694,Tabas-e Masina Windmill Complex,Wind turbine,32.809472222,60.223222222
+Iran,Q794,http://www.wikidata.org/entity/Q5900467,Khansharaf Windmill Complex,Wind turbine,31.562388888,60.101972222
+Iran,Q794,http://www.wikidata.org/entity/Q111800633,Rostam Windmill,Wind turbine,30.55525,61.243916666
+Iran,Q794,http://www.wikidata.org/entity/Q42829485,Nehbandan Windmill Complex,Wind turbine,31.538472222,60.042583333
+Iran,Q794,http://www.wikidata.org/entity/Q5884244,Nashtifan Windmill Complex,Wind turbine,34.432222222,60.174722222
 Japan,Q17,http://www.wikidata.org/entity/Q11525116,Q11525116,Wind turbine,35.60377778,139.80816667
 Japan,Q17,http://www.wikidata.org/entity/Q56026058,Setana wind turbines,Wind turbine,42.44325,139.83908333
-Hungary,Q28,http://www.wikidata.org/entity/Q1097217,Q1097217,Wind turbine,47.204,18.1952
-Hungary,Q28,http://www.wikidata.org/entity/Q1176581,Wind turbine in Mezőtúr,Wind turbine,47.01823,20.57576
 United States,Q30,http://www.wikidata.org/entity/Q7544927,Smith-Putnam wind turbine,Wind turbine,43.6582,-73.1063
 United States,Q30,http://www.wikidata.org/entity/Q107320708,Wind Turbines,Wind turbine,35.20750387,-101.373268254
 United States,Q30,http://www.wikidata.org/entity/Q107330890,Wind Farms,Wind turbine,30.90472,-102.29368
 German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123531274,Q123531274,Wind turbine,54.100979,12.156659981
 German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123167030,Q123167030,Wind turbine,54.344885,12.383828
-Switzerland,Q39,http://www.wikidata.org/entity/Q27902999,Q27902999,Wind turbine,46.893889,9.538611
-Russia,Q159,http://www.wikidata.org/entity/Q15640409,Ufimtsev Wind Turbine,Wind turbine,51.73388889,36.18555556
-Luxembourg,Q32,http://www.wikidata.org/entity/Q13105408,Q13105408,Wind turbine,50.078778,6.077806
+Hungary,Q28,http://www.wikidata.org/entity/Q1097217,Q1097217,Wind turbine,47.204,18.1952
+Hungary,Q28,http://www.wikidata.org/entity/Q1176581,Wind turbine in Mezőtúr,Wind turbine,47.01823,20.57576
+Sweden,Q34,http://www.wikidata.org/entity/Q43380434,Q43380434,Wind turbine,55.39,13.08
+Sweden,Q34,http://www.wikidata.org/entity/Q132036324,Q132036324,Wind turbine,56.941565184,12.616024508
+Sweden,Q34,http://www.wikidata.org/entity/Q60970199,Q60970199,Wind turbine,57.683822222,11.804883333
 United Kingdom,Q145,http://www.wikidata.org/entity/Q25935430,Swaffham Wind Turbine,Wind turbine,52.65679,0.68341
 Estonia,Q191,http://www.wikidata.org/entity/Q97231653,Q97231653,Wind turbine,,
 Estonia,Q191,http://www.wikidata.org/entity/Q65255535,Q65255535,Wind turbine,59.088513,22.585929
+Russia,Q159,http://www.wikidata.org/entity/Q15640409,Ufimtsev Wind Turbine,Wind turbine,51.73388889,36.18555556
+Luxembourg,Q32,http://www.wikidata.org/entity/Q13105408,Q13105408,Wind turbine,50.078778,6.077806
+Austria,Q40,http://www.wikidata.org/entity/Q2583823,Windpark Andau/Halbturn,Wind turbine,47.83,17.0223
+Austria,Q40,http://www.wikidata.org/entity/Q1796385,Q1796385,Wind turbine,47.6086,16.2036
+Switzerland,Q39,http://www.wikidata.org/entity/Q27902999,Q27902999,Wind turbine,46.893889,9.538611
