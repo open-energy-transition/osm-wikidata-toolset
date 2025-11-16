@@ -2165,6 +2165,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.915,
+          48.68472222
+        ]
+      },
+      "properties": {
+        "label": "Gambsheim barrage",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q15130268",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q15130268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.22098,
           51.4127
         ]
@@ -6850,6 +6867,23 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -35587,6 +35621,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.38773333,
+          50.90985556
+        ]
+      },
+      "properties": {
+        "label": "Obere Schleuse",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1325960",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1325960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.0089,
           48.0011
         ]
@@ -44437,6 +44488,23 @@
         "entity": "http://www.wikidata.org/entity/Q120799459",
         "country_qid": "Q183",
         "Wikidata Qid": "Q120799459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4930583,
+          49.6182075
+        ]
+      },
+      "properties": {
+        "label": "Q134088784",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q134088784",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q134088784"
       }
     },
     {
@@ -74034,23 +74102,6 @@
         "entity": "http://www.wikidata.org/entity/Q15854789",
         "country_qid": "Q183",
         "Wikidata Qid": "Q15854789"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q2569078"
       }
     },
     {
@@ -118003,23 +118054,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.23266,
-          48.769298
-        ]
-      },
-      "properties": {
-        "label": "Batschari",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q393125",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q393125"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.7936494,
           50.9718916
         ]
@@ -142034,23 +142068,6 @@
         "entity": "http://www.wikidata.org/entity/Q14540868",
         "country_qid": "Q183",
         "Wikidata Qid": "Q14540868"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.08764,
-          50.91487
-        ]
-      },
-      "properties": {
-        "label": "Rimburg mills",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q14277995",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q14277995"
       }
     },
     {
@@ -168792,6 +168809,23 @@
         "entity": "http://www.wikidata.org/entity/Q169693",
         "country_qid": "Q183",
         "Wikidata Qid": "Q169693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.24083,
+          51.4575
+        ]
+      },
+      "properties": {
+        "label": "Q169636",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q169636",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q169636"
       }
     },
     {
