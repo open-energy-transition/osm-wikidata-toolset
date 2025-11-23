@@ -21035,23 +21035,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.20583333,
-          54.23388889
-        ]
-      },
-      "properties": {
-        "label": "Q25498623",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q25498623",
-        "country_qid": "Q37",
-        "Wikidata Qid": "Q25498623"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.33888889,
           55.67166667
         ]

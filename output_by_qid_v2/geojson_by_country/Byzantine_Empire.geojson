@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.95,
+          41.025
+        ]
+      },
+      "properties": {
+        "label": "Cistern of Pulcheria",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124952951",
+        "country_qid": "Q12544",
+        "Wikidata Qid": "Q124952951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94986,
+          41.02595
+        ]
+      },
+      "properties": {
+        "label": "Cistern of Aspar",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6076508",
+        "country_qid": "Q12544",
+        "Wikidata Qid": "Q6076508"
+      }
+    }
+  ]
+}

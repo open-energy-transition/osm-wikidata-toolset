@@ -1281,6 +1281,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -52.683333333,
+          -23.7
+        ]
+      },
+      "properties": {
+        "label": "Guarantaani Aquifer",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q344888",
+        "country_qid": "Q414",
+        "Wikidata Qid": "Q344888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -68.54472222,
           -38.59694444
         ]

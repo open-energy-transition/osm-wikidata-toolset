@@ -567,23 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.477523696,
-          46.90503852
-        ]
-      },
-      "properties": {
-        "label": "Gemeinschaftskraftwerk Inn",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q95587696",
-        "country_qid": "Q39",
-        "Wikidata Qid": "Q95587696"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.979333333,
           47.368833333
         ]
@@ -5888,6 +5871,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.740833333,
+          47.091388888
+        ]
+      },
+      "properties": {
+        "label": "Lac de Moron",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q671274",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q671274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.568888888,
           46.477222222
         ]
@@ -6126,6 +6126,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.443236111,
+          46.45205
+        ]
+      },
+      "properties": {
+        "label": "Lago di Lei",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q656674",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q656674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193333333,
+          46.622222222
+        ]
+      },
+      "properties": {
+        "label": "Lago di Livigno",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q672495",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q672495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.302092,
           47.051846
         ]
@@ -6238,6 +6272,23 @@
         "entity": "http://www.wikidata.org/entity/Q63383167",
         "country_qid": "Q39",
         "Wikidata Qid": "Q63383167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70753,
+          47.53747
+        ]
+      },
+      "properties": {
+        "label": "Wehrbrücke Augst/Wyhlen",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q104215252",
+        "country_qid": "Q39",
+        "Wikidata Qid": "Q104215252"
       }
     },
     {

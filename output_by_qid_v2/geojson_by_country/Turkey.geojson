@@ -13402,23 +13402,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.95,
-          41.025
-        ]
-      },
-      "properties": {
-        "label": "Cistern of Pulcheria",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q124952951",
-        "country_qid": "Q43",
-        "Wikidata Qid": "Q124952951"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           32.4661903,
           37.836647
         ]
@@ -13633,23 +13616,6 @@
         "entity": "http://www.wikidata.org/entity/Q133860370",
         "country_qid": "Q43",
         "Wikidata Qid": "Q133860370"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.94986,
-          41.02595
-        ]
-      },
-      "properties": {
-        "label": "Cistern of Aspar",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q6076508",
-        "country_qid": "Q43",
-        "Wikidata Qid": "Q6076508"
       }
     },
     {
@@ -13888,23 +13854,6 @@
         "entity": "http://www.wikidata.org/entity/Q130443512",
         "country_qid": "Q43",
         "Wikidata Qid": "Q130443512"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.69242,
-          40.60512
-        ]
-      },
-      "properties": {
-        "label": "Akhurian Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q3457705",
-        "country_qid": "Q43",
-        "Wikidata Qid": "Q3457705"
       }
     },
     {

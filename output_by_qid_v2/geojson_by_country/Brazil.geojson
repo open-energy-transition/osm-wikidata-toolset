@@ -5531,23 +5531,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.683333333,
-          -23.7
-        ]
-      },
-      "properties": {
-        "label": "Guarantaani Aquifer",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q344888",
-        "country_qid": "Q155",
-        "Wikidata Qid": "Q344888"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -43.97944444,
           -19.85111111
         ]
@@ -6340,23 +6323,6 @@
         "entity": "http://www.wikidata.org/entity/Q69363382",
         "country_qid": "Q155",
         "Wikidata Qid": "Q69363382"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.33611,
-          -24.73333
-        ]
-      },
-      "properties": {
-        "label": "Itaipu Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q10315670",
-        "country_qid": "Q155",
-        "Wikidata Qid": "Q10315670"
       }
     },
     {

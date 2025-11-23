@@ -35621,23 +35621,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.38773333,
-          50.90985556
-        ]
-      },
-      "properties": {
-        "label": "Obere Schleuse",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1325960",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q1325960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.0089,
           48.0011
         ]
@@ -44495,23 +44478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4930583,
-          49.6182075
-        ]
-      },
-      "properties": {
-        "label": "Q134088784",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q134088784",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q134088784"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.02869,
           50.63335
         ]
@@ -47871,23 +47837,6 @@
         "entity": "http://www.wikidata.org/entity/Q111440699",
         "country_qid": "Q183",
         "Wikidata Qid": "Q111440699"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70753,
-          47.53747
-        ]
-      },
-      "properties": {
-        "label": "Wehrbrücke Augst/Wyhlen",
-        "type": "Weir",
-        "entity": "http://www.wikidata.org/entity/Q104215252",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q104215252"
       }
     },
     {

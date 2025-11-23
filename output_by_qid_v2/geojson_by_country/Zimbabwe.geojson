@@ -550,23 +550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0,
-          -17.0
-        ]
-      },
-      "properties": {
-        "label": "Lake Kariba",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1047206",
-        "country_qid": "Q954",
-        "Wikidata Qid": "Q1047206"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.149722222,
           -20.769722222
         ]

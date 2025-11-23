@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -54.33611,
+          -24.73333
+        ]
+      },
+      "properties": {
+        "label": "Itaipu Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q10315670",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q10315670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -55.25,
           -25.25
         ]
