@@ -584,23 +584,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.69242,
-          40.60512
-        ]
-      },
-      "properties": {
-        "label": "Akhurian Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q3457705",
-        "country_qid": "Q399",
-        "Wikidata Qid": "Q3457705"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           43.747222222,
           40.888888888
         ]
@@ -873,6 +856,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          44.501653,
+          40.156131
+        ]
+      },
+      "properties": {
+        "label": "Transistor Yerevan",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131564901",
+        "country_qid": "Q399",
+        "Wikidata Qid": "Q131564901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           44.508103,
           40.183665
         ]
@@ -917,6 +917,23 @@
         "entity": "http://www.wikidata.org/entity/Q43020066",
         "country_qid": "Q399",
         "Wikidata Qid": "Q43020066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.623457,
+          40.28181
+        ]
+      },
+      "properties": {
+        "label": "Sirius",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132349043",
+        "country_qid": "Q399",
+        "Wikidata Qid": "Q132349043"
       }
     },
     {

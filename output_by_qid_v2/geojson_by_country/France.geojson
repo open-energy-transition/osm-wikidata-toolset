@@ -13113,6 +13113,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.740833333,
+          47.091388888
+        ]
+      },
+      "properties": {
+        "label": "Lac de Moron",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q671274",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q671274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.230799,
           49.133441
         ]

@@ -125,57 +125,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.264166666,
-          42.181111111
-        ]
-      },
-      "properties": {
-        "label": "Fierza Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q15062919",
-        "country_qid": "Q1246",
-        "Wikidata Qid": "Q15062919"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.566944444,
-          42.961666666
-        ]
-      },
-      "properties": {
-        "label": "Gazivoda Lake",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1479905",
-        "country_qid": "Q1246",
-        "Wikidata Qid": "Q1479905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.416666666,
-          42.490555555
-        ]
-      },
-      "properties": {
-        "label": "Radoniq Lake",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1520663",
-        "country_qid": "Q1246",
-        "Wikidata Qid": "Q1520663"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           20.5728456,
           42.3651709
         ]

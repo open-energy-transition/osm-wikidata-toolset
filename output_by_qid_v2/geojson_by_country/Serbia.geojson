@@ -618,6 +618,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          20.566944444,
+          42.961666666
+        ]
+      },
+      "properties": {
+        "label": "Gazivoda Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1479905",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q1479905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.178888888,
           43.900555555
         ]
@@ -645,6 +662,23 @@
         "entity": "http://www.wikidata.org/entity/Q16897613",
         "country_qid": "Q403",
         "Wikidata Qid": "Q16897613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118888888,
+          44.363888888
+        ]
+      },
+      "properties": {
+        "label": "Zvornik Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q231499",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q231499"
       }
     },
     {
@@ -747,6 +781,40 @@
         "entity": "http://www.wikidata.org/entity/Q31182637",
         "country_qid": "Q403",
         "Wikidata Qid": "Q31182637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.416666666,
+          42.490555555
+        ]
+      },
+      "properties": {
+        "label": "Radoniq Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1520663",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q1520663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.161312,
+          44.476421
+        ]
+      },
+      "properties": {
+        "label": "Lake Đerdap",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1313598",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q1313598"
       }
     },
     {

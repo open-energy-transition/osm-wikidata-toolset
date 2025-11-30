@@ -10835,23 +10835,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2304,
-          54.6293
-        ]
-      },
-      "properties": {
-        "label": "Viking Link",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q21208645",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q21208645"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.515,
           50.088
         ]

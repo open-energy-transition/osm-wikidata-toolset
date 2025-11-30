@@ -3321,6 +3321,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.499444444,
+          50.906388888
+        ]
+      },
+      "properties": {
+        "label": "Kyiv Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1425651",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q1425651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.338888888,
           46.499722222
         ]
@@ -3365,6 +3382,23 @@
         "entity": "http://www.wikidata.org/entity/Q21044895",
         "country_qid": "Q212",
         "Wikidata Qid": "Q21044895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.966666666,
+          46.6
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2651567",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q2651567"
       }
     },
     {
