@@ -2165,23 +2165,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.915,
-          48.68472222
-        ]
-      },
-      "properties": {
-        "label": "Gambsheim barrage",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q15130268",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q15130268"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.22098,
           51.4127
         ]
@@ -6867,23 +6850,6 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.36668,
-          49.46697
-        ]
-      },
-      "properties": {
-        "label": "Écluse d'Apach-Schengen",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q13105104",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -31483,23 +31449,6 @@
         "entity": "http://www.wikidata.org/entity/Q803604",
         "country_qid": "Q183",
         "Wikidata Qid": "Q803604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.23561,
-          56.20835
-        ]
-      },
-      "properties": {
-        "label": "NORD.LINK",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q1961296",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q1961296"
       }
     },
     {

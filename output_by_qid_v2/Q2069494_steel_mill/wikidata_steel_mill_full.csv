@@ -1,33 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Belgium,Q31,http://www.wikidata.org/entity/Q18654954,Usine Gustave Boël,Steel mill,50.482425,4.179665
-Belgium,Q31,http://www.wikidata.org/entity/Q16542839,Q16542839,Steel mill,,
-Belgium,Q31,http://www.wikidata.org/entity/Q2137188,ArcelorMittal Ghent,Steel mill,,
-Belgium,Q31,http://www.wikidata.org/entity/Q3552639,Usine d'Athus,Steel mill,,
-Belgium,Q31,http://www.wikidata.org/entity/Q122722910,Q122722910,Steel mill,,
-Belgium,Q31,http://www.wikidata.org/entity/Q122747421,Q122747421,Steel mill,,
-Belgium,Q31,http://www.wikidata.org/entity/Q122811290,Q122811290,Steel mill,,
-United States,Q30,http://www.wikidata.org/entity/Q93606428,R.D. Cole Manufacturing Company,Steel mill,,
-United States,Q30,http://www.wikidata.org/entity/Q4953675,Brackenridge Works,Steel mill,40.60487,-79.73376
-United States,Q30,http://www.wikidata.org/entity/Q29564960,Cleveland Rolling Mill,Steel mill,41.45527778,-81.62666667
-United States,Q30,http://www.wikidata.org/entity/Q14687689,Joliet Iron and Steel Works,Steel mill,41.5400793,-88.0793236
-United States,Q30,http://www.wikidata.org/entity/Q17022381,Mon Valley Works - Irvin Plant,Steel mill,40.33637,-79.90393
-United States,Q30,http://www.wikidata.org/entity/Q65295448,Bethlehem Steel Works,Steel mill,,
-United States,Q30,http://www.wikidata.org/entity/Q1985872,Homestead Steel Works,Steel mill,40.411111,-79.911111
-United States,Q30,http://www.wikidata.org/entity/Q3651200,Cambria Iron Company,Steel mill,40.336,-78.923
-United States,Q30,http://www.wikidata.org/entity/Q59564117,Kaiser Steel Mill,Steel mill,,
-United States,Q30,http://www.wikidata.org/entity/Q3552596,Geneva Steel,Steel mill,40.3121745,-111.7407622
-United States,Q30,http://www.wikidata.org/entity/Q5337490,Edgar Thomson Steel Works,Steel mill,40.392,-79.854
-Germany,Q183,http://www.wikidata.org/entity/Q107150278,G. Krautheim AG,Steel mill,,
-Germany,Q183,http://www.wikidata.org/entity/Q114679470,LD-Steelworks Völklingen,Steel mill,49.24399,6.8543
-Germany,Q183,http://www.wikidata.org/entity/Q1638205,Peiner Träger,Steel mill,52.3158,10.2408
-Germany,Q183,http://www.wikidata.org/entity/Q618706,Aplerbecker Hütte,Steel mill,,
-Germany,Q183,http://www.wikidata.org/entity/Q631845,ArcelorMittal Eisenhüttenstadt,Steel mill,,
-Germany,Q183,http://www.wikidata.org/entity/Q101239562,Stahlwerk Osnabrück,Steel mill,52.2725,8.068055555
-Germany,Q183,http://www.wikidata.org/entity/Q22671827,Maxhütte,Steel mill,49.20737,12.087995
-Germany,Q183,http://www.wikidata.org/entity/Q108552359,Stahlwerk Bous,Steel mill,49.2769,6.7842
-Germany,Q183,http://www.wikidata.org/entity/Q1248357,Industriemuseum Brandenburg,Steel mill,52.4168,12.506
-Germany,Q183,http://www.wikidata.org/entity/Q134113262,Q134113262,Steel mill,,
-Germany,Q183,http://www.wikidata.org/entity/Q14515932,Steel plant in Neunkirchen,Steel mill,49.3478,7.17083
 United Kingdom,Q145,http://www.wikidata.org/entity/Q122830385,Crucible steel shops on south east side of Sandserson Kaysers Darnall Works,Steel mill,53.390906,-1.422615
 United Kingdom,Q145,http://www.wikidata.org/entity/Q7131675,Panteg Steel Works,Steel mill,51.6792,-3.01917
 United Kingdom,Q145,http://www.wikidata.org/entity/Q14914980,Darnall Works,Steel mill,53.3917,-1.42254
@@ -40,14 +11,17 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q27957674,Clydebridge Steelwo
 United Kingdom,Q145,http://www.wikidata.org/entity/Q24636895,Skinningrove Steelworks,Steel mill,54.566483,-0.906564
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116884131,Tremorfa Steelworks,Steel mill,,
 United Kingdom,Q145,http://www.wikidata.org/entity/Q6661869,Llanwern steelworks,Steel mill,51.5754,-2.89284
-Czech Republic,Q213,http://www.wikidata.org/entity/Q38492044,Q38492044,Steel mill,49.2667062,16.3520726
-Czech Republic,Q213,http://www.wikidata.org/entity/Q12029293,Klamova huť,Steel mill,49.3443,16.6486
-Czech Republic,Q213,http://www.wikidata.org/entity/Q38228048,Rudný důl – skarnový revír Zlatý kopec,Steel mill,50.436808,12.866541
-Czech Republic,Q213,http://www.wikidata.org/entity/Q12056164,Stará huť,Steel mill,49.3068,16.678
-Czech Republic,Q213,http://www.wikidata.org/entity/Q15680075,Q15680075,Steel mill,50.186,17.3503
-Czech Republic,Q213,http://www.wikidata.org/entity/Q38490786,Q38490786,Steel mill,50.2348425,16.3071039
-Czech Republic,Q213,http://www.wikidata.org/entity/Q38037724,Fürstenberská huť,Steel mill,49.98286,13.94682
-Czech Republic,Q213,http://www.wikidata.org/entity/Q37303155,Q37303155,Steel mill,50.72152,15.17886
+Germany,Q183,http://www.wikidata.org/entity/Q107150278,G. Krautheim AG,Steel mill,,
+Germany,Q183,http://www.wikidata.org/entity/Q114679470,LD-Steelworks Völklingen,Steel mill,49.24399,6.8543
+Germany,Q183,http://www.wikidata.org/entity/Q1638205,Peiner Träger,Steel mill,52.3158,10.2408
+Germany,Q183,http://www.wikidata.org/entity/Q618706,Aplerbecker Hütte,Steel mill,,
+Germany,Q183,http://www.wikidata.org/entity/Q631845,ArcelorMittal Eisenhüttenstadt,Steel mill,,
+Germany,Q183,http://www.wikidata.org/entity/Q101239562,Stahlwerk Osnabrück,Steel mill,52.2725,8.068055555
+Germany,Q183,http://www.wikidata.org/entity/Q22671827,Maxhütte,Steel mill,49.20737,12.087995
+Germany,Q183,http://www.wikidata.org/entity/Q108552359,Stahlwerk Bous,Steel mill,49.2769,6.7842
+Germany,Q183,http://www.wikidata.org/entity/Q1248357,Industriemuseum Brandenburg,Steel mill,52.4168,12.506
+Germany,Q183,http://www.wikidata.org/entity/Q134113262,Q134113262,Steel mill,,
+Germany,Q183,http://www.wikidata.org/entity/Q14515932,Steel plant in Neunkirchen,Steel mill,49.3478,7.17083
 Poland,Q36,http://www.wikidata.org/entity/Q9295172,Q9295172,Steel mill,50.673889,18.213056
 Poland,Q36,http://www.wikidata.org/entity/Q56329070,Q56329070,Steel mill,,
 Poland,Q36,http://www.wikidata.org/entity/Q11710320,Huta Częstochowa,Steel mill,,
@@ -82,6 +56,38 @@ Russia,Q159,http://www.wikidata.org/entity/Q108328645,Q108328645,Steel mill,,
 Russia,Q159,http://www.wikidata.org/entity/Q107344305,Kasli Metallurgical Plant,Steel mill,55.890425,60.742819
 Russia,Q159,http://www.wikidata.org/entity/Q4368702,Pozhvinsky plant,Steel mill,59.083668647,56.081274268
 Russia,Q159,http://www.wikidata.org/entity/Q128602355,Q128602355,Steel mill,,
+United States,Q30,http://www.wikidata.org/entity/Q93606428,R.D. Cole Manufacturing Company,Steel mill,,
+United States,Q30,http://www.wikidata.org/entity/Q4953675,Brackenridge Works,Steel mill,40.60487,-79.73376
+United States,Q30,http://www.wikidata.org/entity/Q29564960,Cleveland Rolling Mill,Steel mill,41.45527778,-81.62666667
+United States,Q30,http://www.wikidata.org/entity/Q14687689,Joliet Iron and Steel Works,Steel mill,41.5400793,-88.0793236
+United States,Q30,http://www.wikidata.org/entity/Q17022381,Mon Valley Works - Irvin Plant,Steel mill,40.33637,-79.90393
+United States,Q30,http://www.wikidata.org/entity/Q65295448,Bethlehem Steel Works,Steel mill,,
+United States,Q30,http://www.wikidata.org/entity/Q1985872,Homestead Steel Works,Steel mill,40.411111,-79.911111
+United States,Q30,http://www.wikidata.org/entity/Q3651200,Cambria Iron Company,Steel mill,40.336,-78.923
+United States,Q30,http://www.wikidata.org/entity/Q59564117,Kaiser Steel Mill,Steel mill,,
+United States,Q30,http://www.wikidata.org/entity/Q3552596,Geneva Steel,Steel mill,40.3121745,-111.7407622
+United States,Q30,http://www.wikidata.org/entity/Q5337490,Edgar Thomson Steel Works,Steel mill,40.392,-79.854
+France,Q142,http://www.wikidata.org/entity/Q92311140,Q92311140,Steel mill,,
+France,Q142,http://www.wikidata.org/entity/Q92310438,Q92310438,Steel mill,46.792112878,4.451990502
+France,Q142,http://www.wikidata.org/entity/Q106690358,La Providence,Steel mill,,
+France,Q142,http://www.wikidata.org/entity/Q107973501,Fonderies de Vaucouleurs,Steel mill,,
+Czech Republic,Q213,http://www.wikidata.org/entity/Q38492044,Q38492044,Steel mill,49.2667062,16.3520726
+Czech Republic,Q213,http://www.wikidata.org/entity/Q12029293,Klamova huť,Steel mill,49.3443,16.6486
+Czech Republic,Q213,http://www.wikidata.org/entity/Q38228048,Rudný důl – skarnový revír Zlatý kopec,Steel mill,50.436808,12.866541
+Czech Republic,Q213,http://www.wikidata.org/entity/Q12056164,Stará huť,Steel mill,49.3068,16.678
+Czech Republic,Q213,http://www.wikidata.org/entity/Q15680075,Q15680075,Steel mill,50.186,17.3503
+Czech Republic,Q213,http://www.wikidata.org/entity/Q38490786,Q38490786,Steel mill,50.2348425,16.3071039
+Czech Republic,Q213,http://www.wikidata.org/entity/Q38037724,Fürstenberská huť,Steel mill,49.98286,13.94682
+Czech Republic,Q213,http://www.wikidata.org/entity/Q37303155,Q37303155,Steel mill,50.72152,15.17886
+Italy,Q38,http://www.wikidata.org/entity/Q115280196,Duferco Travi e Profilati,Steel mill,45.47762,10.21004
+Italy,Q38,http://www.wikidata.org/entity/Q112140593,Q112140593,Steel mill,45.542791,9.251874
+Italy,Q38,http://www.wikidata.org/entity/Q112137436,Q112137436,Steel mill,45.542522,9.246928
+Italy,Q38,http://www.wikidata.org/entity/Q110914668,AFV Beltrame Group,Steel mill,43.566638888,11.527386111
+Italy,Q38,http://www.wikidata.org/entity/Q110914643,Duferco Travi e Profilati,Steel mill,43.573213888,11.521805555
+Italy,Q38,http://www.wikidata.org/entity/Q18199019,HangarBicocca,Steel mill,45.521261,9.219337
+Italy,Q38,http://www.wikidata.org/entity/Q112139209,Q112139209,Steel mill,45.53,9.239527
+Italy,Q38,http://www.wikidata.org/entity/Q112173117,Q112173117,Steel mill,45.546297,9.252427
+Italy,Q38,http://www.wikidata.org/entity/Q112143512,Q112143512,Steel mill,45.452096,9.161293
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q109726866,Q109726866,Steel mill,54.182909539,54.348317894
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q109703755,Q109703755,Steel mill,55.305892527,53.324223679
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q13031729,Q13031729,Steel mill,,
@@ -108,52 +114,46 @@ Russian Empire,Q34266,http://www.wikidata.org/entity/Q109828081,Q109828081,Steel
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q102124729,Q102124729,Steel mill,56.176168,50.936201
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q106838039,Q106838039,Steel mill,55.966831,50.7322
 Russian Empire,Q34266,http://www.wikidata.org/entity/Q102042249,Q102042249,Steel mill,57.669304,56.604228
-Austria,Q40,http://www.wikidata.org/entity/Q99344160,Q99344160,Steel mill,,
-Austria,Q40,http://www.wikidata.org/entity/Q1241057,Donawitz steelworks,Steel mill,47.3803,15.0646
-Austria,Q40,http://www.wikidata.org/entity/Q121096882,Eisenwerke Wördern,Steel mill,,
-Italy,Q38,http://www.wikidata.org/entity/Q115280196,Duferco Travi e Profilati,Steel mill,45.47762,10.21004
-Italy,Q38,http://www.wikidata.org/entity/Q112140593,Q112140593,Steel mill,45.542791,9.251874
-Italy,Q38,http://www.wikidata.org/entity/Q112137436,Q112137436,Steel mill,45.542522,9.246928
-Italy,Q38,http://www.wikidata.org/entity/Q110914668,AFV Beltrame Group,Steel mill,43.566638888,11.527386111
-Italy,Q38,http://www.wikidata.org/entity/Q110914643,Duferco Travi e Profilati,Steel mill,43.573213888,11.521805555
-Italy,Q38,http://www.wikidata.org/entity/Q18199019,HangarBicocca,Steel mill,45.521261,9.219337
-Italy,Q38,http://www.wikidata.org/entity/Q112139209,Q112139209,Steel mill,45.53,9.239527
-Italy,Q38,http://www.wikidata.org/entity/Q112173117,Q112173117,Steel mill,45.546297,9.252427
-Italy,Q38,http://www.wikidata.org/entity/Q112143512,Q112143512,Steel mill,45.452096,9.161293
+Belgium,Q31,http://www.wikidata.org/entity/Q18654954,Usine Gustave Boël,Steel mill,50.482425,4.179665
+Belgium,Q31,http://www.wikidata.org/entity/Q16542839,Q16542839,Steel mill,,
+Belgium,Q31,http://www.wikidata.org/entity/Q2137188,ArcelorMittal Ghent,Steel mill,,
+Belgium,Q31,http://www.wikidata.org/entity/Q3552639,Usine d'Athus,Steel mill,,
+Belgium,Q31,http://www.wikidata.org/entity/Q122722910,Q122722910,Steel mill,,
+Belgium,Q31,http://www.wikidata.org/entity/Q122747421,Q122747421,Steel mill,,
+Belgium,Q31,http://www.wikidata.org/entity/Q122811290,Q122811290,Steel mill,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q20639892,IJmuiden steelworks,Steel mill,52.4784,4.59212
+Netherlands,Q55,http://www.wikidata.org/entity/Q2146753,Q2146753,Steel mill,,
 Soviet Union,Q15180,http://www.wikidata.org/entity/Q12565163,Q12565163,Steel mill,44.851,78.821
 Soviet Union,Q15180,http://www.wikidata.org/entity/Q119153657,Q119153657,Steel mill,53.838879469,57.32755425
 Soviet Union,Q15180,http://www.wikidata.org/entity/Q110273358,Chermoz iron works,Steel mill,58.776317,56.147877
 Soviet Union,Q15180,http://www.wikidata.org/entity/Q114398443,Q114398443,Steel mill,54.759889758,58.208053885
 Soviet Union,Q15180,http://www.wikidata.org/entity/Q119931281,Q119931281,Steel mill,56.494063,60.811093
-France,Q142,http://www.wikidata.org/entity/Q92311140,Q92311140,Steel mill,,
-France,Q142,http://www.wikidata.org/entity/Q92310438,Q92310438,Steel mill,46.792112878,4.451990502
-France,Q142,http://www.wikidata.org/entity/Q106690358,La Providence,Steel mill,,
-France,Q142,http://www.wikidata.org/entity/Q107973501,Fonderies de Vaucouleurs,Steel mill,,
+Iran,Q794,http://www.wikidata.org/entity/Q5955063,Khouzestan Steel Company,Steel mill,,
+Iran,Q794,http://www.wikidata.org/entity/Q116743902,Jahan Foulad Gharb,Steel mill,34.2925,47.455555555
 Tsardom of Russia,Q186096,http://www.wikidata.org/entity/Q113374859,Q113374859,Steel mill,,
+Philippines,Q928,http://www.wikidata.org/entity/Q106253768,Lemery Works,Steel mill,,
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q130611054,Q130611054,Steel mill,52.416767,12.506019
+Cuba,Q241,http://www.wikidata.org/entity/Q5831761,Q5831761,Steel mill,23.04,-82.275
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q115917857,Q115917857,Steel mill,,
 Ukraine,Q212,http://www.wikidata.org/entity/Q16488153,Q16488153,Steel mill,,
 Ukraine,Q212,http://www.wikidata.org/entity/Q491289,ArcelorMittal Kryvyi Rih,Steel mill,47.883734,33.390879
 Ukraine,Q212,http://www.wikidata.org/entity/Q4163253,Dneprospetsstal,Steel mill,47.86472222,35.16361111
 Ukraine,Q212,http://www.wikidata.org/entity/Q4163164,KAMET-STEEL,Steel mill,,
-German Reich,Q1206012,http://www.wikidata.org/entity/Q130610247,Q130610247,Steel mill,52.41590929,12.508815946
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q130611054,Q130611054,Steel mill,52.416767,12.506019
+Luxembourg,Q32,http://www.wikidata.org/entity/Q360553,Adolf-Emil-Hütte,Steel mill,49.500834,5.955942
+Korea,Q18097,http://www.wikidata.org/entity/Q11509466,Q11509466,Steel mill,,
+Canada,Q16,http://www.wikidata.org/entity/Q7606972,Stelco Lake Erie Works,Steel mill,42.8107,-80.0727
 North Korea,Q423,http://www.wikidata.org/entity/Q21334982,Chollima Steel Complex,Steel mill,38.92194444,125.57222222
 North Korea,Q423,http://www.wikidata.org/entity/Q11426236,Sungjin Steel Joint Enterprise,Steel mill,,
-Philippines,Q928,http://www.wikidata.org/entity/Q106253768,Lemery Works,Steel mill,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q20639892,IJmuiden steelworks,Steel mill,52.4784,4.59212
-Netherlands,Q55,http://www.wikidata.org/entity/Q2146753,Q2146753,Steel mill,,
-Canada,Q16,http://www.wikidata.org/entity/Q7606972,Stelco Lake Erie Works,Steel mill,42.8107,-80.0727
-Luxembourg,Q32,http://www.wikidata.org/entity/Q360553,Adolf-Emil-Hütte,Steel mill,49.500834,5.955942
-Empire of Japan,Q188712,http://www.wikidata.org/entity/Q11509466,Q11509466,Steel mill,,
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q115917857,Q115917857,Steel mill,,
-Albania,Q222,http://www.wikidata.org/entity/Q13040918,Elbasan steelworks,Steel mill,41.09009,20.02427
-Korea,Q18097,http://www.wikidata.org/entity/Q11509466,Q11509466,Steel mill,,
-Azerbaijan,Q227,http://www.wikidata.org/entity/Q28666570,Q28666570,Steel mill,,
-Cuba,Q241,http://www.wikidata.org/entity/Q5831761,Q5831761,Steel mill,23.04,-82.275
-Azerbaijan Soviet Socialist Republic,Q131337,http://www.wikidata.org/entity/Q28666570,Q28666570,Steel mill,,
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q12565163,Q12565163,Steel mill,44.851,78.821
-Spain,Q29,http://www.wikidata.org/entity/Q48781958,Q48781958,Steel mill,43.5372,-5.6817
-Iran,Q794,http://www.wikidata.org/entity/Q5955063,Khouzestan Steel Company,Steel mill,,
-Iran,Q794,http://www.wikidata.org/entity/Q116743902,Jahan Foulad Gharb,Steel mill,34.2925,47.455555555
 Belarus,Q184,http://www.wikidata.org/entity/Q26806310,Q26806310,Steel mill,,
+Azerbaijan Soviet Socialist Republic,Q131337,http://www.wikidata.org/entity/Q28666570,Q28666570,Steel mill,,
 Austria-Hungary,Q28513,http://www.wikidata.org/entity/Q31820984,Q31820984,Steel mill,,
+German Reich,Q1206012,http://www.wikidata.org/entity/Q130610247,Q130610247,Steel mill,52.41590929,12.508815946
+Albania,Q222,http://www.wikidata.org/entity/Q13040918,Elbasan steelworks,Steel mill,41.09009,20.02427
+Spain,Q29,http://www.wikidata.org/entity/Q48781958,Q48781958,Steel mill,43.5372,-5.6817
+Empire of Japan,Q188712,http://www.wikidata.org/entity/Q11509466,Q11509466,Steel mill,,
+Azerbaijan,Q227,http://www.wikidata.org/entity/Q28666570,Q28666570,Steel mill,,
+Austria,Q40,http://www.wikidata.org/entity/Q99344160,Q99344160,Steel mill,,
+Austria,Q40,http://www.wikidata.org/entity/Q1241057,Donawitz steelworks,Steel mill,47.3803,15.0646
+Austria,Q40,http://www.wikidata.org/entity/Q121096882,Eisenwerke Wördern,Steel mill,,
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q12565163,Q12565163,Steel mill,44.851,78.821
 Finland,Q33,http://www.wikidata.org/entity/Q63433233,Dalsbruk steelworks,Steel mill,60.018194444,22.502777777
