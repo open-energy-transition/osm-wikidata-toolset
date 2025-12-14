@@ -278,6 +278,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          62.291666666,
+          37.413055555
+        ]
+      },
+      "properties": {
+        "label": "Nizhne-Gindukushskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911163",
+        "country_qid": "Q874",
+        "Wikidata Qid": "Q34911163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           56.783333333,
           40.733333333
         ]
