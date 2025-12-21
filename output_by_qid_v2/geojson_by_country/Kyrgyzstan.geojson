@@ -261,23 +261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.11167,
-          40.77222
-        ]
-      },
-      "properties": {
-        "label": "Kempir-Abad reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q34868908",
-        "country_qid": "Q813",
-        "Wikidata Qid": "Q34868908"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           74.577337009,
           42.981629897
         ]
@@ -356,23 +339,6 @@
         "entity": "http://www.wikidata.org/entity/Q13166272",
         "country_qid": "Q813",
         "Wikidata Qid": "Q13166272"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.08746,
-          40.44689
-        ]
-      },
-      "properties": {
-        "label": "Karkidon Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q34894072",
-        "country_qid": "Q813",
-        "Wikidata Qid": "Q34894072"
       }
     },
     {

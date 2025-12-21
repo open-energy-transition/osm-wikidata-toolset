@@ -1,22 +1,16 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Uganda,Q1036,http://www.wikidata.org/entity/Q20894753,Mayuge Thermal Power Station,Biomass-fired power station,0.50527778,33.41555556
-Uganda,Q1036,http://www.wikidata.org/entity/Q18386727,Kaliro Power Station,Biomass-fired power station,0.936389,33.4831
-Uganda,Q1036,http://www.wikidata.org/entity/Q6414458,Kinyara Power Station,Biomass-fired power station,1.63555556,31.60555556
-Uganda,Q1036,http://www.wikidata.org/entity/Q6699741,Lugazi Power Station,Biomass-fired power station,0.38,32.945
-Uganda,Q1036,http://www.wikidata.org/entity/Q6349473,Kakira Power Station,Biomass-fired power station,0.50888889,33.29
+Hungary,Q28,http://www.wikidata.org/entity/Q11994119,Oroszlány power plant,Biomass-fired power station,47.5017073,18.2702353
+Chile,Q298,http://www.wikidata.org/entity/Q7909434,Valdivia Pulp Mill,Biomass-fired power station,-39.565777777,-72.899972222
+Uruguay,Q77,http://www.wikidata.org/entity/Q111466667,UPM Power Plant,Biomass-fired power station,-33.1165623,-58.2581592
+Uruguay,Q77,http://www.wikidata.org/entity/Q111466599,Montes del Plata Power Plant,Biomass-fired power station,-34.2261431,-58.0550891
+Germany,Q183,http://www.wikidata.org/entity/Q864563,Lünen biomass power station,Biomass-fired power station,51.6212,7.46615
+Germany,Q183,http://www.wikidata.org/entity/Q20671817,Emden power station,Biomass-fired power station,53.3404,7.2102
 Denmark,Q35,http://www.wikidata.org/entity/Q7719474,Herning Power Station,Biomass-fired power station,56.1213,9.00694
 Denmark,Q35,http://www.wikidata.org/entity/Q3432984,Asnæs Power Station,Biomass-fired power station,55.66130556,11.07894444
 Denmark,Q35,http://www.wikidata.org/entity/Q12001324,Skærbæk Power Station,Biomass-fired power station,55.5117,9.6148
 Denmark,Q35,http://www.wikidata.org/entity/Q3432240,Avedøre Power Station,Biomass-fired power station,55.602761,12.47925
 Denmark,Q35,http://www.wikidata.org/entity/Q12301241,Amager power station,Biomass-fired power station,55.68555556,12.62611111
 Denmark,Q35,http://www.wikidata.org/entity/Q1355591,Studstrup Power Station,Biomass-fired power station,56.251388888,10.344444444
-Japan,Q17,http://www.wikidata.org/entity/Q11305138,Summit Myojo Power Corporation Itoigawa Biomass-fired Power Station,Biomass-fired power station,37.027777777,137.8495
-Japan,Q17,http://www.wikidata.org/entity/Q40836142,Q40836142,Biomass-fired power station,44.335555555,143.367777777
-Brazil,Q155,http://www.wikidata.org/entity/Q106515584,Q106515584,Biomass-fired power station,-21.86583333,-54.02222222
-Brazil,Q155,http://www.wikidata.org/entity/Q106515587,Q106515587,Biomass-fired power station,-21.5859451,-54.2482728
-Brazil,Q155,http://www.wikidata.org/entity/Q106515577,Q106515577,Biomass-fired power station,-20.5982356,-51.6102418
-Brazil,Q155,http://www.wikidata.org/entity/Q106515583,Q106515583,Biomass-fired power station,-17.695,-51.62027778
-Netherlands,Q55,http://www.wikidata.org/entity/Q3212088,biomass power station Moerdijk,Biomass-fired power station,51.68806,4.58083
 United Kingdom,Q145,http://www.wikidata.org/entity/Q1629859,Drax power station,Biomass-fired power station,53.7358,-0.996389
 United States,Q30,http://www.wikidata.org/entity/Q116715229,Roseburg Forest Products Biomass,Biomass-fired power station,41.435556,-122.3769
 United States,Q30,http://www.wikidata.org/entity/Q116713024,Kaukauna Paper Mill,Biomass-fired power station,44.2826,-88.2534
@@ -228,21 +222,27 @@ United States,Q30,http://www.wikidata.org/entity/Q116715360,St Paul Cogeneration
 United States,Q30,http://www.wikidata.org/entity/Q116715779,Savannah River Site Biomass Cogen,Biomass-fired power station,33.283333,-81.66667
 United States,Q30,http://www.wikidata.org/entity/Q116719815,Stoltze CoGen1,Biomass-fired power station,48.3877,-114.2409
 United States,Q30,http://www.wikidata.org/entity/Q116721600,GRP Madison Renewable Energy Facility,Biomass-fired power station,34.040559,-83.1929
+Namibia,Q1030,http://www.wikidata.org/entity/Q126923294,Tsumeb Biomass Power Station,Biomass-fired power station,-19.223888888,17.708333333
+Japan,Q17,http://www.wikidata.org/entity/Q11305138,Summit Myojo Power Corporation Itoigawa Biomass-fired Power Station,Biomass-fired power station,37.027777777,137.8495
+Japan,Q17,http://www.wikidata.org/entity/Q40836142,Q40836142,Biomass-fired power station,44.335555555,143.367777777
+Brazil,Q155,http://www.wikidata.org/entity/Q106515584,Q106515584,Biomass-fired power station,-21.86583333,-54.02222222
+Brazil,Q155,http://www.wikidata.org/entity/Q106515587,Q106515587,Biomass-fired power station,-21.5859451,-54.2482728
+Brazil,Q155,http://www.wikidata.org/entity/Q106515577,Q106515577,Biomass-fired power station,-20.5982356,-51.6102418
+Brazil,Q155,http://www.wikidata.org/entity/Q106515583,Q106515583,Biomass-fired power station,-17.695,-51.62027778
 France,Q142,http://www.wikidata.org/entity/Q1839493,Provence Power Station,Biomass-fired power station,43.469438888,5.486111111
 France,Q142,http://www.wikidata.org/entity/Q2944719,Port-Est bioenergy power plant,Biomass-fired power station,-20.93056,55.32694
 France,Q142,http://www.wikidata.org/entity/Q65923053,Q65923053,Biomass-fired power station,-20.9142559,55.6351399
-Germany,Q183,http://www.wikidata.org/entity/Q864563,Lünen biomass power station,Biomass-fired power station,51.6212,7.46615
-Germany,Q183,http://www.wikidata.org/entity/Q20671817,Emden power station,Biomass-fired power station,53.3404,7.2102
-Hungary,Q28,http://www.wikidata.org/entity/Q11994119,Oroszlány power plant,Biomass-fired power station,47.5017073,18.2702353
+Netherlands,Q55,http://www.wikidata.org/entity/Q3212088,biomass power station Moerdijk,Biomass-fired power station,51.68806,4.58083
+Belgium,Q31,http://www.wikidata.org/entity/Q11998171,Rodenhuize Power Plant,Biomass-fired power station,51.134722,3.776111
+Italy,Q38,http://www.wikidata.org/entity/Q16538823,centrale del Mercure,Biomass-fired power station,39.982163888,16.021294444
 Singapore,Q334,http://www.wikidata.org/entity/Q116735026,Tembusu Multi-Utilities Complex,Biomass-fired power station,1.2763845,103.6677057
-Chile,Q298,http://www.wikidata.org/entity/Q7909434,Valdivia Pulp Mill,Biomass-fired power station,-39.565777777,-72.899972222
+Uganda,Q1036,http://www.wikidata.org/entity/Q20894753,Mayuge Thermal Power Station,Biomass-fired power station,0.50527778,33.41555556
+Uganda,Q1036,http://www.wikidata.org/entity/Q18386727,Kaliro Power Station,Biomass-fired power station,0.936389,33.4831
+Uganda,Q1036,http://www.wikidata.org/entity/Q6414458,Kinyara Power Station,Biomass-fired power station,1.63555556,31.60555556
+Uganda,Q1036,http://www.wikidata.org/entity/Q6699741,Lugazi Power Station,Biomass-fired power station,0.38,32.945
+Uganda,Q1036,http://www.wikidata.org/entity/Q6349473,Kakira Power Station,Biomass-fired power station,0.50888889,33.29
 Spain,Q29,http://www.wikidata.org/entity/Q5760762,Q5760762,Biomass-fired power station,40.84222222,-1.95611111
 Spain,Q29,http://www.wikidata.org/entity/Q6408485,Biollano biomass power plant,Biomass-fired power station,38.65611111,-3.98638889
-Namibia,Q1030,http://www.wikidata.org/entity/Q126923294,Tsumeb Biomass Power Station,Biomass-fired power station,-19.223888888,17.708333333
-Belgium,Q31,http://www.wikidata.org/entity/Q11998171,Rodenhuize Power Plant,Biomass-fired power station,51.134722,3.776111
-South Africa,Q258,http://www.wikidata.org/entity/Q107241996,Ngodwana Biomass Power Station,Biomass-fired power station,-25.575555555,30.664722222
 Rwanda,Q1037,http://www.wikidata.org/entity/Q25221452,Gishoma Thermal Power Station,Biomass-fired power station,-2.6670832,28.9399731
 Ivory Coast,Q1008,http://www.wikidata.org/entity/Q107292934,Ayebo Biomass Power Station,Biomass-fired power station,5.439444444,-3.269166666
-Uruguay,Q77,http://www.wikidata.org/entity/Q111466667,UPM Power Plant,Biomass-fired power station,-33.1165623,-58.2581592
-Uruguay,Q77,http://www.wikidata.org/entity/Q111466599,Montes del Plata Power Plant,Biomass-fired power station,-34.2261431,-58.0550891
-Italy,Q38,http://www.wikidata.org/entity/Q16538823,centrale del Mercure,Biomass-fired power station,39.982163888,16.021294444
+South Africa,Q258,http://www.wikidata.org/entity/Q107241996,Ngodwana Biomass Power Station,Biomass-fired power station,-25.575555555,30.664722222

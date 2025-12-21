@@ -1,22 +1,22 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-United States,Q30,http://www.wikidata.org/entity/Q7981907,Welsh HVDC Converter Station,HVDC back-to-back station,33.0583,-94.8441
-United States,Q30,http://www.wikidata.org/entity/Q7838703,Tres Amigas SuperStation,HVDC back-to-back station,34.4,-103.083
-United States,Q30,http://www.wikidata.org/entity/Q7934519,Virginia Smith Converter Station,HVDC back-to-back station,41.1642,-102.988
+Austria,Q40,http://www.wikidata.org/entity/Q872819,GK Dürnrohr,HVDC back-to-back station,48.3296,15.8799
+Austria,Q40,http://www.wikidata.org/entity/Q873304,GK Wien–Southeast,HVDC back-to-back station,48.1227,16.4183
 India,Q668,http://www.wikidata.org/entity/Q7937990,Vizag back to back HVDC converter station,HVDC back-to-back station,17.6425,83.1325
 India,Q668,http://www.wikidata.org/entity/Q7425009,Sasaram back to back HVDC converter station,HVDC back-to-back station,25.12833333,83.70805556
 India,Q668,http://www.wikidata.org/entity/Q5071436,Chandrapur back to back HVDC converter station,HVDC back-to-back station,20.08916667,79.14333333
-Japan,Q17,http://www.wikidata.org/entity/Q1617659,Higashi-Shimizu Frequency Converter,HVDC back-to-back station,35.05805556,138.5
-Japan,Q17,http://www.wikidata.org/entity/Q6862860,Minami-Fukumitsu,HVDC back-to-back station,36.496187,136.915854
-Japan,Q17,http://www.wikidata.org/entity/Q7497226,Shin Shinano,HVDC back-to-back station,36.13722222,137.88277778
-Japan,Q17,http://www.wikidata.org/entity/Q11382696,Sakuma Frequency Converter Station,HVDC back-to-back station,35.08225,137.799194
+Germany,Q183,http://www.wikidata.org/entity/Q658977,GKK Etzenricht,HVDC back-to-back station,49.631,12.1156
 Canada,Q16,http://www.wikidata.org/entity/Q5347061,Eel River Converter Station,HVDC back-to-back station,48.0181,-66.4442
 Canada,Q16,http://www.wikidata.org/entity/Q14875550,Madawaska HVDC,HVDC back-to-back station,47.5086,-68.5236
 Canada,Q16,http://www.wikidata.org/entity/Q113939125,Outaouais HVDC back-to-back station,HVDC back-to-back station,45.600152,-75.446312
 Canada,Q16,http://www.wikidata.org/entity/Q6802531,McNeill HVDC Back-to-back station,HVDC back-to-back station,50.5989,-110.024
 Canada,Q16,http://www.wikidata.org/entity/Q1090757,Châteauguay HVDC-back-to-back station,HVDC back-to-back station,45.2531,-73.8694
-Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,HVDC back-to-back station,60.6803,28.9186
+United States,Q30,http://www.wikidata.org/entity/Q7981907,Welsh HVDC Converter Station,HVDC back-to-back station,33.0583,-94.8441
+United States,Q30,http://www.wikidata.org/entity/Q7838703,Tres Amigas SuperStation,HVDC back-to-back station,34.4,-103.083
+United States,Q30,http://www.wikidata.org/entity/Q7934519,Virginia Smith Converter Station,HVDC back-to-back station,41.1642,-102.988
 Uruguay,Q77,http://www.wikidata.org/entity/Q7338051,Rivera HVDC Back-to-back station,HVDC back-to-back station,-30.94138889,-55.55944444
+Japan,Q17,http://www.wikidata.org/entity/Q1617659,Higashi-Shimizu Frequency Converter,HVDC back-to-back station,35.05805556,138.5
+Japan,Q17,http://www.wikidata.org/entity/Q6862860,Minami-Fukumitsu,HVDC back-to-back station,36.496187,136.915854
+Japan,Q17,http://www.wikidata.org/entity/Q7497226,Shin Shinano,HVDC back-to-back station,36.13722222,137.88277778
+Japan,Q17,http://www.wikidata.org/entity/Q11382696,Sakuma Frequency Converter Station,HVDC back-to-back station,35.08225,137.799194
 Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1485743,Al-Fadhili back to back HVDC converter station,HVDC back-to-back station,26.90083333,49.35083333
-Austria,Q40,http://www.wikidata.org/entity/Q872819,GK Dürnrohr,HVDC back-to-back station,48.3296,15.8799
-Austria,Q40,http://www.wikidata.org/entity/Q873304,GK Wien–Southeast,HVDC back-to-back station,48.1227,16.4183
-Germany,Q183,http://www.wikidata.org/entity/Q658977,GKK Etzenricht,HVDC back-to-back station,49.631,12.1156
+Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,HVDC back-to-back station,60.6803,28.9186
