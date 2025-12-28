@@ -1,12 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131560727,Dogger Bank A Offshore Substation,HVDC converter station,54.7833,1.86005
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122975912,Folkestone Converter Station,HVDC converter station,51.0984,1.1447
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122971586,Daedalus Converter Station,HVDC converter station,50.818,-1.194
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131572461,Sofia Offshore Converter Platform,HVDC converter station,54.99518,2.25928
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7330376,Richborough Energy Park,HVDC converter station,51.3106091,1.3446422
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131560777,Dogger Bank B Offshore Substation,HVDC converter station,54.98462,1.65343
-United Kingdom,Q145,http://www.wikidata.org/entity/Q63148605,Auchencrosh Converter Station,HVDC converter station,55.069722222,-4.980833333
-United Kingdom,Q145,http://www.wikidata.org/entity/Q134731299,Dogger Bank C Offshore Substation,HVDC converter station,55.02233,2.71059
 Germany,Q183,http://www.wikidata.org/entity/Q2478704,Büttel substation and converter station,HVDC converter station,53.916944444,9.235
 Germany,Q183,http://www.wikidata.org/entity/Q60159567,BorWin beta,HVDC converter station,54.355166666,6.024611111
 Germany,Q183,http://www.wikidata.org/entity/Q129014536,DolWin kappa,HVDC converter station,53.97854,6.92156
@@ -23,14 +15,31 @@ Germany,Q183,http://www.wikidata.org/entity/Q60152307,DolWin beta,HVDC converter
 Germany,Q183,http://www.wikidata.org/entity/Q60150983,HelWin alpha,HVDC converter station,54.452119444,7.739919444
 Germany,Q183,http://www.wikidata.org/entity/Q60151321,HelWin beta,HVDC converter station,54.453511111,7.739430555
 Germany,Q183,http://www.wikidata.org/entity/Q658977,GKK Etzenricht,HVDC converter station,49.631,12.1156
+United States,Q30,http://www.wikidata.org/entity/Q23016607,Adelanto Converter Station,HVDC converter station,34.55111111,-117.43722222
+United States,Q30,http://www.wikidata.org/entity/Q7981907,Welsh HVDC Converter Station,HVDC converter station,33.0583,-94.8441
+United States,Q30,http://www.wikidata.org/entity/Q7838703,Tres Amigas SuperStation,HVDC converter station,34.4,-103.083
+United States,Q30,http://www.wikidata.org/entity/Q7660590,Sylmar Converter Station,HVDC converter station,34.312,-118.481
+United States,Q30,http://www.wikidata.org/entity/Q7934519,Virginia Smith Converter Station,HVDC converter station,41.1642,-102.988
+United States,Q30,http://www.wikidata.org/entity/Q5058055,Celilo Converter Station,HVDC converter station,45.5938,-121.113
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131560727,Dogger Bank A Offshore Substation,HVDC converter station,54.7833,1.86005
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122975912,Folkestone Converter Station,HVDC converter station,51.0984,1.1447
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122971586,Daedalus Converter Station,HVDC converter station,50.818,-1.194
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131572461,Sofia Offshore Converter Platform,HVDC converter station,54.99518,2.25928
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7330376,Richborough Energy Park,HVDC converter station,51.3106091,1.3446422
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131560777,Dogger Bank B Offshore Substation,HVDC converter station,54.98462,1.65343
+United Kingdom,Q145,http://www.wikidata.org/entity/Q63148605,Auchencrosh Converter Station,HVDC converter station,55.069722222,-4.980833333
+United Kingdom,Q145,http://www.wikidata.org/entity/Q134731299,Dogger Bank C Offshore Substation,HVDC converter station,55.02233,2.71059
 Japan,Q17,http://www.wikidata.org/entity/Q1617659,Higashi-Shimizu Frequency Converter,HVDC converter station,35.05805556,138.5
 Japan,Q17,http://www.wikidata.org/entity/Q6862860,Minami-Fukumitsu,HVDC converter station,36.496187,136.915854
 Japan,Q17,http://www.wikidata.org/entity/Q7497226,Shin Shinano,HVDC converter station,36.13722222,137.88277778
 Japan,Q17,http://www.wikidata.org/entity/Q11382696,Sakuma Frequency Converter Station,HVDC converter station,35.08225,137.799194
-Australia,Q408,http://www.wikidata.org/entity/Q29020454,Murraylink (Red Cliffs),HVDC converter station,-34.293611111,142.238888888
-Australia,Q408,http://www.wikidata.org/entity/Q29020540,Basslink L.C.,HVDC converter station,-38.2625,146.608055555
-Australia,Q408,http://www.wikidata.org/entity/Q29020605,Murraylink (Monash),HVDC converter station,-34.238055555,140.600277777
-Australia,Q408,http://www.wikidata.org/entity/Q29020705,Basslink George Town,HVDC converter station,-41.114722222,146.891944444
+Denmark,Q35,http://www.wikidata.org/entity/Q29810885,Herslev converter station,HVDC converter station,55.531944444,11.315277777
+Denmark,Q35,http://www.wikidata.org/entity/Q29810871,Fraugde substation and converter station,HVDC converter station,55.36600278,10.50520833
+Denmark,Q35,http://www.wikidata.org/entity/Q29084840,Tjele substation and converter station,HVDC converter station,56.4785,9.5671
+Denmark,Q35,http://www.wikidata.org/entity/Q63152313,Vester Hassing substation and converter station,HVDC converter station,57.062777777,10.09
+France,Q142,http://www.wikidata.org/entity/Q122970397,Tourbe Converter Station,HVDC converter station,49.1108,-0.262
+France,Q142,http://www.wikidata.org/entity/Q122969276,La Martyre Converter Station,HVDC converter station,48.4432,-4.1973
+France,Q142,http://www.wikidata.org/entity/Q122975893,Peuplingues Converter Station,HVDC converter station,50.9202,1.7806
 Canada,Q16,http://www.wikidata.org/entity/Q5347061,Eel River Converter Station,HVDC converter station,48.0181,-66.4442
 Canada,Q16,http://www.wikidata.org/entity/Q14875550,Madawaska HVDC,HVDC converter station,47.5086,-68.5236
 Canada,Q16,http://www.wikidata.org/entity/Q113939125,Outaouais HVDC back-to-back station,HVDC converter station,45.600152,-75.446312
@@ -38,35 +47,26 @@ Canada,Q16,http://www.wikidata.org/entity/Q7281356,Radisson Substation,HVDC conv
 Canada,Q16,http://www.wikidata.org/entity/Q6802531,McNeill HVDC Back-to-back station,HVDC converter station,50.5989,-110.024
 Canada,Q16,http://www.wikidata.org/entity/Q1090757,Châteauguay HVDC-back-to-back station,HVDC converter station,45.2531,-73.8694
 Canada,Q16,http://www.wikidata.org/entity/Q5713103,Henday Converter Station,HVDC converter station,56.5039,-94.14
-Denmark,Q35,http://www.wikidata.org/entity/Q29810885,Herslev converter station,HVDC converter station,55.531944444,11.315277777
-Denmark,Q35,http://www.wikidata.org/entity/Q29810871,Fraugde substation and converter station,HVDC converter station,55.36600278,10.50520833
-Denmark,Q35,http://www.wikidata.org/entity/Q29084840,Tjele substation and converter station,HVDC converter station,56.4785,9.5671
-Denmark,Q35,http://www.wikidata.org/entity/Q63152313,Vester Hassing substation and converter station,HVDC converter station,57.062777777,10.09
-United States,Q30,http://www.wikidata.org/entity/Q23016607,Adelanto Converter Station,HVDC converter station,34.55111111,-117.43722222
-United States,Q30,http://www.wikidata.org/entity/Q7981907,Welsh HVDC Converter Station,HVDC converter station,33.0583,-94.8441
-United States,Q30,http://www.wikidata.org/entity/Q7838703,Tres Amigas SuperStation,HVDC converter station,34.4,-103.083
-United States,Q30,http://www.wikidata.org/entity/Q7660590,Sylmar Converter Station,HVDC converter station,34.312,-118.481
-United States,Q30,http://www.wikidata.org/entity/Q7934519,Virginia Smith Converter Station,HVDC converter station,41.1642,-102.988
-United States,Q30,http://www.wikidata.org/entity/Q5058055,Celilo Converter Station,HVDC converter station,45.5938,-121.113
 India,Q668,http://www.wikidata.org/entity/Q7937990,Vizag back to back HVDC converter station,HVDC converter station,17.6425,83.1325
 India,Q668,http://www.wikidata.org/entity/Q7425009,Sasaram back to back HVDC converter station,HVDC converter station,25.12833333,83.70805556
 India,Q668,http://www.wikidata.org/entity/Q5071436,Chandrapur back to back HVDC converter station,HVDC converter station,20.08916667,79.14333333
-France,Q142,http://www.wikidata.org/entity/Q122970397,Tourbe Converter Station,HVDC converter station,49.1108,-0.262
-France,Q142,http://www.wikidata.org/entity/Q122969276,La Martyre Converter Station,HVDC converter station,48.4432,-4.1973
-France,Q142,http://www.wikidata.org/entity/Q122975893,Peuplingues Converter Station,HVDC converter station,50.9202,1.7806
-Austria,Q40,http://www.wikidata.org/entity/Q872819,GK Dürnrohr,HVDC converter station,48.3296,15.8799
-Austria,Q40,http://www.wikidata.org/entity/Q873304,GK Wien–Southeast,HVDC converter station,48.1227,16.4183
+Australia,Q408,http://www.wikidata.org/entity/Q29020454,Murraylink (Red Cliffs),HVDC converter station,-34.293611111,142.238888888
+Australia,Q408,http://www.wikidata.org/entity/Q29020540,Basslink L.C.,HVDC converter station,-38.2625,146.608055555
+Australia,Q408,http://www.wikidata.org/entity/Q29020605,Murraylink (Monash),HVDC converter station,-34.238055555,140.600277777
+Australia,Q408,http://www.wikidata.org/entity/Q29020705,Basslink George Town,HVDC converter station,-41.114722222,146.891944444
 Egypt,Q79,http://www.wikidata.org/entity/Q120192094,East Sohag Converter Station,HVDC converter station,26.490909669,31.867527315
 Egypt,Q79,http://www.wikidata.org/entity/Q120758945,New Qena Converter Station,HVDC converter station,26.222328985,32.747697472
-Uruguay,Q77,http://www.wikidata.org/entity/Q7338051,Rivera HVDC Back-to-back station,HVDC converter station,-30.94138889,-55.55944444
 Netherlands,Q55,http://www.wikidata.org/entity/Q131714396,IJmuiden Ver Beta Offshore Converter Station,HVDC converter station,52.914,3.58
 Netherlands,Q55,http://www.wikidata.org/entity/Q131713025,IJmuiden Ver Alpha Offshore Converter Station,HVDC converter station,52.8107,3.4809
-Belgium,Q31,http://www.wikidata.org/entity/Q55873064,Brugge converter station,HVDC converter station,51.265,3.21
-Brazil,Q155,http://www.wikidata.org/entity/Q53843430,Foz do Iguaçu substation and converter station,HVDC converter station,-25.466111111,-54.5425
 Spain,Q29,http://www.wikidata.org/entity/Q18624991,Santa Ponça converter station,HVDC converter station,39.533885,2.506393
-Ireland,Q27,http://www.wikidata.org/entity/Q122969878,Ballyadam Converter Station,HVDC converter station,51.9158,-8.2302
-Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,HVDC converter station,60.6803,28.9186
-Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1485743,Al-Fadhili back to back HVDC converter station,HVDC converter station,26.90083333,49.35083333
+Austria,Q40,http://www.wikidata.org/entity/Q872819,GK Dürnrohr,HVDC converter station,48.3296,15.8799
+Austria,Q40,http://www.wikidata.org/entity/Q873304,GK Wien–Southeast,HVDC converter station,48.1227,16.4183
 Kenya,Q114,http://www.wikidata.org/entity/Q56083697,Suswa converter station,HVDC converter station,-1.062222222,36.359722222
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q130251265,Lhasa Converter Station,HVDC converter station,29.8775,91.195555555
+Ireland,Q27,http://www.wikidata.org/entity/Q122969878,Ballyadam Converter Station,HVDC converter station,51.9158,-8.2302
+Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1485743,Al-Fadhili back to back HVDC converter station,HVDC converter station,26.90083333,49.35083333
 Ethiopia,Q115,http://www.wikidata.org/entity/Q56083538,Wolayta Sodo Converter Station,HVDC converter station,6.9075,37.721944444
+Belgium,Q31,http://www.wikidata.org/entity/Q55873064,Brugge converter station,HVDC converter station,51.265,3.21
+Uruguay,Q77,http://www.wikidata.org/entity/Q7338051,Rivera HVDC Back-to-back station,HVDC converter station,-30.94138889,-55.55944444
+Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,HVDC converter station,60.6803,28.9186
+Brazil,Q155,http://www.wikidata.org/entity/Q53843430,Foz do Iguaçu substation and converter station,HVDC converter station,-25.466111111,-54.5425
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q130251265,Lhasa Converter Station,HVDC converter station,29.8775,91.195555555

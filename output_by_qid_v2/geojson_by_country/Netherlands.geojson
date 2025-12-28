@@ -6993,6 +6993,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.716667,
+          51.44
+        ]
+      },
+      "properties": {
+        "label": "BritNed",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q918000",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q918000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.57259,
           53.0118
         ]
@@ -40619,23 +40636,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.23266,
-          48.769298
-        ]
-      },
-      "properties": {
-        "label": "Batschari",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q393125",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q393125"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.992333,
           51.190447
         ]
@@ -52240,23 +52240,6 @@
         "entity": "http://www.wikidata.org/entity/Q113009692",
         "country_qid": "Q55",
         "Wikidata Qid": "Q113009692"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.08764,
-          50.91487
-        ]
-      },
-      "properties": {
-        "label": "Rimburg mills",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q14277995",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q14277995"
       }
     },
     {
