@@ -2777,23 +2777,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.591119,
-          37.142392
-        ]
-      },
-      "properties": {
-        "label": "Ipses",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q10303507",
-        "country_qid": "Q45",
-        "Wikidata Qid": "Q10303507"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.934722,
           37.01425
         ]

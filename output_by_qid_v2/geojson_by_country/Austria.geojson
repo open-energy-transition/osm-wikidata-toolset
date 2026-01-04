@@ -11787,23 +11787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.240593,
-          47.810572
-        ]
-      },
-      "properties": {
-        "label": "Brauhof Wiener Neustadt",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q61578062",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q61578062"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.098724,
           47.683751
         ]
@@ -16098,23 +16081,6 @@
         "entity": "http://www.wikidata.org/entity/Q97156568",
         "country_qid": "Q40",
         "Wikidata Qid": "Q97156568"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.229022222,
-          48.249258333
-        ]
-      },
-      "properties": {
-        "label": "Brauerei Raschhofer",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q126520355",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q126520355"
       }
     },
     {
@@ -40211,23 +40177,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.702633,
-          48.239161
-        ]
-      },
-      "properties": {
-        "label": "Zuckerfabrik Leopoldsdorf",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q98651759",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q98651759"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.65529,
           48.59773
         ]
@@ -40340,23 +40289,6 @@
         "entity": "http://www.wikidata.org/entity/Q38133801",
         "country_qid": "Q40",
         "Wikidata Qid": "Q38133801"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.313154,
-          48.086459
-        ]
-      },
-      "properties": {
-        "label": "Q123266337",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q123266337",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q123266337"
       }
     },
     {
@@ -40738,23 +40670,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.754467,
-          48.022857
-        ]
-      },
-      "properties": {
-        "label": "Q97602026",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q97602026",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q97602026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.7594678,
           48.2001529
         ]
@@ -41122,23 +41037,6 @@
         "entity": "http://www.wikidata.org/entity/Q38032565",
         "country_qid": "Q40",
         "Wikidata Qid": "Q38032565"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q2569078"
       }
     },
     {
@@ -70794,23 +70692,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.234979322,
-          48.080998949
-        ]
-      },
-      "properties": {
-        "label": "Q115051709",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q115051709",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q115051709"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           16.340651,
           48.190626
         ]
@@ -71025,23 +70906,6 @@
         "entity": "http://www.wikidata.org/entity/Q1534635",
         "country_qid": "Q40",
         "Wikidata Qid": "Q1534635"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.299953437,
-          47.956566416
-        ]
-      },
-      "properties": {
-        "label": "Old mill of Tattendorf",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q114928766",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q114928766"
       }
     },
     {
@@ -71576,23 +71440,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.238702849,
-          48.007034536
-        ]
-      },
-      "properties": {
-        "label": "Trottmannmühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116314992",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116314992"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4584462,
           47.078992
         ]
@@ -71705,23 +71552,6 @@
         "entity": "http://www.wikidata.org/entity/Q95693648",
         "country_qid": "Q40",
         "Wikidata Qid": "Q95693648"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.19205,
-          47.84673
-        ]
-      },
-      "properties": {
-        "label": "Wöllersdorfer Werke",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q63822737",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q63822737"
       }
     },
     {
@@ -72086,23 +71916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5875,
-          48.404611111
-        ]
-      },
-      "properties": {
-        "label": "Tabakfabrik Krems-Stein",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q104533832",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q104533832"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.8858437,
           47.010842
         ]
@@ -72283,23 +72096,6 @@
         "entity": "http://www.wikidata.org/entity/Q113663992",
         "country_qid": "Q40",
         "Wikidata Qid": "Q113663992"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.938332,
-          48.146655
-        ]
-      },
-      "properties": {
-        "label": "Hainburg Austria Tabakwerke",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q70590153",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q70590153"
       }
     },
     {
@@ -72528,23 +72324,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.311743,
-          46.618976
-        ]
-      },
-      "properties": {
-        "label": "Q106044900",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q106044900",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q106044900"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           16.99639,
           48.09417
         ]
@@ -72708,23 +72487,6 @@
         "entity": "http://www.wikidata.org/entity/Q1750962",
         "country_qid": "Q40",
         "Wikidata Qid": "Q1750962"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.218053,
-          48.070522
-        ]
-      },
-      "properties": {
-        "label": "Lackfabrik Ludwig Marx",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q73415275",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q73415275"
       }
     },
     {
@@ -74177,23 +73939,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.255351269,
-          48.006781157
-        ]
-      },
-      "properties": {
-        "label": "Hansymühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116380379",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116380379"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.57417315,
           47.57908008
         ]
@@ -75020,23 +74765,6 @@
         "entity": "http://www.wikidata.org/entity/Q98582629",
         "country_qid": "Q40",
         "Wikidata Qid": "Q98582629"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.220725277,
-          48.00837139
-        ]
-      },
-      "properties": {
-        "label": "Weikersdorfer Schlossmühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116374599",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116374599"
       }
     },
     {
@@ -75887,23 +75615,6 @@
         "entity": "http://www.wikidata.org/entity/Q87477481",
         "country_qid": "Q40",
         "Wikidata Qid": "Q87477481"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.302909961,
-          48.021338728
-        ]
-      },
-      "properties": {
-        "label": "Rothmühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116325111",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q116325111"
       }
     },
     {

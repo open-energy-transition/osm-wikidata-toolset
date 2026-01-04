@@ -26645,23 +26645,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.087159784,
-          49.42447253
-        ]
-      },
-      "properties": {
-        "label": "Beauvais Tapestry Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2566130",
-        "country_qid": "Q142",
-        "Wikidata Qid": "Q2566130"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.103567,
           47.325981
         ]
@@ -91187,23 +91170,6 @@
         "entity": "http://www.wikidata.org/entity/Q22980884",
         "country_qid": "Q142",
         "Wikidata Qid": "Q22980884"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.867953,
-          45.829661
-        ]
-      },
-      "properties": {
-        "label": "Col Major",
-        "type": "Weather station",
-        "entity": "http://www.wikidata.org/entity/Q88959596",
-        "country_qid": "Q142",
-        "Wikidata Qid": "Q88959596"
       }
     },
     {

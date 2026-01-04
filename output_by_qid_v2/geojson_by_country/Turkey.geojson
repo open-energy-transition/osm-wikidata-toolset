@@ -26730,23 +26730,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.892255,
-          40.381323
-        ]
-      },
-      "properties": {
-        "label": "Cyzicus",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q4023987",
-        "country_qid": "Q43",
-        "Wikidata Qid": "Q4023987"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           27.41366,
           37.0259743
         ]

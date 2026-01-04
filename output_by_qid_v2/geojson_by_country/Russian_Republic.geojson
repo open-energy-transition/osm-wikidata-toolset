@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280052,
+          59.93781
+        ]
+      },
+      "properties": {
+        "label": "Academy of Sciences Printing House",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86670242",
+        "country_qid": "Q139319",
+        "Wikidata Qid": "Q86670242"
+      }
+    }
+  ]
+}

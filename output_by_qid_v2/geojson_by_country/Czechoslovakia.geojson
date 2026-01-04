@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.082638888,
+          49.159611111
+        ]
+      },
+      "properties": {
+        "label": "Watermill in Hartvíkovice",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q88867916",
+        "country_qid": "Q33946",
+        "Wikidata Qid": "Q88867916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15.1495458,
           50.68184
         ]

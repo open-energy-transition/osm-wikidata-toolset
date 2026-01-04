@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957,
+          -37.8122
+        ]
+      },
+      "properties": {
+        "label": "Melbourne Mint",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q6811833",
+        "country_qid": "Q55643",
+        "Wikidata Qid": "Q6811833"
+      }
+    }
+  ]
+}

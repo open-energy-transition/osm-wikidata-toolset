@@ -88848,23 +88848,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.512261,
-          49.143368
-        ]
-      },
-      "properties": {
-        "label": "Joh. Loetz Witwe",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q997185",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q997185"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.678944444,
           49.875444444
         ]
@@ -108561,23 +108544,6 @@
         "entity": "http://www.wikidata.org/entity/Q107605118",
         "country_qid": "Q213",
         "Wikidata Qid": "Q107605118"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.082638888,
-          49.159611111
-        ]
-      },
-      "properties": {
-        "label": "Watermill in Hartvíkovice",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q88867916",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q88867916"
       }
     },
     {

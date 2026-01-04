@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.591119,
+          37.142392
+        ]
+      },
+      "properties": {
+        "label": "Ipses",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q10303507",
+        "country_qid": "Q1747689",
+        "Wikidata Qid": "Q10303507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.95,
           40.633333
         ]
@@ -16,6 +33,23 @@
         "entity": "http://www.wikidata.org/entity/Q4024000",
         "country_qid": "Q1747689",
         "Wikidata Qid": "Q4024000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.892255,
+          40.381323
+        ]
+      },
+      "properties": {
+        "label": "Cyzicus",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4023987",
+        "country_qid": "Q1747689",
+        "Wikidata Qid": "Q4023987"
       }
     }
   ]

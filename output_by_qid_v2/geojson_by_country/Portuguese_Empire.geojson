@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.30943097,
-          35.89000179
+          -47.59621667,
+          -23.42566944
         ]
       },
       "properties": {
-        "label": "Porto del Rei",
-        "type": "Hydraulic structure",
-        "entity": "http://www.wikidata.org/entity/Q106615564",
+        "label": "Royal Ironworks of St John, Ipanema",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7374874",
         "country_qid": "Q200464",
-        "Wikidata Qid": "Q106615564"
+        "Wikidata Qid": "Q7374874"
       }
     }
   ]

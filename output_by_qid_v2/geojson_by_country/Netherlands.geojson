@@ -6993,23 +6993,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.716667,
-          51.44
-        ]
-      },
-      "properties": {
-        "label": "BritNed",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q918000",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q918000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.57259,
           53.0118
         ]
@@ -27308,23 +27291,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36066,
-          52.0076
-        ]
-      },
-      "properties": {
-        "label": "De Drie Posteleyne Astonne",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498334",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498334"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.4725,
           52.156667
         ]
@@ -27393,23 +27359,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36382,
-          52.0096
-        ]
-      },
-      "properties": {
-        "label": "Three Porcelain Bottles factory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498588",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498588"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.553611,
           52.002222
         ]
@@ -27437,23 +27386,6 @@
         "entity": "http://www.wikidata.org/entity/Q119954227",
         "country_qid": "Q55",
         "Wikidata Qid": "Q119954227"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36039,
-          52.006
-        ]
-      },
-      "properties": {
-        "label": "De Witte Ster",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498429",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498429"
       }
     },
     {
@@ -27522,23 +27454,6 @@
         "entity": "http://www.wikidata.org/entity/Q11722003",
         "country_qid": "Q55",
         "Wikidata Qid": "Q11722003"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36286,
-          52.0092
-        ]
-      },
-      "properties": {
-        "label": "De Porceleyne Byl",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64495116",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64495116"
       }
     },
     {
@@ -27886,23 +27801,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.35305,
-          52.0152
-        ]
-      },
-      "properties": {
-        "label": "De Roos",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498669",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498669"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.9462375,
           52.376659
         ]
@@ -27920,23 +27818,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36011,
-          52.0084
-        ]
-      },
-      "properties": {
-        "label": "De Porceleyne Clauw",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498375",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498375"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.760549,
           52.640536
         ]
@@ -27947,57 +27828,6 @@
         "entity": "http://www.wikidata.org/entity/Q14406496",
         "country_qid": "Q55",
         "Wikidata Qid": "Q14406496"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36282,
-          52.0126
-        ]
-      },
-      "properties": {
-        "label": "De Lampetkan",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498158",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498158"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36362,
-          52.0111
-        ]
-      },
-      "properties": {
-        "label": "De Porceleyne Schotel",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498210",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498210"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36089,
-          52.0071
-        ]
-      },
-      "properties": {
-        "label": "'t Fortuyn",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498481",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498481"
       }
     },
     {
@@ -28253,23 +28083,6 @@
         "entity": "http://www.wikidata.org/entity/Q11721996",
         "country_qid": "Q55",
         "Wikidata Qid": "Q11721996"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.35942,
-          52.008
-        ]
-      },
-      "properties": {
-        "label": "De Paauw",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q64498266",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q64498266"
       }
     },
     {
@@ -30742,40 +30555,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36069,
-          52.0075
-        ]
-      },
-      "properties": {
-        "label": "De Metaale Pot",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q38513095",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q38513095"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36233,
-          52.0086
-        ]
-      },
-      "properties": {
-        "label": "Het Moriaanshooft",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q38571288",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q38571288"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.679656,
           52.734967
         ]
@@ -31109,23 +30888,6 @@
         "entity": "http://www.wikidata.org/entity/Q11721583",
         "country_qid": "Q55",
         "Wikidata Qid": "Q11721583"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36311,
-          52.0109
-        ]
-      },
-      "properties": {
-        "label": "De Twee Scheepjes",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q38513099",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q38513099"
       }
     },
     {
@@ -37440,23 +37202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.45035,
-          51.905691666
-        ]
-      },
-      "properties": {
-        "label": "De Waakzaamheid (Rotterdam)",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q134553281",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q134553281"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.533056,
           51.5875
         ]
@@ -38742,23 +38487,6 @@
         "entity": "http://www.wikidata.org/entity/Q1814216",
         "country_qid": "Q55",
         "Wikidata Qid": "Q1814216"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.047269444,
-          12.563211111
-        ]
-      },
-      "properties": {
-        "label": "De Olde Molen",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q96573429",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q96573429"
       }
     },
     {
@@ -40629,6 +40357,23 @@
         "entity": "http://www.wikidata.org/entity/Q1830685",
         "country_qid": "Q55",
         "Wikidata Qid": "Q1830685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23266,
+          48.769298
+        ]
+      },
+      "properties": {
+        "label": "Batschari",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q393125",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q393125"
       }
     },
     {
@@ -52240,6 +51985,23 @@
         "entity": "http://www.wikidata.org/entity/Q113009692",
         "country_qid": "Q55",
         "Wikidata Qid": "Q113009692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08764,
+          50.91487
+        ]
+      },
+      "properties": {
+        "label": "Rimburg mills",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q14277995",
+        "country_qid": "Q55",
+        "Wikidata Qid": "Q14277995"
       }
     },
     {
