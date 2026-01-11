@@ -23,40 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.564751934,
-          25.04735547
-        ]
-      },
-      "properties": {
-        "label": "Former Taipei Railway Workshop",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q15901512",
-        "country_qid": "Q188712",
-        "Wikidata Qid": "Q15901512"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.074569,
-          24.783576
-        ]
-      },
-      "properties": {
-        "label": "Jinyufong rice milling plant",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q125957220",
-        "country_qid": "Q188712",
-        "Wikidata Qid": "Q125957220"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           137.373,
           34.834
         ]
@@ -67,23 +33,6 @@
         "entity": "http://www.wikidata.org/entity/Q2753675",
         "country_qid": "Q188712",
         "Wikidata Qid": "Q2753675"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.50514,
-          22.66139
-        ]
-      },
-      "properties": {
-        "label": "Pingtung Tobacco Redrying Plant",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q67932737",
-        "country_qid": "Q188712",
-        "Wikidata Qid": "Q67932737"
       }
     },
     {

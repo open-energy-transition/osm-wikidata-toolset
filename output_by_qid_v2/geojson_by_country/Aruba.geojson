@@ -34,23 +34,6 @@
         "country_qid": "Q21203",
         "Wikidata Qid": "Q19277907"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.047269444,
-          12.563211111
-        ]
-      },
-      "properties": {
-        "label": "De Olde Molen",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q96573429",
-        "country_qid": "Q21203",
-        "Wikidata Qid": "Q96573429"
-      }
     }
   ]
 }

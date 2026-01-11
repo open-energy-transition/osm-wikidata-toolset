@@ -74,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.652341,
+          51.193475
+        ]
+      },
+      "properties": {
+        "label": "Q49405486",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q49405486",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q49405486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.5524,
           48.1482
         ]
@@ -101,6 +118,23 @@
         "entity": "http://www.wikidata.org/entity/Q130610247",
         "country_qid": "Q1206012",
         "Wikidata Qid": "Q130610247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.986446805,
+          51.558240611
+        ]
+      },
+      "properties": {
+        "label": "F. H. Schmidt Briefumschlag-Papier-Ausstattungs-Fabrik AG Torgau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q113458901",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q113458901"
       }
     },
     {
@@ -329,6 +363,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.396945773,
+          52.511557491
+        ]
+      },
+      "properties": {
+        "label": "Atelier Philipp Graff",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q106636002",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q106636002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386505411,
+          52.51031402
+        ]
+      },
+      "properties": {
+        "label": "Loescher & Petsch",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q29554378",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q29554378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.422742383,
           52.523713036
         ]
@@ -526,6 +594,23 @@
         "entity": "http://www.wikidata.org/entity/Q118112954",
         "country_qid": "Q1206012",
         "Wikidata Qid": "Q118112954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379154587,
+          52.567664038
+        ]
+      },
+      "properties": {
+        "label": "Ostdeutsche Spritfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118091674",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q118091674"
       }
     },
     {
@@ -798,6 +883,23 @@
         "entity": "http://www.wikidata.org/entity/Q118402943",
         "country_qid": "Q1206012",
         "Wikidata Qid": "Q118402943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385534079,
+          52.568024035
+        ]
+      },
+      "properties": {
+        "label": "Q118113443",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118113443",
+        "country_qid": "Q1206012",
+        "Wikidata Qid": "Q118113443"
       }
     },
     {

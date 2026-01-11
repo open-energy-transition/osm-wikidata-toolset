@@ -6806,6 +6806,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -47.59621667,
+          -23.42566944
+        ]
+      },
+      "properties": {
+        "label": "Royal Ironworks of St John, Ipanema",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7374874",
+        "country_qid": "Q155",
+        "Wikidata Qid": "Q7374874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -41.398120101,
           -21.805814457
         ]

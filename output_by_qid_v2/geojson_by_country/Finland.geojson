@@ -7809,6 +7809,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.783387,
+          61.503338
+        ]
+      },
+      "properties": {
+        "label": "Q65233508",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q65233508",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q65233508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.033,
           60.31
         ]
@@ -8047,6 +8064,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.73314,
+          61.5027
+        ]
+      },
+      "properties": {
+        "label": "Akkunaverho ja paitatehdas Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q79081817",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q79081817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.759100778,
           61.494096841
         ]
@@ -8074,6 +8108,23 @@
         "entity": "http://www.wikidata.org/entity/Q55599565",
         "country_qid": "Q33",
         "Wikidata Qid": "Q55599565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.737891,
+          61.503139
+        ]
+      },
+      "properties": {
+        "label": "Suomen Trikoo",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11894942",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11894942"
       }
     },
     {
@@ -8217,6 +8268,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.74331,
+          61.502051
+        ]
+      },
+      "properties": {
+        "label": "Mustanlahden Mietojuomatehdas",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q85403211",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q85403211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7508368,
+          61.4930313
+        ]
+      },
+      "properties": {
+        "label": "Pyynikki Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5391577",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q5391577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           26.23046264,
           60.45663969
         ]
@@ -8312,6 +8397,23 @@
         "entity": "http://www.wikidata.org/entity/Q55599009",
         "country_qid": "Q33",
         "Wikidata Qid": "Q55599009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.758972326,
+          61.499255022
+        ]
+      },
+      "properties": {
+        "label": "Pukutehdas Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q79083832",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q79083832"
       }
     },
     {
@@ -8907,6 +9009,40 @@
         "entity": "http://www.wikidata.org/entity/Q20249811",
         "country_qid": "Q33",
         "Wikidata Qid": "Q20249811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.756273923,
+          61.499040583
+        ]
+      },
+      "properties": {
+        "label": "Q79084469",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q79084469",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q79084469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78264,
+          61.503265
+        ]
+      },
+      "properties": {
+        "label": "Ferraria",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11859514",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11859514"
       }
     },
     {
@@ -12484,6 +12620,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.763955,
+          61.495837
+        ]
+      },
+      "properties": {
+        "label": "H. Liljeroos",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q18688771",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q18688771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.270277777,
           60.449166666
         ]
@@ -12552,6 +12705,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.778673,
+          61.50081
+        ]
+      },
+      "properties": {
+        "label": "Q11896277",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11896277",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11896277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.119068,
           64.392129
         ]
@@ -12613,6 +12783,23 @@
         "entity": "http://www.wikidata.org/entity/Q55597224",
         "country_qid": "Q33",
         "Wikidata Qid": "Q55597224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.751392,
+          60.715369
+        ]
+      },
+      "properties": {
+        "label": "Vyborg old railway station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q21270923",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q21270923"
       }
     },
     {
@@ -12790,6 +12977,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.803077454,
+          61.49920405
+        ]
+      },
+      "properties": {
+        "label": "Q76385982",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76385982",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76385982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.773361111,
           61.511111111
         ]
@@ -12800,6 +13004,23 @@
         "entity": "http://www.wikidata.org/entity/Q56400574",
         "country_qid": "Q33",
         "Wikidata Qid": "Q56400574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.777212916,
+          61.50283177
+        ]
+      },
+      "properties": {
+        "label": "Q78879019",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q78879019",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q78879019"
       }
     },
     {
@@ -13157,6 +13378,23 @@
         "entity": "http://www.wikidata.org/entity/Q4412145",
         "country_qid": "Q33",
         "Wikidata Qid": "Q4412145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.756172,
+          61.493839
+        ]
+      },
+      "properties": {
+        "label": "Tammer Factories",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q18662229",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q18662229"
       }
     },
     {
@@ -13548,6 +13786,23 @@
         "entity": "http://www.wikidata.org/entity/Q55595669",
         "country_qid": "Q33",
         "Wikidata Qid": "Q55595669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.762702,
+          61.496814
+        ]
+      },
+      "properties": {
+        "label": "Q76385933",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76385933",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76385933"
       }
     },
     {
@@ -14609,6 +14864,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.707894,
+          61.478422
+        ]
+      },
+      "properties": {
+        "label": "Pyhäjärven saha Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q18682480",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q18682480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.27866095,
           60.45718486
         ]
@@ -14687,6 +14959,23 @@
         "entity": "http://www.wikidata.org/entity/Q11890285",
         "country_qid": "Q33",
         "Wikidata Qid": "Q11890285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.753368685,
+          61.504965363
+        ]
+      },
+      "properties": {
+        "label": "Q56401458",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q56401458",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q56401458"
       }
     },
     {
@@ -15697,6 +15986,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.734105,
+          61.502436
+        ]
+      },
+      "properties": {
+        "label": "Q11896259",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11896259",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11896259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.140556,
           63.325278
         ]
@@ -15833,6 +16139,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.755032617,
+          61.498034329
+        ]
+      },
+      "properties": {
+        "label": "Kenkätehdas Valio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q84404060",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q84404060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.771846,
+          61.489211
+        ]
+      },
+      "properties": {
+        "label": "Q76385974",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76385974",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76385974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.778487126,
           61.497167704
         ]
@@ -15935,6 +16275,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.662853389,
+          61.508631166
+        ]
+      },
+      "properties": {
+        "label": "Q28721098",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28721098",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q28721098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.770978,
           61.48735
         ]
@@ -16003,6 +16360,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.783706,
+          61.499898
+        ]
+      },
+      "properties": {
+        "label": "Karisto ja kumppanit Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q84310858",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q84310858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.649089,
           61.503755
         ]
@@ -16047,6 +16421,23 @@
         "entity": "http://www.wikidata.org/entity/Q101225573",
         "country_qid": "Q33",
         "Wikidata Qid": "Q101225573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.779109,
+          61.498845
+        ]
+      },
+      "properties": {
+        "label": "Attila Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q84301934",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q84301934"
       }
     },
     {
@@ -16445,6 +16836,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.752293,
+          61.491755
+        ]
+      },
+      "properties": {
+        "label": "Klingendahl Oy",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76385999",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76385999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.665157,
           61.508463
         ]
@@ -16564,6 +16972,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.771326,
+          61.497547
+        ]
+      },
+      "properties": {
+        "label": "Q76386019",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76386019",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76386019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           27.26114215,
           61.68041525
         ]
@@ -16598,6 +17023,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.748360568,
+          61.506463296
+        ]
+      },
+      "properties": {
+        "label": "Särkänsaari Steam Saw",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76386031",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76386031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.762825665,
+          61.499197276
+        ]
+      },
+      "properties": {
+        "label": "Q83365583",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q83365583",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q83365583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.981625,
           60.146113
         ]
@@ -16625,6 +17084,23 @@
         "entity": "http://www.wikidata.org/entity/Q113557340",
         "country_qid": "Q33",
         "Wikidata Qid": "Q113557340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.748132,
+          61.494574
+        ]
+      },
+      "properties": {
+        "label": "Q76386005",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q76386005",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q76386005"
       }
     },
     {
@@ -17482,6 +17958,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.755403,
+          61.496453
+        ]
+      },
+      "properties": {
+        "label": "Q11856368",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11856368",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11856368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.25746357,
           60.45688281
         ]
@@ -17543,6 +18036,23 @@
         "entity": "http://www.wikidata.org/entity/Q113537272",
         "country_qid": "Q33",
         "Wikidata Qid": "Q113537272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.764413,
+          61.484506
+        ]
+      },
+      "properties": {
+        "label": "Lokomo",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2066781",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q2066781"
       }
     },
     {
@@ -17618,6 +18128,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.779858,
+          61.503927
+        ]
+      },
+      "properties": {
+        "label": "Sommers, af Hällström & Waldens",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11894070",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q11894070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.94932636,
           60.19219002
         ]
@@ -17628,6 +18155,23 @@
         "entity": "http://www.wikidata.org/entity/Q55595930",
         "country_qid": "Q33",
         "Wikidata Qid": "Q55595930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.757041057,
+          61.496284368
+        ]
+      },
+      "properties": {
+        "label": "Q56400915",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q56400915",
+        "country_qid": "Q33",
+        "Wikidata Qid": "Q56400915"
       }
     },
     {

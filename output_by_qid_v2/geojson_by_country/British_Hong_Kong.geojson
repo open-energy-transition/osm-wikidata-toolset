@@ -23,23 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.21443,
-          22.32648
-        ]
-      },
-      "properties": {
-        "label": "Amoycan Industrial Centre",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q5812239",
-        "country_qid": "Q1054923",
-        "Wikidata Qid": "Q5812239"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           114.181572,
           22.27826
         ]
@@ -50,23 +33,6 @@
         "entity": "http://www.wikidata.org/entity/Q7203329",
         "country_qid": "Q1054923",
         "Wikidata Qid": "Q7203329"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.201,
-          22.399
-        ]
-      },
-      "properties": {
-        "label": "MTR Ho Tung Lau depot",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q15952407",
-        "country_qid": "Q1054923",
-        "Wikidata Qid": "Q15952407"
       }
     },
     {

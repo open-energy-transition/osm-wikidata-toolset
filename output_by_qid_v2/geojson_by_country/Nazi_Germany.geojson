@@ -6,74 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.986446805,
-          51.558240611
-        ]
-      },
-      "properties": {
-        "label": "F. H. Schmidt Briefumschlag-Papier-Ausstattungs-Fabrik AG Torgau",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q113458901",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q113458901"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.633042979,
-          51.906927042
-        ]
-      },
-      "properties": {
-        "label": "Luftmunitionsanstalt Stapelburg",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q125135106",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q125135106"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.379154587,
-          52.567664038
-        ]
-      },
-      "properties": {
-        "label": "Ostdeutsche Spritfabrik GmbH",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q118091674",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q118091674"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.431022,
-          54.388852
-        ]
-      },
-      "properties": {
-        "label": "Q125454491",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q125454491",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q125454491"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.23088889,
           53.42592611
         ]
@@ -84,74 +16,6 @@
         "entity": "http://www.wikidata.org/entity/Q13583396",
         "country_qid": "Q7318",
         "Wikidata Qid": "Q13583396"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.7442467,
-          52.3642717
-        ]
-      },
-      "properties": {
-        "label": "Q124694021",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q124694021",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q124694021"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.367995219,
-          52.56872715
-        ]
-      },
-      "properties": {
-        "label": "Q118669324",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q118669324",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q118669324"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.692,
-          52.4195
-        ]
-      },
-      "properties": {
-        "label": "Waldemar Pruss Armaturenfabrik GmbH",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q124370619",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q124370619"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.89388889,
-          54.17666667
-        ]
-      },
-      "properties": {
-        "label": "Q20183135",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q20183135",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q20183135"
       }
     },
     {
@@ -186,40 +50,6 @@
         "entity": "http://www.wikidata.org/entity/Q125317026",
         "country_qid": "Q7318",
         "Wikidata Qid": "Q125317026"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.366728649,
-          51.366741108
-        ]
-      },
-      "properties": {
-        "label": "Q129652226",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q129652226",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q129652226"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.19205,
-          47.84673
-        ]
-      },
-      "properties": {
-        "label": "Wöllersdorfer Werke",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q63822737",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q63822737"
       }
     }
   ]

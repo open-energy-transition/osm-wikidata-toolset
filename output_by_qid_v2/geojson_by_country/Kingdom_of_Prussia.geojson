@@ -17,57 +17,6 @@
         "country_qid": "Q27306",
         "Wikidata Qid": "Q2315987"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.9597,
-          50.3014
-        ]
-      },
-      "properties": {
-        "label": "Huta Kościuszko",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q9295161",
-        "country_qid": "Q27306",
-        "Wikidata Qid": "Q9295161"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.396945773,
-          52.511557491
-        ]
-      },
-      "properties": {
-        "label": "Atelier Philipp Graff",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q106636002",
-        "country_qid": "Q27306",
-        "Wikidata Qid": "Q106636002"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.386505411,
-          52.51031402
-        ]
-      },
-      "properties": {
-        "label": "Loescher & Petsch",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q29554378",
-        "country_qid": "Q27306",
-        "Wikidata Qid": "Q29554378"
-      }
     }
   ]
 }

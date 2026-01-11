@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.75221,
+          48.3966
+        ]
+      },
+      "properties": {
+        "label": "Lerchenfeld Bridge Gate",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q116181773",
+        "country_qid": "Q43287",
+        "Wikidata Qid": "Q116181773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.544603,
           50.102945
         ]
@@ -57,16 +74,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.357935054,
-          52.574633352
+          9.7442467,
+          52.3642717
         ]
       },
       "properties": {
-        "label": "Q123760408",
+        "label": "Q124694021",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q123760408",
+        "entity": "http://www.wikidata.org/entity/Q124694021",
         "country_qid": "Q43287",
-        "Wikidata Qid": "Q123760408"
+        "Wikidata Qid": "Q124694021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367995219,
+          52.56872715
+        ]
+      },
+      "properties": {
+        "label": "Q118669324",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118669324",
+        "country_qid": "Q43287",
+        "Wikidata Qid": "Q118669324"
       }
     },
     {
@@ -91,33 +125,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7086,
-          51.0422
+          8.547747,
+          50.103131
         ]
       },
       "properties": {
-        "label": "Q1723859",
+        "label": "second station building Frankfurt-Höchst",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q1723859",
+        "entity": "http://www.wikidata.org/entity/Q105476169",
         "country_qid": "Q43287",
-        "Wikidata Qid": "Q1723859"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.36513476,
-          52.503001517
-        ]
-      },
-      "properties": {
-        "label": "Atelier Victoria",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q62627743",
-        "country_qid": "Q43287",
-        "Wikidata Qid": "Q62627743"
+        "Wikidata Qid": "Q105476169"
       }
     }
   ]

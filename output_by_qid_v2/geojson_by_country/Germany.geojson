@@ -2165,6 +2165,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.915,
+          48.68472222
+        ]
+      },
+      "properties": {
+        "label": "Gambsheim barrage",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q15130268",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q15130268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.22098,
           51.4127
         ]
@@ -6850,6 +6867,23 @@
         "entity": "http://www.wikidata.org/entity/Q655947",
         "country_qid": "Q183",
         "Wikidata Qid": "Q655947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q13105104"
       }
     },
     {
@@ -31449,23 +31483,6 @@
         "entity": "http://www.wikidata.org/entity/Q803604",
         "country_qid": "Q183",
         "Wikidata Qid": "Q803604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.23561,
-          56.20835
-        ]
-      },
-      "properties": {
-        "label": "NORD.LINK",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q1961296",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q1961296"
       }
     },
     {
@@ -74024,23 +74041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q183",
-        "Wikidata Qid": "Q2569078"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.25816,
           51.090335
         ]
@@ -88729,6 +88729,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.633042979,
+          51.906927042
+        ]
+      },
+      "properties": {
+        "label": "Luftmunitionsanstalt Stapelburg",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q125135106",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q125135106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8466,
           51.3699
         ]
@@ -89011,6 +89028,23 @@
         "entity": "http://www.wikidata.org/entity/Q127430521",
         "country_qid": "Q183",
         "Wikidata Qid": "Q127430521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431022,
+          54.388852
+        ]
+      },
+      "properties": {
+        "label": "Q125454491",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q125454491",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q125454491"
       }
     },
     {
@@ -107718,6 +107752,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.692,
+          52.4195
+        ]
+      },
+      "properties": {
+        "label": "Waldemar Pruss Armaturenfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124370619",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q124370619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.5981,
           49.35404
         ]
@@ -120825,6 +120876,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.7086,
+          51.0422
+        ]
+      },
+      "properties": {
+        "label": "Q1723859",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1723859",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q1723859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.74273,
           51.06859
         ]
@@ -123052,6 +123120,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.36513476,
+          52.503001517
+        ]
+      },
+      "properties": {
+        "label": "Atelier Victoria",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q62627743",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q62627743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.738333333,
           51.954444444
         ]
@@ -123912,6 +123997,23 @@
         "entity": "http://www.wikidata.org/entity/Q134427740",
         "country_qid": "Q183",
         "Wikidata Qid": "Q134427740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357935054,
+          52.574633352
+        ]
+      },
+      "properties": {
+        "label": "Q123760408",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q123760408",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q123760408"
       }
     },
     {
@@ -134391,6 +134493,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.366728649,
+          51.366741108
+        ]
+      },
+      "properties": {
+        "label": "Q129652226",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q129652226",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q129652226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.068317473,
           49.42625176
         ]
@@ -135438,6 +135557,23 @@
         "entity": "http://www.wikidata.org/entity/Q105045392",
         "country_qid": "Q183",
         "Wikidata Qid": "Q105045392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.89388889,
+          54.17666667
+        ]
+      },
+      "properties": {
+        "label": "Q20183135",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20183135",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q20183135"
       }
     },
     {
@@ -168605,6 +168741,23 @@
         "entity": "http://www.wikidata.org/entity/Q169693",
         "country_qid": "Q183",
         "Wikidata Qid": "Q169693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.24083,
+          51.4575
+        ]
+      },
+      "properties": {
+        "label": "Q169636",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q169636",
+        "country_qid": "Q183",
+        "Wikidata Qid": "Q169636"
       }
     },
     {
