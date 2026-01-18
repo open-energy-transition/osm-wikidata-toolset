@@ -3576,6 +3576,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          24.150628641,
+          56.965668511
+        ]
+      },
+      "properties": {
+        "label": "Riga electro-mechanical plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q105037975",
+        "country_qid": "Q211",
+        "Wikidata Qid": "Q105037975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           26.747823808,
           56.42804183
         ]
@@ -3739,6 +3756,23 @@
         "entity": "http://www.wikidata.org/entity/Q50413236",
         "country_qid": "Q211",
         "Wikidata Qid": "Q50413236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.204083333,
+          56.985194444
+        ]
+      },
+      "properties": {
+        "label": "Alfa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q25394205",
+        "country_qid": "Q211",
+        "Wikidata Qid": "Q25394205"
       }
     },
     {

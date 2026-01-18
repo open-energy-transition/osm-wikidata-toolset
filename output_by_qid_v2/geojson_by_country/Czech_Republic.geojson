@@ -123953,6 +123953,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.5801,
+          49.8264
+        ]
+      },
+      "properties": {
+        "label": "Morcinek coal mine in Kaczyce",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11743383",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11743383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.349136111,
           49.137452777
         ]

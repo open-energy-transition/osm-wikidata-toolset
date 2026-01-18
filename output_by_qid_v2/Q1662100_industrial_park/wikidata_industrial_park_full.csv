@@ -1,8 +1,19 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Russia,Q159,http://www.wikidata.org/entity/Q123668167,Noginsk Lenina square 1,Industrial park,55.875735161,38.469759821
+Russia,Q159,http://www.wikidata.org/entity/Q123689929,Foundry plant of Glukhovo factory,Industrial park,55.877682182,38.462491035
+Russia,Q159,http://www.wikidata.org/entity/Q115867403,Reflektor,Industrial park,,
 Austria,Q40,http://www.wikidata.org/entity/Q1396626,Industriezentrum Niederösterreich Süd,Industrial park,48.0735,16.3251
 Philippines,Q928,http://www.wikidata.org/entity/Q5018400,Calamba Premiere International Park,Industrial park,14.1971,121.1332
 Philippines,Q928,http://www.wikidata.org/entity/Q30590822,Carmelray Industrial Park 2,Industrial park,14.1750265,121.127104
 Philippines,Q928,http://www.wikidata.org/entity/Q23048142,Carmelray Industrial Park 1,Industrial park,14.19194444,121.07111111
+Czech Republic,Q213,http://www.wikidata.org/entity/Q109933501,CTPark Pilsen,Industrial park,49.7263472,13.3251197
+Czech Republic,Q213,http://www.wikidata.org/entity/Q110856874,Areál Pekařka,Industrial park,50.1132958,14.4797144
+Czech Republic,Q213,http://www.wikidata.org/entity/Q113116036,Pražírny Vysočany,Industrial park,50.100775,14.4965156
+Czech Republic,Q213,http://www.wikidata.org/entity/Q112770092,Centrum Jarov,Industrial park,50.0887292,14.4909853
+Czech Republic,Q213,http://www.wikidata.org/entity/Q113757852,Areál Tellus,Industrial park,50.0629578,14.3607817
+Czech Republic,Q213,http://www.wikidata.org/entity/Q46206233,CTPark Humpolec,Industrial park,49.527672651,15.353005404
+Poland,Q36,http://www.wikidata.org/entity/Q11811482,Q11811482,Industrial park,,
+Poland,Q36,http://www.wikidata.org/entity/Q9182600,Bydgoszcz Industrial and Technological Park,Industrial park,53.0756,18.0689
 Australia,Q408,http://www.wikidata.org/entity/Q117842816,"13 Childs Road, Chipping Norton",Industrial park,-33.917746627,150.966960033
 Australia,Q408,http://www.wikidata.org/entity/Q117843777,"26 Barry Road, Chipping Norton",Industrial park,-33.915528387,150.963225433
 Australia,Q408,http://www.wikidata.org/entity/Q117357020,Childs Industrial Estate,Industrial park,-33.919760372,150.965552172
@@ -32,41 +43,10 @@ Australia,Q408,http://www.wikidata.org/entity/Q117356593,Riverside Industrial Es
 Australia,Q408,http://www.wikidata.org/entity/Q117356756,Young Estate,Industrial park,-33.915438217,150.964537216
 Australia,Q408,http://www.wikidata.org/entity/Q118366469,81 Governor Macquarie Drive,Industrial park,-33.916899356,150.962282091
 Australia,Q408,http://www.wikidata.org/entity/Q117842387,"73 Governor Macquarie Drive, Chipping Norton",Industrial park,-33.91841127,150.962312779
-Russia,Q159,http://www.wikidata.org/entity/Q123668167,Noginsk Lenina square 1,Industrial park,55.875735161,38.469759821
-Russia,Q159,http://www.wikidata.org/entity/Q123689929,Foundry plant of Glukhovo factory,Industrial park,55.877682182,38.462491035
-Russia,Q159,http://www.wikidata.org/entity/Q115867403,Reflektor,Industrial park,,
-Czech Republic,Q213,http://www.wikidata.org/entity/Q109933501,CTPark Pilsen,Industrial park,49.7263472,13.3251197
-Czech Republic,Q213,http://www.wikidata.org/entity/Q110856874,Areál Pekařka,Industrial park,50.1132958,14.4797144
-Czech Republic,Q213,http://www.wikidata.org/entity/Q113116036,Pražírny Vysočany,Industrial park,50.100775,14.4965156
-Czech Republic,Q213,http://www.wikidata.org/entity/Q112770092,Centrum Jarov,Industrial park,50.0887292,14.4909853
-Czech Republic,Q213,http://www.wikidata.org/entity/Q113757852,Areál Tellus,Industrial park,50.0629578,14.3607817
-Czech Republic,Q213,http://www.wikidata.org/entity/Q46206233,CTPark Humpolec,Industrial park,49.527672651,15.353005404
-United Kingdom,Q145,http://www.wikidata.org/entity/Q3784216,Marlbrook,Industrial park,52.1875,-2.71816
-United Kingdom,Q145,http://www.wikidata.org/entity/Q72076556,Waterglade Industrial Park,Industrial park,51.476726,0.269944
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5411723,Eurocentral,Industrial park,55.8315,-3.97937
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7969195,Wardpark,Industrial park,55.9725,-3.96556
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5646388,Hams Hall,Industrial park,52.525,-1.708
-United Kingdom,Q145,http://www.wikidata.org/entity/Q55739736,Deeside Industrial Park,Industrial park,53.235833333,-3.016944444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116913766,Saltend Chemicals Park,Industrial park,53.73632,-0.23626
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4966537,Bridgend Industrial Estate,Industrial park,51.4997,-3.55278
-United Kingdom,Q145,http://www.wikidata.org/entity/Q123520761,Treforest Industrial Estate,Industrial park,51.56674,-3.2840001
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7440539,Seal Sands,Industrial park,54.6267,-1.17972
-United Kingdom,Q145,http://www.wikidata.org/entity/Q126183734,Potters Industrial Park,Industrial park,51.26523,-0.82453
-United Kingdom,Q145,http://www.wikidata.org/entity/Q6731254,Magna Park,Industrial park,52.0378,-0.659444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q48816804,Lenziemill,Industrial park,55.9369,-3.9859
 United States,Q30,http://www.wikidata.org/entity/Q65718353,Swan Island Industrial Park,Industrial park,45.561,-122.711
 United States,Q30,http://www.wikidata.org/entity/Q5327592,"EastPark, Kentucky",Industrial park,38.404166666,-82.79
 United States,Q30,http://www.wikidata.org/entity/Q16950811,Starbase,Industrial park,25.9875,-97.185833333
 United States,Q30,http://www.wikidata.org/entity/Q29468939,Bathgate Industrial Park,Industrial park,40.841211,-73.899581
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q125988652,Shuibei Jewelry Park,Industrial park,,
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q8044026,Xi'an International Trade & Logistics Park,Industrial park,,
-Poland,Q36,http://www.wikidata.org/entity/Q11811482,Q11811482,Industrial park,,
-Poland,Q36,http://www.wikidata.org/entity/Q9182600,Bydgoszcz Industrial and Technological Park,Industrial park,53.0756,18.0689
-Japan,Q17,http://www.wikidata.org/entity/Q17217298,Q17217298,Industrial park,,
-Japan,Q17,http://www.wikidata.org/entity/Q11578733,Bannosu Coastal Industrial Park,Industrial park,,
-South Korea,Q884,http://www.wikidata.org/entity/Q12599013,Q12599013,Industrial park,,
-South Korea,Q884,http://www.wikidata.org/entity/Q12585382,Seoul Digital Industrial Complex,Industrial park,,
-South Korea,Q884,http://www.wikidata.org/entity/Q131618474,Q131618474,Industrial park,,
 Canada,Q16,http://www.wikidata.org/entity/Q115099350,Parc industriel Caouette,Industrial park,46.1,-71.3
 Canada,Q16,http://www.wikidata.org/entity/Q115099354,Parc industriel de Joliette,Industrial park,46.006944444,-73.443333333
 Canada,Q16,http://www.wikidata.org/entity/Q115099382,Parc industriel Lavoisier,Industrial park,45.5777778,-73.3222222
@@ -157,6 +137,26 @@ Canada,Q16,http://www.wikidata.org/entity/Q115925446,Greyson Industrial Park,Ind
 Canada,Q16,http://www.wikidata.org/entity/Q115791384,Murray Industrial Park,Industrial park,49.895833333,-97.2675
 Canada,Q16,http://www.wikidata.org/entity/Q115099388,Parc industriel Nazaire-Laurin,Industrial park,46.016111111,-73.408333333
 Canada,Q16,http://www.wikidata.org/entity/Q115791380,East End Industrial Park,Industrial park,49.834444444,-99.923333333
+Belgium,Q31,http://www.wikidata.org/entity/Q1884733,Unal,Industrial park,50.763184,3.87508392
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q125988652,Shuibei Jewelry Park,Industrial park,,
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q8044026,Xi'an International Trade & Logistics Park,Industrial park,,
+South Korea,Q884,http://www.wikidata.org/entity/Q12599013,Q12599013,Industrial park,,
+South Korea,Q884,http://www.wikidata.org/entity/Q12585382,Seoul Digital Industrial Complex,Industrial park,,
+South Korea,Q884,http://www.wikidata.org/entity/Q131618474,Q131618474,Industrial park,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q3784216,Marlbrook,Industrial park,52.1875,-2.71816
+United Kingdom,Q145,http://www.wikidata.org/entity/Q72076556,Waterglade Industrial Park,Industrial park,51.476726,0.269944
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5411723,Eurocentral,Industrial park,55.8315,-3.97937
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7969195,Wardpark,Industrial park,55.9725,-3.96556
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5646388,Hams Hall,Industrial park,52.525,-1.708
+United Kingdom,Q145,http://www.wikidata.org/entity/Q55739736,Deeside Industrial Park,Industrial park,53.235833333,-3.016944444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116913766,Saltend Chemicals Park,Industrial park,53.73632,-0.23626
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4966537,Bridgend Industrial Estate,Industrial park,51.4997,-3.55278
+United Kingdom,Q145,http://www.wikidata.org/entity/Q123520761,Treforest Industrial Estate,Industrial park,51.56674,-3.2840001
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7440539,Seal Sands,Industrial park,54.6267,-1.17972
+United Kingdom,Q145,http://www.wikidata.org/entity/Q126183734,Potters Industrial Park,Industrial park,51.26523,-0.82453
+United Kingdom,Q145,http://www.wikidata.org/entity/Q6731254,Magna Park,Industrial park,52.0378,-0.659444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q48816804,Lenziemill,Industrial park,55.9369,-3.9859
+Syria,Q858,http://www.wikidata.org/entity/Q12214409,Q12214409,Industrial park,,
 Germany,Q183,http://www.wikidata.org/entity/Q76872986,Q76872986,Industrial park,49.85771,6.784289
 Germany,Q183,http://www.wikidata.org/entity/Q1069647,Chempark,Industrial park,,
 Germany,Q183,http://www.wikidata.org/entity/Q1069242,Chemiepark Knapsack,Industrial park,50.85888889,6.84444444
@@ -169,16 +169,16 @@ Germany,Q183,http://www.wikidata.org/entity/Q1662108,Q1662108,Industrial park,50
 Germany,Q183,http://www.wikidata.org/entity/Q106299120,Görzhausen,Industrial park,50.83077,8.71596
 Thailand,Q869,http://www.wikidata.org/entity/Q133539790,Bangchan Industrial Estate,Industrial park,13.804068961,100.704189823
 Thailand,Q869,http://www.wikidata.org/entity/Q133539696,Lat Krabung Industrial Estate,Industrial park,13.758205622,100.790048408
-Belgium,Q31,http://www.wikidata.org/entity/Q1884733,Unal,Industrial park,50.763184,3.87508392
-United Arab Emirates,Q878,http://www.wikidata.org/entity/Q5310557,Dubai Industrial City,Industrial park,24.853611111,55.064722222
 India,Q668,http://www.wikidata.org/entity/Q22906581,Autonagar,Industrial park,16.49261,80.67154
 India,Q668,http://www.wikidata.org/entity/Q121095963,Dandumalkapur Green Industrial Park,Industrial park,,
-Syria,Q858,http://www.wikidata.org/entity/Q12214409,Q12214409,Industrial park,,
-France,Q142,http://www.wikidata.org/entity/Q118351666,Q118351666,Industrial park,50.519983342,2.854198421
 Egypt,Q79,http://www.wikidata.org/entity/Q111416513,Q111416513,Industrial park,31.032611111,29.771833333
-Taiwan,Q865,http://www.wikidata.org/entity/Q128624974,Fengtian Industry Park,Industrial park,23.639361111,120.466916666
 Bangladesh,Q902,http://www.wikidata.org/entity/Q117791880,BSCIC Jamdani Village,Industrial park,23.728398,90.514594
+Japan,Q17,http://www.wikidata.org/entity/Q17217298,Q17217298,Industrial park,,
+Japan,Q17,http://www.wikidata.org/entity/Q11578733,Bannosu Coastal Industrial Park,Industrial park,,
 Ethiopia,Q115,http://www.wikidata.org/entity/Q114434343,Hawassa Industrial Park,Industrial park,7.066947,38.492878
+Taiwan,Q865,http://www.wikidata.org/entity/Q128624974,Fengtian Industry Park,Industrial park,23.639361111,120.466916666
 Malaysia,Q833,http://www.wikidata.org/entity/Q120081354,Nusajaya Tech Park,Industrial park,1.431777777,103.596611111
-Mexico,Q96,http://www.wikidata.org/entity/Q124611460,Pajaritos Petrochemical Complex,Industrial park,18.109664026,-94.388663812
 Spain,Q29,http://www.wikidata.org/entity/Q134300282,Llano del Espartal (Alicante),Industrial park,,
+France,Q142,http://www.wikidata.org/entity/Q118351666,Q118351666,Industrial park,50.519983342,2.854198421
+United Arab Emirates,Q878,http://www.wikidata.org/entity/Q5310557,Dubai Industrial City,Industrial park,24.853611111,55.064722222
+Mexico,Q96,http://www.wikidata.org/entity/Q124611460,Pajaritos Petrochemical Complex,Industrial park,18.109664026,-94.388663812

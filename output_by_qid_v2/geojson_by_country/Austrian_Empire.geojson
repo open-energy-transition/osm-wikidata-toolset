@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.241149739,
-          48.007021599
-        ]
-      },
-      "properties": {
-        "label": "Schäfflermühle",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q116317220",
-        "country_qid": "Q131964",
-        "Wikidata Qid": "Q116317220"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.146713055,
           50.162156666
         ]

@@ -35417,23 +35417,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.23561,
-          56.20835
-        ]
-      },
-      "properties": {
-        "label": "NORD.LINK",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q1961296",
-        "country_qid": "Q20",
-        "Wikidata Qid": "Q1961296"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.6769,
           57.5672
         ]

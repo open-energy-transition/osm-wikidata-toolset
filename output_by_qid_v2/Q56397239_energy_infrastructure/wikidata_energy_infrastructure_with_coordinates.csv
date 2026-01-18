@@ -1,18 +1,17 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Denmark,Q35,http://www.wikidata.org/entity/Q1825456,Limfjord power line crossing 1,Energy infrastructure,57.0699,10.0364
-Denmark,Q35,http://www.wikidata.org/entity/Q1825457,Limfjord power line crossing 2,Energy infrastructure,57.0677,10.0397
-Denmark,Q35,http://www.wikidata.org/entity/Q64225553,Limfjord power line crossings,Energy infrastructure,57.0689,10.0385
-Denmark,Q35,http://www.wikidata.org/entity/Q1454481,Little Belt overhead power line crossings,Energy infrastructure,55.522222222,9.691388888
-Poland,Q36,http://www.wikidata.org/entity/Q1547482,Świna power line crossing,Energy infrastructure,53.898649,14.253259
+Egypt,Q79,http://www.wikidata.org/entity/Q205193,Suez Canal overhead powerline crossing,Energy infrastructure,29.99638889,32.58333333
+United Kingdom,Q145,http://www.wikidata.org/entity/Q1515236,Aust Severn Powerline Crossing,Energy infrastructure,51.605833333,-2.641388888
+United Kingdom,Q145,http://www.wikidata.org/entity/Q228060,400 kV Thames Crossing,Energy infrastructure,51.464722222,0.296666666
+United Kingdom,Q145,http://www.wikidata.org/entity/Q4637291,Kincardine Forth power line crossing,Energy infrastructure,56.0716,-3.7407
+Ukraine,Q212,http://www.wikidata.org/entity/Q1232905,Enerhodar Dnipro Powerline Crossing,Energy infrastructure,47.564828,34.645386
+Ukraine,Q212,http://www.wikidata.org/entity/Q1907988,Zaporizhzhia Pylon Triples,Energy infrastructure,47.85361111,35.07805556
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q1877549,Huainan Luohe Powerline Crossing,Energy infrastructure,32.69,117.0625
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q71684121,Jiangyin Yangtze power line crossing,Energy infrastructure,31.9617,120.051
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q71861727,Nanjing Yangtze power line crossing,Energy infrastructure,31.9579,118.6255
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q71738586,Wuhan Yangtze power line crossing,Energy infrastructure,30.3604,114.1273
-Ukraine,Q212,http://www.wikidata.org/entity/Q1232905,Enerhodar Dnipro Powerline Crossing,Energy infrastructure,47.564828,34.645386
-Ukraine,Q212,http://www.wikidata.org/entity/Q1907988,Zaporizhzhia Pylon Triples,Energy infrastructure,47.85361111,35.07805556
-United States,Q30,http://www.wikidata.org/entity/Q968940,Carquinez Strait Powerline Crossing,Energy infrastructure,38.056388888,-122.201388888
+Poland,Q36,http://www.wikidata.org/entity/Q1547482,Świna power line crossing,Energy infrastructure,53.898649,14.253259
 Canada,Q16,http://www.wikidata.org/entity/Q7401633,Saint Lawrence River HVDC Powerline Crossing,Energy infrastructure,46.6056,-71.9877
-Egypt,Q79,http://www.wikidata.org/entity/Q205193,Suez Canal overhead powerline crossing,Energy infrastructure,29.99638889,32.58333333
+United States,Q30,http://www.wikidata.org/entity/Q968940,Carquinez Strait Powerline Crossing,Energy infrastructure,38.056388888,-122.201388888
 Germany,Q183,http://www.wikidata.org/entity/Q65769747,Lampertheim–Worms Rhine power line crossings,Energy infrastructure,49.60875,8.404861111
 Germany,Q183,http://www.wikidata.org/entity/Q228050,Ems 380 kV power line crossing,Energy infrastructure,53.148088888,7.374330555
 Germany,Q183,http://www.wikidata.org/entity/Q1325202,Elbe Crossing 2,Energy infrastructure,53.596111111,9.593888888
@@ -27,18 +26,19 @@ Germany,Q183,http://www.wikidata.org/entity/Q2147453,Q2147453,Energy infrastruct
 Germany,Q183,http://www.wikidata.org/entity/Q1325196,Elbe Crossing 1,Energy infrastructure,53.605,9.578055555
 Germany,Q183,http://www.wikidata.org/entity/Q62576095,Rheinhausen Rhine power line crossing,Energy infrastructure,51.418333333,6.735138888
 Germany,Q183,http://www.wikidata.org/entity/Q2147459,Reisholz Rhine power line crossing,Energy infrastructure,51.159722222,6.834166666
+Denmark,Q35,http://www.wikidata.org/entity/Q1825456,Limfjord power line crossing 1,Energy infrastructure,57.0699,10.0364
+Denmark,Q35,http://www.wikidata.org/entity/Q1825457,Limfjord power line crossing 2,Energy infrastructure,57.0677,10.0397
+Denmark,Q35,http://www.wikidata.org/entity/Q64225553,Limfjord power line crossings,Energy infrastructure,57.0689,10.0385
+Denmark,Q35,http://www.wikidata.org/entity/Q1454481,Little Belt overhead power line crossings,Energy infrastructure,55.522222222,9.691388888
 Venezuela,Q717,http://www.wikidata.org/entity/Q2030837,Orinoco River Crossing,Energy infrastructure,8.27547222,-62.90225
 Venezuela,Q717,http://www.wikidata.org/entity/Q15810463,Lake Maracaibo power line crossing,Energy infrastructure,10.786141,-71.629429
-United Kingdom,Q145,http://www.wikidata.org/entity/Q1515236,Aust Severn Powerline Crossing,Energy infrastructure,51.605833333,-2.641388888
-United Kingdom,Q145,http://www.wikidata.org/entity/Q228060,400 kV Thames Crossing,Energy infrastructure,51.464722222,0.296666666
-United Kingdom,Q145,http://www.wikidata.org/entity/Q4637291,Kincardine Forth power line crossing,Energy infrastructure,56.0716,-3.7407
-Latvia,Q211,http://www.wikidata.org/entity/Q7333334,Riga Hydroelectric Power Plant Crossing Pylon,Energy infrastructure,56.838055555,24.37
-Spain,Q29,http://www.wikidata.org/entity/Q478135,Pylons of Cádiz,Energy infrastructure,36.5083,-6.26228
-Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Energy infrastructure,38.24583333,15.6325
 Iran,Q794,http://www.wikidata.org/entity/Q1521657,Clarence Strait power line crossing,Energy infrastructure,26.96363056,55.74622222
-Greenland,Q223,http://www.wikidata.org/entity/Q4742455,Ameralik Span,Energy infrastructure,64.105,-51.237777777
+Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Energy infrastructure,38.24583333,15.6325
+Spain,Q29,http://www.wikidata.org/entity/Q478135,Pylons of Cádiz,Energy infrastructure,36.5083,-6.26228
 Belgium,Q31,http://www.wikidata.org/entity/Q2232934,Scheldt overhead power line crossing Doel,Energy infrastructure,51.339714,4.265769
+Latvia,Q211,http://www.wikidata.org/entity/Q7333334,Riga Hydroelectric Power Plant Crossing Pylon,Energy infrastructure,56.838055555,24.37
+Greenland,Q223,http://www.wikidata.org/entity/Q4742455,Ameralik Span,Energy infrastructure,64.105,-51.237777777
+Nazi Germany,Q7318,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221
+Weimar Republic,Q41304,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221
 German Empire,Q43287,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221
 Allied-occupied Germany,Q2415901,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221
-Weimar Republic,Q41304,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221
-Nazi Germany,Q7318,http://www.wikidata.org/entity/Q116181773,Lerchenfeld Bridge Gate,Energy infrastructure,48.3966,11.75221

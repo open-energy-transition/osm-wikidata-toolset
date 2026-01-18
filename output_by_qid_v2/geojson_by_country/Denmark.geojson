@@ -1808,23 +1808,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2304,
-          54.6293
-        ]
-      },
-      "properties": {
-        "label": "Viking Link",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q21208645",
-        "country_qid": "Q35",
-        "Wikidata Qid": "Q21208645"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.4353,
           55.2972
         ]
@@ -9604,6 +9587,23 @@
         "entity": "http://www.wikidata.org/entity/Q1299695",
         "country_qid": "Q35",
         "Wikidata Qid": "Q1299695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99961111,
+          55.61227778
+        ]
+      },
+      "properties": {
+        "label": "Q12340417",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q12340417",
+        "country_qid": "Q35",
+        "Wikidata Qid": "Q12340417"
       }
     }
   ]
