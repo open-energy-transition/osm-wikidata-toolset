@@ -18451,23 +18451,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.287709,
-          69.39531
-        ]
-      },
-      "properties": {
-        "label": "Kaula-Kotselvaara Mine",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q116149926",
-        "country_qid": "Q33",
-        "Wikidata Qid": "Q116149926"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           27.1689,
           64.1105
         ]

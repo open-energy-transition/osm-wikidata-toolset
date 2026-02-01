@@ -975,23 +975,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.48333333,
-          9.11666667
-        ]
-      },
-      "properties": {
-        "label": "India–Sri Lanka HVDC Interconnection",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q6019736",
-        "country_qid": "Q854",
-        "Wikidata Qid": "Q6019736"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           80.452777777,
           8.565
         ]
