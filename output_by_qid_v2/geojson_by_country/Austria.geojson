@@ -1893,6 +1893,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.477523696,
+          46.90503852
+        ]
+      },
+      "properties": {
+        "label": "Gemeinschaftskraftwerk Inn",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q95587696",
+        "country_qid": "Q40",
+        "Wikidata Qid": "Q95587696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.5565,
           47.296
         ]
@@ -8047,6 +8064,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.967271,
+          47.52993
+        ]
+      },
+      "properties": {
+        "label": "Eibelesee",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130373746",
+        "country_qid": "Q40",
+        "Wikidata Qid": "Q130373746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15.3861,
           48.5936
         ]
@@ -8499,6 +8533,23 @@
         "entity": "http://www.wikidata.org/entity/Q14546742",
         "country_qid": "Q40",
         "Wikidata Qid": "Q14546742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7606,
+          48.5688
+        ]
+      },
+      "properties": {
+        "label": "Rannasee",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1477256",
+        "country_qid": "Q40",
+        "Wikidata Qid": "Q1477256"
       }
     },
     {
@@ -41105,23 +41156,6 @@
         "entity": "http://www.wikidata.org/entity/Q38032565",
         "country_qid": "Q40",
         "Wikidata Qid": "Q38032565"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.3613,
-          48.2247
-        ]
-      },
-      "properties": {
-        "label": "Viennese Porcelain Manufactory",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2569078",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q2569078"
       }
     },
     {

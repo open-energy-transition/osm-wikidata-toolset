@@ -4647,23 +4647,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4353,
-          55.2972
-        ]
-      },
-      "properties": {
-        "label": "Bornholm Cable",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q893982",
-        "country_qid": "Q34",
-        "Wikidata Qid": "Q893982"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           17.92777778,
           59.41638889
         ]

@@ -1621,23 +1621,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.095722222,
-          44.948611111
-        ]
-      },
-      "properties": {
-        "label": "Transformer substation and electricity pylons",
-        "type": "Electrical substation",
-        "entity": "http://www.wikidata.org/entity/Q25443355",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q25443355"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.7367513,
           46.4714804
         ]
