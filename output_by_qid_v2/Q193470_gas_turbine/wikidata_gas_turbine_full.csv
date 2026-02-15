@@ -1,9 +1,9 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Turkey,Q43,http://www.wikidata.org/entity/Q117982610,T700-TEI-701D,Gas turbine,,
-Switzerland,Q39,http://www.wikidata.org/entity/Q124049066,Sulzer high pressure gas turbine,Gas turbine,46.5203709,6.5666086
-Switzerland,Q39,http://www.wikidata.org/entity/Q120790836,Neuchâtel gas turbine,Gas turbine,,
 United States,Q30,http://www.wikidata.org/entity/Q11815419,Pegasus 3,Gas turbine,,
 United States,Q30,http://www.wikidata.org/entity/Q113838417,Honeywell TSCP700,Gas turbine,,
+Switzerland,Q39,http://www.wikidata.org/entity/Q124049066,Sulzer high pressure gas turbine,Gas turbine,46.5203709,6.5666086
+Switzerland,Q39,http://www.wikidata.org/entity/Q120790836,Neuchâtel gas turbine,Gas turbine,,
 France,Q142,http://www.wikidata.org/entity/Q124608915,Viking engine at Cité de l'Espace,Gas turbine,43.587,1.49322
 France,Q142,http://www.wikidata.org/entity/Q47507700,Full-scale model of the 1st version Vulcain engine from the Ariane 5 launcher,Gas turbine,,
 France,Q142,http://www.wikidata.org/entity/Q120487931,Armengaud-Lemale gas turbine,Gas turbine,,
+Turkey,Q43,http://www.wikidata.org/entity/Q117982610,T700-TEI-701D,Gas turbine,,
