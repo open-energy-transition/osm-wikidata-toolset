@@ -1,17 +1,10 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Iran,Q794,http://www.wikidata.org/entity/Q5937956,Mizan Dam,Weir,32.051944444,48.861111111
-Iran,Q794,http://www.wikidata.org/entity/Q5709212,Khoda Afarin Dam (Shushtar),Weir,32.000833333,48.856111111
-Iran,Q794,http://www.wikidata.org/entity/Q95919801,Khondab Weir,Weir,34.349305555,49.229638888
-Iran,Q794,http://www.wikidata.org/entity/Q5948305,Shabankareh Weir,Weir,29.383277777,51.111388888
-Iran,Q794,http://www.wikidata.org/entity/Q806225,Band-e Kaisar,Weir,32.053723,48.848687
-Iran,Q794,http://www.wikidata.org/entity/Q110883240,Derkeh Weir,Weir,34.449833333,47.659916666
-Iran,Q794,http://www.wikidata.org/entity/Q96761827,Ahram Weir,Weir,28.879444444,51.301944444
-Iran,Q794,http://www.wikidata.org/entity/Q5707186,Khak Dam,Weir,32.036388888,48.839861111
-Iran,Q794,http://www.wikidata.org/entity/Q4165166,Terenah,Weir,27.074972222,54.499444444
-Iran,Q794,http://www.wikidata.org/entity/Q5955627,Dezful Old Bridge,Weir,32.381805555,48.390583333
-Iran,Q794,http://www.wikidata.org/entity/Q96747573,Keshigan Weir,Weir,26.622555555,60.175472222
-Iran,Q794,http://www.wikidata.org/entity/Q95984359,Hezar Sangar Dam,Weir,36.409888888,52.351666666
-Iran,Q794,http://www.wikidata.org/entity/Q5703382,Lashkar Bridge,Weir,32.0325,48.841388888
+Indonesia,Q252,http://www.wikidata.org/entity/Q116142286,Bendung Tegal,Weir,-7.933185092,110.365633215
+Indonesia,Q252,http://www.wikidata.org/entity/Q25118638,Bendung Kaligending,Weir,-7.581666666,109.675833333
+Indonesia,Q252,http://www.wikidata.org/entity/Q104570963,Waru Turi weir,Weir,-7.7644972,112.0235655
+Indonesia,Q252,http://www.wikidata.org/entity/Q25115836,Dam Pesucen,Weir,-7.684482636,109.696347344
+Indonesia,Q252,http://www.wikidata.org/entity/Q12475712,Katulampa floodgate,Weir,-6.63336,106.83705
+Indonesia,Q252,http://www.wikidata.org/entity/Q109404571,Benteng weir,Weir,-3.688006334,119.676829278
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26662312,Weir To The Serpentine And River Alne Approximately 120 Metres South East Of Wootton Hall,Weir,52.266539,-1.773357
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26285564,"Beech Grove Lock, Accommodation Bridge, And Apron Wier",Weir,51.36739179,-1.611217848
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26560021,"Weir On River Teme Including Attached Sluice, Retaining Walls And Culvert",Weir,52.431512,-2.828094
@@ -262,6 +255,107 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q114128396,Port Na Carradh,We
 United Kingdom,Q145,http://www.wikidata.org/entity/Q5904465,Horns Mill Weir,Weir,51.787,-0.086657
 United Kingdom,Q145,http://www.wikidata.org/entity/Q114128415,"Stronuich, Weir",Weir,56.547319,-4.422155
 United Kingdom,Q145,http://www.wikidata.org/entity/Q17574743,"Weir, Deanston Mills, Deanston",Weir,56.1989,-4.0919
+France,Q142,http://www.wikidata.org/entity/Q130214588,Q130214588,Weir,46.247318,-1.56154
+France,Q142,http://www.wikidata.org/entity/Q13105104,Écluse d'Apach-Schengen,Weir,49.46697,6.36668
+France,Q142,http://www.wikidata.org/entity/Q133798585,Q133798585,Weir,45.6262662,6.5118972
+France,Q142,http://www.wikidata.org/entity/Q130262497,Q130262497,Weir,45.9294269,6.1203796
+France,Q142,http://www.wikidata.org/entity/Q130532526,Q130532526,Weir,49.154691,3.425916
+Canada,Q16,http://www.wikidata.org/entity/Q22564927,Seuil à Elizabeth,Weir,45.666111111,-74.672222222
+Canada,Q16,http://www.wikidata.org/entity/Q111906842,O'Shaughnessy Falls,Weir,50.99866,-115.07283
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418074,Q17418074,Weir,52.15902,5.18727
+Netherlands,Q55,http://www.wikidata.org/entity/Q17441064,Hillenraad Castle: weir with piles at the southwest corner of the outer moat,Weir,51.21924,6.03594
+Netherlands,Q55,http://www.wikidata.org/entity/Q17592232,Stuw in Lith,Weir,51.81,5.45386
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418176,Q17418176,Weir,52.14879,5.12798
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603926,Q17603926,Weir,51.70165,5.77113
+Netherlands,Q55,http://www.wikidata.org/entity/Q97009789,weir and lock complex Driel,Weir,51.96361111,5.80666667
+Netherlands,Q55,http://www.wikidata.org/entity/Q17597001,weir of weir and lock complex in Roermond,Weir,51.20545,5.97584
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418115,Q17418115,Weir,52.12905,5.17316
+Netherlands,Q55,http://www.wikidata.org/entity/Q17463801,Q17463801,Weir,51.44859,5.45064
+Netherlands,Q55,http://www.wikidata.org/entity/Q17590393,Q17590393,Weir,52.146042,6.23922
+Netherlands,Q55,http://www.wikidata.org/entity/Q125536814,Hezenbergerstuw,Weir,52.45288,6.07851
+Netherlands,Q55,http://www.wikidata.org/entity/Q17440815,weir with bridge Stadspark Sittard,Weir,50.989330555,5.861602777
+Netherlands,Q55,http://www.wikidata.org/entity/Q2242127,Hagestein weir-lock complex,Weir,51.99111,5.13333
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418096,Q17418096,Weir,52.12155,5.158488888
+Netherlands,Q55,http://www.wikidata.org/entity/Q17595721,Q17595721,Weir,51.63013,5.75246
+Netherlands,Q55,http://www.wikidata.org/entity/Q17595761,Q17595761,Weir,51.63013,5.75246
+Netherlands,Q55,http://www.wikidata.org/entity/Q821997,Stormvloedkering Hollandse IJssel,Weir,51.917222,4.579167
+Netherlands,Q55,http://www.wikidata.org/entity/Q28151558,weir and lock complex Grave,Weir,51.769171,5.736548
+Netherlands,Q55,http://www.wikidata.org/entity/Q17464770,Q17464770,Weir,52.14564,5.5942
+Netherlands,Q55,http://www.wikidata.org/entity/Q17602412,weir S7 of Peel-Raam Line,Weir,51.46123,5.87006
+Netherlands,Q55,http://www.wikidata.org/entity/Q2439819,Schuivenhuisje,Weir,52.38717,6.96872
+Netherlands,Q55,http://www.wikidata.org/entity/Q17595875,Q17595875,Weir,52.06093,6.13343
+Netherlands,Q55,http://www.wikidata.org/entity/Q17602406,weir S10 of Peel-Raam Line,Weir,51.5524,5.84172
+Netherlands,Q55,http://www.wikidata.org/entity/Q17602408,weir S9 of Peel-Raam Line,Weir,51.5524,5.84172
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603928,Q17603928,Weir,51.70985,5.76624
+Netherlands,Q55,http://www.wikidata.org/entity/Q18772875,weir and lock complex in Roermond,Weir,51.210909,5.982485
+Netherlands,Q55,http://www.wikidata.org/entity/Q27768225,weir and lock complex in Belfeld,Weir,51.320322,6.111917
+Netherlands,Q55,http://www.wikidata.org/entity/Q17417999,Waterkering Tienhoven,Weir,52.17207,5.0921
+Netherlands,Q55,http://www.wikidata.org/entity/Q17459942,Q17459942,Weir,51.68666,5.77669
+Netherlands,Q55,http://www.wikidata.org/entity/Q17594546,Q17594546,Weir,52.15924,5.38542
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603923,Q17603923,Weir,51.68217,5.77104
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603919,Q17603919,Weir,51.67771,5.75991
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603917,Q17603917,Weir,51.6646,5.74742
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418107,Stuwtje Kooidijk,Weir,52.14021,5.11845
+Netherlands,Q55,http://www.wikidata.org/entity/Q105092463,Walramstuw,Weir,50.863430555,5.835505555
+Netherlands,Q55,http://www.wikidata.org/entity/Q2303005,Bonenburgersluis,Weir,52.381425,6.048344
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418136,"Stuw bij Voordorpsedijk 2, Utrecht",Weir,52.11505,5.14261
+Netherlands,Q55,http://www.wikidata.org/entity/Q17602411,weir S8 of Peel-Raam Line,Weir,51.50768,5.8622
+Netherlands,Q55,http://www.wikidata.org/entity/Q28912425,weir and lock complex Linne,Weir,51.169377,5.922468
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418101,Q17418101,Weir,52.12986,5.14636
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418084,Q17418084,Weir,52.15838,5.17125
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418155,Stuw in Westbroek,Weir,52.15461,5.11712
+Netherlands,Q55,http://www.wikidata.org/entity/Q28873999,weir and lock complex Sambeek,Weir,51.6406,5.984372
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603925,Q17603925,Weir,51.68768,5.77572
+Netherlands,Q55,http://www.wikidata.org/entity/Q17610405,Q17610405,Weir,52.0792245,6.4434708
+Netherlands,Q55,http://www.wikidata.org/entity/Q17595763,Q17595763,Weir,51.63013,5.75246
+Netherlands,Q55,http://www.wikidata.org/entity/Q17595764,Q17595764,Weir,51.63013,5.75246
+Netherlands,Q55,http://www.wikidata.org/entity/Q17602405,weir S11 of Peel-Raam Line,Weir,51.56159,5.83976
+Netherlands,Q55,http://www.wikidata.org/entity/Q17603920,Q17603920,Weir,51.68041,5.76846
+Netherlands,Q55,http://www.wikidata.org/entity/Q17455768,Q17455768,Weir,52.12893,5.10349
+Netherlands,Q55,http://www.wikidata.org/entity/Q17448878,Q17448878,Weir,52.20292,5.01981
+Netherlands,Q55,http://www.wikidata.org/entity/Q804937,Balgstuw Ramspol,Weir,52.61139,5.84028
+Netherlands,Q55,http://www.wikidata.org/entity/Q17457420,weir and lock complex Borgharen,Weir,50.868962,5.697044
+Netherlands,Q55,http://www.wikidata.org/entity/Q17592236,Q17592236,Weir,51.80737,5.4559
+Netherlands,Q55,http://www.wikidata.org/entity/Q17418068,Q17418068,Weir,52.15672,5.17588
+Poland,Q36,http://www.wikidata.org/entity/Q122546245,Q122546245,Weir,53.058827,16.646005
+Poland,Q36,http://www.wikidata.org/entity/Q89670494,Sluice in Prudnik,Weir,50.322388888,17.583611111
+Poland,Q36,http://www.wikidata.org/entity/Q125288371,Q125288371,Weir,52.099916,15.402616
+Poland,Q36,http://www.wikidata.org/entity/Q11723526,Rędzin weir in Wrocław,Weir,51.1558,16.9619
+Poland,Q36,http://www.wikidata.org/entity/Q11723527,Q11723527,Weir,51.1331,17.0358
+Poland,Q36,http://www.wikidata.org/entity/Q122155054,Q122155054,Weir,50.35296,18.24418
+Poland,Q36,http://www.wikidata.org/entity/Q11723517,"Czersko Polskie roller dam, Bydgoszcz",Weir,53.1111,18.1203
+Poland,Q36,http://www.wikidata.org/entity/Q11723530,Q11723530,Weir,51.1303,17.0781
+Poland,Q36,http://www.wikidata.org/entity/Q11723534,Q11723534,Weir,51.1175,17.0375
+Poland,Q36,http://www.wikidata.org/entity/Q33508101,Q33508101,Weir,50.968389,21.221694
+Poland,Q36,http://www.wikidata.org/entity/Q16485437,Q16485437,Weir,51.1028,17.1239
+Poland,Q36,http://www.wikidata.org/entity/Q30059086,A flap weir and 2 control pavilions,Weir,51.115505,17.031356
+Poland,Q36,http://www.wikidata.org/entity/Q11723520,Q11723520,Weir,53.1231,17.9989
+Poland,Q36,http://www.wikidata.org/entity/Q122546250,Q122546250,Weir,52.888539,16.257428
+Poland,Q36,http://www.wikidata.org/entity/Q11723536,Św. Macieja weir,Weir,51.1142,17.0381
+Poland,Q36,http://www.wikidata.org/entity/Q122546238,Q122546238,Weir,52.88551,16.423255
+Poland,Q36,http://www.wikidata.org/entity/Q121897679,Q121897679,Weir,51.4985,15.19509
+Poland,Q36,http://www.wikidata.org/entity/Q11723528,Szczytniki weir in Wrocław,Weir,51.105,17.0675
+Poland,Q36,http://www.wikidata.org/entity/Q11723519,Q11723519,Weir,51.1156,17.0314
+Poland,Q36,http://www.wikidata.org/entity/Q11723524,Jaz Psie Pole,Weir,51.127601,17.062625
+Poland,Q36,http://www.wikidata.org/entity/Q9395475,Katedralna Lock in Poznań,Weir,52.41256,16.9504
+Poland,Q36,http://www.wikidata.org/entity/Q122546241,Q122546241,Weir,52.939322,16.560206
+Poland,Q36,http://www.wikidata.org/entity/Q122265052,Q122265052,Weir,53.08272,17.22892
+Poland,Q36,http://www.wikidata.org/entity/Q122546246,Q122546246,Weir,52.890456,16.346973
+Poland,Q36,http://www.wikidata.org/entity/Q11723521,Opatowicki weir,Weir,51.1,17.1211
+Poland,Q36,http://www.wikidata.org/entity/Q122154972,Q122154972,Weir,50.66844,17.92001
+Poland,Q36,http://www.wikidata.org/entity/Q33508418,Q33508418,Weir,50.980139,21.255222
+Poland,Q36,http://www.wikidata.org/entity/Q122177150,Q122177150,Weir,53.02427,16.58754
+Poland,Q36,http://www.wikidata.org/entity/Q33508428,Q33508428,Weir,50.98075,21.249167
+Poland,Q36,http://www.wikidata.org/entity/Q11723518,Q11723518,Weir,51.1136,17.0297
+Poland,Q36,http://www.wikidata.org/entity/Q11723529,Q11723529,Weir,53.1239,17.9947
+Poland,Q36,http://www.wikidata.org/entity/Q32057355,Q32057355,Weir,52.984859828,16.566514518
+Poland,Q36,http://www.wikidata.org/entity/Q121897680,Q121897680,Weir,51.49821,15.19563
+Poland,Q36,http://www.wikidata.org/entity/Q33328485,Q33328485,Weir,53.526878931,16.484748768
+Poland,Q36,http://www.wikidata.org/entity/Q122546243,Q122546243,Weir,52.860997,16.002618
+Poland,Q36,http://www.wikidata.org/entity/Q122262270,Q122262270,Weir,49.57957,21.94317
+Poland,Q36,http://www.wikidata.org/entity/Q116051730,Q116051730,Weir,53.956929223,19.022225242
+Poland,Q36,http://www.wikidata.org/entity/Q122265656,Q122265656,Weir,50.96839,21.22172
+Poland,Q36,http://www.wikidata.org/entity/Q18425752,Q18425752,Weir,51.530231,17.339289
 Australia,Q408,http://www.wikidata.org/entity/Q21950365,Upper Eden Creek Weir,Weir,-28.565277777,152.917777777
 Australia,Q408,http://www.wikidata.org/entity/Q21950321,Woorawadian Weir,Weir,-29.881666666,148.251111111
 Australia,Q408,http://www.wikidata.org/entity/Q21950413,Tareel Roi Weir,Weir,-29.431666666,150.034722222
@@ -455,25 +549,6 @@ Australia,Q408,http://www.wikidata.org/entity/Q21942072,Gogeldrie Weir,Weir,-34.
 Australia,Q408,http://www.wikidata.org/entity/Q21944522,Berrys Weir,Weir,-27.64357,152.74323
 Australia,Q408,http://www.wikidata.org/entity/Q21944613,Donkey Camp Weir,Weir,-14.416388888,132.321944444
 Australia,Q408,http://www.wikidata.org/entity/Q21942120,Condobolin Weir,Weir,-33.081666666,147.134722222
-Japan,Q17,http://www.wikidata.org/entity/Q114433503,Ashio Dam,Weir,36.676944444,139.439444444
-Japan,Q17,http://www.wikidata.org/entity/Q11668120,Magai Head Works,Weir,35.252944444,136.688472222
-Japan,Q17,http://www.wikidata.org/entity/Q11582141,Q11582141,Weir,35.420138888,139.371111111
-Japan,Q17,http://www.wikidata.org/entity/Q11566721,Seta River Overflow Weir,Weir,34.939380555,135.910144444
-Japan,Q17,http://www.wikidata.org/entity/Q11459532,Q11459532,Weir,36.543166666,140.343166666
-Japan,Q17,http://www.wikidata.org/entity/Q114637640,Shionosawa Dam,Weir,35.377222222,138.450277777
-Japan,Q17,http://www.wikidata.org/entity/Q22120097,Hijiori Dam,Weir,38.604722222,140.165277777
-Japan,Q17,http://www.wikidata.org/entity/Q134510955,Q134510955,Weir,35.0125,135.857777777
-Japan,Q17,http://www.wikidata.org/entity/Q113771045,Akimotoko Dam,Weir,37.652777777,140.1125
-Japan,Q17,http://www.wikidata.org/entity/Q11559707,Yodogawa Ōzeki,Weir,34.723417,135.513889
-Japan,Q17,http://www.wikidata.org/entity/Q121255062,Hakata River Rising Sector Gate,Weir,33.596375,130.40145
-Japan,Q17,http://www.wikidata.org/entity/Q11579631,Shiraiwa Weir,Weir,36.548611111,137.534444444
-Japan,Q17,http://www.wikidata.org/entity/Q11396892,Tone Diversion Weir,Weir,36.1893776,139.473297
-Japan,Q17,http://www.wikidata.org/entity/Q11626062,Q11626062,Weir,35.703111111,139.923138888
-Japan,Q17,http://www.wikidata.org/entity/Q5507684,Fukuoka Dam,Weir,36.042777777,140.026666666
-Japan,Q17,http://www.wikidata.org/entity/Q11519794,Sueda-Suka Weir,Weir,35.928111,139.737361
-Japan,Q17,http://www.wikidata.org/entity/Q55534479,Mogami Shirakawa Sabo Dam,Weir,38.815938,140.515462
-Japan,Q17,http://www.wikidata.org/entity/Q11610195,Hamura Weir,Weir,35.755555555,139.308055555
-Japan,Q17,http://www.wikidata.org/entity/Q121090174,Hakata River Inflatable Rubber Dam,Weir,33.589138888,130.409805555
 Czech Republic,Q213,http://www.wikidata.org/entity/Q123547848,Q123547848,Weir,50.550605104,15.033397734
 Czech Republic,Q213,http://www.wikidata.org/entity/Q123547866,Q123547866,Weir,50.61702,15.30843
 Czech Republic,Q213,http://www.wikidata.org/entity/Q123547869,Q123547869,Weir,50.595364983,15.344862869
@@ -2732,43 +2807,6 @@ Germany,Q183,http://www.wikidata.org/entity/Q1637113,Q1637113,Weir,48.3904,10.89
 Germany,Q183,http://www.wikidata.org/entity/Q98632637,Streichwehr Nähe Röderschütt in Rothenburg ob der Tauber,Weir,49.37709397,10.18425044
 Germany,Q183,http://www.wikidata.org/entity/Q66287436,Röthelmoosklause,Weir,47.716781,12.552597
 Germany,Q183,http://www.wikidata.org/entity/Q66121427,Bäckinger Klause,Weir,47.722344,12.736605
-Austria,Q40,http://www.wikidata.org/entity/Q38128670,Q38128670,Weir,47.428115,14.755907
-Austria,Q40,http://www.wikidata.org/entity/Q106953341,Holzrechen Baden,Weir,48.006609,16.213172
-Austria,Q40,http://www.wikidata.org/entity/Q57974165,"Schöpflklause, Klausen-Leopoldsdorf",Weir,48.08358,15.94453
-Austria,Q40,http://www.wikidata.org/entity/Q105646829,"Triftanlage an der Frutz, Rankweil",Weir,47.27959,9.65448
-Austria,Q40,http://www.wikidata.org/entity/Q105646989,Q105646989,Weir,48.040962,14.411735
-Austria,Q40,http://www.wikidata.org/entity/Q106995602,Wehranlage Oberaich,Weir,47.402348,15.230382
-Austria,Q40,http://www.wikidata.org/entity/Q57975732,"Hainbachklause, Klausen-Leopoldsdorf",Weir,48.10695,16.0314
-Austria,Q40,http://www.wikidata.org/entity/Q38185180,Wehranlage Gallspach,Weir,48.207049,13.812679
-Austria,Q40,http://www.wikidata.org/entity/Q107088096,Heindlmühlwehr,Weir,48.042669444,14.41955
-Austria,Q40,http://www.wikidata.org/entity/Q107088347,Spitalmühlwehr,Weir,48.042483333,14.421491666
-Austria,Q40,http://www.wikidata.org/entity/Q37798755,Riedlbach-Klause,Weir,47.552373,13.865828
-Austria,Q40,http://www.wikidata.org/entity/Q37728085,Q37728085,Weir,47.293946,9.746891
-Austria,Q40,http://www.wikidata.org/entity/Q113111154,Q113111154,Weir,47.971361111,14.265825
-Austria,Q40,http://www.wikidata.org/entity/Q38109109,Q38109109,Weir,46.95443,15.88215
-Austria,Q40,http://www.wikidata.org/entity/Q37972158,Q37972158,Weir,47.648249,12.590581
-Austria,Q40,http://www.wikidata.org/entity/Q21858329,Sitzenbacher Klause,Weir,47.746666666,14.443611111
-Austria,Q40,http://www.wikidata.org/entity/Q2108791,Prescenyklause,Weir,47.6585,15.1529
-Austria,Q40,http://www.wikidata.org/entity/Q116969948,Wehranlage Zlatten,Weir,47.374447,15.307411
-Austria,Q40,http://www.wikidata.org/entity/Q37766264,Q37766264,Weir,47.863378,14.032207
-Austria,Q40,http://www.wikidata.org/entity/Q114842187,Q114842187,Weir,47.331839,15.356178
-Austria,Q40,http://www.wikidata.org/entity/Q64765526,"Wehranlage Schwarza, Hirschwang",Weir,47.713385,15.806022
-Austria,Q40,http://www.wikidata.org/entity/Q1736406,Weir 1,Weir,48.2117,16.437
-Austria,Q40,http://www.wikidata.org/entity/Q1076460,Chorinsky-Klause,Weir,47.651958,13.551139
-Austria,Q40,http://www.wikidata.org/entity/Q57975730,"Lengbachlklause, Klausen-Leopoldsdorf",Weir,48.12726,15.98785
-Austria,Q40,http://www.wikidata.org/entity/Q64692129,Kraftwerk Peggau-Deutschfeistritz,Weir,47.232847,15.320716
-Austria,Q40,http://www.wikidata.org/entity/Q64692127,Wehranlage Adriach,Weir,47.232847,15.320716
-Austria,Q40,http://www.wikidata.org/entity/Q130457698,Q130457698,Weir,47.89122,14.29658
-Austria,Q40,http://www.wikidata.org/entity/Q125118327,Q125118327,Weir,47.392943,11.772251
-Austria,Q40,http://www.wikidata.org/entity/Q57982298,"Hauptklause, Klausen-Leopoldsdorf",Weir,48.08111,16.0375
-Austria,Q40,http://www.wikidata.org/entity/Q57974479,"Riesenbachklause, Klausen-Leopoldsdorf",Weir,48.07695,15.947219444
-Austria,Q40,http://www.wikidata.org/entity/Q38035017,Q38035017,Weir,47.68169,13.0956
-Austria,Q40,http://www.wikidata.org/entity/Q37797977,Q37797977,Weir,47.853527,13.665268
-Austria,Q40,http://www.wikidata.org/entity/Q37972143,Fischbachklause,Weir,47.653258,12.622865
-Austria,Q40,http://www.wikidata.org/entity/Q38128680,Q38128680,Weir,47.425026,14.756859
-Austria,Q40,http://www.wikidata.org/entity/Q38034931,Q38034931,Weir,47.680687,13.093096
-Austria,Q40,http://www.wikidata.org/entity/Q64692182,Q64692182,Weir,47.74294,14.88283
-Austria,Q40,http://www.wikidata.org/entity/Q125342443,Q125342443,Weir,48.217775,16.37266
 Switzerland,Q39,http://www.wikidata.org/entity/Q29522378,"Reusswehr (Mühlesporne, Nadelwehr)",Weir,47.051846,8.302092
 Switzerland,Q39,http://www.wikidata.org/entity/Q2138824,regulating weir Port,Weir,47.1189,7.25694
 Switzerland,Q39,http://www.wikidata.org/entity/Q112864704,weir at the lower mill,Weir,47.07067,7.30888
@@ -2785,6 +2823,44 @@ Ireland,Q27,http://www.wikidata.org/entity/Q55049419,Anna Liffey Weir,Weir,53.36
 Ireland,Q27,http://www.wikidata.org/entity/Q55049472,Firhouse Weir,Weir,53.28913,-6.3309
 Ireland,Q27,http://www.wikidata.org/entity/Q55028307,Salmon Weir Bridge,Weir,53.2756,-9.05596
 Ireland,Q27,http://www.wikidata.org/entity/Q64415904,Meelick weir,Weir,53.174902,-8.075972
+Japan,Q17,http://www.wikidata.org/entity/Q114433503,Ashio Dam,Weir,36.676944444,139.439444444
+Japan,Q17,http://www.wikidata.org/entity/Q11668120,Magai Head Works,Weir,35.252944444,136.688472222
+Japan,Q17,http://www.wikidata.org/entity/Q11582141,Q11582141,Weir,35.420138888,139.371111111
+Japan,Q17,http://www.wikidata.org/entity/Q11566721,Seta River Overflow Weir,Weir,34.939380555,135.910144444
+Japan,Q17,http://www.wikidata.org/entity/Q11459532,Q11459532,Weir,36.543166666,140.343166666
+Japan,Q17,http://www.wikidata.org/entity/Q114637640,Shionosawa Dam,Weir,35.377222222,138.450277777
+Japan,Q17,http://www.wikidata.org/entity/Q22120097,Hijiori Dam,Weir,38.604722222,140.165277777
+Japan,Q17,http://www.wikidata.org/entity/Q134510955,Q134510955,Weir,35.0125,135.857777777
+Japan,Q17,http://www.wikidata.org/entity/Q113771045,Akimotoko Dam,Weir,37.652777777,140.1125
+Japan,Q17,http://www.wikidata.org/entity/Q11559707,Yodogawa Ōzeki,Weir,34.723417,135.513889
+Japan,Q17,http://www.wikidata.org/entity/Q121255062,Hakata River Rising Sector Gate,Weir,33.596375,130.40145
+Japan,Q17,http://www.wikidata.org/entity/Q11579631,Shiraiwa Weir,Weir,36.548611111,137.534444444
+Japan,Q17,http://www.wikidata.org/entity/Q11396892,Tone Diversion Weir,Weir,36.1893776,139.473297
+Japan,Q17,http://www.wikidata.org/entity/Q11626062,Q11626062,Weir,35.703111111,139.923138888
+Japan,Q17,http://www.wikidata.org/entity/Q5507684,Fukuoka Dam,Weir,36.042777777,140.026666666
+Japan,Q17,http://www.wikidata.org/entity/Q11519794,Sueda-Suka Weir,Weir,35.928111,139.737361
+Japan,Q17,http://www.wikidata.org/entity/Q55534479,Mogami Shirakawa Sabo Dam,Weir,38.815938,140.515462
+Japan,Q17,http://www.wikidata.org/entity/Q11610195,Hamura Weir,Weir,35.755555555,139.308055555
+Japan,Q17,http://www.wikidata.org/entity/Q121090174,Hakata River Inflatable Rubber Dam,Weir,33.589138888,130.409805555
+Iran,Q794,http://www.wikidata.org/entity/Q5937956,Mizan Dam,Weir,32.051944444,48.861111111
+Iran,Q794,http://www.wikidata.org/entity/Q5709212,Khoda Afarin Dam (Shushtar),Weir,32.000833333,48.856111111
+Iran,Q794,http://www.wikidata.org/entity/Q95919801,Khondab Weir,Weir,34.349305555,49.229638888
+Iran,Q794,http://www.wikidata.org/entity/Q5948305,Shabankareh Weir,Weir,29.383277777,51.111388888
+Iran,Q794,http://www.wikidata.org/entity/Q806225,Band-e Kaisar,Weir,32.053723,48.848687
+Iran,Q794,http://www.wikidata.org/entity/Q110883240,Derkeh Weir,Weir,34.449833333,47.659916666
+Iran,Q794,http://www.wikidata.org/entity/Q96761827,Ahram Weir,Weir,28.879444444,51.301944444
+Iran,Q794,http://www.wikidata.org/entity/Q5707186,Khak Dam,Weir,32.036388888,48.839861111
+Iran,Q794,http://www.wikidata.org/entity/Q4165166,Terenah,Weir,27.074972222,54.499444444
+Iran,Q794,http://www.wikidata.org/entity/Q5955627,Dezful Old Bridge,Weir,32.381805555,48.390583333
+Iran,Q794,http://www.wikidata.org/entity/Q96747573,Keshigan Weir,Weir,26.622555555,60.175472222
+Iran,Q794,http://www.wikidata.org/entity/Q95984359,Hezar Sangar Dam,Weir,36.409888888,52.351666666
+Iran,Q794,http://www.wikidata.org/entity/Q5703382,Lashkar Bridge,Weir,32.0325,48.841388888
+Taiwan,Q865,http://www.wikidata.org/entity/Q15909837,Q15909837,Weir,24.83138889,121.52888889
+Taiwan,Q865,http://www.wikidata.org/entity/Q15911437,Q15911437,Weir,24.84972222,121.58722222
+Taiwan,Q865,http://www.wikidata.org/entity/Q5299574,Double-Heart of Stacked Stones,Weir,23.220223,119.44698
+Taiwan,Q865,http://www.wikidata.org/entity/Q15906505,Jiji Weir,Weir,23.82027778,120.76416667
+Taiwan,Q865,http://www.wikidata.org/entity/Q20688613,Q20688613,Weir,22.50447222,120.46222222
+Taiwan,Q865,http://www.wikidata.org/entity/Q22097586,Banan Weir,Weir,22.87747222,121.05783333
 United States,Q30,http://www.wikidata.org/entity/Q85746150,Bear Creek Fishweir No. 2,Weir,34.609166666,-88.190833333
 United States,Q30,http://www.wikidata.org/entity/Q114776093,Livezey Dam,Weir,40.0492,-75.21377
 United States,Q30,http://www.wikidata.org/entity/Q130303484,Wallworth Lake Dam,Weir,39.9030782,-75.0215764
@@ -2792,45 +2868,6 @@ United States,Q30,http://www.wikidata.org/entity/Q116035903,Warren Falls,Weir,46
 United States,Q30,http://www.wikidata.org/entity/Q16894708,Martinsville Fish Dam,Weir,36.6529,-79.8715
 United States,Q30,http://www.wikidata.org/entity/Q85746147,Bear Creek Fishweir No. 1,Weir,34.595833333,-88.1825
 United States,Q30,http://www.wikidata.org/entity/Q49612971,Fremont Weir,Weir,38.76462,-121.64357
-Poland,Q36,http://www.wikidata.org/entity/Q122546245,Q122546245,Weir,53.058827,16.646005
-Poland,Q36,http://www.wikidata.org/entity/Q89670494,Sluice in Prudnik,Weir,50.322388888,17.583611111
-Poland,Q36,http://www.wikidata.org/entity/Q125288371,Q125288371,Weir,52.099916,15.402616
-Poland,Q36,http://www.wikidata.org/entity/Q11723526,Rędzin weir in Wrocław,Weir,51.1558,16.9619
-Poland,Q36,http://www.wikidata.org/entity/Q11723527,Q11723527,Weir,51.1331,17.0358
-Poland,Q36,http://www.wikidata.org/entity/Q122155054,Q122155054,Weir,50.35296,18.24418
-Poland,Q36,http://www.wikidata.org/entity/Q11723517,"Czersko Polskie roller dam, Bydgoszcz",Weir,53.1111,18.1203
-Poland,Q36,http://www.wikidata.org/entity/Q11723530,Q11723530,Weir,51.1303,17.0781
-Poland,Q36,http://www.wikidata.org/entity/Q11723534,Q11723534,Weir,51.1175,17.0375
-Poland,Q36,http://www.wikidata.org/entity/Q33508101,Q33508101,Weir,50.968389,21.221694
-Poland,Q36,http://www.wikidata.org/entity/Q16485437,Q16485437,Weir,51.1028,17.1239
-Poland,Q36,http://www.wikidata.org/entity/Q30059086,A flap weir and 2 control pavilions,Weir,51.115505,17.031356
-Poland,Q36,http://www.wikidata.org/entity/Q11723520,Q11723520,Weir,53.1231,17.9989
-Poland,Q36,http://www.wikidata.org/entity/Q122546250,Q122546250,Weir,52.888539,16.257428
-Poland,Q36,http://www.wikidata.org/entity/Q11723536,Św. Macieja weir,Weir,51.1142,17.0381
-Poland,Q36,http://www.wikidata.org/entity/Q122546238,Q122546238,Weir,52.88551,16.423255
-Poland,Q36,http://www.wikidata.org/entity/Q121897679,Q121897679,Weir,51.4985,15.19509
-Poland,Q36,http://www.wikidata.org/entity/Q11723528,Szczytniki weir in Wrocław,Weir,51.105,17.0675
-Poland,Q36,http://www.wikidata.org/entity/Q11723519,Q11723519,Weir,51.1156,17.0314
-Poland,Q36,http://www.wikidata.org/entity/Q11723524,Jaz Psie Pole,Weir,51.127601,17.062625
-Poland,Q36,http://www.wikidata.org/entity/Q9395475,Katedralna Lock in Poznań,Weir,52.41256,16.9504
-Poland,Q36,http://www.wikidata.org/entity/Q122546241,Q122546241,Weir,52.939322,16.560206
-Poland,Q36,http://www.wikidata.org/entity/Q122265052,Q122265052,Weir,53.08272,17.22892
-Poland,Q36,http://www.wikidata.org/entity/Q122546246,Q122546246,Weir,52.890456,16.346973
-Poland,Q36,http://www.wikidata.org/entity/Q11723521,Opatowicki weir,Weir,51.1,17.1211
-Poland,Q36,http://www.wikidata.org/entity/Q122154972,Q122154972,Weir,50.66844,17.92001
-Poland,Q36,http://www.wikidata.org/entity/Q33508418,Q33508418,Weir,50.980139,21.255222
-Poland,Q36,http://www.wikidata.org/entity/Q122177150,Q122177150,Weir,53.02427,16.58754
-Poland,Q36,http://www.wikidata.org/entity/Q33508428,Q33508428,Weir,50.98075,21.249167
-Poland,Q36,http://www.wikidata.org/entity/Q11723518,Q11723518,Weir,51.1136,17.0297
-Poland,Q36,http://www.wikidata.org/entity/Q11723529,Q11723529,Weir,53.1239,17.9947
-Poland,Q36,http://www.wikidata.org/entity/Q32057355,Q32057355,Weir,52.984859828,16.566514518
-Poland,Q36,http://www.wikidata.org/entity/Q121897680,Q121897680,Weir,51.49821,15.19563
-Poland,Q36,http://www.wikidata.org/entity/Q33328485,Q33328485,Weir,53.526878931,16.484748768
-Poland,Q36,http://www.wikidata.org/entity/Q122546243,Q122546243,Weir,52.860997,16.002618
-Poland,Q36,http://www.wikidata.org/entity/Q122262270,Q122262270,Weir,49.57957,21.94317
-Poland,Q36,http://www.wikidata.org/entity/Q116051730,Q116051730,Weir,53.956929223,19.022225242
-Poland,Q36,http://www.wikidata.org/entity/Q122265656,Q122265656,Weir,50.96839,21.22172
-Poland,Q36,http://www.wikidata.org/entity/Q18425752,Q18425752,Weir,51.530231,17.339289
 Spain,Q29,http://www.wikidata.org/entity/Q133876456,Resclosa de Can Trinxet,Weir,42.1092962,2.211526
 Spain,Q29,http://www.wikidata.org/entity/Q133889296,Resclosa de Cal Cucurella,Weir,41.24352,1.66101
 Spain,Q29,http://www.wikidata.org/entity/Q134893748,Resclosa i rec del molí del Llopart,Weir,41.29766,1.6445
@@ -2882,102 +2919,65 @@ Spain,Q29,http://www.wikidata.org/entity/Q31281596,Q31281596,Weir,43.03311944,-7
 Spain,Q29,http://www.wikidata.org/entity/Q133875717,Resclosa de les Illes,Weir,42.0958361,2.2301042
 Spain,Q29,http://www.wikidata.org/entity/Q131739955,Resclosa del Congost,Weir,41.77616,2.24664
 Spain,Q29,http://www.wikidata.org/entity/Q21077392,Resclosa de les Goles de la Masada,Weir,42.101238,2.006103
-Taiwan,Q865,http://www.wikidata.org/entity/Q15909837,Q15909837,Weir,24.83138889,121.52888889
-Taiwan,Q865,http://www.wikidata.org/entity/Q15911437,Q15911437,Weir,24.84972222,121.58722222
-Taiwan,Q865,http://www.wikidata.org/entity/Q5299574,Double-Heart of Stacked Stones,Weir,23.220223,119.44698
-Taiwan,Q865,http://www.wikidata.org/entity/Q15906505,Jiji Weir,Weir,23.82027778,120.76416667
-Taiwan,Q865,http://www.wikidata.org/entity/Q20688613,Q20688613,Weir,22.50447222,120.46222222
-Taiwan,Q865,http://www.wikidata.org/entity/Q22097586,Banan Weir,Weir,22.87747222,121.05783333
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418074,Q17418074,Weir,52.15902,5.18727
-Netherlands,Q55,http://www.wikidata.org/entity/Q17441064,Hillenraad Castle: weir with piles at the southwest corner of the outer moat,Weir,51.21924,6.03594
-Netherlands,Q55,http://www.wikidata.org/entity/Q17592232,Stuw in Lith,Weir,51.81,5.45386
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418176,Q17418176,Weir,52.14879,5.12798
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603926,Q17603926,Weir,51.70165,5.77113
-Netherlands,Q55,http://www.wikidata.org/entity/Q97009789,weir and lock complex Driel,Weir,51.96361111,5.80666667
-Netherlands,Q55,http://www.wikidata.org/entity/Q17597001,weir of weir and lock complex in Roermond,Weir,51.20545,5.97584
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418115,Q17418115,Weir,52.12905,5.17316
-Netherlands,Q55,http://www.wikidata.org/entity/Q17463801,Q17463801,Weir,51.44859,5.45064
-Netherlands,Q55,http://www.wikidata.org/entity/Q17590393,Q17590393,Weir,52.146042,6.23922
-Netherlands,Q55,http://www.wikidata.org/entity/Q125536814,Hezenbergerstuw,Weir,52.45288,6.07851
-Netherlands,Q55,http://www.wikidata.org/entity/Q17440815,weir with bridge Stadspark Sittard,Weir,50.989330555,5.861602777
-Netherlands,Q55,http://www.wikidata.org/entity/Q2242127,Hagestein weir-lock complex,Weir,51.99111,5.13333
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418096,Q17418096,Weir,52.12155,5.158488888
-Netherlands,Q55,http://www.wikidata.org/entity/Q17595721,Q17595721,Weir,51.63013,5.75246
-Netherlands,Q55,http://www.wikidata.org/entity/Q17595761,Q17595761,Weir,51.63013,5.75246
-Netherlands,Q55,http://www.wikidata.org/entity/Q821997,Stormvloedkering Hollandse IJssel,Weir,51.917222,4.579167
-Netherlands,Q55,http://www.wikidata.org/entity/Q28151558,weir and lock complex Grave,Weir,51.769171,5.736548
-Netherlands,Q55,http://www.wikidata.org/entity/Q17464770,Q17464770,Weir,52.14564,5.5942
-Netherlands,Q55,http://www.wikidata.org/entity/Q17602412,weir S7 of Peel-Raam Line,Weir,51.46123,5.87006
-Netherlands,Q55,http://www.wikidata.org/entity/Q2439819,Schuivenhuisje,Weir,52.38717,6.96872
-Netherlands,Q55,http://www.wikidata.org/entity/Q17595875,Q17595875,Weir,52.06093,6.13343
-Netherlands,Q55,http://www.wikidata.org/entity/Q17602406,weir S10 of Peel-Raam Line,Weir,51.5524,5.84172
-Netherlands,Q55,http://www.wikidata.org/entity/Q17602408,weir S9 of Peel-Raam Line,Weir,51.5524,5.84172
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603928,Q17603928,Weir,51.70985,5.76624
-Netherlands,Q55,http://www.wikidata.org/entity/Q18772875,weir and lock complex in Roermond,Weir,51.210909,5.982485
-Netherlands,Q55,http://www.wikidata.org/entity/Q27768225,weir and lock complex in Belfeld,Weir,51.320322,6.111917
-Netherlands,Q55,http://www.wikidata.org/entity/Q17417999,Waterkering Tienhoven,Weir,52.17207,5.0921
-Netherlands,Q55,http://www.wikidata.org/entity/Q17459942,Q17459942,Weir,51.68666,5.77669
-Netherlands,Q55,http://www.wikidata.org/entity/Q17594546,Q17594546,Weir,52.15924,5.38542
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603923,Q17603923,Weir,51.68217,5.77104
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603919,Q17603919,Weir,51.67771,5.75991
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603917,Q17603917,Weir,51.6646,5.74742
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418107,Stuwtje Kooidijk,Weir,52.14021,5.11845
-Netherlands,Q55,http://www.wikidata.org/entity/Q105092463,Walramstuw,Weir,50.863430555,5.835505555
-Netherlands,Q55,http://www.wikidata.org/entity/Q2303005,Bonenburgersluis,Weir,52.381425,6.048344
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418136,"Stuw bij Voordorpsedijk 2, Utrecht",Weir,52.11505,5.14261
-Netherlands,Q55,http://www.wikidata.org/entity/Q17602411,weir S8 of Peel-Raam Line,Weir,51.50768,5.8622
-Netherlands,Q55,http://www.wikidata.org/entity/Q28912425,weir and lock complex Linne,Weir,51.169377,5.922468
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418101,Q17418101,Weir,52.12986,5.14636
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418084,Q17418084,Weir,52.15838,5.17125
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418155,Stuw in Westbroek,Weir,52.15461,5.11712
-Netherlands,Q55,http://www.wikidata.org/entity/Q28873999,weir and lock complex Sambeek,Weir,51.6406,5.984372
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603925,Q17603925,Weir,51.68768,5.77572
-Netherlands,Q55,http://www.wikidata.org/entity/Q17610405,Q17610405,Weir,52.0792245,6.4434708
-Netherlands,Q55,http://www.wikidata.org/entity/Q17595763,Q17595763,Weir,51.63013,5.75246
-Netherlands,Q55,http://www.wikidata.org/entity/Q17595764,Q17595764,Weir,51.63013,5.75246
-Netherlands,Q55,http://www.wikidata.org/entity/Q17602405,weir S11 of Peel-Raam Line,Weir,51.56159,5.83976
-Netherlands,Q55,http://www.wikidata.org/entity/Q17603920,Q17603920,Weir,51.68041,5.76846
-Netherlands,Q55,http://www.wikidata.org/entity/Q17455768,Q17455768,Weir,52.12893,5.10349
-Netherlands,Q55,http://www.wikidata.org/entity/Q17448878,Q17448878,Weir,52.20292,5.01981
-Netherlands,Q55,http://www.wikidata.org/entity/Q804937,Balgstuw Ramspol,Weir,52.61139,5.84028
-Netherlands,Q55,http://www.wikidata.org/entity/Q17457420,weir and lock complex Borgharen,Weir,50.868962,5.697044
-Netherlands,Q55,http://www.wikidata.org/entity/Q17592236,Q17592236,Weir,51.80737,5.4559
-Netherlands,Q55,http://www.wikidata.org/entity/Q17418068,Q17418068,Weir,52.15672,5.17588
-Indonesia,Q252,http://www.wikidata.org/entity/Q116142286,Bendung Tegal,Weir,-7.933185092,110.365633215
-Indonesia,Q252,http://www.wikidata.org/entity/Q25118638,Bendung Kaligending,Weir,-7.581666666,109.675833333
-Indonesia,Q252,http://www.wikidata.org/entity/Q104570963,Waru Turi weir,Weir,-7.7644972,112.0235655
-Indonesia,Q252,http://www.wikidata.org/entity/Q25115836,Dam Pesucen,Weir,-7.684482636,109.696347344
-Indonesia,Q252,http://www.wikidata.org/entity/Q12475712,Katulampa floodgate,Weir,-6.63336,106.83705
-Indonesia,Q252,http://www.wikidata.org/entity/Q109404571,Benteng weir,Weir,-3.688006334,119.676829278
+Austria,Q40,http://www.wikidata.org/entity/Q38128670,Q38128670,Weir,47.428115,14.755907
+Austria,Q40,http://www.wikidata.org/entity/Q106953341,Holzrechen Baden,Weir,48.006609,16.213172
+Austria,Q40,http://www.wikidata.org/entity/Q57974165,"Schöpflklause, Klausen-Leopoldsdorf",Weir,48.08358,15.94453
+Austria,Q40,http://www.wikidata.org/entity/Q105646829,"Triftanlage an der Frutz, Rankweil",Weir,47.27959,9.65448
+Austria,Q40,http://www.wikidata.org/entity/Q105646989,Q105646989,Weir,48.040962,14.411735
+Austria,Q40,http://www.wikidata.org/entity/Q106995602,Wehranlage Oberaich,Weir,47.402348,15.230382
+Austria,Q40,http://www.wikidata.org/entity/Q57975732,"Hainbachklause, Klausen-Leopoldsdorf",Weir,48.10695,16.0314
+Austria,Q40,http://www.wikidata.org/entity/Q38185180,Wehranlage Gallspach,Weir,48.207049,13.812679
+Austria,Q40,http://www.wikidata.org/entity/Q107088096,Heindlmühlwehr,Weir,48.042669444,14.41955
+Austria,Q40,http://www.wikidata.org/entity/Q107088347,Spitalmühlwehr,Weir,48.042483333,14.421491666
+Austria,Q40,http://www.wikidata.org/entity/Q37798755,Riedlbach-Klause,Weir,47.552373,13.865828
+Austria,Q40,http://www.wikidata.org/entity/Q37728085,Q37728085,Weir,47.293946,9.746891
+Austria,Q40,http://www.wikidata.org/entity/Q113111154,Q113111154,Weir,47.971361111,14.265825
+Austria,Q40,http://www.wikidata.org/entity/Q38109109,Q38109109,Weir,46.95443,15.88215
+Austria,Q40,http://www.wikidata.org/entity/Q37972158,Q37972158,Weir,47.648249,12.590581
+Austria,Q40,http://www.wikidata.org/entity/Q21858329,Sitzenbacher Klause,Weir,47.746666666,14.443611111
+Austria,Q40,http://www.wikidata.org/entity/Q2108791,Prescenyklause,Weir,47.6585,15.1529
+Austria,Q40,http://www.wikidata.org/entity/Q116969948,Wehranlage Zlatten,Weir,47.374447,15.307411
+Austria,Q40,http://www.wikidata.org/entity/Q37766264,Q37766264,Weir,47.863378,14.032207
+Austria,Q40,http://www.wikidata.org/entity/Q114842187,Q114842187,Weir,47.331839,15.356178
+Austria,Q40,http://www.wikidata.org/entity/Q64765526,"Wehranlage Schwarza, Hirschwang",Weir,47.713385,15.806022
+Austria,Q40,http://www.wikidata.org/entity/Q1736406,Weir 1,Weir,48.2117,16.437
+Austria,Q40,http://www.wikidata.org/entity/Q1076460,Chorinsky-Klause,Weir,47.651958,13.551139
+Austria,Q40,http://www.wikidata.org/entity/Q57975730,"Lengbachlklause, Klausen-Leopoldsdorf",Weir,48.12726,15.98785
+Austria,Q40,http://www.wikidata.org/entity/Q64692129,Kraftwerk Peggau-Deutschfeistritz,Weir,47.232847,15.320716
+Austria,Q40,http://www.wikidata.org/entity/Q64692127,Wehranlage Adriach,Weir,47.232847,15.320716
+Austria,Q40,http://www.wikidata.org/entity/Q130457698,Q130457698,Weir,47.89122,14.29658
+Austria,Q40,http://www.wikidata.org/entity/Q125118327,Q125118327,Weir,47.392943,11.772251
+Austria,Q40,http://www.wikidata.org/entity/Q57982298,"Hauptklause, Klausen-Leopoldsdorf",Weir,48.08111,16.0375
+Austria,Q40,http://www.wikidata.org/entity/Q57974479,"Riesenbachklause, Klausen-Leopoldsdorf",Weir,48.07695,15.947219444
+Austria,Q40,http://www.wikidata.org/entity/Q38035017,Q38035017,Weir,47.68169,13.0956
+Austria,Q40,http://www.wikidata.org/entity/Q37797977,Q37797977,Weir,47.853527,13.665268
+Austria,Q40,http://www.wikidata.org/entity/Q37972143,Fischbachklause,Weir,47.653258,12.622865
+Austria,Q40,http://www.wikidata.org/entity/Q38128680,Q38128680,Weir,47.425026,14.756859
+Austria,Q40,http://www.wikidata.org/entity/Q38034931,Q38034931,Weir,47.680687,13.093096
+Austria,Q40,http://www.wikidata.org/entity/Q64692182,Q64692182,Weir,47.74294,14.88283
+Austria,Q40,http://www.wikidata.org/entity/Q125342443,Q125342443,Weir,48.217775,16.37266
+Luxembourg,Q32,http://www.wikidata.org/entity/Q16763637,Grund Lock,Weir,49.607652,6.1368573
+Luxembourg,Q32,http://www.wikidata.org/entity/Q13105102,Q13105102,Weir,49.67259,6.43858
+Luxembourg,Q32,http://www.wikidata.org/entity/Q13105104,Écluse d'Apach-Schengen,Weir,49.46697,6.36668
+Luxembourg,Q32,http://www.wikidata.org/entity/Q13105109,Staustuf Stadbriedemes-Palzem,Weir,49.56767,6.36499
 Egypt,Q79,http://www.wikidata.org/entity/Q67180173,Asyut head regulator,Weir,27.195571,31.185615
 Egypt,Q79,http://www.wikidata.org/entity/Q66776578,Dairut regulator,Weir,27.558908,30.811302
 Egypt,Q79,http://www.wikidata.org/entity/Q66774303,Illahun regulator,Weir,29.206626,30.971472
 Egypt,Q79,http://www.wikidata.org/entity/Q23950069,New Esna dam,Weir,25.31762,32.556267
 Egypt,Q79,http://www.wikidata.org/entity/Q16740403,Zifta dam,Weir,30.74374962,31.24058342
 Egypt,Q79,http://www.wikidata.org/entity/Q29514083,al-Magdhub barrage,Weir,27.177211,31.182917
-Luxembourg,Q32,http://www.wikidata.org/entity/Q16763637,Grund Lock,Weir,49.607652,6.1368573
-Luxembourg,Q32,http://www.wikidata.org/entity/Q13105102,Q13105102,Weir,49.67259,6.43858
-Luxembourg,Q32,http://www.wikidata.org/entity/Q13105104,Écluse d'Apach-Schengen,Weir,49.46697,6.36668
-Luxembourg,Q32,http://www.wikidata.org/entity/Q13105109,Staustuf Stadbriedemes-Palzem,Weir,49.56767,6.36499
-Canada,Q16,http://www.wikidata.org/entity/Q22564927,Seuil à Elizabeth,Weir,45.666111111,-74.672222222
-Canada,Q16,http://www.wikidata.org/entity/Q111906842,O'Shaughnessy Falls,Weir,50.99866,-115.07283
 Italy,Q38,http://www.wikidata.org/entity/Q106625323,Serra di San Giorgio,Weir,46.147475029,11.12208336
-France,Q142,http://www.wikidata.org/entity/Q130214588,Q130214588,Weir,46.247318,-1.56154
-France,Q142,http://www.wikidata.org/entity/Q13105104,Écluse d'Apach-Schengen,Weir,49.46697,6.36668
-France,Q142,http://www.wikidata.org/entity/Q133798585,Q133798585,Weir,45.6262662,6.5118972
-France,Q142,http://www.wikidata.org/entity/Q130262497,Q130262497,Weir,45.9294269,6.1203796
-France,Q142,http://www.wikidata.org/entity/Q130532526,Q130532526,Weir,49.154691,3.425916
-Hungary,Q28,http://www.wikidata.org/entity/Q854153,Békésszentandrás Weir,Weir,46.891,20.4995
-Slovakia,Q214,http://www.wikidata.org/entity/Q52556670,Lock and weir Rohatec,Weir,48.8733936,17.2119989
-Slovakia,Q214,http://www.wikidata.org/entity/Q104671597,Q104671597,Weir,48.8424514,17.1425456
 South Africa,Q258,http://www.wikidata.org/entity/Q6405029,Kidson Weir,Weir,-26.549388888,28.064833333
-Portugal,Q45,http://www.wikidata.org/entity/Q9641501,Q9641501,Weir,40.2154844,-8.4401339
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q133262115,Q133262115,Weir,35.037707,118.37424
 Belgium,Q31,http://www.wikidata.org/entity/Q53336450,Weir of Lixhe,Weir,50.751667,5.686389
-Denmark,Q35,http://www.wikidata.org/entity/Q122839792,Lyngby Stemmeværk,Weir,55.77291,12.5011
+Hungary,Q28,http://www.wikidata.org/entity/Q854153,Békésszentandrás Weir,Weir,46.891,20.4995
 Pakistan,Q843,http://www.wikidata.org/entity/Q97383148,Kutton Waterfall,Weir,34.550669444,73.830888888
-Brazil,Q155,http://www.wikidata.org/entity/Q57845437,Açude de Camalaú,Weir,-7.8896146,-36.8725575
 India,Q668,http://www.wikidata.org/entity/Q101424738,Sikatiya Bridge,Weir,24.1427,86.8023
 India,Q668,http://www.wikidata.org/entity/Q48731741,ITO barrage,Weir,28.628337,77.255186
 New Zealand,Q664,http://www.wikidata.org/entity/Q98989416,Stoddart Weirs,Weir,-43.62454,172.74174
+Denmark,Q35,http://www.wikidata.org/entity/Q122839792,Lyngby Stemmeværk,Weir,55.77291,12.5011
+Portugal,Q45,http://www.wikidata.org/entity/Q9641501,Q9641501,Weir,40.2154844,-8.4401339
+Brazil,Q155,http://www.wikidata.org/entity/Q57845437,Açude de Camalaú,Weir,-7.8896146,-36.8725575
+Slovakia,Q214,http://www.wikidata.org/entity/Q52556670,Lock and weir Rohatec,Weir,48.8733936,17.2119989
+Slovakia,Q214,http://www.wikidata.org/entity/Q104671597,Q104671597,Weir,48.8424514,17.1425456
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q133262115,Q133262115,Weir,35.037707,118.37424
 Czechoslovakia,Q33946,http://www.wikidata.org/entity/Q104671597,Q104671597,Weir,48.8424514,17.1425456

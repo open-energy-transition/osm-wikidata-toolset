@@ -7350,23 +7350,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.443236111,
-          46.45205
-        ]
-      },
-      "properties": {
-        "label": "Lago di Lei",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q656674",
-        "country_qid": "Q38",
-        "Wikidata Qid": "Q656674"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.18572,
           45.9094
         ]
@@ -7377,23 +7360,6 @@
         "entity": "http://www.wikidata.org/entity/Q108027438",
         "country_qid": "Q38",
         "Wikidata Qid": "Q108027438"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.193333333,
-          46.622222222
-        ]
-      },
-      "properties": {
-        "label": "Lago di Livigno",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q672495",
-        "country_qid": "Q38",
-        "Wikidata Qid": "Q672495"
       }
     },
     {
@@ -38368,6 +38334,23 @@
         "entity": "http://www.wikidata.org/entity/Q97275102",
         "country_qid": "Q38",
         "Wikidata Qid": "Q97275102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.867953,
+          45.829661
+        ]
+      },
+      "properties": {
+        "label": "Col Major",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q88959596",
+        "country_qid": "Q38",
+        "Wikidata Qid": "Q88959596"
       }
     },
     {

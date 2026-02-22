@@ -1,8 +1,8 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Netherlands,Q55,http://www.wikidata.org/entity/Q111829616,Natural gas in the Netherlands,Natural gas,,
+Canada,Q16,http://www.wikidata.org/entity/Q7487164,Shale gas in Canada,Natural gas,,
+Serbia,Q403,http://www.wikidata.org/entity/Q91240434,Nikolinci,Natural gas,45.008763,21.099534
+Sweden,Q34,http://www.wikidata.org/entity/Q111732067,Natural gas in Sweden,Natural gas,,
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q7487165,Shale gas in China,Natural gas,,
 Romania,Q218,http://www.wikidata.org/entity/Q17032892,Shale gas in Romania,Natural gas,,
 United States,Q30,http://www.wikidata.org/entity/Q7487166,Shale gas in the United States,Natural gas,,
-Canada,Q16,http://www.wikidata.org/entity/Q7487164,Shale gas in Canada,Natural gas,,
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q7487165,Shale gas in China,Natural gas,,
-Sweden,Q34,http://www.wikidata.org/entity/Q111732067,Natural gas in Sweden,Natural gas,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q111829616,Natural gas in the Netherlands,Natural gas,,
-Serbia,Q403,http://www.wikidata.org/entity/Q91240434,Nikolinci,Natural gas,45.008763,21.099534
