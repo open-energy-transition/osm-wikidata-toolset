@@ -35417,6 +35417,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.618,
+          57.6477
+        ]
+      },
+      "properties": {
+        "label": "Skagerrak",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q264054",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q264054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23561,
+          56.20835
+        ]
+      },
+      "properties": {
+        "label": "NORD.LINK",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q1961296",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q1961296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6769,
           57.5672
         ]
@@ -35825,23 +35859,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.45709,
-          66.05951
-        ]
-      },
-      "properties": {
-        "label": "Gresvatnet",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1772671",
-        "country_qid": "Q20",
-        "Wikidata Qid": "Q1772671"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.714867,
           69.642056
         ]
@@ -36141,23 +36158,6 @@
         "entity": "http://www.wikidata.org/entity/Q21797776",
         "country_qid": "Q20",
         "Wikidata Qid": "Q21797776"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.573611111,
-          66.151944444
-        ]
-      },
-      "properties": {
-        "label": "Överuman",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q307594",
-        "country_qid": "Q20",
-        "Wikidata Qid": "Q307594"
       }
     },
     {

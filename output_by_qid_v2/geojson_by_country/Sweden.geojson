@@ -4647,6 +4647,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.4353,
+          55.2972
+        ]
+      },
+      "properties": {
+        "label": "Bornholm Cable",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q893982",
+        "country_qid": "Q34",
+        "Wikidata Qid": "Q893982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.92777778,
           59.41638889
         ]
@@ -4936,6 +4953,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.439444444,
+          66.066388888
+        ]
+      },
+      "properties": {
+        "label": "Gresvatnet",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1772671",
+        "country_qid": "Q34",
+        "Wikidata Qid": "Q1772671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.22455,
           62.91197
         ]
@@ -5031,6 +5065,23 @@
         "entity": "http://www.wikidata.org/entity/Q419614",
         "country_qid": "Q34",
         "Wikidata Qid": "Q419614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.573611111,
+          66.151944444
+        ]
+      },
+      "properties": {
+        "label": "Överuman",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q307594",
+        "country_qid": "Q34",
+        "Wikidata Qid": "Q307594"
       }
     },
     {
@@ -19736,6 +19787,23 @@
         "entity": "http://www.wikidata.org/entity/Q28133240",
         "country_qid": "Q34",
         "Wikidata Qid": "Q28133240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99961111,
+          55.61227778
+        ]
+      },
+      "properties": {
+        "label": "Q12340417",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q12340417",
+        "country_qid": "Q34",
+        "Wikidata Qid": "Q12340417"
       }
     },
     {
