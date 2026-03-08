@@ -1,17 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Poland,Q36,http://www.wikidata.org/entity/Q2583657,Rębielice Królewskie Wind Turbine,Wind turbine,50.99361111,18.86411111
-Poland,Q36,http://www.wikidata.org/entity/Q9252543,Q9252543,Wind turbine,,
-Poland,Q36,http://www.wikidata.org/entity/Q11697689,Q11697689,Wind turbine,,
-Poland,Q36,http://www.wikidata.org/entity/Q9252544,Q9252544,Wind turbine,49.6919,19.5838
-Poland,Q36,http://www.wikidata.org/entity/Q9004322,Nowy Tomyśl Wind Turbines,Wind turbine,52.29472222,16.15305556
-Austria,Q40,http://www.wikidata.org/entity/Q2583823,Windpark Andau/Halbturn,Wind turbine,47.83,17.0223
-Austria,Q40,http://www.wikidata.org/entity/Q1796385,Q1796385,Wind turbine,47.6086,16.2036
-Iran,Q794,http://www.wikidata.org/entity/Q42874315,Machi Windmill,Wind turbine,30.54725,61.275916666
-Iran,Q794,http://www.wikidata.org/entity/Q5900694,Tabas-e Masina Windmill Complex,Wind turbine,32.809472222,60.223222222
-Iran,Q794,http://www.wikidata.org/entity/Q5900467,Khansharaf Windmill Complex,Wind turbine,31.562388888,60.101972222
-Iran,Q794,http://www.wikidata.org/entity/Q111800633,Rostam Windmill,Wind turbine,30.55525,61.243916666
-Iran,Q794,http://www.wikidata.org/entity/Q42829485,Nehbandan Windmill Complex,Wind turbine,31.538472222,60.042583333
-Iran,Q794,http://www.wikidata.org/entity/Q5884244,Nashtifan Windmill Complex,Wind turbine,34.432222222,60.174722222
 Finland,Q33,http://www.wikidata.org/entity/Q124399976,Q124399976,Wind turbine,62.45341,21.65998
 Finland,Q33,http://www.wikidata.org/entity/Q124124030,Q124124030,Wind turbine,62.47449,21.13562
 Finland,Q33,http://www.wikidata.org/entity/Q130223703,Q130223703,Wind turbine,62.25706,21.31744
@@ -137,9 +124,39 @@ Germany,Q183,http://www.wikidata.org/entity/Q130706104,Q130706104,Wind turbine,,
 Germany,Q183,http://www.wikidata.org/entity/Q2583644,Q2583644,Wind turbine,52.636,13.4298
 Germany,Q183,http://www.wikidata.org/entity/Q49448280,wind turbine Leuterwitz,Wind turbine,51.195847054,12.945947568
 Germany,Q183,http://www.wikidata.org/entity/Q98751797,Windrad Schergenhub 50 in Tacherting,Wind turbine,48.107144907,12.47250762
-United States,Q30,http://www.wikidata.org/entity/Q7544927,Smith-Putnam wind turbine,Wind turbine,43.6582,-73.1063
-United States,Q30,http://www.wikidata.org/entity/Q107320708,Wind Turbines,Wind turbine,35.20750387,-101.373268254
-United States,Q30,http://www.wikidata.org/entity/Q107330890,Wind Farms,Wind turbine,30.90472,-102.29368
+Hungary,Q28,http://www.wikidata.org/entity/Q1097217,Q1097217,Wind turbine,47.204,18.1952
+Hungary,Q28,http://www.wikidata.org/entity/Q1176581,Wind turbine in Mezőtúr,Wind turbine,47.01823,20.57576
+Denmark,Q35,http://www.wikidata.org/entity/Q3432978,Gedser wind turbine,Wind turbine,54.5975,11.9228
+Denmark,Q35,http://www.wikidata.org/entity/Q11626695,Tvindkraft Wind Turbine,Wind turbine,56.256,8.28001
+Denmark,Q35,http://www.wikidata.org/entity/Q12300630,Aeromøllen Bogense,Wind turbine,55.5659,10.0831
+Poland,Q36,http://www.wikidata.org/entity/Q2583657,Rębielice Królewskie Wind Turbine,Wind turbine,50.99361111,18.86411111
+Poland,Q36,http://www.wikidata.org/entity/Q9252543,Q9252543,Wind turbine,,
+Poland,Q36,http://www.wikidata.org/entity/Q11697689,Q11697689,Wind turbine,,
+Poland,Q36,http://www.wikidata.org/entity/Q9252544,Q9252544,Wind turbine,49.6919,19.5838
+Poland,Q36,http://www.wikidata.org/entity/Q9004322,Nowy Tomyśl Wind Turbines,Wind turbine,52.29472222,16.15305556
+France,Q142,http://www.wikidata.org/entity/Q131180708,Q131180708,Wind turbine,47.346238778,-0.288988854
+France,Q142,http://www.wikidata.org/entity/Q3278466,Mairie-lavoir et éolienne d'Arthonnay,Wind turbine,47.9331,4.22965
+France,Q142,http://www.wikidata.org/entity/Q3589026,Éolienne de Vaudeurs,Wind turbine,48.1341,3.55017
+France,Q142,http://www.wikidata.org/entity/Q15098099,Éolienne et lavoir de Vignol,Wind turbine,47.3617,3.6759
+France,Q142,http://www.wikidata.org/entity/Q22949557,Éolienne Bollée de Saint-Jean-de-Braye,Wind turbine,47.903028,1.938073
+France,Q142,http://www.wikidata.org/entity/Q22968802,Éolienne de Courville-sur-Eure,Wind turbine,48.448674586,1.253535747
+France,Q142,http://www.wikidata.org/entity/Q16802279,Éolienne de Berchères-les-Pierres,Wind turbine,48.3871,1.55497
+France,Q142,http://www.wikidata.org/entity/Q22994704,Éolienne d'Épuisay,Wind turbine,47.901101,0.929946
+France,Q142,http://www.wikidata.org/entity/Q3589023,Éolienne Bollée de Quarante,Wind turbine,43.3518,2.9935
+France,Q142,http://www.wikidata.org/entity/Q3589027,Éolienne du Clône,Wind turbine,45.5733,-0.5825
+France,Q142,http://www.wikidata.org/entity/Q22942680,Éolienne Bollée de la Gabillère,Wind turbine,47.3956,0.9772
+France,Q142,http://www.wikidata.org/entity/Q116760829,Q116760829,Wind turbine,47.239377,4.967162
+France,Q142,http://www.wikidata.org/entity/Q3589024,Éolienne de La Postolle,Wind turbine,48.2821,3.44553
+France,Q142,http://www.wikidata.org/entity/Q15242260,Éolienne de Pargues,Wind turbine,48.0311,4.19765
+France,Q142,http://www.wikidata.org/entity/Q110986873,Q110986873,Wind turbine,47.9331,4.2297
+France,Q142,http://www.wikidata.org/entity/Q131148288,Q131148288,Wind turbine,46.868816646,0.17718354
+France,Q142,http://www.wikidata.org/entity/Q17354459,Éolienne de Nogent-le-Phaye,Wind turbine,48.44257,1.57372
+Netherlands,Q55,http://www.wikidata.org/entity/Q61018270,De Boerenzwaluw,Wind turbine,53.2657,6.213825
+Netherlands,Q55,http://www.wikidata.org/entity/Q2242411,Windturbine Siemens Zoetermeer,Wind turbine,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q17600677,Windmotor Goutum 2,Wind turbine,53.16796,5.82149
+Netherlands,Q55,http://www.wikidata.org/entity/Q64898797,Het Vliegend Hert,Wind turbine,52.595501,6.22298241
+Netherlands,Q55,http://www.wikidata.org/entity/Q107498903,Haliade-X,Wind turbine,51.96234,4.01192
+Netherlands,Q55,http://www.wikidata.org/entity/Q122948025,Q122948025,Wind turbine,,
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345851,Q29345851,Wind turbine,49.9181,17.0881
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345856,Hostýn,Wind turbine,49.379941,17.701664
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345811,Q29345811,Wind turbine,48.86808,16.16537
@@ -165,44 +182,27 @@ Czech Republic,Q213,http://www.wikidata.org/entity/Q29345800,Q29345800,Wind turb
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345818,Q29345818,Wind turbine,49.72641,15.50724
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345854,Q29345854,Wind turbine,50.36207,17.1141
 Czech Republic,Q213,http://www.wikidata.org/entity/Q29345806,wind turbine in Drahany,Wind turbine,49.44144,16.90437
-France,Q142,http://www.wikidata.org/entity/Q131180708,Q131180708,Wind turbine,47.346238778,-0.288988854
-France,Q142,http://www.wikidata.org/entity/Q3278466,Mairie-lavoir et éolienne d'Arthonnay,Wind turbine,47.9331,4.22965
-France,Q142,http://www.wikidata.org/entity/Q3589026,Éolienne de Vaudeurs,Wind turbine,48.1341,3.55017
-France,Q142,http://www.wikidata.org/entity/Q15098099,Éolienne et lavoir de Vignol,Wind turbine,47.3617,3.6759
-France,Q142,http://www.wikidata.org/entity/Q22949557,Éolienne Bollée de Saint-Jean-de-Braye,Wind turbine,47.903028,1.938073
-France,Q142,http://www.wikidata.org/entity/Q22968802,Éolienne de Courville-sur-Eure,Wind turbine,48.448674586,1.253535747
-France,Q142,http://www.wikidata.org/entity/Q16802279,Éolienne de Berchères-les-Pierres,Wind turbine,48.3871,1.55497
-France,Q142,http://www.wikidata.org/entity/Q22994704,Éolienne d'Épuisay,Wind turbine,47.901101,0.929946
-France,Q142,http://www.wikidata.org/entity/Q3589023,Éolienne Bollée de Quarante,Wind turbine,43.3518,2.9935
-France,Q142,http://www.wikidata.org/entity/Q3589027,Éolienne du Clône,Wind turbine,45.5733,-0.5825
-France,Q142,http://www.wikidata.org/entity/Q22942680,Éolienne Bollée de la Gabillère,Wind turbine,47.3956,0.9772
-France,Q142,http://www.wikidata.org/entity/Q116760829,Q116760829,Wind turbine,47.239377,4.967162
-France,Q142,http://www.wikidata.org/entity/Q3589024,Éolienne de La Postolle,Wind turbine,48.2821,3.44553
-France,Q142,http://www.wikidata.org/entity/Q15242260,Éolienne de Pargues,Wind turbine,48.0311,4.19765
-France,Q142,http://www.wikidata.org/entity/Q110986873,Q110986873,Wind turbine,47.9331,4.2297
-France,Q142,http://www.wikidata.org/entity/Q131148288,Q131148288,Wind turbine,46.868816646,0.17718354
-France,Q142,http://www.wikidata.org/entity/Q17354459,Éolienne de Nogent-le-Phaye,Wind turbine,48.44257,1.57372
-Netherlands,Q55,http://www.wikidata.org/entity/Q61018270,De Boerenzwaluw,Wind turbine,53.2657,6.213825
-Netherlands,Q55,http://www.wikidata.org/entity/Q2242411,Windturbine Siemens Zoetermeer,Wind turbine,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q17600677,Windmotor Goutum 2,Wind turbine,53.16796,5.82149
-Netherlands,Q55,http://www.wikidata.org/entity/Q64898797,Het Vliegend Hert,Wind turbine,52.595501,6.22298241
-Netherlands,Q55,http://www.wikidata.org/entity/Q107498903,Haliade-X,Wind turbine,51.96234,4.01192
-Netherlands,Q55,http://www.wikidata.org/entity/Q122948025,Q122948025,Wind turbine,,
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123531274,Q123531274,Wind turbine,54.100979,12.156659981
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123167030,Q123167030,Wind turbine,54.344885,12.383828
+Japan,Q17,http://www.wikidata.org/entity/Q11525116,Q11525116,Wind turbine,35.60377778,139.80816667
+Japan,Q17,http://www.wikidata.org/entity/Q56026058,Setana wind turbines,Wind turbine,42.44325,139.83908333
 Sweden,Q34,http://www.wikidata.org/entity/Q43380434,Q43380434,Wind turbine,55.39,13.08
 Sweden,Q34,http://www.wikidata.org/entity/Q132036324,Q132036324,Wind turbine,56.941565184,12.616024508
 Sweden,Q34,http://www.wikidata.org/entity/Q60970199,Q60970199,Wind turbine,57.683822222,11.804883333
-Hungary,Q28,http://www.wikidata.org/entity/Q1097217,Q1097217,Wind turbine,47.204,18.1952
-Hungary,Q28,http://www.wikidata.org/entity/Q1176581,Wind turbine in Mezőtúr,Wind turbine,47.01823,20.57576
-Denmark,Q35,http://www.wikidata.org/entity/Q3432978,Gedser wind turbine,Wind turbine,54.5975,11.9228
-Denmark,Q35,http://www.wikidata.org/entity/Q11626695,Tvindkraft Wind Turbine,Wind turbine,56.256,8.28001
-Denmark,Q35,http://www.wikidata.org/entity/Q12300630,Aeromøllen Bogense,Wind turbine,55.5659,10.0831
-Japan,Q17,http://www.wikidata.org/entity/Q11525116,Q11525116,Wind turbine,35.60377778,139.80816667
-Japan,Q17,http://www.wikidata.org/entity/Q56026058,Setana wind turbines,Wind turbine,42.44325,139.83908333
-Luxembourg,Q32,http://www.wikidata.org/entity/Q13105408,Q13105408,Wind turbine,50.078778,6.077806
+Iran,Q794,http://www.wikidata.org/entity/Q42874315,Machi Windmill,Wind turbine,30.54725,61.275916666
+Iran,Q794,http://www.wikidata.org/entity/Q5900694,Tabas-e Masina Windmill Complex,Wind turbine,32.809472222,60.223222222
+Iran,Q794,http://www.wikidata.org/entity/Q5900467,Khansharaf Windmill Complex,Wind turbine,31.562388888,60.101972222
+Iran,Q794,http://www.wikidata.org/entity/Q111800633,Rostam Windmill,Wind turbine,30.55525,61.243916666
+Iran,Q794,http://www.wikidata.org/entity/Q42829485,Nehbandan Windmill Complex,Wind turbine,31.538472222,60.042583333
+Iran,Q794,http://www.wikidata.org/entity/Q5884244,Nashtifan Windmill Complex,Wind turbine,34.432222222,60.174722222
+United States,Q30,http://www.wikidata.org/entity/Q7544927,Smith-Putnam wind turbine,Wind turbine,43.6582,-73.1063
+United States,Q30,http://www.wikidata.org/entity/Q107320708,Wind Turbines,Wind turbine,35.20750387,-101.373268254
+United States,Q30,http://www.wikidata.org/entity/Q107330890,Wind Farms,Wind turbine,30.90472,-102.29368
+Switzerland,Q39,http://www.wikidata.org/entity/Q27902999,Q27902999,Wind turbine,46.893889,9.538611
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123531274,Q123531274,Wind turbine,54.100979,12.156659981
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q123167030,Q123167030,Wind turbine,54.344885,12.383828
 Estonia,Q191,http://www.wikidata.org/entity/Q97231653,Q97231653,Wind turbine,,
 Estonia,Q191,http://www.wikidata.org/entity/Q65255535,Q65255535,Wind turbine,59.088513,22.585929
 United Kingdom,Q145,http://www.wikidata.org/entity/Q25935430,Swaffham Wind Turbine,Wind turbine,52.65679,0.68341
-Switzerland,Q39,http://www.wikidata.org/entity/Q27902999,Q27902999,Wind turbine,46.893889,9.538611
+Luxembourg,Q32,http://www.wikidata.org/entity/Q13105408,Q13105408,Wind turbine,50.078778,6.077806
+Austria,Q40,http://www.wikidata.org/entity/Q2583823,Windpark Andau/Halbturn,Wind turbine,47.83,17.0223
+Austria,Q40,http://www.wikidata.org/entity/Q1796385,Q1796385,Wind turbine,47.6086,16.2036
 Russia,Q159,http://www.wikidata.org/entity/Q15640409,Ufimtsev Wind Turbine,Wind turbine,51.73388889,36.18555556

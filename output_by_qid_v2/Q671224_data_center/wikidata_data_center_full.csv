@@ -1,7 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Czech Republic,Q213,http://www.wikidata.org/entity/Q52110660,Q52110660,Data center,50.060138666,14.530259666
-Czech Republic,Q213,http://www.wikidata.org/entity/Q4739424,Amalka Supercomputing facility,Data center,,
-Ireland,Q27,http://www.wikidata.org/entity/Q17088113,Irish Centre for High-End Computing,Data center,53.3426,-6.239382
 Germany,Q183,http://www.wikidata.org/entity/Q37979269,"Communication, Information, Media Centre of the University of Konstanz",Data center,47.68994,9.18772
 Germany,Q183,http://www.wikidata.org/entity/Q134103589,Zentrales EDV-Gebäude,Data center,48.1381,11.5665
 Germany,Q183,http://www.wikidata.org/entity/Q1780330,Kommunale Informationsverarbeitung Reutlingen-Ulm (KIRU),Data center,,
@@ -23,8 +20,34 @@ Germany,Q183,http://www.wikidata.org/entity/Q130659763,Q130659763,Data center,,
 Germany,Q183,http://www.wikidata.org/entity/Q1205784,German Climate Computing Centre,Data center,53.566857,9.976509
 Germany,Q183,http://www.wikidata.org/entity/Q104649226,Rechenzentrum Potsdam,Data center,52.395901,13.053455
 Germany,Q183,http://www.wikidata.org/entity/Q1205896,Deutsches Rechenzentrum,Data center,49.871441,8.638231
-Italy,Q38,http://www.wikidata.org/entity/Q115707655,Q115707655,Data center,44.520469333,11.359949659
-Italy,Q38,http://www.wikidata.org/entity/Q119982151,"ICSC Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing",Data center,,
+Sweden,Q34,http://www.wikidata.org/entity/Q10647972,Q10647972,Data center,,
+Sweden,Q34,http://www.wikidata.org/entity/Q10515295,HPC2N,Data center,,
+Czech Republic,Q213,http://www.wikidata.org/entity/Q52110660,Q52110660,Data center,50.060138666,14.530259666
+Czech Republic,Q213,http://www.wikidata.org/entity/Q4739424,Amalka Supercomputing facility,Data center,,
+Spain,Q29,http://www.wikidata.org/entity/Q5796983,Q5796983,Data center,,
+Spain,Q29,http://www.wikidata.org/entity/Q5157635,Computing Centre of Madrid Complutense University,Data center,,
+Spain,Q29,http://www.wikidata.org/entity/Q7573309,Spanish Supercomputing Network,Data center,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q97023425,Computer Uitwijk Centrum,Data center,52.505194,5.472417
+Netherlands,Q55,http://www.wikidata.org/entity/Q63127225,Bunker Kloetinge,Data center,51.502163888,3.907180555
+Canada,Q16,http://www.wikidata.org/entity/Q2984436,Colosse de Québec,Data center,,
+Canada,Q16,http://www.wikidata.org/entity/Q65963874,Data center of Université Laval,Data center,46.781336111,-71.281102777
+Canada,Q16,http://www.wikidata.org/entity/Q120808068,"Computation Centre, University of Toronto",Data center,,
+France,Q142,http://www.wikidata.org/entity/Q1054195,Centre de données astronomiques de Strasbourg,Data center,,
+France,Q142,http://www.wikidata.org/entity/Q23787696,ex U-Boot-Bunker Martha,Data center,43.338555555,5.346583333
+France,Q142,http://www.wikidata.org/entity/Q2945262,Research and Technology Computing Center,Data center,,
+France,Q142,http://www.wikidata.org/entity/Q110914894,OPCORE DC5,Data center,49.05378,2.1379
+France,Q142,http://www.wikidata.org/entity/Q110914855,OPCORE DC3,Data center,48.77487,2.37929
+France,Q142,http://www.wikidata.org/entity/Q110910028,OPCORE DC2,Data center,48.79476,2.41181
+France,Q142,http://www.wikidata.org/entity/Q105465719,Neutron Data Compilation Centre,Data center,,
+France,Q142,http://www.wikidata.org/entity/Q110914878,Scaleway DC4,Data center,48.82949,2.29597
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q13518432,National Supercomputing Center in Guangzhou (NSCC-GZ),Data center,23.07305556,113.38861111
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q10902368,Telegraph Building,Data center,39.9079038,116.3800568
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q17023539,National Supercomputing Center in Changsha,Data center,28.176403,112.938211
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q6978768,National Supercomputing Center of Tianjin,Data center,39.042342,117.720672
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q113648846,National Astronomical Data Center,Data center,40.004644434,116.385246268
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q50310137,National Supercomputer Center in Wuxi,Data center,,
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q17023538,National Supercomputing Center in Jinan,Data center,36.673356,117.125847
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q6978767,National Supercomputing Center in Shenzhen,Data center,22.599314,113.984467
 United Kingdom,Q145,http://www.wikidata.org/entity/Q113557752,Cultybraggan nuclear bunker,Data center,56.357843,-3.994579
 United Kingdom,Q145,http://www.wikidata.org/entity/Q6953527,NERC Data Centres,Data center,,
 United Kingdom,Q145,http://www.wikidata.org/entity/Q7315073,Research Computing Services,Data center,,
@@ -32,6 +55,11 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q48632515,Distributed Researc
 United Kingdom,Q145,http://www.wikidata.org/entity/Q24993366,Hartree Centre,Data center,53.3446,-2.6383
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26263559,"East India Dock House, Former Financial Times Print Works",Data center,51.51112753,-0.005613739
 United Kingdom,Q145,http://www.wikidata.org/entity/Q54869682,EPCC,Data center,55.9217,-3.174
+Denmark,Q35,http://www.wikidata.org/entity/Q115674884,Google Data Center Fredericia,Data center,55.5579,9.6536
+Denmark,Q35,http://www.wikidata.org/entity/Q106859609,Facebook Odense Data Center,Data center,55.36668,10.48479
+Denmark,Q35,http://www.wikidata.org/entity/Q19721053,Foulum Data Center,Data center,56.4834,9.5739
+Japan,Q17,http://www.wikidata.org/entity/Q11236058,NTT Telepark Dojima,Data center,34.695447,135.491381
+Japan,Q17,http://www.wikidata.org/entity/Q24863647,Q24863647,Data center,43.17777778,141.3
 United States,Q30,http://www.wikidata.org/entity/Q127304226,Centersquare,Data center,,
 United States,Q30,http://www.wikidata.org/entity/Q51078337,Maui High Performance Computing Center,Data center,20.748752579,-156.440136421
 United States,Q30,http://www.wikidata.org/entity/Q6974619,National Oceanographic Data Center,Data center,,
@@ -46,42 +74,14 @@ United States,Q30,http://www.wikidata.org/entity/Q227873,375 Pearl Street,Data c
 United States,Q30,http://www.wikidata.org/entity/Q6784277,Massachusetts Green High Performance Computing Center,Data center,42.202521,-72.607933
 United States,Q30,http://www.wikidata.org/entity/Q7199401,Pittsburgh Supercomputing Center,Data center,40.445566,-79.949326
 United States,Q30,http://www.wikidata.org/entity/Q5157282,Computational Center for Nanotechnology Innovations,Data center,42.6805,-73.6973
-Iceland,Q189,http://www.wikidata.org/entity/Q16424746,Q16424746,Data center,63.976906,-22.575443
+Italy,Q38,http://www.wikidata.org/entity/Q115707655,Q115707655,Data center,44.520469333,11.359949659
+Italy,Q38,http://www.wikidata.org/entity/Q119982151,"ICSC Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing",Data center,,
 Austria,Q40,http://www.wikidata.org/entity/Q1277574,earthDATAsafe,Data center,47.4492,15.3382
-Netherlands,Q55,http://www.wikidata.org/entity/Q97023425,Computer Uitwijk Centrum,Data center,52.505194,5.472417
-Netherlands,Q55,http://www.wikidata.org/entity/Q63127225,Bunker Kloetinge,Data center,51.502163888,3.907180555
-Spain,Q29,http://www.wikidata.org/entity/Q5796983,Q5796983,Data center,,
-Spain,Q29,http://www.wikidata.org/entity/Q5157635,Computing Centre of Madrid Complutense University,Data center,,
-Spain,Q29,http://www.wikidata.org/entity/Q7573309,Spanish Supercomputing Network,Data center,,
-Denmark,Q35,http://www.wikidata.org/entity/Q115674884,Google Data Center Fredericia,Data center,55.5579,9.6536
-Denmark,Q35,http://www.wikidata.org/entity/Q106859609,Facebook Odense Data Center,Data center,55.36668,10.48479
-Denmark,Q35,http://www.wikidata.org/entity/Q19721053,Foulum Data Center,Data center,56.4834,9.5739
-Switzerland,Q39,http://www.wikidata.org/entity/Q520438,Swiss Fort Knox,Data center,46.4856,7.25417
-Canada,Q16,http://www.wikidata.org/entity/Q2984436,Colosse de Québec,Data center,,
-Canada,Q16,http://www.wikidata.org/entity/Q65963874,Data center of Université Laval,Data center,46.781336111,-71.281102777
-Canada,Q16,http://www.wikidata.org/entity/Q120808068,"Computation Centre, University of Toronto",Data center,,
-France,Q142,http://www.wikidata.org/entity/Q1054195,Centre de données astronomiques de Strasbourg,Data center,,
-France,Q142,http://www.wikidata.org/entity/Q23787696,ex U-Boot-Bunker Martha,Data center,43.338555555,5.346583333
-France,Q142,http://www.wikidata.org/entity/Q2945262,Research and Technology Computing Center,Data center,,
-France,Q142,http://www.wikidata.org/entity/Q110914894,OPCORE DC5,Data center,49.05378,2.1379
-France,Q142,http://www.wikidata.org/entity/Q110914855,OPCORE DC3,Data center,48.77487,2.37929
-France,Q142,http://www.wikidata.org/entity/Q110910028,OPCORE DC2,Data center,48.79476,2.41181
-France,Q142,http://www.wikidata.org/entity/Q105465719,Neutron Data Compilation Centre,Data center,,
-France,Q142,http://www.wikidata.org/entity/Q110914878,Scaleway DC4,Data center,48.82949,2.29597
-Japan,Q17,http://www.wikidata.org/entity/Q11236058,NTT Telepark Dojima,Data center,34.695447,135.491381
-Japan,Q17,http://www.wikidata.org/entity/Q24863647,Q24863647,Data center,43.17777778,141.3
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q13518432,National Supercomputing Center in Guangzhou (NSCC-GZ),Data center,23.07305556,113.38861111
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q10902368,Telegraph Building,Data center,39.9079038,116.3800568
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q17023539,National Supercomputing Center in Changsha,Data center,28.176403,112.938211
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q6978768,National Supercomputing Center of Tianjin,Data center,39.042342,117.720672
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q113648846,National Astronomical Data Center,Data center,40.004644434,116.385246268
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q50310137,National Supercomputer Center in Wuxi,Data center,,
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q17023538,National Supercomputing Center in Jinan,Data center,36.673356,117.125847
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q6978767,National Supercomputing Center in Shenzhen,Data center,22.599314,113.984467
-Sweden,Q34,http://www.wikidata.org/entity/Q10647972,Q10647972,Data center,,
-Sweden,Q34,http://www.wikidata.org/entity/Q10515295,HPC2N,Data center,,
-German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q104649226,Rechenzentrum Potsdam,Data center,52.395901,13.053455
+Iceland,Q189,http://www.wikidata.org/entity/Q16424746,Q16424746,Data center,63.976906,-22.575443
 New Zealand,Q664,http://www.wikidata.org/entity/Q111679093,Mayoral Drive Exchange,Data center,-36.85414,174.7639
-Suriname,Q730,http://www.wikidata.org/entity/Q127164861,Datasur,Data center,5.749277777,-55.27225
+Switzerland,Q39,http://www.wikidata.org/entity/Q520438,Swiss Fort Knox,Data center,46.4856,7.25417
+German Democratic Republic,Q16957,http://www.wikidata.org/entity/Q104649226,Rechenzentrum Potsdam,Data center,52.395901,13.053455
 Kenya,Q114,http://www.wikidata.org/entity/Q115454559,Uvumbuzi Center,Data center,,
+Ireland,Q27,http://www.wikidata.org/entity/Q17088113,Irish Centre for High-End Computing,Data center,53.3426,-6.239382
+Suriname,Q730,http://www.wikidata.org/entity/Q127164861,Datasur,Data center,5.749277777,-55.27225
 Norway,Q20,http://www.wikidata.org/entity/Q132721642,Nscale Glomfjord DC,Data center,,

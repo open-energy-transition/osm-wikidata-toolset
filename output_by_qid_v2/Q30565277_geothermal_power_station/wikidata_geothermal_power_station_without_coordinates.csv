@@ -1,6 +1,6 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Philippines,Q928,http://www.wikidata.org/entity/Q113457448,Palinpinon Power Plant,Geothermal power station,,
 Japan,Q17,http://www.wikidata.org/entity/Q17218769,Q17218769,Geothermal power station,,
+Philippines,Q928,http://www.wikidata.org/entity/Q113457448,Palinpinon Power Plant,Geothermal power station,,
 Taiwan,Q865,http://www.wikidata.org/entity/Q48928437,Q48928437,Geothermal power station,,
 Taiwan,Q865,http://www.wikidata.org/entity/Q116170290,Q116170290,Geothermal power station,,
 Taiwan,Q865,http://www.wikidata.org/entity/Q116188943,Q116188943,Geothermal power station,,
@@ -12,7 +12,7 @@ Taiwan,Q865,http://www.wikidata.org/entity/Q119216396,Q119216396,Geothermal powe
 Indonesia,Q252,http://www.wikidata.org/entity/Q25476639,Q25476639,Geothermal power station,,
 Indonesia,Q252,http://www.wikidata.org/entity/Q25476663,Q25476663,Geothermal power station,,
 Armenia,Q399,http://www.wikidata.org/entity/Q16966355,Jermaghbyur Geothermal Power Plant,Geothermal power station,,
-France,Q142,http://www.wikidata.org/entity/Q110736218,Q110736218,Geothermal power station,,
-Netherlands,Q55,http://www.wikidata.org/entity/Q2431879,Minewater Project,Geothermal power station,,
-Nicaragua,Q811,http://www.wikidata.org/entity/Q111938346,San Jacinto Tizate Geothermal Power Plant,Geothermal power station,,
 People's Republic of China,Q148,http://www.wikidata.org/entity/Q17065664,Yangbajain Geothermal Power Station,Geothermal power station,,
+France,Q142,http://www.wikidata.org/entity/Q110736218,Q110736218,Geothermal power station,,
+Nicaragua,Q811,http://www.wikidata.org/entity/Q111938346,San Jacinto Tizate Geothermal Power Plant,Geothermal power station,,
+Netherlands,Q55,http://www.wikidata.org/entity/Q2431879,Minewater Project,Geothermal power station,,

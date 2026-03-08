@@ -1,8 +1,8 @@
 country_name,country_qid,entity,label,type,latitude,longitude
 Germany,Q183,http://www.wikidata.org/entity/Q125388689,Q125388689,Electric vehicle charging station,53.507472222,11.096861111
 Germany,Q183,http://www.wikidata.org/entity/Q125389176,Q125389176,Electric vehicle charging station,49.962277777,11.610277777
+France,Q142,http://www.wikidata.org/entity/Q115102135,Q115102135,Electric vehicle charging station,50.393692,3.023093
+United Kingdom,Q145,http://www.wikidata.org/entity/Q28005104,Lambeth Pier,Electric vehicle charging station,51.49504,-0.12169
 Austria,Q40,http://www.wikidata.org/entity/Q120961065,Q120961065,Electric vehicle charging station,48.522441425,14.293779084
 Austria,Q40,http://www.wikidata.org/entity/Q83009020,"EV charging station at Kasernenstraße 13a, Eisenstadt",Electric vehicle charging station,47.853343,16.538388
-United Kingdom,Q145,http://www.wikidata.org/entity/Q28005104,Lambeth Pier,Electric vehicle charging station,51.49504,-0.12169
-France,Q142,http://www.wikidata.org/entity/Q115102135,Q115102135,Electric vehicle charging station,50.393692,3.023093
 Czech Republic,Q213,http://www.wikidata.org/entity/Q130504062,Electric vehicle charging station in Pňov-Předhradí,Electric vehicle charging station,50.0895919,15.1470994

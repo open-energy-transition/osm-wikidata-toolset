@@ -924,23 +924,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.172777777,
-          46.390555555
-        ]
-      },
-      "properties": {
-        "label": "Lake Ormož",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q26224786",
-        "country_qid": "Q224",
-        "Wikidata Qid": "Q26224786"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           17.95416667,
           45.20388889
         ]
@@ -1121,23 +1104,6 @@
         "entity": "http://www.wikidata.org/entity/Q112110227",
         "country_qid": "Q224",
         "Wikidata Qid": "Q112110227"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.3944,
-          45.3369
-        ]
-      },
-      "properties": {
-        "label": "3. Maj",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2297404",
-        "country_qid": "Q224",
-        "Wikidata Qid": "Q2297404"
       }
     },
     {
