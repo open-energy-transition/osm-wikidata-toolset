@@ -227,23 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.093626666,
-          50.162273888
-        ]
-      },
-      "properties": {
-        "label": "Q106497517",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q106497517",
-        "country_qid": "Q28513",
-        "Wikidata Qid": "Q106497517"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.135148333,
           50.154373055
         ]
