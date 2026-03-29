@@ -10818,23 +10818,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.716667,
-          51.44
-        ]
-      },
-      "properties": {
-        "label": "BritNed",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q918000",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q918000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.5563,
           51.0658
         ]
@@ -10845,23 +10828,6 @@
         "entity": "http://www.wikidata.org/entity/Q1563624",
         "country_qid": "Q145",
         "Wikidata Qid": "Q1563624"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2304,
-          54.6293
-        ]
-      },
-      "properties": {
-        "label": "Viking Link",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q21208645",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q21208645"
       }
     },
     {
@@ -188971,23 +188937,6 @@
         "entity": "http://www.wikidata.org/entity/Q5694430",
         "country_qid": "Q145",
         "Wikidata Qid": "Q5694430"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.496194444,
-          -54.283763888
-        ]
-      },
-      "properties": {
-        "label": "Argentine Meteorological station in Grytviken",
-        "type": "Weather station",
-        "entity": "http://www.wikidata.org/entity/Q17416503",
-        "country_qid": "Q145",
-        "Wikidata Qid": "Q17416503"
       }
     },
     {

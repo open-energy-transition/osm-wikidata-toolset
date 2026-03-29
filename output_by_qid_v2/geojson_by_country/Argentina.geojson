@@ -3927,6 +3927,23 @@
         "country_qid": "Q414",
         "Wikidata Qid": "Q25413243"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.496194444,
+          -54.283763888
+        ]
+      },
+      "properties": {
+        "label": "Argentine Meteorological station in Grytviken",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q17416503",
+        "country_qid": "Q414",
+        "Wikidata Qid": "Q17416503"
+      }
     }
   ]
 }

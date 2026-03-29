@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          44.623457,
+          40.28181
+        ]
+      },
+      "properties": {
+        "label": "Sirius",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132349043",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q132349043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           69.249178,
           41.355113
         ]
@@ -169,6 +186,23 @@
         "entity": "http://www.wikidata.org/entity/Q25394205",
         "country_qid": "Q15180",
         "Wikidata Qid": "Q25394205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.501653,
+          40.156131
+        ]
+      },
+      "properties": {
+        "label": "Transistor Yerevan",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131564901",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q131564901"
       }
     },
     {
@@ -424,6 +458,40 @@
         "entity": "http://www.wikidata.org/entity/Q98835174",
         "country_qid": "Q15180",
         "Wikidata Qid": "Q98835174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.379986,
+          53.908718
+        ]
+      },
+      "properties": {
+        "label": "Technopribor",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132578171",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q132578171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.478555,
+          52.562053
+        ]
+      },
+      "properties": {
+        "label": "Pružany Radio Component Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132158036",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q132158036"
       }
     },
     {

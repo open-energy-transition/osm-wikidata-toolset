@@ -51550,6 +51550,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1,
+          41.7
+        ]
+      },
+      "properties": {
+        "label": "Arketurki",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20102798",
+        "country_qid": "Q29",
+        "Wikidata Qid": "Q20102798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.407222,
           42.463611
         ]
