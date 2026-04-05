@@ -1,11 +1,11 @@
 country_name,country_qid,entity,label,type,latitude,longitude
 Italy,Q38,http://www.wikidata.org/entity/Q1933027,Trans-Mediterranean Pipeline,Natural gas pipeline,44.607999,11.500422
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7568769,South Wales Gas Pipeline,Natural gas pipeline,51.717222222,-5.072222222
+Russia,Q159,http://www.wikidata.org/entity/Q2043650,Dzuarikau–Tskhinvali pipeline,Natural gas pipeline,43.01486111,44.40176667
 Germany,Q183,http://www.wikidata.org/entity/Q324732,NEL pipeline,Natural gas pipeline,52.6188,8.4963
+Algeria,Q262,http://www.wikidata.org/entity/Q1933027,Trans-Mediterranean Pipeline,Natural gas pipeline,44.607999,11.500422
 Australia,Q408,http://www.wikidata.org/entity/Q1158896,Dampier to Bunbury Natural Gas Pipeline,Natural gas pipeline,-20.62,116.77
 Australia,Q408,http://www.wikidata.org/entity/Q7389541,SEAGas pipeline,Natural gas pipeline,-34.763055555,138.505
 Australia,Q408,http://www.wikidata.org/entity/Q5580140,Goldfields Gas Pipeline,Natural gas pipeline,-22.624826467,116.194920135
 Australia,Q408,http://www.wikidata.org/entity/Q28220345,Moomba to Sydney Pipeline,Natural gas pipeline,-28.11,140.21
-Russia,Q159,http://www.wikidata.org/entity/Q2043650,Dzuarikau–Tskhinvali pipeline,Natural gas pipeline,43.01486111,44.40176667
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7568769,South Wales Gas Pipeline,Natural gas pipeline,51.717222222,-5.072222222
-Algeria,Q262,http://www.wikidata.org/entity/Q1933027,Trans-Mediterranean Pipeline,Natural gas pipeline,44.607999,11.500422
 Tunisia,Q948,http://www.wikidata.org/entity/Q1933027,Trans-Mediterranean Pipeline,Natural gas pipeline,44.607999,11.500422
