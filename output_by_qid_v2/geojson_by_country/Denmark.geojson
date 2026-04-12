@@ -1791,23 +1791,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.618,
-          57.6477
-        ]
-      },
-      "properties": {
-        "label": "Skagerrak",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q264054",
-        "country_qid": "Q35",
-        "Wikidata Qid": "Q264054"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.2304,
           54.6293
         ]

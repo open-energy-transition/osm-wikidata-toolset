@@ -1,10 +1,14 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,high-voltage direct current power line,57.6477,8.618
-Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,high-voltage direct current power line,54.6293,4.2304
-Germany,Q183,http://www.wikidata.org/entity/Q19599433,DolWin3,high-voltage direct current power line,53.9957,6.42062
-Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,high-voltage direct current power line,56.20835,7.23561
-Germany,Q183,http://www.wikidata.org/entity/Q19599432,DolWin2,high-voltage direct current power line,53.97851,6.92315
-Germany,Q183,http://www.wikidata.org/entity/Q5636198,DolWin1,high-voltage direct current power line,53.9968,6.4206
+United States,Q30,http://www.wikidata.org/entity/Q2045524,Pacific DC Intertie,high-voltage direct current power line,45.594166666,-121.114166666
+United States,Q30,http://www.wikidata.org/entity/Q5636205,HVDC Mechanicville–Schenectady,high-voltage direct current power line,42.8781,-73.6797
+France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,high-voltage direct current power line,51.0658,1.5563
+France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,high-voltage direct current power line,50.088,-0.515
+France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,high-voltage direct current power line,51.0147,1.4967
+Canada,Q16,http://www.wikidata.org/entity/Q1758867,Levis De-Icer,high-voltage direct current power line,46.7047,-71.1942
+Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,high-voltage direct current power line,51.44,0.716667
+Russia,Q159,http://www.wikidata.org/entity/Q6915560,Moscow–Kashira HVDC transmission system,high-voltage direct current power line,55.65888889,37.63777778
+Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,high-voltage direct current power line,60.6803,28.9186
+India,Q668,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,high-voltage direct current power line,9.11666667,79.48333333
 United Kingdom,Q145,http://www.wikidata.org/entity/Q918000,BritNed,high-voltage direct current power line,51.44,0.716667
 United Kingdom,Q145,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,high-voltage direct current power line,51.0658,1.5563
 United Kingdom,Q145,http://www.wikidata.org/entity/Q21208645,Viking Link,high-voltage direct current power line,54.6293,4.2304
@@ -16,19 +20,15 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q5331045,East–West Intercon
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85932728,ElecLink,high-voltage direct current power line,51.0147,1.4967
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85764561,Greenlink,high-voltage direct current power line,51.6828,-6.1441
 United Kingdom,Q145,http://www.wikidata.org/entity/Q84699868,Caithness - Moray Link,high-voltage direct current power line,58.1377,-2.5632
+Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,high-voltage direct current power line,57.6477,8.618
+Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,high-voltage direct current power line,54.6293,4.2304
+Germany,Q183,http://www.wikidata.org/entity/Q19599433,DolWin3,high-voltage direct current power line,53.9957,6.42062
+Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,high-voltage direct current power line,56.20835,7.23561
+Germany,Q183,http://www.wikidata.org/entity/Q19599432,DolWin2,high-voltage direct current power line,53.97851,6.92315
+Germany,Q183,http://www.wikidata.org/entity/Q5636198,DolWin1,high-voltage direct current power line,53.9968,6.4206
 Norway,Q20,http://www.wikidata.org/entity/Q264054,Skagerrak,high-voltage direct current power line,57.6477,8.618
 Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,high-voltage direct current power line,56.20835,7.23561
 Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,high-voltage direct current power line,57.5672,2.6769
-France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,high-voltage direct current power line,51.0658,1.5563
-France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,high-voltage direct current power line,50.088,-0.515
-France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,high-voltage direct current power line,51.0147,1.4967
-Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,high-voltage direct current power line,51.44,0.716667
-Russia,Q159,http://www.wikidata.org/entity/Q6915560,Moscow–Kashira HVDC transmission system,high-voltage direct current power line,55.65888889,37.63777778
-Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,high-voltage direct current power line,60.6803,28.9186
 Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,high-voltage direct current power line,53.5305,-4.8257
 Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,high-voltage direct current power line,51.6828,-6.1441
-India,Q668,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,high-voltage direct current power line,9.11666667,79.48333333
-Canada,Q16,http://www.wikidata.org/entity/Q1758867,Levis De-Icer,high-voltage direct current power line,46.7047,-71.1942
-United States,Q30,http://www.wikidata.org/entity/Q2045524,Pacific DC Intertie,high-voltage direct current power line,45.594166666,-121.114166666
-United States,Q30,http://www.wikidata.org/entity/Q5636205,HVDC Mechanicville–Schenectady,high-voltage direct current power line,42.8781,-73.6797
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,high-voltage direct current power line,9.11666667,79.48333333
