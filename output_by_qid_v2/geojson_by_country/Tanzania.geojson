@@ -312,6 +312,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.096388888,
+          -9.453055555
+        ]
+      },
+      "properties": {
+        "label": "Songwe Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q55633503",
+        "country_qid": "Q924",
+        "Wikidata Qid": "Q55633503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.691388888,
           -8.622194444
         ]

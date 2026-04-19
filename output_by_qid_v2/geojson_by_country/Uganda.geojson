@@ -1179,6 +1179,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.207778,
+          0.694444
+        ]
+      },
+      "properties": {
+        "label": "Bujagali–Tororo–Lessos High Voltage Power Line",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q48792663",
+        "country_qid": "Q1036",
+        "Wikidata Qid": "Q48792663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.458055555,
           -1.049722222
         ]

@@ -6,16 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.23088889,
-          53.42592611
+          16.247992,
+          48.006504
         ]
       },
       "properties": {
-        "label": "Q13583396",
+        "label": "Leesdorfer Paper Mill",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q13583396",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q13583396"
+        "entity": "http://www.wikidata.org/entity/Q97666096",
+        "country_qid": "Q699964",
+        "Wikidata Qid": "Q97666096"
       }
     },
     {
@@ -23,16 +23,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9280671,
-          52.2852593
+          16.244551135,
+          48.007285732
         ]
       },
       "properties": {
-        "label": "Heeresmunitionsanstalt Sehnde",
+        "label": "Huppmannmühle",
         "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q125317026",
-        "country_qid": "Q7318",
-        "Wikidata Qid": "Q125317026"
+        "entity": "http://www.wikidata.org/entity/Q116318376",
+        "country_qid": "Q699964",
+        "Wikidata Qid": "Q116318376"
       }
     }
   ]
