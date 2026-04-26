@@ -1893,23 +1893,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.477523696,
-          46.90503852
-        ]
-      },
-      "properties": {
-        "label": "Gemeinschaftskraftwerk Inn",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q95587696",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q95587696"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.5565,
           47.296
         ]
