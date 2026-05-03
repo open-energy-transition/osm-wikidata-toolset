@@ -8523,6 +8523,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.5563,
+          51.0658
+        ]
+      },
+      "properties": {
+        "label": "HVDC Cross-Channel",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q1563624",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q1563624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515,
+          50.088
+        ]
+      },
+      "properties": {
+        "label": "IFA-2",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q28231939",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q28231939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4967,
+          51.0147
+        ]
+      },
+      "properties": {
+        "label": "ElecLink",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q85932728",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q85932728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.49347,
           43.58653
         ]
@@ -91102,6 +91153,23 @@
         "entity": "http://www.wikidata.org/entity/Q22980884",
         "country_qid": "Q142",
         "Wikidata Qid": "Q22980884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.867953,
+          45.829661
+        ]
+      },
+      "properties": {
+        "label": "Col Major",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q88959596",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q88959596"
       }
     },
     {

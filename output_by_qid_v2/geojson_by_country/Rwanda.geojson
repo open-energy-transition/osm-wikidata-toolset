@@ -193,23 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.78333333,
-          -2.3825
-        ]
-      },
-      "properties": {
-        "label": "Rusumo Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q7382684",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q7382684"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.4,
           -1.85
         ]
