@@ -1,6 +1,6 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-France,Q142,http://www.wikidata.org/entity/Q29222871,Q29222871,Electrical generator,,
-Slovakia,Q214,http://www.wikidata.org/entity/Q112101066,Q112101066,Electrical generator,,
-Slovakia,Q214,http://www.wikidata.org/entity/Q112101177,Q112101177,Electrical generator,,
 Netherlands,Q55,http://www.wikidata.org/entity/Q2324510,Large electrostatic generator,Electrical generator,,
 Netherlands,Q55,http://www.wikidata.org/entity/Q66304233,Q66304233,Electrical generator,,
+Slovakia,Q214,http://www.wikidata.org/entity/Q112101066,Q112101066,Electrical generator,,
+Slovakia,Q214,http://www.wikidata.org/entity/Q112101177,Q112101177,Electrical generator,,
+France,Q142,http://www.wikidata.org/entity/Q29222871,Q29222871,Electrical generator,,

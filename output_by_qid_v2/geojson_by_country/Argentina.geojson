@@ -856,23 +856,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.938591666,
-          -31.274866666
-        ]
-      },
-      "properties": {
-        "label": "Salto Grande Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q2116393",
-        "country_qid": "Q414",
-        "Wikidata Qid": "Q2116393"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -68.037571,
           -38.836567
         ]

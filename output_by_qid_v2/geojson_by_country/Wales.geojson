@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.452454,
+          53.3907
+        ]
+      },
+      "properties": {
+        "label": "North Hoyle Offshore Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q833917",
+        "country_qid": "Q25",
+        "Wikidata Qid": "Q833917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.716666666,
           53.306388888
         ]
