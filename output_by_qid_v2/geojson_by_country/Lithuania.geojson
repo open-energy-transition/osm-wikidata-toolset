@@ -21953,6 +21953,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.30414,
+          54.716937
+        ]
+      },
+      "properties": {
+        "label": "Vilma",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20504518",
+        "country_qid": "Q37",
+        "Wikidata Qid": "Q20504518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.9928,
           55.637402
         ]

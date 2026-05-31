@@ -40,23 +40,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.602777777,
-          44.554166666
-        ]
-      },
-      "properties": {
-        "label": "Balaklavskaya TPS",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q21644346",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q21644346"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           38.004705,
           47.799118
         ]
@@ -67,23 +50,6 @@
         "entity": "http://www.wikidata.org/entity/Q3443445",
         "country_qid": "Q212",
         "Wikidata Qid": "Q3443445"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.10306,
-          45.32833
-        ]
-      },
-      "properties": {
-        "label": "Saky wind farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16693904",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q16693904"
       }
     },
     {
@@ -278,23 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.551886,
-          45.134392
-        ]
-      },
-      "properties": {
-        "label": "Q48922533",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q48922533",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q48922533"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.770833333,
           46.644722222
         ]
@@ -322,23 +271,6 @@
         "entity": "http://www.wikidata.org/entity/Q3365756",
         "country_qid": "Q212",
         "Wikidata Qid": "Q3365756"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.22222,
-          44.94194
-        ]
-      },
-      "properties": {
-        "label": "Tavricheskaya TPS",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q48922473",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q48922473"
       }
     },
     {
@@ -788,23 +720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.931188,
-          45.038111
-        ]
-      },
-      "properties": {
-        "label": "Q4395941",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4395941",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4395941"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           29.235724,
           48.703941
         ]
@@ -958,23 +873,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.14694444,
-          45.39638889
-        ]
-      },
-      "properties": {
-        "label": "Q12102061",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q12102061",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q12102061"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.36368056,
           49.24160556
         ]
@@ -1019,23 +917,6 @@
         "entity": "http://www.wikidata.org/entity/Q4535850",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4535850"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.754849,
-          44.969412
-        ]
-      },
-      "properties": {
-        "label": "Q16680871",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16680871",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q16680871"
       }
     },
     {
@@ -1104,40 +985,6 @@
         "entity": "http://www.wikidata.org/entity/Q4163276",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4163276"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.5978,
-          45.2869
-        ]
-      },
-      "properties": {
-        "label": "Okhotnykovo Solar Park",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4340484",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4340484"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.08491667,
-          44.80966667
-        ]
-      },
-      "properties": {
-        "label": "Sudak wind farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q16702868",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q16702868"
       }
     },
     {
@@ -1553,23 +1400,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.675606,
-          45.236807
-        ]
-      },
-      "properties": {
-        "label": "Q4297014",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4297014",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4297014"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           38.28972222,
           48.48055556
         ]
@@ -1682,23 +1512,6 @@
         "entity": "http://www.wikidata.org/entity/Q3443751",
         "country_qid": "Q212",
         "Wikidata Qid": "Q3443751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.77,
-          45.421111111
-        ]
-      },
-      "properties": {
-        "label": "Tarkhankut Wind Farm",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q4452226",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4452226"
       }
     },
     {
@@ -5786,6 +5599,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.5206,
+          44.6116
+        ]
+      },
+      "properties": {
+        "label": "Chernomorets design studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86685442",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q86685442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.510555555,
           47.986388888
         ]
@@ -6544,6 +6374,23 @@
         "entity": "http://www.wikidata.org/entity/Q4220239",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4220239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.266,
+          44.974
+        ]
+      },
+      "properties": {
+        "label": "Koktebel winery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4183131",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4183131"
       }
     },
     {

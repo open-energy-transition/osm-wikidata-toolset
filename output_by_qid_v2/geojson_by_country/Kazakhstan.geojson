@@ -108,6 +108,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          81.07083333,
+          50.4
+        ]
+      },
+      "properties": {
+        "label": "Shulbinsk Hydroelectric Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4527522",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q4527522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           82.61,
           49.98333
         ]
@@ -295,6 +312,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.023055555,
+          50.0475
+        ]
+      },
+      "properties": {
+        "label": "CHP-SBS power station (Temirtau)",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q22910831",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q22910831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.08,
           49.841666666
         ]
@@ -424,6 +458,23 @@
         "entity": "http://www.wikidata.org/entity/Q97317043",
         "country_qid": "Q232",
         "Wikidata Qid": "Q97317043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.051944444,
+          50.046666666
+        ]
+      },
+      "properties": {
+        "label": "Qarağandı 2 CHP station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16432066",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q16432066"
       }
     },
     {
@@ -628,6 +679,23 @@
         "entity": "http://www.wikidata.org/entity/Q12574803",
         "country_qid": "Q232",
         "Wikidata Qid": "Q12574803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7183,
+          49.8997
+        ]
+      },
+      "properties": {
+        "label": "Ust-Kamenogorsk Hydroelectric Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q3433599",
+        "country_qid": "Q232",
+        "Wikidata Qid": "Q3433599"
       }
     },
     {

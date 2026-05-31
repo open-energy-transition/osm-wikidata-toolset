@@ -125,23 +125,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          61.4052,
-          41.2134
-        ]
-      },
-      "properties": {
-        "label": "Tuyamuyun Hydro Complex",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q19876795",
-        "country_qid": "Q874",
-        "Wikidata Qid": "Q19876795"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           65.283333333,
           37.466666666
         ]

@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.87513,
-          -2.50909
-        ]
-      },
-      "properties": {
-        "label": "Ruzizi I Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q130051635",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q130051635"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.37722222,
           -2.02611111
         ]
@@ -33,23 +16,6 @@
         "entity": "http://www.wikidata.org/entity/Q25043508",
         "country_qid": "Q1037",
         "Wikidata Qid": "Q25043508"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.8751638,
-          -2.5090809
-        ]
-      },
-      "properties": {
-        "label": "Q30744030",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q30744030",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q30744030"
       }
     },
     {
@@ -84,40 +50,6 @@
         "entity": "http://www.wikidata.org/entity/Q49627702",
         "country_qid": "Q1037",
         "Wikidata Qid": "Q49627702"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.96555556,
-          -2.70138889
-        ]
-      },
-      "properties": {
-        "label": "Ruzizi III Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q38250595",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q38250595"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.97,
-          -2.701111111
-        ]
-      },
-      "properties": {
-        "label": "Ruzizi IV Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q85798237",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q85798237"
       }
     },
     {
@@ -210,23 +142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.930833333,
-          -2.623611111
-        ]
-      },
-      "properties": {
-        "label": "Akanyaru Multipurpose Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q105972846",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q105972846"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           29.33833333,
           -2.05583333
         ]
@@ -271,23 +186,6 @@
         "entity": "http://www.wikidata.org/entity/Q49627704",
         "country_qid": "Q1037",
         "Wikidata Qid": "Q49627704"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.78333333,
-          -2.3825
-        ]
-      },
-      "properties": {
-        "label": "Rusumo Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q7382684",
-        "country_qid": "Q1037",
-        "Wikidata Qid": "Q7382684"
       }
     },
     {

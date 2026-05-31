@@ -3474,6 +3474,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.452454,
+          53.3907
+        ]
+      },
+      "properties": {
+        "label": "North Hoyle Offshore Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q833917",
+        "country_qid": "Q145",
+        "Wikidata Qid": "Q833917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.43611111,
           53.1275
         ]
@@ -10828,6 +10845,23 @@
         "entity": "http://www.wikidata.org/entity/Q1563624",
         "country_qid": "Q145",
         "Wikidata Qid": "Q1563624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2304,
+          54.6293
+        ]
+      },
+      "properties": {
+        "label": "Viking Link",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q21208645",
+        "country_qid": "Q145",
+        "Wikidata Qid": "Q21208645"
       }
     },
     {

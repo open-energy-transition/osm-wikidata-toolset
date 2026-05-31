@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.87513,
+          -2.50909
+        ]
+      },
+      "properties": {
+        "label": "Ruzizi I Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q130051635",
+        "country_qid": "Q974",
+        "Wikidata Qid": "Q130051635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.6217584,
           -5.5158852
         ]
@@ -67,6 +84,23 @@
         "entity": "http://www.wikidata.org/entity/Q56373712",
         "country_qid": "Q974",
         "Wikidata Qid": "Q56373712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8751638,
+          -2.5090809
+        ]
+      },
+      "properties": {
+        "label": "Q30744030",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q30744030",
+        "country_qid": "Q974",
+        "Wikidata Qid": "Q30744030"
       }
     },
     {
@@ -176,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.96555556,
+          -2.70138889
+        ]
+      },
+      "properties": {
+        "label": "Ruzizi III Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q38250595",
+        "country_qid": "Q974",
+        "Wikidata Qid": "Q38250595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.123611111,
           0.545555555
         ]
@@ -186,6 +237,23 @@
         "entity": "http://www.wikidata.org/entity/Q107389169",
         "country_qid": "Q974",
         "Wikidata Qid": "Q107389169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          -2.701111111
+        ]
+      },
+      "properties": {
+        "label": "Ruzizi IV Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q85798237",
+        "country_qid": "Q974",
+        "Wikidata Qid": "Q85798237"
       }
     },
     {
