@@ -1077,23 +1077,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.8,
-          -1.995
-        ]
-      },
-      "properties": {
-        "label": "Isinya–Singida High Voltage Power Line",
-        "type": "Overhead power line",
-        "entity": "http://www.wikidata.org/entity/Q28223352",
-        "country_qid": "Q114",
-        "Wikidata Qid": "Q28223352"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           39.554875,
           -3.930959
         ]

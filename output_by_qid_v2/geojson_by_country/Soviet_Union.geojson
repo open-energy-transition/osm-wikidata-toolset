@@ -125,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          24.150628641,
+          56.965668511
+        ]
+      },
+      "properties": {
+        "label": "Riga electro-mechanical plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q105037975",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q105037975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.7794,
           47.962299
         ]
@@ -142,6 +159,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          57.32755425,
+          53.838879469
+        ]
+      },
+      "properties": {
+        "label": "Q119153657",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q119153657",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q119153657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.204083333,
+          56.985194444
+        ]
+      },
+      "properties": {
+        "label": "Alfa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q25394205",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q25394205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.208053885,
+          54.759889758
+        ]
+      },
+      "properties": {
+        "label": "Q114398443",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q114398443",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q114398443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           69.4222,
           53.2881
         ]
@@ -152,6 +220,23 @@
         "entity": "http://www.wikidata.org/entity/Q102047169",
         "country_qid": "Q15180",
         "Wikidata Qid": "Q102047169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30414,
+          54.716937
+        ]
+      },
+      "properties": {
+        "label": "Vilma",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20504518",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q20504518"
       }
     },
     {
@@ -254,6 +339,23 @@
         "entity": "http://www.wikidata.org/entity/Q115959128",
         "country_qid": "Q15180",
         "Wikidata Qid": "Q115959128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.40303,
+          57.372438888
+        ]
+      },
+      "properties": {
+        "label": "Q127502909",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127502909",
+        "country_qid": "Q15180",
+        "Wikidata Qid": "Q127502909"
       }
     },
     {

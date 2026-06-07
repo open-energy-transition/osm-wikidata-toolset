@@ -1,21 +1,21 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+United States,Q30,http://www.wikidata.org/entity/Q1502218,Q1502218,Tidal power station,40.750898,-73.964167
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q58295716,Q58295716,Tidal power station,28.21254,121.16136
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q116918,Jiangxia Tidal Power Station,Tidal power station,28.34277778,121.24027778
 South Korea,Q884,http://www.wikidata.org/entity/Q6014462,Incheon Tidal Power Station,Tidal power station,37.49666667,126.34222222
 South Korea,Q884,http://www.wikidata.org/entity/Q7878823,Uldolmok Tidal Power Station,Tidal power station,34.565555555,126.31
 South Korea,Q884,http://www.wikidata.org/entity/Q562741,Sihwa Lake Tidal Power Station,Tidal power station,37.313656,126.612282
 South Korea,Q884,http://www.wikidata.org/entity/Q5523745,Garorim Bay Tidal Power Station,Tidal power station,36.9585,126.322611
-France,Q142,http://www.wikidata.org/entity/Q1515445,Rance Tidal Power Station,Tidal power station,48.61786,-2.024617
-France,Q142,http://www.wikidata.org/entity/Q7124782,Paimpol–Bréhat tidal farm,Tidal power station,48.91,-2.89
-United Kingdom,Q145,http://www.wikidata.org/entity/Q28406148,MeyGen,Tidal power station,58.658333,-3.125
-United Kingdom,Q145,http://www.wikidata.org/entity/Q20850857,Tidal Lagoon Swansea Bay,Tidal power station,51.59413528,-3.90460992
-United Kingdom,Q145,http://www.wikidata.org/entity/Q1521172,SeaGen,Tidal power station,54.368661,-5.546062
 Russia,Q159,http://www.wikidata.org/entity/Q4412067,Q4412067,Tidal power station,69.186745,34.959336
 Russia,Q159,http://www.wikidata.org/entity/Q4348447,Penzhin Tidal Power Plant Project,Tidal power station,61.0,162.0
 Russia,Q159,http://www.wikidata.org/entity/Q1521166,Kislaya Guba Tidal Power Station,Tidal power station,69.377471,33.075628
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q58295716,Q58295716,Tidal power station,28.21254,121.16136
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q116918,Jiangxia Tidal Power Station,Tidal power station,28.34277778,121.24027778
+France,Q142,http://www.wikidata.org/entity/Q1515445,Rance Tidal Power Station,Tidal power station,48.61786,-2.024617
+France,Q142,http://www.wikidata.org/entity/Q7124782,Paimpol–Bréhat tidal farm,Tidal power station,48.91,-2.89
 Canada,Q16,http://www.wikidata.org/entity/Q1128665,Annapolis Royal Generating Station,Tidal power station,44.75194444,-65.51111111
 Canada,Q16,http://www.wikidata.org/entity/Q7278920,Race Rocks Tidal Power Demonstration Project,Tidal power station,48.299,-123.531
-United States,Q30,http://www.wikidata.org/entity/Q1502218,Q1502218,Tidal power station,40.750898,-73.964167
 New Zealand,Q664,http://www.wikidata.org/entity/Q6348190,Kaipara Tidal Power Station,Tidal power station,-36.41666667,174.16666667
-Wales,Q25,http://www.wikidata.org/entity/Q124296504,Morlais,Tidal power station,53.306388888,-4.716666666
+United Kingdom,Q145,http://www.wikidata.org/entity/Q28406148,MeyGen,Tidal power station,58.658333,-3.125
+United Kingdom,Q145,http://www.wikidata.org/entity/Q20850857,Tidal Lagoon Swansea Bay,Tidal power station,51.59413528,-3.90460992
+United Kingdom,Q145,http://www.wikidata.org/entity/Q1521172,SeaGen,Tidal power station,54.368661,-5.546062
 India,Q668,http://www.wikidata.org/entity/Q6354384,Kalpasar Project,Tidal power station,21.4558,72.4158
+Wales,Q25,http://www.wikidata.org/entity/Q124296504,Morlais,Tidal power station,53.306388888,-4.716666666
