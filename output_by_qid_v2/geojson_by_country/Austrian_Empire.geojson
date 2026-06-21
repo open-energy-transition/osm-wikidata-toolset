@@ -23,6 +23,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.228972814,
+          48.007859534
+        ]
+      },
+      "properties": {
+        "label": "Q115052207",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115052207",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q115052207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.250744,
+          48.007894
+        ]
+      },
+      "properties": {
+        "label": "Leesdorfer Hofmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q98446661",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q98446661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.241149739,
+          48.007021599
+        ]
+      },
+      "properties": {
+        "label": "Schäfflermühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116317220",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q116317220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.230878144,
+          48.006869526
+        ]
+      },
+      "properties": {
+        "label": "Q115052315",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115052315",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q115052315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.227145833,
+          48.008389122
+        ]
+      },
+      "properties": {
+        "label": "Q115051990",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q115051990",
+        "country_qid": "Q131964",
+        "Wikidata Qid": "Q115051990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.244551135,
           48.007285732
         ]
