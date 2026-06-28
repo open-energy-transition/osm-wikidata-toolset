@@ -72545,23 +72545,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.2119989,
-          48.8733936
-        ]
-      },
-      "properties": {
-        "label": "Lock and weir Rohatec",
-        "type": "Weir",
-        "entity": "http://www.wikidata.org/entity/Q52556670",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q52556670"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.633107222,
           49.412073888
         ]
@@ -73150,23 +73133,6 @@
         "entity": "http://www.wikidata.org/entity/Q38193088",
         "country_qid": "Q213",
         "Wikidata Qid": "Q38193088"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.1425456,
-          48.8424514
-        ]
-      },
-      "properties": {
-        "label": "Q104671597",
-        "type": "Weir",
-        "entity": "http://www.wikidata.org/entity/Q104671597",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q104671597"
       }
     },
     {
