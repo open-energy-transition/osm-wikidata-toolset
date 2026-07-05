@@ -1,26 +1,13 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Democratic Republic of the Congo,Q974,http://www.wikidata.org/entity/Q38250595,Ruzizi III Hydroelectric Power Station,Hydroelectric dam,-2.70138889,28.96555556
-Mali,Q912,http://www.wikidata.org/entity/Q2885448,Sélingué Dam,Hydroelectric dam,11.6383587,-8.2294419
-United States,Q30,http://www.wikidata.org/entity/Q122349789,Grangeville Dam,Hydroelectric dam,45.9089,-116.008
-United States,Q30,http://www.wikidata.org/entity/Q7076590,Ocoee Dam No. 2,Hydroelectric dam,35.083055555,-84.491111111
-United States,Q30,http://www.wikidata.org/entity/Q54958935,Pit 5 Dam,Hydroelectric dam,40.992897578,-121.869501785
-United States,Q30,http://www.wikidata.org/entity/Q2884964,Jim Woodruff Dam,Hydroelectric dam,30.708611111,-84.863888888
-United States,Q30,http://www.wikidata.org/entity/Q5179465,Cowans Ford Hydroelectric Station,Hydroelectric dam,35.4349,-80.9584
-United States,Q30,http://www.wikidata.org/entity/Q7702863,Terminus Dam,Hydroelectric dam,36.4169,-119.004
-United States,Q30,http://www.wikidata.org/entity/Q3418573,Rampart Dam,Hydroelectric dam,65.35,-151.0
-United States,Q30,http://www.wikidata.org/entity/Q39050134,Thompson Falls Hydroelectric Dam Historic District,Hydroelectric dam,47.593888888,-115.356944444
-United States,Q30,http://www.wikidata.org/entity/Q33131181,Loud Dam,Hydroelectric dam,44.464444444,-83.721111111
-United States,Q30,http://www.wikidata.org/entity/Q96406823,Superior Dam,Hydroelectric dam,42.2655,-83.6442
-Rwanda,Q1037,http://www.wikidata.org/entity/Q38250595,Ruzizi III Hydroelectric Power Station,Hydroelectric dam,-2.70138889,28.96555556
+Uruguay,Q77,http://www.wikidata.org/entity/Q3433446,Palmar Dam,Hydroelectric dam,-33.055583333,-57.450694444
+Uruguay,Q77,http://www.wikidata.org/entity/Q477428,Rincón del Caqute,Hydroelectric dam,-32.830833333,-56.421111111
+Uruguay,Q77,http://www.wikidata.org/entity/Q5800145,Represa de Baygorria,Hydroelectric dam,-32.872888888,-56.805611111
 Ghana,Q117,http://www.wikidata.org/entity/Q1282314,Akosombo Dam,Hydroelectric dam,6.29892,0.05854
 Ghana,Q117,http://www.wikidata.org/entity/Q6435738,Kpong Dam,Hydroelectric dam,6.12,0.125
 Cameroon,Q1009,http://www.wikidata.org/entity/Q123058670,Kikot Hydroelectric Power Station,Hydroelectric dam,4.170972222,11.023611111
 Cameroon,Q1009,http://www.wikidata.org/entity/Q5336726,Edea Hydroelectric Power Station,Hydroelectric dam,3.812917,10.1280135
 Cameroon,Q1009,http://www.wikidata.org/entity/Q11982932,Q11982932,Hydroelectric dam,9.0604553,13.6894039
 Cameroon,Q1009,http://www.wikidata.org/entity/Q7561017,Song Loulou Hydroelectric Power Station,Hydroelectric dam,4.078111111,10.465083333
-Ecuador,Q736,http://www.wikidata.org/entity/Q19277520,Coca Codo Sinclair Dam,Hydroelectric dam,-0.1979037,-77.6849914
-Spain,Q29,http://www.wikidata.org/entity/Q6085406,San Román Dam,Hydroelectric dam,41.47927778,-5.86171667
-Austria,Q40,http://www.wikidata.org/entity/Q2885166,Q2885166,Hydroelectric dam,47.167619361,12.720079913
 France,Q142,http://www.wikidata.org/entity/Q11960006,Q11960006,Hydroelectric dam,44.676055555,4.787972222
 France,Q142,http://www.wikidata.org/entity/Q19387374,Barrage du Saillant,Hydroelectric dam,45.2871961,1.4672911
 France,Q142,http://www.wikidata.org/entity/Q12009833,Q12009833,Hydroelectric dam,45.795547724,1.569017169
@@ -51,14 +38,25 @@ France,Q142,http://www.wikidata.org/entity/Q6507816,Le Truel,Hydroelectric dam,4
 France,Q142,http://www.wikidata.org/entity/Q131448925,Q131448925,Hydroelectric dam,43.6638,3.557466666
 France,Q142,http://www.wikidata.org/entity/Q11988572,Q11988572,Hydroelectric dam,45.816538355,1.675352677
 France,Q142,http://www.wikidata.org/entity/Q11983507,Q11983507,Hydroelectric dam,44.3920296,0.4977539
+Russia,Q159,http://www.wikidata.org/entity/Q730412,Zeya Dam,Hydroelectric dam,53.77,127.30555556
+Russia,Q159,http://www.wikidata.org/entity/Q800130,Volkhov Hydroelectric Station,Hydroelectric dam,59.912879,32.340223
+Chile,Q298,http://www.wikidata.org/entity/Q4563104,Rapel Dam,Hydroelectric dam,-34.04138889,-71.58861111
+El Salvador,Q792,http://www.wikidata.org/entity/Q15815535,Guajoyo hydroelectric power station,Hydroelectric dam,14.230467,-89.468972
+Afghanistan,Q889,http://www.wikidata.org/entity/Q4755783,Naghlu Dam,Hydroelectric dam,34.64111111,69.71694444
+Afghanistan,Q889,http://www.wikidata.org/entity/Q21825719,Sarobi Dam,Hydroelectric dam,34.58639,69.77556
 India,Q668,http://www.wikidata.org/entity/Q17089992,Sholayar Dam,Hydroelectric dam,10.321291603,76.735187084
 India,Q668,http://www.wikidata.org/entity/Q6786153,Matatila Dam,Hydroelectric dam,25.098055555,78.373055555
 India,Q668,http://www.wikidata.org/entity/Q3446230,Solaiyar Dam,Hydroelectric dam,10.29927341,76.880490453
-Chile,Q298,http://www.wikidata.org/entity/Q4563104,Rapel Dam,Hydroelectric dam,-34.04138889,-71.58861111
-Argentina,Q414,http://www.wikidata.org/entity/Q2667398,Q2667398,Hydroelectric dam,-31.56166667,-60.28527778
-Afghanistan,Q889,http://www.wikidata.org/entity/Q4755783,Naghlu Dam,Hydroelectric dam,34.64111111,69.71694444
-Afghanistan,Q889,http://www.wikidata.org/entity/Q21825719,Sarobi Dam,Hydroelectric dam,34.58639,69.77556
-El Salvador,Q792,http://www.wikidata.org/entity/Q15815535,Guajoyo hydroelectric power station,Hydroelectric dam,14.230467,-89.468972
+United States,Q30,http://www.wikidata.org/entity/Q122349789,Grangeville Dam,Hydroelectric dam,45.9089,-116.008
+United States,Q30,http://www.wikidata.org/entity/Q7076590,Ocoee Dam No. 2,Hydroelectric dam,35.083055555,-84.491111111
+United States,Q30,http://www.wikidata.org/entity/Q54958935,Pit 5 Dam,Hydroelectric dam,40.992897578,-121.869501785
+United States,Q30,http://www.wikidata.org/entity/Q2884964,Jim Woodruff Dam,Hydroelectric dam,30.708611111,-84.863888888
+United States,Q30,http://www.wikidata.org/entity/Q5179465,Cowans Ford Hydroelectric Station,Hydroelectric dam,35.4349,-80.9584
+United States,Q30,http://www.wikidata.org/entity/Q7702863,Terminus Dam,Hydroelectric dam,36.4169,-119.004
+United States,Q30,http://www.wikidata.org/entity/Q3418573,Rampart Dam,Hydroelectric dam,65.35,-151.0
+United States,Q30,http://www.wikidata.org/entity/Q39050134,Thompson Falls Hydroelectric Dam Historic District,Hydroelectric dam,47.593888888,-115.356944444
+United States,Q30,http://www.wikidata.org/entity/Q33131181,Loud Dam,Hydroelectric dam,44.464444444,-83.721111111
+United States,Q30,http://www.wikidata.org/entity/Q96406823,Superior Dam,Hydroelectric dam,42.2655,-83.6442
 Japan,Q17,http://www.wikidata.org/entity/Q11462781,Komaki Dam,Hydroelectric dam,36.556666666,137.008055555
 Japan,Q17,http://www.wikidata.org/entity/Q7424962,Sasadaira Dam,Hydroelectric dam,36.60722222,138.08222222
 Japan,Q17,http://www.wikidata.org/entity/Q11438047,Oshirakawa Dam,Hydroelectric dam,36.141111111,136.821944444
@@ -75,17 +73,19 @@ Japan,Q17,http://www.wikidata.org/entity/Q11635518,Akao Dam,Hydroelectric dam,36
 Japan,Q17,http://www.wikidata.org/entity/Q6827787,Miboro Dam,Hydroelectric dam,36.13825,136.91080556
 Japan,Q17,http://www.wikidata.org/entity/Q1208749,Kurobe Dam,Hydroelectric dam,36.56642,137.66212
 Japan,Q17,http://www.wikidata.org/entity/Q15278822,Soyama Dam,Hydroelectric dam,36.472222222,136.983888888
-United Kingdom,Q145,http://www.wikidata.org/entity/Q77782006,"Lairg Dam and Power Station, Shin Hydro Electric Scheme",Hydroelectric dam,58.028867,-4.4144548
-Russia,Q159,http://www.wikidata.org/entity/Q730412,Zeya Dam,Hydroelectric dam,53.77,127.30555556
-Russia,Q159,http://www.wikidata.org/entity/Q800130,Volkhov Hydroelectric Station,Hydroelectric dam,59.912879,32.340223
+Argentina,Q414,http://www.wikidata.org/entity/Q2667398,Q2667398,Hydroelectric dam,-31.56166667,-60.28527778
 Guinea,Q1006,http://www.wikidata.org/entity/Q108502779,Koukoutamba Hydroelectric Power Station,Hydroelectric dam,11.268333333,-11.345833333
 Guinea,Q1006,http://www.wikidata.org/entity/Q46963910,Souapiti Dam,Hydroelectric dam,10.424555555,-13.251305555
-Tanzania,Q924,http://www.wikidata.org/entity/Q55634022,Julius Nyerere Hydropower Station,Hydroelectric dam,-7.8044084,37.8489974
-Iran,Q794,http://www.wikidata.org/entity/Q20110407,Giz Galasi Dam,Hydroelectric dam,39.179338,47.032936
-Uruguay,Q77,http://www.wikidata.org/entity/Q3433446,Palmar Dam,Hydroelectric dam,-33.055583333,-57.450694444
-Uruguay,Q77,http://www.wikidata.org/entity/Q477428,Rincón del Caqute,Hydroelectric dam,-32.830833333,-56.421111111
-Uruguay,Q77,http://www.wikidata.org/entity/Q5800145,Represa de Baygorria,Hydroelectric dam,-32.872888888,-56.805611111
+Austria,Q40,http://www.wikidata.org/entity/Q2885166,Q2885166,Hydroelectric dam,47.167619361,12.720079913
+Mali,Q912,http://www.wikidata.org/entity/Q2885448,Sélingué Dam,Hydroelectric dam,11.6383587,-8.2294419
+Ecuador,Q736,http://www.wikidata.org/entity/Q19277520,Coca Codo Sinclair Dam,Hydroelectric dam,-0.1979037,-77.6849914
 Liechtenstein,Q347,http://www.wikidata.org/entity/Q21036935,Lawena Kraftwerk,Hydroelectric dam,47.086,9.52784
+Iran,Q794,http://www.wikidata.org/entity/Q20110407,Giz Galasi Dam,Hydroelectric dam,39.179338,47.032936
+Tanzania,Q924,http://www.wikidata.org/entity/Q55634022,Julius Nyerere Hydropower Station,Hydroelectric dam,-7.8044084,37.8489974
+Democratic Republic of the Congo,Q974,http://www.wikidata.org/entity/Q38250595,Ruzizi III Hydroelectric Power Station,Hydroelectric dam,-2.70138889,28.96555556
+Rwanda,Q1037,http://www.wikidata.org/entity/Q38250595,Ruzizi III Hydroelectric Power Station,Hydroelectric dam,-2.70138889,28.96555556
 Azerbaijan,Q227,http://www.wikidata.org/entity/Q20110407,Giz Galasi Dam,Hydroelectric dam,39.179338,47.032936
-Turkey,Q43,http://www.wikidata.org/entity/Q116676991,Bayramhacı Dam,Hydroelectric dam,38.799333333,34.997222222
+Spain,Q29,http://www.wikidata.org/entity/Q6085406,San Román Dam,Hydroelectric dam,41.47927778,-5.86171667
 New Zealand,Q664,http://www.wikidata.org/entity/Q124636218,Onekaka Dam,Hydroelectric dam,-40.782222222,172.6875
+United Kingdom,Q145,http://www.wikidata.org/entity/Q77782006,"Lairg Dam and Power Station, Shin Hydro Electric Scheme",Hydroelectric dam,58.028867,-4.4144548
+Turkey,Q43,http://www.wikidata.org/entity/Q116676991,Bayramhacı Dam,Hydroelectric dam,38.799333333,34.997222222
