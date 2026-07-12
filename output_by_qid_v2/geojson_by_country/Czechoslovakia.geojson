@@ -23,23 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.454861111,
-          48.992305555
-        ]
-      },
-      "properties": {
-        "label": "Chemická továrna",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q106683433",
-        "country_qid": "Q33946",
-        "Wikidata Qid": "Q106683433"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.344823888,
           49.677964194
         ]
@@ -50,23 +33,6 @@
         "entity": "http://www.wikidata.org/entity/Q124858346",
         "country_qid": "Q33946",
         "Wikidata Qid": "Q124858346"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.545202734,
-          49.86561681
-        ]
-      },
-      "properties": {
-        "label": "Q117812226",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q117812226",
-        "country_qid": "Q33946",
-        "Wikidata Qid": "Q117812226"
       }
     },
     {
@@ -135,6 +101,23 @@
         "entity": "http://www.wikidata.org/entity/Q121255375",
         "country_qid": "Q33946",
         "Wikidata Qid": "Q121255375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.093626666,
+          50.162273888
+        ]
+      },
+      "properties": {
+        "label": "Q106497517",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q106497517",
+        "country_qid": "Q33946",
+        "Wikidata Qid": "Q106497517"
       }
     },
     {

@@ -1009,6 +1009,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          44.8463,
+          41.0881
+        ]
+      },
+      "properties": {
+        "label": "Teghut copper-molybdenum deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4456930",
+        "country_qid": "Q399",
+        "Wikidata Qid": "Q4456930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           46.137979,
           39.145131
         ]

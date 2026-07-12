@@ -6109,40 +6109,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.443236111,
-          46.45205
-        ]
-      },
-      "properties": {
-        "label": "Lago di Lei",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q656674",
-        "country_qid": "Q39",
-        "Wikidata Qid": "Q656674"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.193333333,
-          46.622222222
-        ]
-      },
-      "properties": {
-        "label": "Lago di Livigno",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q672495",
-        "country_qid": "Q39",
-        "Wikidata Qid": "Q672495"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.302092,
           47.051846
         ]
