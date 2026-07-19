@@ -1281,23 +1281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.19893,
-          47.64128
-        ]
-      },
-      "properties": {
-        "label": "Oberaudorf-Ebbs power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q21517380",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q21517380"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.720305555,
           47.2115
         ]
@@ -1325,23 +1308,6 @@
         "entity": "http://www.wikidata.org/entity/Q1786178",
         "country_qid": "Q40",
         "Wikidata Qid": "Q1786178"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4389,
-          48.4354
-        ]
-      },
-      "properties": {
-        "label": "Schärding-Neuhaus power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q1786198",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q1786198"
       }
     },
     {
@@ -1444,23 +1410,6 @@
         "entity": "http://www.wikidata.org/entity/Q109093585",
         "country_qid": "Q40",
         "Wikidata Qid": "Q109093585"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.00666667,
-          48.245
-        ]
-      },
-      "properties": {
-        "label": "Braunau-Simbach power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q17124137",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q17124137"
       }
     },
     {
@@ -1740,23 +1689,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1608,
-          48.2898
-        ]
-      },
-      "properties": {
-        "label": "Ering-Frauenstein power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q1786092",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q1786092"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.864117,
           47.470188
         ]
@@ -1944,23 +1876,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.43694444,
-          48.55361111
-        ]
-      },
-      "properties": {
-        "label": "Passau-Ingling power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q17124139",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q17124139"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.783067143,
           47.601960301
         ]
@@ -1978,23 +1893,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.477523696,
-          46.90503852
-        ]
-      },
-      "properties": {
-        "label": "Gemeinschaftskraftwerk Inn",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q95587696",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q95587696"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.5565,
           47.296
         ]
@@ -2005,23 +1903,6 @@
         "entity": "http://www.wikidata.org/entity/Q17124138",
         "country_qid": "Q40",
         "Wikidata Qid": "Q17124138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7075,
-          48.5183
-        ]
-      },
-      "properties": {
-        "label": "Jochenstein power station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q2752192",
-        "country_qid": "Q40",
-        "Wikidata Qid": "Q2752192"
       }
     },
     {
@@ -41224,6 +41105,23 @@
         "entity": "http://www.wikidata.org/entity/Q38032565",
         "country_qid": "Q40",
         "Wikidata Qid": "Q38032565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3613,
+          48.2247
+        ]
+      },
+      "properties": {
+        "label": "Viennese Porcelain Manufactory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2569078",
+        "country_qid": "Q40",
+        "Wikidata Qid": "Q2569078"
       }
     },
     {

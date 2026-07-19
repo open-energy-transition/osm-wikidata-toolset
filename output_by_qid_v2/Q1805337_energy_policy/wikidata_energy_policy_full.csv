@@ -1,6 +1,6 @@
 country_name,country_qid,entity,label,type
-Russia,Q159,http://www.wikidata.org/entity/Q1341519,energy policy of Russia,Energy policy
 Canada,Q16,http://www.wikidata.org/entity/Q2071239,energy policy of Canada,Energy policy
 Canada,Q16,http://www.wikidata.org/entity/Q3407063,National Energy Program,Energy policy
-Argentina,Q414,http://www.wikidata.org/entity/Q4605764,2006 Argentine nuclear reactivation plan,Energy policy
+Russia,Q159,http://www.wikidata.org/entity/Q1341519,energy policy of Russia,Energy policy
 Germany,Q183,http://www.wikidata.org/entity/Q16620892,Q16620892,Energy policy
+Argentina,Q414,http://www.wikidata.org/entity/Q4605764,2006 Argentine nuclear reactivation plan,Energy policy

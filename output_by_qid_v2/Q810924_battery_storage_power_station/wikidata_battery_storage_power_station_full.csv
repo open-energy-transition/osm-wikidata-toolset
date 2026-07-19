@@ -1,7 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Germany,Q183,http://www.wikidata.org/entity/Q57895052,Feldheim Battery Energy Storage System,Battery storage power station,,
-Germany,Q183,http://www.wikidata.org/entity/Q58842016,Berlin-Steglitz Battery Energy Storage Station,Battery storage power station,,
-Germany,Q183,http://www.wikidata.org/entity/Q120671578,Cremzow Battery Storage,Battery storage power station,,
 Australia,Q408,http://www.wikidata.org/entity/Q125232391,Kwinana Battery Energy Storage System 1,Battery storage power station,-32.198337,115.775155
 Australia,Q408,http://www.wikidata.org/entity/Q125495010,Waroona BESS,Battery storage power station,-32.832643,115.706596
 Australia,Q408,http://www.wikidata.org/entity/Q130899765,Cunderdin Solar Farm,Battery storage power station,-31.6487,117.278
@@ -33,6 +30,116 @@ Australia,Q408,http://www.wikidata.org/entity/Q133465099,Collie BESS Stage 2,Bat
 Australia,Q408,http://www.wikidata.org/entity/Q125477125,Collie Battery Energy Storage System,Battery storage power station,-33.33141,116.23499
 Australia,Q408,http://www.wikidata.org/entity/Q125494930,Muchea Battery,Battery storage power station,-31.5488581,115.6285548
 Australia,Q408,http://www.wikidata.org/entity/Q125477705,BESS Wagerup,Battery storage power station,-32.915431,115.917348
+Japan,Q17,http://www.wikidata.org/entity/Q51722121,Buzen Substation  Battery Storage System,Battery storage power station,,
+Japan,Q17,http://www.wikidata.org/entity/Q59326230,Tatsumi Battery Energy Storage System,Battery storage power station,,
+Germany,Q183,http://www.wikidata.org/entity/Q57895052,Feldheim Battery Energy Storage System,Battery storage power station,,
+Germany,Q183,http://www.wikidata.org/entity/Q58842016,Berlin-Steglitz Battery Energy Storage Station,Battery storage power station,,
+Germany,Q183,http://www.wikidata.org/entity/Q120671578,Cremzow Battery Storage,Battery storage power station,,
+Belgium,Q31,http://www.wikidata.org/entity/Q124629755,Green Turtle,Battery storage power station,51.0484,5.6948
+Belgium,Q31,http://www.wikidata.org/entity/Q124629754,Blue Marlin,Battery storage power station,51.1236,5.7742
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860674,Cuxton Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860704,Ferrymuir Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860712,Sundon Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860730,Richborough Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860738,Ferrybridge Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860767,Monk Fryston Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860779,Fiddler's Ferry Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860801,Winchester Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860831,Ocker Hill battery storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860907,Indian Queens battery storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132860977,Rusholme Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132861065,Braintree Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132861072,Bredbury Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132861130,Shilton Lane battery storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132861154,Lakeside Energy Park,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q132861228,Roaring Hill Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q57893699,Blackburn Meadows EFR battery system,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q57895949,Leighton Buzzard Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q58811067,Westhampnett Municipal Battery Energy Storage System,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122762065,Little Raith Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122762222,Newton Wood Farm Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q123581042,Carnegie Road Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q123580869,Jamesfield Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q123580885,Ilmer Lane Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q123580913,Thame Road Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878879,Nursling Battery,Battery storage power station,50.942355,-1.484869
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884580,Whitelee Battery,Battery storage power station,55.6954,-4.17331
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878862,Hawkers Hill Energy Park,Battery storage power station,51.013772,-2.208174
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116885632,Cowstead Battery Storage,Battery storage power station,51.40865,0.76793
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117462281,Chapel Farm Battery Storage,Battery storage power station,51.9266,-0.4963
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116883955,Port of Tyne Energy Storage,Battery storage power station,54.977384,-1.455827
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884092,Cowley Battery Storage,Battery storage power station,51.709925,-1.189058
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117011275,Wishaw Battery,Battery storage power station,55.76927,-3.93867
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878129,Brook Farm Battery,Battery storage power station,52.074,1.05
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120667636,Tollgate Battery Storage Facility,Battery storage power station,51.73539,-0.23706
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884330,Back Lane Battery,Battery storage power station,53.22386,-1.37484
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878177,Arbroath Battery,Battery storage power station,56.56497,-2.619634
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878847,Contego Battery,Battery storage power station,50.95526,-0.162756
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878016,Capenhurst Battery,Battery storage power station,53.265694444,-2.943583333
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120498662,Briton Ferry Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878153,Roosecote Battery,Battery storage power station,54.105,-3.189
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117066391,Fideoak Mill Battery Storage,Battery storage power station,51.018497,-3.157186
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878109,Burwell Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878223,Hutton Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878007,West Burton B Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878249,Hunningley Stairfoot Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116878801,Holes Bay Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884182,Bloxwich Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884290,Aylesford Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884451,Bustleholme Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884220,Pen y Cymoedd Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884358,Pillswood Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884549,Thurcroft Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884738,Mannington Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116884818,Skelmersdale Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116885413,Glassenbury Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116885583,Enderby Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116885651,Creyke Beck Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116886657,Claredown Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116886566,Wickham Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116886718,Red Scar Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116889150,Gipsy Lane Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116889429,Roundponds Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116890392,Byers Brae Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116890267,Kemsley Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116894478,Minety Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116894501,Minety South Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116894543,Newlands Farm Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116896049,Pelham Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116896378,Dorking Battery Energy Storage System,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116895971,Tynemouth Energy Storage System,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116902714,Hallen Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116907451,Hulley Road Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116907433,Lascar Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117011366,Blackhillock Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117037179,Coupar Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117423271,Broadditch Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117487883,Tollgate Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117768503,Dollymans Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117804713,Harker Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117804749,Lockleaze Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q117804710,Rise Carr Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120356399,West Gourdie Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120359695,Farnham Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120360122,Coventry Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120360277,Fordtown Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120360407,Dunsinane Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120360537,Camilla Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120498748,Flatworth Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120498708,Tir John Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120498723,Willoughby Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120667459,Doncaster Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120668073,Melksham East Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120668403,Larport Farm Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671406,Boulby Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671455,Breach Farm Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671594,Drumkee Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671495,Parc Stormy Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671534,Lower Road Battery,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671558,Port of Tilbury Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q120671632,Mullavilly Battery Storage,Battery storage power station,,
+United Kingdom,Q145,http://www.wikidata.org/entity/Q116890190,Hunningley Stairfoot BESS,Battery storage power station,53.54841,-1.45007
+United Kingdom,Q145,http://www.wikidata.org/entity/Q122170316,Clay Tye Battery,Battery storage power station,,
 United States,Q30,http://www.wikidata.org/entity/Q116723938,GMP Solar/Storage-Ferrisburgh Hybrid,Battery storage power station,44.133411,-73.14406
 United States,Q30,http://www.wikidata.org/entity/Q116724493,Sweeny,Battery storage power station,29.055615,-95.68724
 United States,Q30,http://www.wikidata.org/entity/Q116724342,"Maverick Solar 6, LLC",Battery storage power station,33.7,-115.38
@@ -425,116 +532,9 @@ United States,Q30,http://www.wikidata.org/entity/Q116697803,Oriana Energy Hybrid
 United States,Q30,http://www.wikidata.org/entity/Q116697618,Faunce Corner Community Solar,Battery storage power station,41.672831,-70.9895
 United States,Q30,http://www.wikidata.org/entity/Q116716135,University of California San Diego Hybrid,Battery storage power station,32.8747,-117.2392
 United States,Q30,http://www.wikidata.org/entity/Q116720914,El Cajon Energy Storage,Battery storage power station,32.8115,-117.0505
+Namibia,Q1030,http://www.wikidata.org/entity/Q110933453,Erongo Battery Energy Storage System,Battery storage power station,-21.496944444,16.027777777
 Netherlands,Q55,http://www.wikidata.org/entity/Q124629751,Rhino,Battery storage power station,52.51736,5.54469
 Netherlands,Q55,http://www.wikidata.org/entity/Q124629753,Leopard,Battery storage power station,53.31061,6.97634
 Netherlands,Q55,http://www.wikidata.org/entity/Q124629752,Buffalo,Battery storage power station,52.51736,5.54568
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860674,Cuxton Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860704,Ferrymuir Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860712,Sundon Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860730,Richborough Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860738,Ferrybridge Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860767,Monk Fryston Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860779,Fiddler's Ferry Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860801,Winchester Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860831,Ocker Hill battery storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860907,Indian Queens battery storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132860977,Rusholme Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132861065,Braintree Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132861072,Bredbury Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132861130,Shilton Lane battery storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132861154,Lakeside Energy Park,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q132861228,Roaring Hill Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q57893699,Blackburn Meadows EFR battery system,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q57895949,Leighton Buzzard Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q58811067,Westhampnett Municipal Battery Energy Storage System,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122762065,Little Raith Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122762222,Newton Wood Farm Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q123581042,Carnegie Road Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q123580869,Jamesfield Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q123580885,Ilmer Lane Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q123580913,Thame Road Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878879,Nursling Battery,Battery storage power station,50.942355,-1.484869
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884580,Whitelee Battery,Battery storage power station,55.6954,-4.17331
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878862,Hawkers Hill Energy Park,Battery storage power station,51.013772,-2.208174
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116885632,Cowstead Battery Storage,Battery storage power station,51.40865,0.76793
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117462281,Chapel Farm Battery Storage,Battery storage power station,51.9266,-0.4963
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116883955,Port of Tyne Energy Storage,Battery storage power station,54.977384,-1.455827
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884092,Cowley Battery Storage,Battery storage power station,51.709925,-1.189058
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117011275,Wishaw Battery,Battery storage power station,55.76927,-3.93867
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878129,Brook Farm Battery,Battery storage power station,52.074,1.05
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120667636,Tollgate Battery Storage Facility,Battery storage power station,51.73539,-0.23706
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884330,Back Lane Battery,Battery storage power station,53.22386,-1.37484
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878177,Arbroath Battery,Battery storage power station,56.56497,-2.619634
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878847,Contego Battery,Battery storage power station,50.95526,-0.162756
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878016,Capenhurst Battery,Battery storage power station,53.265694444,-2.943583333
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120498662,Briton Ferry Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878153,Roosecote Battery,Battery storage power station,54.105,-3.189
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117066391,Fideoak Mill Battery Storage,Battery storage power station,51.018497,-3.157186
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878109,Burwell Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878223,Hutton Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878007,West Burton B Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878249,Hunningley Stairfoot Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116878801,Holes Bay Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884182,Bloxwich Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884290,Aylesford Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884451,Bustleholme Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884220,Pen y Cymoedd Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884358,Pillswood Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884549,Thurcroft Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884738,Mannington Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116884818,Skelmersdale Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116885413,Glassenbury Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116885583,Enderby Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116885651,Creyke Beck Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116886657,Claredown Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116886566,Wickham Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116886718,Red Scar Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116889150,Gipsy Lane Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116889429,Roundponds Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116890392,Byers Brae Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116890267,Kemsley Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116894478,Minety Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116894501,Minety South Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116894543,Newlands Farm Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116896049,Pelham Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116896378,Dorking Battery Energy Storage System,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116895971,Tynemouth Energy Storage System,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116902714,Hallen Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116907451,Hulley Road Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116907433,Lascar Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117011366,Blackhillock Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117037179,Coupar Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117423271,Broadditch Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117487883,Tollgate Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117768503,Dollymans Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117804713,Harker Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117804749,Lockleaze Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q117804710,Rise Carr Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120356399,West Gourdie Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120359695,Farnham Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120360122,Coventry Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120360277,Fordtown Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120360407,Dunsinane Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120360537,Camilla Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120498748,Flatworth Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120498708,Tir John Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120498723,Willoughby Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120667459,Doncaster Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120668073,Melksham East Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120668403,Larport Farm Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671406,Boulby Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671455,Breach Farm Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671594,Drumkee Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671495,Parc Stormy Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671534,Lower Road Battery,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671558,Port of Tilbury Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q120671632,Mullavilly Battery Storage,Battery storage power station,,
-United Kingdom,Q145,http://www.wikidata.org/entity/Q116890190,Hunningley Stairfoot BESS,Battery storage power station,53.54841,-1.45007
-United Kingdom,Q145,http://www.wikidata.org/entity/Q122170316,Clay Tye Battery,Battery storage power station,,
-Japan,Q17,http://www.wikidata.org/entity/Q51722121,Buzen Substation  Battery Storage System,Battery storage power station,,
-Japan,Q17,http://www.wikidata.org/entity/Q59326230,Tatsumi Battery Energy Storage System,Battery storage power station,,
-Belgium,Q31,http://www.wikidata.org/entity/Q124629755,Green Turtle,Battery storage power station,51.0484,5.6948
-Belgium,Q31,http://www.wikidata.org/entity/Q124629754,Blue Marlin,Battery storage power station,51.1236,5.7742
-Switzerland,Q39,http://www.wikidata.org/entity/Q123414212,BESS Walenstadt,Battery storage power station,47.11629,9.32272
-Namibia,Q1030,http://www.wikidata.org/entity/Q110933453,Erongo Battery Energy Storage System,Battery storage power station,-21.496944444,16.027777777
 Ireland,Q27,http://www.wikidata.org/entity/Q120671643,Porterstown Battery Storage,Battery storage power station,,
+Switzerland,Q39,http://www.wikidata.org/entity/Q123414212,BESS Walenstadt,Battery storage power station,47.11629,9.32272

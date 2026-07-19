@@ -1604,40 +1604,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.633333333,
-          44.333333333
-        ]
-      },
-      "properties": {
-        "label": "Kurumsak vanadium deposit",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q28125552",
-        "country_qid": "Q232",
-        "Wikidata Qid": "Q28125552"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.5225,
-          49.72583
-        ]
-      },
-      "properties": {
-        "label": "Lenin coal mine",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q12551753",
-        "country_qid": "Q232",
-        "Wikidata Qid": "Q12551753"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           68.40213,
           45.64721
         ]
@@ -1706,23 +1672,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.11472,
-          49.86028
-        ]
-      },
-      "properties": {
-        "label": "Kostenko coal mine",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q4521397",
-        "country_qid": "Q232",
-        "Wikidata Qid": "Q4521397"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           68.011077,
           42.283057
         ]
@@ -1733,23 +1682,6 @@
         "entity": "http://www.wikidata.org/entity/Q16979252",
         "country_qid": "Q232",
         "Wikidata Qid": "Q16979252"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          67.416666666,
-          44.533333333
-        ]
-      },
-      "properties": {
-        "label": "Balasauskandyk vanadium deposit",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q28751057",
-        "country_qid": "Q232",
-        "Wikidata Qid": "Q28751057"
       }
     },
     {
@@ -1869,23 +1801,6 @@
         "entity": "http://www.wikidata.org/entity/Q18574552",
         "country_qid": "Q232",
         "Wikidata Qid": "Q18574552"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.75833,
-          49.68667
-        ]
-      },
-      "properties": {
-        "label": "Q12526188",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q12526188",
-        "country_qid": "Q232",
-        "Wikidata Qid": "Q12526188"
       }
     },
     {

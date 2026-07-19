@@ -74,23 +74,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.275,
-          53.357
-        ]
-      },
-      "properties": {
-        "label": "Broadstone Works",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q30116186",
-        "country_qid": "Q174193",
-        "Wikidata Qid": "Q30116186"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.156388888,
           51.518888888
         ]
@@ -101,6 +84,108 @@
         "entity": "http://www.wikidata.org/entity/Q3502848",
         "country_qid": "Q174193",
         "Wikidata Qid": "Q3502848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1872,
+          51.598
+        ]
+      },
+      "properties": {
+        "label": "Bedwas Navigation Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4879461",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q4879461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.32167,
+          51.6253
+        ]
+      },
+      "properties": {
+        "label": "Albion Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4712505",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q4712505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.355425,
+          51.63967
+        ]
+      },
+      "properties": {
+        "label": "Lady Windsor Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15241233",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q15241233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3284,
+          51.6385
+        ]
+      },
+      "properties": {
+        "label": "Abercynon Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4666840",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q4666840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.005111111,
+          53.100555555
+        ]
+      },
+      "properties": {
+        "label": "Llay Main Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q62020991",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q62020991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.30075,
+          51.6678
+        ]
+      },
+      "properties": {
+        "label": "Deep Navigation Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5250242",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q5250242"
       }
     }
   ]
