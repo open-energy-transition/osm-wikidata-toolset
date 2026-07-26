@@ -1944,6 +1944,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.3527,
+          44.6374
+        ]
+      },
+      "properties": {
+        "label": "Gornoe Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12135343",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12135343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           35.59388889,
           50.16555556
         ]
@@ -2175,6 +2192,23 @@
         "entity": "http://www.wikidata.org/entity/Q12121842",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12121842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3462,
+          44.695
+        ]
+      },
+      "properties": {
+        "label": "Izobilnoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12074070",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12074070"
       }
     },
     {
@@ -2607,6 +2641,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.0768,
+          44.5823
+        ]
+      },
+      "properties": {
+        "label": "Schastlivoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12172679",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12172679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2869,
+          44.8434
+        ]
+      },
+      "properties": {
+        "label": "Ayanske Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55289567",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q55289567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.066666666,
+          44.812222222
+        ]
+      },
+      "properties": {
+        "label": "Partizansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4345912",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4345912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.49107,
+          45.1758
+        ]
+      },
+      "properties": {
+        "label": "Frontovoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21045090",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q21045090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.633333333,
           49.266666666
         ]
@@ -2709,6 +2811,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.935555555,
+          45.228611111
+        ]
+      },
+      "properties": {
+        "label": "Vodoskhovyshche Yuzmak",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933631",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q34933631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.598611111,
           47.925
         ]
@@ -2753,6 +2872,40 @@
         "entity": "http://www.wikidata.org/entity/Q4194637",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4194637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.59976,
+          45.01873
+        ]
+      },
+      "properties": {
+        "label": "Belogorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15975193",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q15975193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.241666666,
+          45.205555555
+        ]
+      },
+      "properties": {
+        "label": "Sokolsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q110623322",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q110623322"
       }
     },
     {
@@ -2855,6 +3008,23 @@
         "entity": "http://www.wikidata.org/entity/Q28706069",
         "country_qid": "Q212",
         "Wikidata Qid": "Q28706069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.924,
+          45.065
+        ]
+      },
+      "properties": {
+        "label": "Lgovskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q28666409",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q28666409"
       }
     },
     {
@@ -2974,6 +3144,23 @@
         "entity": "http://www.wikidata.org/entity/Q4461738",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4461738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.783777,
+          45.057963
+        ]
+      },
+      "properties": {
+        "label": "Mezhgornoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667953",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q13667953"
       }
     },
     {
@@ -3185,6 +3372,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.06304,
+          45.33721
+        ]
+      },
+      "properties": {
+        "label": "Kerchensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21044895",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q21044895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.966666666,
           46.6
         ]
@@ -3212,6 +3416,23 @@
         "entity": "http://www.wikidata.org/entity/Q122200313",
         "country_qid": "Q212",
         "Wikidata Qid": "Q122200313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8325,
+          44.727777777
+        ]
+      },
+      "properties": {
+        "label": "Egiz-Oba",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105162118",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q105162118"
       }
     },
     {
@@ -3287,6 +3508,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.9929,
+          45.3438
+        ]
+      },
+      "properties": {
+        "label": "Zelyony Yar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21216996",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q21216996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           38.283611111,
           48.249166666
         ]
@@ -3348,6 +3586,23 @@
         "entity": "http://www.wikidata.org/entity/Q20076292",
         "country_qid": "Q212",
         "Wikidata Qid": "Q20076292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1153,
+          45.0319
+        ]
+      },
+      "properties": {
+        "label": "Old Crimea Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16701815",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q16701815"
       }
     },
     {
@@ -3457,6 +3712,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.58333333,
+          45.03333333
+        ]
+      },
+      "properties": {
+        "label": "Taygansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16718964",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q16718964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.334444444,
+          44.983888888
+        ]
+      },
+      "properties": {
+        "label": "Balonov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4076399",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4076399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.580833333,
           49.564444444
         ]
@@ -3484,6 +3773,23 @@
         "entity": "http://www.wikidata.org/entity/Q4395638",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4395638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.036,
+          44.652
+        ]
+      },
+      "properties": {
+        "label": "Zagorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18407896",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q18407896"
       }
     },
     {
@@ -3586,6 +3892,23 @@
         "entity": "http://www.wikidata.org/entity/Q2381584",
         "country_qid": "Q212",
         "Wikidata Qid": "Q2381584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.318055555,
+          45.147777777
+        ]
+      },
+      "properties": {
+        "label": "Feodosiya Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667957",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q13667957"
       }
     },
     {
@@ -3994,6 +4317,23 @@
         "entity": "http://www.wikidata.org/entity/Q49307851",
         "country_qid": "Q212",
         "Wikidata Qid": "Q49307851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.156163,
+          44.922949
+        ]
+      },
+      "properties": {
+        "label": "Simferopol Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4419915",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4419915"
       }
     },
     {
@@ -7214,23 +7554,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.5775,
-          44.5
-        ]
-      },
-      "properties": {
-        "label": "Q112114444",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q112114444",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q112114444"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.666071082,
           51.025509439
         ]
@@ -7241,23 +7564,6 @@
         "entity": "http://www.wikidata.org/entity/Q107584890",
         "country_qid": "Q212",
         "Wikidata Qid": "Q107584890"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.5380132,
-          45.2839833
-        ]
-      },
-      "properties": {
-        "label": "Ak-Monai quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105616668",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105616668"
       }
     },
     {
@@ -7309,40 +7615,6 @@
         "entity": "http://www.wikidata.org/entity/Q108534037",
         "country_qid": "Q212",
         "Wikidata Qid": "Q108534037"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.3475,
-          45.440833333
-        ]
-      },
-      "properties": {
-        "label": "Kezin quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q106044102",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q106044102"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.301573,
-          45.382643
-        ]
-      },
-      "properties": {
-        "label": "Bagerovsky quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105079501",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105079501"
       }
     },
     {
@@ -7418,23 +7690,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.32377,
-          45.446657
-        ]
-      },
-      "properties": {
-        "label": "Tashkalak quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105597673",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105597673"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           37.082778,
           48.468889
         ]
@@ -7496,23 +7751,6 @@
         "entity": "http://www.wikidata.org/entity/Q12171234",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12171234"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.171461,
-          44.651132
-        ]
-      },
-      "properties": {
-        "label": "Beshuy mines",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q130970495",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q130970495"
       }
     },
     {
@@ -7615,23 +7853,6 @@
         "entity": "http://www.wikidata.org/entity/Q12099991",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12099991"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.394722222,
-          45.381111111
-        ]
-      },
-      "properties": {
-        "label": "Turkmen quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q106071479",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q106071479"
       }
     },
     {
@@ -7758,23 +7979,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.216431,
-          45.035696
-        ]
-      },
-      "properties": {
-        "label": "Opuk quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105630723",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105630723"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           32.31782778,
           48.45634444
         ]
@@ -7792,23 +7996,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.181326,
-          45.420434
-        ]
-      },
-      "properties": {
-        "label": "Q105337172",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105337172",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105337172"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.259166666,
           45.203888888
         ]
@@ -7819,6 +8006,23 @@
         "entity": "http://www.wikidata.org/entity/Q49460264",
         "country_qid": "Q212",
         "Wikidata Qid": "Q49460264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5036895,
+          48.0822483
+        ]
+      },
+      "properties": {
+        "label": "Q12171319",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12171319",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12171319"
       }
     },
     {
@@ -7962,6 +8166,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.056111111,
+          48.526944444
+        ]
+      },
+      "properties": {
+        "label": "Q4456051",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4456051",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4456051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.09312,
           50.31499
         ]
@@ -8047,6 +8268,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          39.2525,
+          48.144722222
+        ]
+      },
+      "properties": {
+        "label": "Q4521403",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4521403",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q4521403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.501111111,
           48.0825
         ]
@@ -8081,6 +8319,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          33.430555555,
+          47.993333333
+        ]
+      },
+      "properties": {
+        "label": "Pokrovska Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12171231",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12171231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.409166666,
           47.961111111
         ]
@@ -8091,6 +8346,23 @@
         "entity": "http://www.wikidata.org/entity/Q4395762",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4395762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.425,
+          48.361944444
+        ]
+      },
+      "properties": {
+        "label": "Q12171294",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12171294",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q12171294"
       }
     },
     {

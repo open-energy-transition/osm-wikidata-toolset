@@ -24792,23 +24792,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.656667,
-          50.818889
-        ]
-      },
-      "properties": {
-        "label": "Muizenberg",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q2227691",
-        "country_qid": "Q31",
-        "Wikidata Qid": "Q2227691"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.08244,
           50.71985
         ]
@@ -24819,23 +24802,6 @@
         "entity": "http://www.wikidata.org/entity/Q109381289",
         "country_qid": "Q31",
         "Wikidata Qid": "Q109381289"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.657778,
-          50.817444
-        ]
-      },
-      "properties": {
-        "label": "Groeve De Nieuwe Keel",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q73401586",
-        "country_qid": "Q31",
-        "Wikidata Qid": "Q73401586"
       }
     },
     {
@@ -25380,23 +25346,6 @@
         "entity": "http://www.wikidata.org/entity/Q2957667",
         "country_qid": "Q31",
         "Wikidata Qid": "Q2957667"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.653111,
-          50.820167
-        ]
-      },
-      "properties": {
-        "label": "Groeve De Keel",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q73311400",
-        "country_qid": "Q31",
-        "Wikidata Qid": "Q73311400"
       }
     },
     {

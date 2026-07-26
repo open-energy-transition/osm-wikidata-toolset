@@ -35417,6 +35417,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.618,
+          57.6477
+        ]
+      },
+      "properties": {
+        "label": "Skagerrak",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q264054",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q264054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23561,
+          56.20835
+        ]
+      },
+      "properties": {
+        "label": "NORD.LINK",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q1961296",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q1961296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6769,
           57.5672
         ]
@@ -35563,6 +35597,23 @@
         "entity": "http://www.wikidata.org/entity/Q11220431",
         "country_qid": "Q20",
         "Wikidata Qid": "Q11220431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.200408,
+          69.103894
+        ]
+      },
+      "properties": {
+        "label": "Khevaskoski Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1773282",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q1773282"
       }
     },
     {
@@ -35869,6 +35920,23 @@
         "entity": "http://www.wikidata.org/entity/Q12003368",
         "country_qid": "Q20",
         "Wikidata Qid": "Q12003368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.58181,
+          69.33074
+        ]
+      },
+      "properties": {
+        "label": "Langvatnet",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2671775",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q2671775"
       }
     },
     {
@@ -37348,6 +37416,23 @@
         "entity": "http://www.wikidata.org/entity/Q49312435",
         "country_qid": "Q20",
         "Wikidata Qid": "Q49312435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.71198,
+          69.38544
+        ]
+      },
+      "properties": {
+        "label": "Skogvatn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3444888",
+        "country_qid": "Q20",
+        "Wikidata Qid": "Q3444888"
       }
     },
     {

@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          60.0087833,
+          59.7493801
+        ]
+      },
+      "properties": {
+        "label": "Bogoslovsky Copper Melting Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130288377",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q130288377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.736111111,
           61.504166666
         ]
@@ -16,6 +33,23 @@
         "entity": "http://www.wikidata.org/entity/Q76385931",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q76385931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.40303,
+          57.372438888
+        ]
+      },
+      "properties": {
+        "label": "Q127502909",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127502909",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q127502909"
       }
     },
     {
@@ -84,6 +118,23 @@
         "entity": "http://www.wikidata.org/entity/Q97343618",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q97343618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.635405,
+          55.728375
+        ]
+      },
+      "properties": {
+        "label": "Malaya Pionerskaya 12-4",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q133776746",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q133776746"
       }
     },
     {
@@ -329,6 +380,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          39.743,
+          47.2203
+        ]
+      },
+      "properties": {
+        "label": "Paramonov’s Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28218000",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q28218000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           56.52167,
           57.119204
         ]
@@ -390,6 +458,23 @@
         "entity": "http://www.wikidata.org/entity/Q98382055",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q98382055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.280052,
+          59.93781
+        ]
+      },
+      "properties": {
+        "label": "Academy of Sciences Printing House",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86670242",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q86670242"
       }
     },
     {
@@ -499,6 +584,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          39.3434519,
+          51.9072997
+        ]
+      },
+      "properties": {
+        "label": "Ramon sugar factory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110748608",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q110748608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           59.922695,
           60.145219
         ]
@@ -560,6 +662,40 @@
         "entity": "http://www.wikidata.org/entity/Q76385964",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q76385964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32755425,
+          53.838879469
+        ]
+      },
+      "properties": {
+        "label": "Q119153657",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q119153657",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q119153657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.147877,
+          58.776317
+        ]
+      },
+      "properties": {
+        "label": "Chermoz iron works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110273358",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q110273358"
       }
     },
     {
@@ -652,6 +788,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          58.208053885,
+          54.759889758
+        ]
+      },
+      "properties": {
+        "label": "Q114398443",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q114398443",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q114398443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           57.391014,
           57.147943
         ]
@@ -696,6 +849,23 @@
         "entity": "http://www.wikidata.org/entity/Q97007177",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q97007177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.811093,
+          56.494063
+        ]
+      },
+      "properties": {
+        "label": "Q119931281",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q119931281",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q119931281"
       }
     },
     {
@@ -805,6 +975,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          49.1215682,
+          55.7721196
+        ]
+      },
+      "properties": {
+        "label": "Petzold Brewery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q104632644",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q104632644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.759231,
           61.492159
         ]
@@ -815,6 +1002,40 @@
         "entity": "http://www.wikidata.org/entity/Q98645784",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q98645784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.26575,
+          59.928305555
+        ]
+      },
+      "properties": {
+        "label": "Leningrad Steel Rolling Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q97661664",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q97661664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.64528,
+          57.86694
+        ]
+      },
+      "properties": {
+        "label": "Q28667084",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28667084",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q28667084"
       }
     },
     {
@@ -907,6 +1128,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.45,
+          59.885
+        ]
+      },
+      "properties": {
+        "label": "Vargunin Brothers Paper Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q33536749",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q33536749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.953007388,
           61.504569971
         ]
@@ -917,6 +1155,23 @@
         "entity": "http://www.wikidata.org/entity/Q83779881",
         "country_qid": "Q34266",
         "Wikidata Qid": "Q83779881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.134409,
+          55.28161
+        ]
+      },
+      "properties": {
+        "label": "Q86678111",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86678111",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q86678111"
       }
     },
     {

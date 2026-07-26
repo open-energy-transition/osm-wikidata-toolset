@@ -142,23 +142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.2782625,
-          49.8211731
-        ]
-      },
-      "properties": {
-        "label": "Důl Hlubina",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q21097723",
-        "country_qid": "Q33946",
-        "Wikidata Qid": "Q21097723"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.6567925,
           50.5893811
         ]
@@ -169,40 +152,6 @@
         "entity": "http://www.wikidata.org/entity/Q109568597",
         "country_qid": "Q33946",
         "Wikidata Qid": "Q109568597"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9116558,
-          50.3726072
-        ]
-      },
-      "properties": {
-        "label": "Svornost mine",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q11087830",
-        "country_qid": "Q33946",
-        "Wikidata Qid": "Q11087830"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.9291,
-          50.66868
-        ]
-      },
-      "properties": {
-        "label": "Důl Jan Šverma",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q27624357",
-        "country_qid": "Q33946",
-        "Wikidata Qid": "Q27624357"
       }
     }
   ]

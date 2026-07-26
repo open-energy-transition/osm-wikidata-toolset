@@ -121097,6 +121097,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.309256666,
+          49.822181388
+        ]
+      },
+      "properties": {
+        "label": "Q19602098",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19602098",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19602098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.326384,
           49.83861
         ]
@@ -121114,6 +121131,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.303066666,
+          49.863766666
+        ]
+      },
+      "properties": {
+        "label": "Q20755509",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20755509",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20755509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.313308333,
           49.843625
         ]
@@ -121124,6 +121158,23 @@
         "entity": "http://www.wikidata.org/entity/Q19601835",
         "country_qid": "Q213",
         "Wikidata Qid": "Q19601835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.286725,
+          49.863297222
+        ]
+      },
+      "properties": {
+        "label": "Důl Stachanov",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19601828",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19601828"
       }
     },
     {
@@ -121158,6 +121209,23 @@
         "entity": "http://www.wikidata.org/entity/Q20057299",
         "country_qid": "Q213",
         "Wikidata Qid": "Q20057299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2782625,
+          49.8211731
+        ]
+      },
+      "properties": {
+        "label": "Důl Hlubina",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21097723",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q21097723"
       }
     },
     {
@@ -121233,6 +121301,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.311213888,
+          49.837563888
+        ]
+      },
+      "properties": {
+        "label": "Důl Ema a Lucie",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20057293",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20057293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.308,
           49.838
         ]
@@ -121250,6 +121335,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.322333333,
+          49.832433333
+        ]
+      },
+      "properties": {
+        "label": "Q20057294",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20057294",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20057294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.3204,
           49.832533333
         ]
@@ -121260,6 +121362,23 @@
         "entity": "http://www.wikidata.org/entity/Q20057304",
         "country_qid": "Q213",
         "Wikidata Qid": "Q20057304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.29605,
+          49.826266666
+        ]
+      },
+      "properties": {
+        "label": "Q19602100",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19602100",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19602100"
       }
     },
     {
@@ -121437,6 +121556,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.2745586,
+          49.8565569
+        ]
+      },
+      "properties": {
+        "label": "Q19801836",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19801836",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19801836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.23954,
           49.863351
         ]
@@ -121447,6 +121583,23 @@
         "entity": "http://www.wikidata.org/entity/Q19601836",
         "country_qid": "Q213",
         "Wikidata Qid": "Q19601836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.30345,
+          49.837633333
+        ]
+      },
+      "properties": {
+        "label": "Q20057290",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20057290",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20057290"
       }
     },
     {
@@ -121481,6 +121634,23 @@
         "entity": "http://www.wikidata.org/entity/Q20057303",
         "country_qid": "Q213",
         "Wikidata Qid": "Q20057303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.31795,
+          49.8328
+        ]
+      },
+      "properties": {
+        "label": "Q20057305",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20057305",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20057305"
       }
     },
     {
@@ -121539,6 +121709,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.3225,
+          49.827883333
+        ]
+      },
+      "properties": {
+        "label": "Saint Anna mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19810507",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19810507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.3425,
           49.1267
         ]
@@ -121573,6 +121760,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.2684,
+          49.8732
+        ]
+      },
+      "properties": {
+        "label": "Q19603003",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19603003",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q19603003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.914722222,
           50.368611111
         ]
@@ -121583,6 +121787,23 @@
         "entity": "http://www.wikidata.org/entity/Q20057296",
         "country_qid": "Q213",
         "Wikidata Qid": "Q20057296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.303956666,
+          49.858605333
+        ]
+      },
+      "properties": {
+        "label": "Q20976965",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20976965",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q20976965"
       }
     },
     {
@@ -122355,6 +122576,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.471,
+          49.805
+        ]
+      },
+      "properties": {
+        "label": "Colliery Frantisek in Horní Suchá",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11863194",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11863194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           16.672673333,
           49.217931111
         ]
@@ -122671,6 +122909,23 @@
         "entity": "http://www.wikidata.org/entity/Q12352693",
         "country_qid": "Q213",
         "Wikidata Qid": "Q12352693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2361761,
+          49.8424992
+        ]
+      },
+      "properties": {
+        "label": "Důl Ignát",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11863202",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11863202"
       }
     },
     {
@@ -123596,6 +123851,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.3214,
+          49.8258
+        ]
+      },
+      "properties": {
+        "label": "Jan Maria Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11863207",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11863207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.612958333,
           50.1787
         ]
@@ -123674,6 +123946,23 @@
         "entity": "http://www.wikidata.org/entity/Q15703426",
         "country_qid": "Q213",
         "Wikidata Qid": "Q15703426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5801,
+          49.8264
+        ]
+      },
+      "properties": {
+        "label": "Morcinek coal mine in Kaczyce",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11743383",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11743383"
       }
     },
     {
@@ -123963,6 +124252,23 @@
         "entity": "http://www.wikidata.org/entity/Q95101882",
         "country_qid": "Q213",
         "Wikidata Qid": "Q95101882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9291,
+          50.66868
+        ]
+      },
+      "properties": {
+        "label": "Důl Jan Šverma",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27624357",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q27624357"
       }
     },
     {
@@ -124854,6 +125160,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.0299433,
+          50.1626865
+        ]
+      },
+      "properties": {
+        "label": "Důl Schöller",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q37460529",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q37460529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15.968111111,
           49.842944444
         ]
@@ -124949,6 +125272,23 @@
         "entity": "http://www.wikidata.org/entity/Q37176374",
         "country_qid": "Q213",
         "Wikidata Qid": "Q37176374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0880261,
+          50.1518197
+        ]
+      },
+      "properties": {
+        "label": "Engerth mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q104764146",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q104764146"
       }
     },
     {
@@ -125901,6 +126241,23 @@
         "entity": "http://www.wikidata.org/entity/Q123259323",
         "country_qid": "Q213",
         "Wikidata Qid": "Q123259323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9116558,
+          50.3726072
+        ]
+      },
+      "properties": {
+        "label": "Svornost mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11087830",
+        "country_qid": "Q213",
+        "Wikidata Qid": "Q11087830"
       }
     },
     {
