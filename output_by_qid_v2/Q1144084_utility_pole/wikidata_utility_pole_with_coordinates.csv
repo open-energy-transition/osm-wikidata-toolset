@@ -1,4 +1,5 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Czech Republic,Q213,http://www.wikidata.org/entity/Q131823723,Q131823723,Utility pole,50.2905497,14.7353894
 Brazil,Q155,http://www.wikidata.org/entity/Q67210679,Lampadário do Teatro Municipal,Utility pole,-22.9095581,-43.1764717
 Brazil,Q155,http://www.wikidata.org/entity/Q67210580,Lampadário do Museu do Catete,Utility pole,-22.9258472,-43.1765808
 Brazil,Q155,http://www.wikidata.org/entity/Q67210475,Lampadário do Monumento a Abertura dos Portos,Utility pole,-22.9225763,-43.1724863
@@ -16,4 +17,3 @@ Brazil,Q155,http://www.wikidata.org/entity/Q67210680,Lampadário Suspenso do Cor
 Brazil,Q155,http://www.wikidata.org/entity/Q67210295,Lampadário do Campo de Santana,Utility pole,-22.9066397,-43.1884192
 Brazil,Q155,http://www.wikidata.org/entity/Q67210682,Lampadário da Assembleia Legislativa,Utility pole,-22.9041225,-43.1745547
 Brazil,Q155,http://www.wikidata.org/entity/Q67210672,Lampadário do Ministério da Fazenda,Utility pole,-22.9078406,-43.1729536
-Czech Republic,Q213,http://www.wikidata.org/entity/Q131823723,Q131823723,Utility pole,50.2905497,14.7353894
