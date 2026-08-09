@@ -1,4 +1,22 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+France,Q142,http://www.wikidata.org/entity/Q2204736,HVDC Italy–Corsica–Sardinia,electrical interconnector,,
+France,Q142,http://www.wikidata.org/entity/Q23041456,Nemo Link,electrical interconnector,,
+France,Q142,http://www.wikidata.org/entity/Q28224760,FAB Link,electrical interconnector,,
+France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,electrical interconnector,51.0658,1.5563
+France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,electrical interconnector,50.088,-0.515
+France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,electrical interconnector,51.0147,1.4967
+Italy,Q38,http://www.wikidata.org/entity/Q2204736,HVDC Italy–Corsica–Sardinia,electrical interconnector,,
+Italy,Q38,http://www.wikidata.org/entity/Q3943420,SAPEI,electrical interconnector,,
+Finland,Q33,http://www.wikidata.org/entity/Q3735876,Estlink,electrical interconnector,,
+Finland,Q33,http://www.wikidata.org/entity/Q131938906,Estlink 1,electrical interconnector,,
+Finland,Q33,http://www.wikidata.org/entity/Q906852,Fenno–Skan,electrical interconnector,,
+Finland,Q33,http://www.wikidata.org/entity/Q61404269,Estlink 2,electrical interconnector,,
+Norway,Q20,http://www.wikidata.org/entity/Q657166,NorNed,electrical interconnector,,
+Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
+Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,electrical interconnector,57.5672,2.6769
+Estonia,Q191,http://www.wikidata.org/entity/Q3735876,Estlink,electrical interconnector,,
+Estonia,Q191,http://www.wikidata.org/entity/Q131938906,Estlink 1,electrical interconnector,,
+Estonia,Q191,http://www.wikidata.org/entity/Q61404269,Estlink 2,electrical interconnector,,
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85788332,NeuConnect,electrical interconnector,,
 United Kingdom,Q145,http://www.wikidata.org/entity/Q23041456,Nemo Link,electrical interconnector,,
 United Kingdom,Q145,http://www.wikidata.org/entity/Q918000,BritNed,electrical interconnector,51.44,0.716667
@@ -10,44 +28,26 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q5636209,North Sea Link,elect
 United Kingdom,Q145,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85932728,ElecLink,electrical interconnector,51.0147,1.4967
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
-Norway,Q20,http://www.wikidata.org/entity/Q657166,NorNed,electrical interconnector,,
-Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
-Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,electrical interconnector,57.5672,2.6769
+Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
+Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
+Namibia,Q1030,http://www.wikidata.org/entity/Q4129358,Caprivi Link,electrical interconnector,,
+Lithuania,Q37,http://www.wikidata.org/entity/Q7050527,NordBalt,electrical interconnector,,
+Germany,Q183,http://www.wikidata.org/entity/Q85788332,NeuConnect,electrical interconnector,,
+Germany,Q183,http://www.wikidata.org/entity/Q175924,Kontek,electrical interconnector,,
+Germany,Q183,http://www.wikidata.org/entity/Q314180,Baltic Cable,electrical interconnector,,
+Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
+Denmark,Q35,http://www.wikidata.org/entity/Q175924,Kontek,electrical interconnector,,
+Denmark,Q35,http://www.wikidata.org/entity/Q351845,Konti-Skan,electrical interconnector,,
+Denmark,Q35,http://www.wikidata.org/entity/Q5598748,Great Belt Power Link,electrical interconnector,,
 Sweden,Q34,http://www.wikidata.org/entity/Q314180,Baltic Cable,electrical interconnector,,
 Sweden,Q34,http://www.wikidata.org/entity/Q351845,Konti-Skan,electrical interconnector,,
 Sweden,Q34,http://www.wikidata.org/entity/Q7050527,NordBalt,electrical interconnector,,
 Sweden,Q34,http://www.wikidata.org/entity/Q906852,Fenno–Skan,electrical interconnector,,
 Australia,Q408,http://www.wikidata.org/entity/Q98113904,Australia-Asia Power Link,electrical interconnector,,
 Australia,Q408,http://www.wikidata.org/entity/Q65046083,Marinus Link,electrical interconnector,,
-Denmark,Q35,http://www.wikidata.org/entity/Q175924,Kontek,electrical interconnector,,
-Denmark,Q35,http://www.wikidata.org/entity/Q351845,Konti-Skan,electrical interconnector,,
-Denmark,Q35,http://www.wikidata.org/entity/Q5598748,Great Belt Power Link,electrical interconnector,,
-Germany,Q183,http://www.wikidata.org/entity/Q85788332,NeuConnect,electrical interconnector,,
-Germany,Q183,http://www.wikidata.org/entity/Q175924,Kontek,electrical interconnector,,
-Germany,Q183,http://www.wikidata.org/entity/Q314180,Baltic Cable,electrical interconnector,,
-Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,electrical interconnector,56.20835,7.23561
-Estonia,Q191,http://www.wikidata.org/entity/Q3735876,Estlink,electrical interconnector,,
-Estonia,Q191,http://www.wikidata.org/entity/Q131938906,Estlink 1,electrical interconnector,,
-Estonia,Q191,http://www.wikidata.org/entity/Q61404269,Estlink 2,electrical interconnector,,
-Italy,Q38,http://www.wikidata.org/entity/Q2204736,HVDC Italy–Corsica–Sardinia,electrical interconnector,,
-Italy,Q38,http://www.wikidata.org/entity/Q3943420,SAPEI,electrical interconnector,,
-Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,electrical interconnector,53.5305,-4.8257
-Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,electrical interconnector,51.6828,-6.1441
 Netherlands,Q55,http://www.wikidata.org/entity/Q657166,NorNed,electrical interconnector,,
 Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,electrical interconnector,51.44,0.716667
-Finland,Q33,http://www.wikidata.org/entity/Q3735876,Estlink,electrical interconnector,,
-Finland,Q33,http://www.wikidata.org/entity/Q131938906,Estlink 1,electrical interconnector,,
-Finland,Q33,http://www.wikidata.org/entity/Q906852,Fenno–Skan,electrical interconnector,,
-Finland,Q33,http://www.wikidata.org/entity/Q61404269,Estlink 2,electrical interconnector,,
-France,Q142,http://www.wikidata.org/entity/Q2204736,HVDC Italy–Corsica–Sardinia,electrical interconnector,,
-France,Q142,http://www.wikidata.org/entity/Q23041456,Nemo Link,electrical interconnector,,
-France,Q142,http://www.wikidata.org/entity/Q28224760,FAB Link,electrical interconnector,,
-France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,electrical interconnector,51.0658,1.5563
-France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,electrical interconnector,50.088,-0.515
-France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,electrical interconnector,51.0147,1.4967
-Namibia,Q1030,http://www.wikidata.org/entity/Q4129358,Caprivi Link,electrical interconnector,,
-Lithuania,Q37,http://www.wikidata.org/entity/Q7050527,NordBalt,electrical interconnector,,
 Kenya,Q114,http://www.wikidata.org/entity/Q55633427,Ethiopia–Kenya HVDC Interconnector,electrical interconnector,,
+Belgium,Q31,http://www.wikidata.org/entity/Q23041456,Nemo Link,electrical interconnector,,
 Ethiopia,Q115,http://www.wikidata.org/entity/Q55633427,Ethiopia–Kenya HVDC Interconnector,electrical interconnector,,
 Singapore,Q334,http://www.wikidata.org/entity/Q98113904,Australia-Asia Power Link,electrical interconnector,,
-Belgium,Q31,http://www.wikidata.org/entity/Q23041456,Nemo Link,electrical interconnector,,
