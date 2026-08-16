@@ -1,12 +1,5 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Norway,Q20,http://www.wikidata.org/entity/Q264054,Skagerrak,Underground power cable,57.6477,8.618
-Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,Underground power cable,56.20835,7.23561
-Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,Underground power cable,57.5672,2.6769
-Japan,Q17,http://www.wikidata.org/entity/Q5119028,Chūshi Powerline Crossing,Underground power cable,34.332166666,132.98425
-Australia,Q408,http://www.wikidata.org/entity/Q65532259,Heywood interconnector,Underground power cable,-37.733,140.841
-Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,Underground power cable,57.6477,8.618
-Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,Underground power cable,54.6293,4.2304
-Denmark,Q35,http://www.wikidata.org/entity/Q893982,Bornholm Cable,Underground power cable,55.2972,14.4353
+Switzerland,Q39,http://www.wikidata.org/entity/Q76293289,Kraftwerk Kriegstetten,Underground power cable,47.19379025,7.5688807
 United Kingdom,Q145,http://www.wikidata.org/entity/Q7495663,Shetland HVDC Connection,Underground power cable,59.3643,-2.0572
 United Kingdom,Q145,http://www.wikidata.org/entity/Q84557580,Elstree to St. John's Wood Cable Tunnel,Underground power cable,51.526,-0.172
 United Kingdom,Q145,http://www.wikidata.org/entity/Q918000,BritNed,Underground power cable,51.44,0.716667
@@ -21,9 +14,41 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q85932728,ElecLink,Undergroun
 United Kingdom,Q145,http://www.wikidata.org/entity/Q85764561,Greenlink,Underground power cable,51.6828,-6.1441
 United Kingdom,Q145,http://www.wikidata.org/entity/Q2271607,Isle of Man to England Interconnector,Underground power cable,54.0,-3.83333
 United Kingdom,Q145,http://www.wikidata.org/entity/Q84699868,Caithness - Moray Link,Underground power cable,58.1377,-2.5632
+Norway,Q20,http://www.wikidata.org/entity/Q264054,Skagerrak,Underground power cable,57.6477,8.618
+Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,Underground power cable,56.20835,7.23561
+Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,Underground power cable,57.5672,2.6769
+Germany,Q183,http://www.wikidata.org/entity/Q105337844,380 kV line Lubmin-Wolmirstedt,Underground power cable,54.139167,13.6825
+Germany,Q183,http://www.wikidata.org/entity/Q117572557,Q117572557,Underground power cable,49.14248,9.1446
+Germany,Q183,http://www.wikidata.org/entity/Q803604,Q803604,Underground power cable,49.0428,9.2014
+Germany,Q183,http://www.wikidata.org/entity/Q19599433,DolWin3,Underground power cable,53.9957,6.42062
+Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,Underground power cable,56.20835,7.23561
+Germany,Q183,http://www.wikidata.org/entity/Q113675143,Q113675143,Underground power cable,48.909237025,8.560785055
+Germany,Q183,http://www.wikidata.org/entity/Q214717,Ronsdorf–Letmathe 220 kV power line,Underground power cable,51.359756,7.607118
+Germany,Q183,http://www.wikidata.org/entity/Q1339861,Anlage 212,Underground power cable,48.7064,8.98611
+Germany,Q183,http://www.wikidata.org/entity/Q240361,Q240361,Underground power cable,48.4868,11.9749
+Germany,Q183,http://www.wikidata.org/entity/Q19599432,DolWin2,Underground power cable,53.97851,6.92315
+Germany,Q183,http://www.wikidata.org/entity/Q18022391,Hilpertsau-Weisenbach compact overhead line,Underground power cable,48.73359,8.36161
+Germany,Q183,http://www.wikidata.org/entity/Q5636198,DolWin1,Underground power cable,53.9968,6.4206
+Germany,Q183,http://www.wikidata.org/entity/Q113847552,Dreikreisige Mittelspannungsleitung,Underground power cable,50.590964585,8.973131775
 United States,Q30,http://www.wikidata.org/entity/Q7144630,Path 62,Underground power cable,35.801111111,-115.009444444
 United States,Q30,http://www.wikidata.org/entity/Q2045524,Pacific DC Intertie,Underground power cable,45.594166666,-121.114166666
 United States,Q30,http://www.wikidata.org/entity/Q5636205,HVDC Mechanicville–Schenectady,Underground power cable,42.8781,-73.6797
+Australia,Q408,http://www.wikidata.org/entity/Q65532259,Heywood interconnector,Underground power cable,-37.733,140.841
+Japan,Q17,http://www.wikidata.org/entity/Q5119028,Chūshi Powerline Crossing,Underground power cable,34.332166666,132.98425
+Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,Underground power cable,57.6477,8.618
+Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,Underground power cable,54.6293,4.2304
+Denmark,Q35,http://www.wikidata.org/entity/Q893982,Bornholm Cable,Underground power cable,55.2972,14.4353
+Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,Underground power cable,51.44,0.716667
+Netherlands,Q55,http://www.wikidata.org/entity/Q17468554,Q17468554,Underground power cable,53.0118,5.57259
+France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,Underground power cable,51.0658,1.5563
+France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,Underground power cable,50.088,-0.515
+France,Q142,http://www.wikidata.org/entity/Q1530363,Lyon–Moutiers DC transmission scheme,Underground power cable,45.498594,6.5635
+France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,Underground power cable,51.0147,1.4967
+Sweden,Q34,http://www.wikidata.org/entity/Q893982,Bornholm Cable,Underground power cable,55.2972,14.4353
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1622323,Zhoushan Island Overhead Powerline Tie,Underground power cable,29.9342,122.024
+Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Underground power cable,38.24583333,15.6325
+Ukraine,Q212,http://www.wikidata.org/entity/Q225724,Q225724,Underground power cable,47.853692,35.078165
+Brazil,Q155,http://www.wikidata.org/entity/Q26710879,Tucuruí transmission line,Underground power cable,-1.586588,-52.760676
 Uganda,Q1036,http://www.wikidata.org/entity/Q111944213,Mutundwe–Entebbe High Voltage Power Line,Underground power cable,0.257222222,30.116111111
 Uganda,Q1036,http://www.wikidata.org/entity/Q48791981,Karuma–Kawanda High Voltage Power Line,Underground power cable,0.864722,32.49
 Uganda,Q1036,http://www.wikidata.org/entity/Q48811981,Nkenda–Mpondwe–Beni High Voltage Power Line,Underground power cable,0.053333333,29.723888888
@@ -38,49 +63,24 @@ Uganda,Q1036,http://www.wikidata.org/entity/Q104848631,Mbarara–Nkenda High Vol
 Uganda,Q1036,http://www.wikidata.org/entity/Q60193442,Opuyo–Moroto High Voltage Power Line,Underground power cable,1.6775,33.676944
 Uganda,Q1036,http://www.wikidata.org/entity/Q48790211,Kawanda–Birembo High Voltage Power Line,Underground power cable,-0.59046,30.4302
 Uganda,Q1036,http://www.wikidata.org/entity/Q48807274,Nkenda–Fort Portal–Hoima High Voltage Power Line,Underground power cable,0.735,30.228055555
-Germany,Q183,http://www.wikidata.org/entity/Q105337844,380 kV line Lubmin-Wolmirstedt,Underground power cable,54.139167,13.6825
-Germany,Q183,http://www.wikidata.org/entity/Q117572557,Q117572557,Underground power cable,49.14248,9.1446
-Germany,Q183,http://www.wikidata.org/entity/Q803604,Q803604,Underground power cable,49.0428,9.2014
-Germany,Q183,http://www.wikidata.org/entity/Q19599433,DolWin3,Underground power cable,53.9957,6.42062
-Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,Underground power cable,56.20835,7.23561
-Germany,Q183,http://www.wikidata.org/entity/Q113675143,Q113675143,Underground power cable,48.909237025,8.560785055
-Germany,Q183,http://www.wikidata.org/entity/Q214717,Ronsdorf–Letmathe 220 kV power line,Underground power cable,51.359756,7.607118
-Germany,Q183,http://www.wikidata.org/entity/Q1339861,Anlage 212,Underground power cable,48.7064,8.98611
-Germany,Q183,http://www.wikidata.org/entity/Q240361,Q240361,Underground power cable,48.4868,11.9749
-Germany,Q183,http://www.wikidata.org/entity/Q19599432,DolWin2,Underground power cable,53.97851,6.92315
-Germany,Q183,http://www.wikidata.org/entity/Q18022391,Hilpertsau-Weisenbach compact overhead line,Underground power cable,48.73359,8.36161
-Germany,Q183,http://www.wikidata.org/entity/Q5636198,DolWin1,Underground power cable,53.9968,6.4206
-Germany,Q183,http://www.wikidata.org/entity/Q113847552,Dreikreisige Mittelspannungsleitung,Underground power cable,50.590964585,8.973131775
-Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,Underground power cable,51.44,0.716667
-Netherlands,Q55,http://www.wikidata.org/entity/Q17468554,Q17468554,Underground power cable,53.0118,5.57259
-Switzerland,Q39,http://www.wikidata.org/entity/Q76293289,Kraftwerk Kriegstetten,Underground power cable,47.19379025,7.5688807
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1622323,Zhoushan Island Overhead Powerline Tie,Underground power cable,29.9342,122.024
-Sweden,Q34,http://www.wikidata.org/entity/Q893982,Bornholm Cable,Underground power cable,55.2972,14.4353
+Russia,Q159,http://www.wikidata.org/entity/Q6915560,Moscow–Kashira HVDC transmission system,Underground power cable,55.65888889,37.63777778
+Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,Underground power cable,60.6803,28.9186
 Canada,Q16,http://www.wikidata.org/entity/Q1758867,Levis De-Icer,Underground power cable,46.7047,-71.1942
-France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,Underground power cable,51.0658,1.5563
-France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,Underground power cable,50.088,-0.515
-France,Q142,http://www.wikidata.org/entity/Q1530363,Lyon–Moutiers DC transmission scheme,Underground power cable,45.498594,6.5635
-France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,Underground power cable,51.0147,1.4967
+India,Q668,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,Underground power cable,9.11666667,79.48333333
 Austria,Q40,http://www.wikidata.org/entity/Q231423,400-kV-Nordeinspeisung Wien,Underground power cable,48.2575,16.39
-Ukraine,Q212,http://www.wikidata.org/entity/Q225724,Q225724,Underground power cable,47.853692,35.078165
-Italy,Q38,http://www.wikidata.org/entity/Q2356853,Pylons of Messina,Underground power cable,38.24583333,15.6325
+Tanzania,Q924,http://www.wikidata.org/entity/Q104876200,Iringa–Sumbawanga High Voltage Power Line,Underground power cable,-8.770555555,33.762777777
+Tanzania,Q924,http://www.wikidata.org/entity/Q28223352,Isinya–Singida High Voltage Power Line,Underground power cable,-1.995,36.8
+Tanzania,Q924,http://www.wikidata.org/entity/Q48813338,Masaka–Mutukula–Mwanza High Voltage Power Line,Underground power cable,-0.9975,31.414444444
 Kenya,Q114,http://www.wikidata.org/entity/Q28223352,Isinya–Singida High Voltage Power Line,Underground power cable,-1.995,36.8
 Kenya,Q114,http://www.wikidata.org/entity/Q55075065,Suswa–Isinya–Rabai High Voltage Power Line,Underground power cable,-3.930959,39.554875
 Kenya,Q114,http://www.wikidata.org/entity/Q48792663,Bujagali–Tororo–Lessos High Voltage Power Line,Underground power cable,0.694444,34.207778
 Kenya,Q114,http://www.wikidata.org/entity/Q55621164,Loiyangalani–Suswa High Voltage Power Line,Underground power cable,-0.276111,36.423056
 Kenya,Q114,http://www.wikidata.org/entity/Q63346717,Olkaria–Lessos–Kisumu High Voltage Power Line,Underground power cable,0.218888888,35.295555555
-India,Q668,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,Underground power cable,9.11666667,79.48333333
-Russia,Q159,http://www.wikidata.org/entity/Q6915560,Moscow–Kashira HVDC transmission system,Underground power cable,55.65888889,37.63777778
-Russia,Q159,http://www.wikidata.org/entity/Q1411764,Vyborg HVDC scheme,Underground power cable,60.6803,28.9186
-Tanzania,Q924,http://www.wikidata.org/entity/Q104876200,Iringa–Sumbawanga High Voltage Power Line,Underground power cable,-8.770555555,33.762777777
-Tanzania,Q924,http://www.wikidata.org/entity/Q28223352,Isinya–Singida High Voltage Power Line,Underground power cable,-1.995,36.8
-Tanzania,Q924,http://www.wikidata.org/entity/Q48813338,Masaka–Mutukula–Mwanza High Voltage Power Line,Underground power cable,-0.9975,31.414444444
 Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,Underground power cable,53.5305,-4.8257
 Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,Underground power cable,51.6828,-6.1441
-Namibia,Q1030,http://www.wikidata.org/entity/Q106630931,Kokerboom–Auas High Voltage Power Line,Underground power cable,-25.985833333,18.136388888
-Brazil,Q155,http://www.wikidata.org/entity/Q26710879,Tucuruí transmission line,Underground power cable,-1.586588,-52.760676
 Democratic Republic of the Congo,Q974,http://www.wikidata.org/entity/Q48811981,Nkenda–Mpondwe–Beni High Voltage Power Line,Underground power cable,0.053333333,29.723888888
 Sri Lanka,Q854,http://www.wikidata.org/entity/Q6019736,India–Sri Lanka HVDC Interconnection,Underground power cable,9.11666667,79.48333333
+Indonesia,Q252,http://www.wikidata.org/entity/Q4851044,Bali–Java Powerline,Underground power cable,-8.09959722,114.43681111
+Namibia,Q1030,http://www.wikidata.org/entity/Q106630931,Kokerboom–Auas High Voltage Power Line,Underground power cable,-25.985833333,18.136388888
 Rwanda,Q1037,http://www.wikidata.org/entity/Q48790211,Kawanda–Birembo High Voltage Power Line,Underground power cable,-0.59046,30.4302
 Belize,Q242,http://www.wikidata.org/entity/Q126369961,Westlake-Mollejon Line,Underground power cable,17.27695,-88.73245
-Indonesia,Q252,http://www.wikidata.org/entity/Q4851044,Bali–Java Powerline,Underground power cable,-8.09959722,114.43681111

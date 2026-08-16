@@ -1791,16 +1791,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2304,
-          54.6293
+          8.618,
+          57.6477
         ]
       },
       "properties": {
-        "label": "Viking Link",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q21208645",
+        "label": "Skagerrak",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q264054",
         "country_qid": "Q35",
-        "Wikidata Qid": "Q21208645"
+        "Wikidata Qid": "Q264054"
       }
     },
     {
@@ -9587,23 +9587,6 @@
         "entity": "http://www.wikidata.org/entity/Q1299695",
         "country_qid": "Q35",
         "Wikidata Qid": "Q1299695"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.99961111,
-          55.61227778
-        ]
-      },
-      "properties": {
-        "label": "Q12340417",
-        "type": "Control room",
-        "entity": "http://www.wikidata.org/entity/Q12340417",
-        "country_qid": "Q35",
-        "Wikidata Qid": "Q12340417"
       }
     }
   ]

@@ -1,4 +1,6 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+Japan,Q17,http://www.wikidata.org/entity/Q11548123,Meteorological Satellite Center,Control room,35.77666667,139.5325
+Japan,Q17,http://www.wikidata.org/entity/Q7813831,Tokyo Area Control Center,Control room,35.801,139.478
 United States,Q30,http://www.wikidata.org/entity/Q5132053,Cleveland Air Route Traffic Control Center,Control room,41.2973,-82.2064
 United States,Q30,http://www.wikidata.org/entity/Q7971652,Washington Air Route Traffic Control Center,Control room,39.1016,-77.5429
 United States,Q30,http://www.wikidata.org/entity/Q96397268,Old Port Columbus Terminal,Control room,39.986854,-82.87179
@@ -31,20 +33,18 @@ United States,Q30,http://www.wikidata.org/entity/Q4712803,Albuquerque Air Route 
 United States,Q30,http://www.wikidata.org/entity/Q5472374,Fort Worth Air Route Traffic Control Center,Control room,32.8305,-97.0667
 United States,Q30,http://www.wikidata.org/entity/Q5095481,Chicago Air Route Traffic Control Center,Control room,41.7827778,-88.3311111
 United States,Q30,http://www.wikidata.org/entity/Q16821457,Payload Operations Integration Center,Control room,34.646305555,-86.665611111
-Germany,Q183,http://www.wikidata.org/entity/Q106660834,Verkehrszentrale Wilhelmshaven,Control room,53.515559,8.145724
-Germany,Q183,http://www.wikidata.org/entity/Q106771784,Q106771784,Control room,53.8897,9.14259
-Germany,Q183,http://www.wikidata.org/entity/Q106831100,Verkehrszentrale Brunsbüttel,Control room,53.8897,9.14259
-Germany,Q183,http://www.wikidata.org/entity/Q1205900,German Space Operations Center,Control room,48.0873,11.2814
-Germany,Q183,http://www.wikidata.org/entity/Q106600801,Q106600801,Control room,53.53849,8.58054
-Germany,Q183,http://www.wikidata.org/entity/Q697711,European Space Operations Centre,Control room,49.87096,8.62264
-Germany,Q183,http://www.wikidata.org/entity/Q104695909,Q104695909,Control room,54.177482,12.097538
-Germany,Q183,http://www.wikidata.org/entity/Q106673554,Q106673554,Control room,53.07198,8.80424
-Germany,Q183,http://www.wikidata.org/entity/Q98743936,Tower Hart in Fürstenfeldbruck,Control room,48.200644651,11.270318386
-Germany,Q183,http://www.wikidata.org/entity/Q98740973,Tower Olof-Palme-Straße 9; Paul-Henri-Spaak-Straße 4; Olof-Palme-Straße 1 in München,Control room,48.137750902,11.690416756
-Germany,Q183,http://www.wikidata.org/entity/Q104602255,Verkehrszentrale Travemünde,Control room,53.960694444,10.883222222
-Germany,Q183,http://www.wikidata.org/entity/Q114064255,Tower,Control room,48.2395,11.55052
-Germany,Q183,http://www.wikidata.org/entity/Q104760829,Verkehrszentrale Cuxhaven,Control room,53.86915,8.70603
-Germany,Q183,http://www.wikidata.org/entity/Q2516526,Vessel Traffic Service Centre Ems,Control room,53.33861111,7.02388889
+Australia,Q408,http://www.wikidata.org/entity/Q94101636,Perth Airport control tower,Control room,-31.943377,115.975107
+Australia,Q408,http://www.wikidata.org/entity/Q38170354,Launceston Airport Air Traffic Control Tower,Control room,-41.547757,147.208918
+Australia,Q408,http://www.wikidata.org/entity/Q38167266,Parafield Airport Air Traffic Control Tower,Control room,-34.790791,138.636261
+Australia,Q408,http://www.wikidata.org/entity/Q106310765,PHPA control tower,Control room,-20.314944444,118.576027777
+Australia,Q408,http://www.wikidata.org/entity/Q109470808,Jandakot Airport Air Traffic Control Tower,Control room,-32.09545232,115.876950391
+Canada,Q16,http://www.wikidata.org/entity/Q134688797,Vancouver Area Control Centre,Control room,49.1374627,-122.8501046
+Canada,Q16,http://www.wikidata.org/entity/Q134688787,Gander Area Control Centre,Control room,48.9662401,-54.597722
+Canada,Q16,http://www.wikidata.org/entity/Q6906242,Montreal Area Control Centre,Control room,45.4779,-73.7717
+Canada,Q16,http://www.wikidata.org/entity/Q17515473,Winnipeg Area Control Centre,Control room,49.9004,-97.2596
+Canada,Q16,http://www.wikidata.org/entity/Q134688779,Moncton Area Control Centre,Control room,46.0714895,-64.7685565
+Canada,Q16,http://www.wikidata.org/entity/Q134688792,Edmonton Area Control Centre,Control room,53.31142,-113.578393
+Canada,Q16,http://www.wikidata.org/entity/Q7826266,Toronto Area Control Centre,Control room,43.6716,-79.6274
 France,Q142,http://www.wikidata.org/entity/Q113639166,Sémaphore de la Pointe Saint-Mathieu,Control room,48.32986,-4.77093
 France,Q142,http://www.wikidata.org/entity/Q132548387,Q132548387,Control room,43.267014,5.294688
 France,Q142,http://www.wikidata.org/entity/Q20687203,Sémaphore du cap Béar,Control room,42.516275,3.133163888
@@ -59,6 +59,14 @@ France,Q142,http://www.wikidata.org/entity/Q132569024,Q132569024,Control room,43
 France,Q142,http://www.wikidata.org/entity/Q132529682,Q132529682,Control room,43.174818,5.574196
 France,Q142,http://www.wikidata.org/entity/Q16610136,Sémaphore de Capo Cavallo,Control room,42.5169,8.68278
 France,Q142,http://www.wikidata.org/entity/Q110814856,Poste directeur de tir de la Cité d’Alet à Saint-Malo,Control room,48.63792,-2.03024
+Mexico,Q96,http://www.wikidata.org/entity/Q128799796,Centro de Comando y Control Sur,Control room,19.37245,-99.16003
+Mexico,Q96,http://www.wikidata.org/entity/Q128799798,Centro de Comando y Control Poniente,Control room,19.39095,-99.19934
+Mexico,Q96,http://www.wikidata.org/entity/Q128799802,Centro de Comando y Control Oriente,Control room,19.31285,-99.06498
+Mexico,Q96,http://www.wikidata.org/entity/Q128799785,Centro de Comando y Control Centro,Control room,19.43171,-99.14631
+Mexico,Q96,http://www.wikidata.org/entity/Q128799793,Centro de Comando y Control Norte,Control room,19.48286,-99.1172
+Mexico,Q96,http://www.wikidata.org/entity/Q128799805,Centro de Comando y Control Centro Histórico,Control room,19.43171,-99.14615
+Mexico,Q96,http://www.wikidata.org/entity/Q128799742,C5 in Mexico City,Control room,19.42476,-99.11804
+Mexico,Q96,http://www.wikidata.org/entity/Q128799804,Centro de Comando y Control Central de Abasto,Control room,19.3729,-99.09651
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26672181,"Control Tower, Former Little Walden Airfield",Control room,52.066733,0.271912
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26672050,"Control Tower, Raf Museum (Former Raf East Kirkby)",Control room,53.138759,-0.001332
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26676344,Control Tower At North Weald Airfield,Control room,51.718116,0.159589
@@ -77,52 +85,44 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q26672696,"Control Tower, To 
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26670980,"Control Tower, Former Raf Little Staughton",Control room,52.242328,-0.359335
 United Kingdom,Q145,http://www.wikidata.org/entity/Q126733938,"Air Traffic Control Tower, Aberdeen International Airport",Control room,57.2053,-2.20602
 United Kingdom,Q145,http://www.wikidata.org/entity/Q26670290,Control Tower,Control room,51.271719,0.403148
+Pakistan,Q843,http://www.wikidata.org/entity/Q6367728,Karachi Area Control Center,Control room,24.899,67.151
+Spain,Q29,http://www.wikidata.org/entity/Q28169249,Maritime traffic control tower in A Coruña,Control room,43.36882222,-8.38532778
+Spain,Q29,http://www.wikidata.org/entity/Q112342655,Q112342655,Control room,36.830595834,-2.46657181
+Spain,Q29,http://www.wikidata.org/entity/Q17195252,Railway control tower in Godella,Control room,39.52064,-0.41421
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q3664824,Beijing Aerospace Flight Control Center,Control room,40.07198889,116.25709167
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q106861520,Hong Kong Flight Information Region,Control room,22.30530556,113.92183333
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q127241677,PCY S/R Alternative Incident Control Room,Control room,22.449794587,114.149880409
 Netherlands,Q55,http://www.wikidata.org/entity/Q2132241,vessel traffic service Rotterdam,Control room,51.88975,4.31423
 Netherlands,Q55,http://www.wikidata.org/entity/Q2052814,Schipholtoren,Control room,52.307514,4.762453
 Netherlands,Q55,http://www.wikidata.org/entity/Q88111312,Controltower Schiphol West,Control room,52.331694444,4.717888888
 Netherlands,Q55,http://www.wikidata.org/entity/Q2005585,Q2005585,Control room,52.084156,5.098198
 Netherlands,Q55,http://www.wikidata.org/entity/Q56311179,Air Operations Control Station Nieuw Milligen,Control room,52.224957,5.750945
-Mexico,Q96,http://www.wikidata.org/entity/Q128799796,Centro de Comando y Control Sur,Control room,19.37245,-99.16003
-Mexico,Q96,http://www.wikidata.org/entity/Q128799798,Centro de Comando y Control Poniente,Control room,19.39095,-99.19934
-Mexico,Q96,http://www.wikidata.org/entity/Q128799802,Centro de Comando y Control Oriente,Control room,19.31285,-99.06498
-Mexico,Q96,http://www.wikidata.org/entity/Q128799785,Centro de Comando y Control Centro,Control room,19.43171,-99.14631
-Mexico,Q96,http://www.wikidata.org/entity/Q128799793,Centro de Comando y Control Norte,Control room,19.48286,-99.1172
-Mexico,Q96,http://www.wikidata.org/entity/Q128799805,Centro de Comando y Control Centro Histórico,Control room,19.43171,-99.14615
-Mexico,Q96,http://www.wikidata.org/entity/Q128799742,C5 in Mexico City,Control room,19.42476,-99.11804
-Mexico,Q96,http://www.wikidata.org/entity/Q128799804,Centro de Comando y Control Central de Abasto,Control room,19.3729,-99.09651
-Canada,Q16,http://www.wikidata.org/entity/Q134688797,Vancouver Area Control Centre,Control room,49.1374627,-122.8501046
-Canada,Q16,http://www.wikidata.org/entity/Q134688787,Gander Area Control Centre,Control room,48.9662401,-54.597722
-Canada,Q16,http://www.wikidata.org/entity/Q6906242,Montreal Area Control Centre,Control room,45.4779,-73.7717
-Canada,Q16,http://www.wikidata.org/entity/Q17515473,Winnipeg Area Control Centre,Control room,49.9004,-97.2596
-Canada,Q16,http://www.wikidata.org/entity/Q134688779,Moncton Area Control Centre,Control room,46.0714895,-64.7685565
-Canada,Q16,http://www.wikidata.org/entity/Q134688792,Edmonton Area Control Centre,Control room,53.31142,-113.578393
-Canada,Q16,http://www.wikidata.org/entity/Q7826266,Toronto Area Control Centre,Control room,43.6716,-79.6274
-Japan,Q17,http://www.wikidata.org/entity/Q11548123,Meteorological Satellite Center,Control room,35.77666667,139.5325
-Japan,Q17,http://www.wikidata.org/entity/Q7813831,Tokyo Area Control Center,Control room,35.801,139.478
-Pakistan,Q843,http://www.wikidata.org/entity/Q6367728,Karachi Area Control Center,Control room,24.899,67.151
-Denmark,Q35,http://www.wikidata.org/entity/Q12340417,Q12340417,Control room,55.61227778,12.99961111
-Australia,Q408,http://www.wikidata.org/entity/Q94101636,Perth Airport control tower,Control room,-31.943377,115.975107
-Australia,Q408,http://www.wikidata.org/entity/Q38170354,Launceston Airport Air Traffic Control Tower,Control room,-41.547757,147.208918
-Australia,Q408,http://www.wikidata.org/entity/Q38167266,Parafield Airport Air Traffic Control Tower,Control room,-34.790791,138.636261
-Australia,Q408,http://www.wikidata.org/entity/Q106310765,PHPA control tower,Control room,-20.314944444,118.576027777
-Australia,Q408,http://www.wikidata.org/entity/Q109470808,Jandakot Airport Air Traffic Control Tower,Control room,-32.09545232,115.876950391
-Czech Republic,Q213,http://www.wikidata.org/entity/Q109518278,Q109518278,Control room,50.0780514,14.3904467
-Czech Republic,Q213,http://www.wikidata.org/entity/Q110288322,Multifunkční operační středisko Malovanka,Control room,50.0858642,14.3812408
-Sweden,Q34,http://www.wikidata.org/entity/Q12340417,Q12340417,Control room,55.61227778,12.99961111
-Sweden,Q34,http://www.wikidata.org/entity/Q10418078,Q10418078,Control room,59.64930556,17.93366667
-India,Q668,http://www.wikidata.org/entity/Q3520782,Master Control Facility,Control room,13.071666,76.099376
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q3664824,Beijing Aerospace Flight Control Center,Control room,40.07198889,116.25709167
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q106861520,Hong Kong Flight Information Region,Control room,22.30530556,113.92183333
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q127241677,PCY S/R Alternative Incident Control Room,Control room,22.449794587,114.149880409
+Germany,Q183,http://www.wikidata.org/entity/Q106660834,Verkehrszentrale Wilhelmshaven,Control room,53.515559,8.145724
+Germany,Q183,http://www.wikidata.org/entity/Q106771784,Q106771784,Control room,53.8897,9.14259
+Germany,Q183,http://www.wikidata.org/entity/Q106831100,Verkehrszentrale Brunsbüttel,Control room,53.8897,9.14259
+Germany,Q183,http://www.wikidata.org/entity/Q1205900,German Space Operations Center,Control room,48.0873,11.2814
+Germany,Q183,http://www.wikidata.org/entity/Q106600801,Q106600801,Control room,53.53849,8.58054
+Germany,Q183,http://www.wikidata.org/entity/Q697711,European Space Operations Centre,Control room,49.87096,8.62264
+Germany,Q183,http://www.wikidata.org/entity/Q104695909,Q104695909,Control room,54.177482,12.097538
+Germany,Q183,http://www.wikidata.org/entity/Q106673554,Q106673554,Control room,53.07198,8.80424
+Germany,Q183,http://www.wikidata.org/entity/Q98743936,Tower Hart in Fürstenfeldbruck,Control room,48.200644651,11.270318386
+Germany,Q183,http://www.wikidata.org/entity/Q98740973,Tower Olof-Palme-Straße 9; Paul-Henri-Spaak-Straße 4; Olof-Palme-Straße 1 in München,Control room,48.137750902,11.690416756
+Germany,Q183,http://www.wikidata.org/entity/Q104602255,Verkehrszentrale Travemünde,Control room,53.960694444,10.883222222
+Germany,Q183,http://www.wikidata.org/entity/Q114064255,Tower,Control room,48.2395,11.55052
+Germany,Q183,http://www.wikidata.org/entity/Q104760829,Verkehrszentrale Cuxhaven,Control room,53.86915,8.70603
+Germany,Q183,http://www.wikidata.org/entity/Q2516526,Vessel Traffic Service Centre Ems,Control room,53.33861111,7.02388889
 Norway,Q20,http://www.wikidata.org/entity/Q19374774,Q19374774,Control room,59.41555556,10.49638889
 Norway,Q20,http://www.wikidata.org/entity/Q19378591,Kvitsøy Vessel Traffic Service Centre,Control room,59.0608,5.3997
 Norway,Q20,http://www.wikidata.org/entity/Q22570292,Fedje Vessel Traffic Service Centre,Control room,60.7801,4.6981
-North Korea,Q423,http://www.wikidata.org/entity/Q866148,General Satellite Control Center,Control room,39.146957,125.773111
-Philippines,Q928,http://www.wikidata.org/entity/Q23423304,Nielson Tower,Control room,14.55589,121.02452
+Sweden,Q34,http://www.wikidata.org/entity/Q12340417,Q12340417,Control room,55.61227778,12.99961111
+Sweden,Q34,http://www.wikidata.org/entity/Q10418078,Q10418078,Control room,59.64930556,17.93366667
 Italy,Q38,http://www.wikidata.org/entity/Q16601451,Q16601451,Control room,43.020296,9.805755
-Spain,Q29,http://www.wikidata.org/entity/Q28169249,Maritime traffic control tower in A Coruña,Control room,43.36882222,-8.38532778
-Spain,Q29,http://www.wikidata.org/entity/Q112342655,Q112342655,Control room,36.830595834,-2.46657181
-Spain,Q29,http://www.wikidata.org/entity/Q17195252,Railway control tower in Godella,Control room,39.52064,-0.41421
+Czech Republic,Q213,http://www.wikidata.org/entity/Q109518278,Q109518278,Control room,50.0780514,14.3904467
+Czech Republic,Q213,http://www.wikidata.org/entity/Q110288322,Multifunkční operační středisko Malovanka,Control room,50.0858642,14.3812408
+Denmark,Q35,http://www.wikidata.org/entity/Q12340417,Q12340417,Control room,55.61227778,12.99961111
+North Korea,Q423,http://www.wikidata.org/entity/Q866148,General Satellite Control Center,Control room,39.146957,125.773111
+India,Q668,http://www.wikidata.org/entity/Q3520782,Master Control Facility,Control room,13.071666,76.099376
+Philippines,Q928,http://www.wikidata.org/entity/Q23423304,Nielson Tower,Control room,14.55589,121.02452
+Russia,Q159,http://www.wikidata.org/entity/Q127553491,Q127553491,Control room,59.906202,30.317558
 Poland,Q36,http://www.wikidata.org/entity/Q122177166,Q122177166,Control room,52.52895,17.59961
 Poland,Q36,http://www.wikidata.org/entity/Q110390028,Traffic control building “Grzybek”,Control room,53.425222,14.551778
-Russia,Q159,http://www.wikidata.org/entity/Q127553491,Q127553491,Control room,59.906202,30.317558
