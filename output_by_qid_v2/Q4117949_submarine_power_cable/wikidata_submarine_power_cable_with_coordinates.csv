@@ -1,4 +1,17 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,submarine power cable,51.0658,1.5563
+France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,submarine power cable,50.088,-0.515
+France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,submarine power cable,51.0147,1.4967
+Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,submarine power cable,57.6477,8.618
+Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,submarine power cable,54.6293,4.2304
+Denmark,Q35,http://www.wikidata.org/entity/Q893982,Bornholm Cable,submarine power cable,55.2972,14.4353
+Sweden,Q34,http://www.wikidata.org/entity/Q893982,Bornholm Cable,submarine power cable,55.2972,14.4353
+Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,submarine power cable,53.5305,-4.8257
+Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,submarine power cable,51.6828,-6.1441
+Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,submarine power cable,51.44,0.716667
+Norway,Q20,http://www.wikidata.org/entity/Q264054,Skagerrak,submarine power cable,57.6477,8.618
+Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,submarine power cable,56.20835,7.23561
+Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,submarine power cable,57.5672,2.6769
 United Kingdom,Q145,http://www.wikidata.org/entity/Q918000,BritNed,submarine power cable,51.44,0.716667
 United Kingdom,Q145,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,submarine power cable,51.0658,1.5563
 United Kingdom,Q145,http://www.wikidata.org/entity/Q21208645,Viking Link,submarine power cable,54.6293,4.2304
@@ -14,16 +27,3 @@ Germany,Q183,http://www.wikidata.org/entity/Q19599433,DolWin3,submarine power ca
 Germany,Q183,http://www.wikidata.org/entity/Q1961296,NORD.LINK,submarine power cable,56.20835,7.23561
 Germany,Q183,http://www.wikidata.org/entity/Q19599432,DolWin2,submarine power cable,53.97851,6.92315
 Germany,Q183,http://www.wikidata.org/entity/Q5636198,DolWin1,submarine power cable,53.9968,6.4206
-France,Q142,http://www.wikidata.org/entity/Q1563624,HVDC Cross-Channel,submarine power cable,51.0658,1.5563
-France,Q142,http://www.wikidata.org/entity/Q28231939,IFA-2,submarine power cable,50.088,-0.515
-France,Q142,http://www.wikidata.org/entity/Q85932728,ElecLink,submarine power cable,51.0147,1.4967
-Norway,Q20,http://www.wikidata.org/entity/Q264054,Skagerrak,submarine power cable,57.6477,8.618
-Norway,Q20,http://www.wikidata.org/entity/Q1961296,NORD.LINK,submarine power cable,56.20835,7.23561
-Norway,Q20,http://www.wikidata.org/entity/Q5636209,North Sea Link,submarine power cable,57.5672,2.6769
-Sweden,Q34,http://www.wikidata.org/entity/Q893982,Bornholm Cable,submarine power cable,55.2972,14.4353
-Netherlands,Q55,http://www.wikidata.org/entity/Q918000,BritNed,submarine power cable,51.44,0.716667
-Denmark,Q35,http://www.wikidata.org/entity/Q264054,Skagerrak,submarine power cable,57.6477,8.618
-Denmark,Q35,http://www.wikidata.org/entity/Q21208645,Viking Link,submarine power cable,54.6293,4.2304
-Denmark,Q35,http://www.wikidata.org/entity/Q893982,Bornholm Cable,submarine power cable,55.2972,14.4353
-Ireland,Q27,http://www.wikidata.org/entity/Q5331045,East–West Interconnector,submarine power cable,53.5305,-4.8257
-Ireland,Q27,http://www.wikidata.org/entity/Q85764561,Greenlink,submarine power cable,51.6828,-6.1441

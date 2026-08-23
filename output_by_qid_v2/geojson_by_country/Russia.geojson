@@ -10410,6 +10410,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.166666666,
+          59.333333333
+        ]
+      },
+      "properties": {
+        "label": "Narva Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2458214",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q2458214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           58.5825,
           54.23
         ]
@@ -21681,6 +21698,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          35.266,
+          44.974
+        ]
+      },
+      "properties": {
+        "label": "Koktebel winery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4183131",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q4183131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           40.9585,
           56.9617
         ]
@@ -24513,6 +24547,23 @@
         "entity": "http://www.wikidata.org/entity/Q132776284",
         "country_qid": "Q159",
         "Wikidata Qid": "Q132776284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5206,
+          44.6116
+        ]
+      },
+      "properties": {
+        "label": "Chernomorets design studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q86685442",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q86685442"
       }
     },
     {

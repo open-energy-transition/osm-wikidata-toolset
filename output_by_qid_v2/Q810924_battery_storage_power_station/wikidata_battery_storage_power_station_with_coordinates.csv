@@ -388,11 +388,6 @@ United States,Q30,http://www.wikidata.org/entity/Q116697803,Oriana Energy Hybrid
 United States,Q30,http://www.wikidata.org/entity/Q116697618,Faunce Corner Community Solar,Battery storage power station,41.672831,-70.9895
 United States,Q30,http://www.wikidata.org/entity/Q116716135,University of California San Diego Hybrid,Battery storage power station,32.8747,-117.2392
 United States,Q30,http://www.wikidata.org/entity/Q116720914,El Cajon Energy Storage,Battery storage power station,32.8115,-117.0505
-Belgium,Q31,http://www.wikidata.org/entity/Q124629755,Green Turtle,Battery storage power station,51.0484,5.6948
-Belgium,Q31,http://www.wikidata.org/entity/Q124629754,Blue Marlin,Battery storage power station,51.1236,5.7742
-Netherlands,Q55,http://www.wikidata.org/entity/Q124629751,Rhino,Battery storage power station,52.51736,5.54469
-Netherlands,Q55,http://www.wikidata.org/entity/Q124629753,Leopard,Battery storage power station,53.31061,6.97634
-Netherlands,Q55,http://www.wikidata.org/entity/Q124629752,Buffalo,Battery storage power station,52.51736,5.54568
 Australia,Q408,http://www.wikidata.org/entity/Q125232391,Kwinana Battery Energy Storage System 1,Battery storage power station,-32.198337,115.775155
 Australia,Q408,http://www.wikidata.org/entity/Q125495010,Waroona BESS,Battery storage power station,-32.832643,115.706596
 Australia,Q408,http://www.wikidata.org/entity/Q130899765,Cunderdin Solar Farm,Battery storage power station,-31.6487,117.278
@@ -418,6 +413,8 @@ Australia,Q408,http://www.wikidata.org/entity/Q133465099,Collie BESS Stage 2,Bat
 Australia,Q408,http://www.wikidata.org/entity/Q125477125,Collie Battery Energy Storage System,Battery storage power station,-33.33141,116.23499
 Australia,Q408,http://www.wikidata.org/entity/Q125494930,Muchea Battery,Battery storage power station,-31.5488581,115.6285548
 Australia,Q408,http://www.wikidata.org/entity/Q125477705,BESS Wagerup,Battery storage power station,-32.915431,115.917348
+Belgium,Q31,http://www.wikidata.org/entity/Q124629755,Green Turtle,Battery storage power station,51.0484,5.6948
+Belgium,Q31,http://www.wikidata.org/entity/Q124629754,Blue Marlin,Battery storage power station,51.1236,5.7742
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116878879,Nursling Battery,Battery storage power station,50.942355,-1.484869
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116884580,Whitelee Battery,Battery storage power station,55.6954,-4.17331
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116878862,Hawkers Hill Energy Park,Battery storage power station,51.013772,-2.208174
@@ -435,5 +432,8 @@ United Kingdom,Q145,http://www.wikidata.org/entity/Q116878016,Capenhurst Battery
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116878153,Roosecote Battery,Battery storage power station,54.105,-3.189
 United Kingdom,Q145,http://www.wikidata.org/entity/Q117066391,Fideoak Mill Battery Storage,Battery storage power station,51.018497,-3.157186
 United Kingdom,Q145,http://www.wikidata.org/entity/Q116890190,Hunningley Stairfoot BESS,Battery storage power station,53.54841,-1.45007
-Switzerland,Q39,http://www.wikidata.org/entity/Q123414212,BESS Walenstadt,Battery storage power station,47.11629,9.32272
+Netherlands,Q55,http://www.wikidata.org/entity/Q124629751,Rhino,Battery storage power station,52.51736,5.54469
+Netherlands,Q55,http://www.wikidata.org/entity/Q124629753,Leopard,Battery storage power station,53.31061,6.97634
+Netherlands,Q55,http://www.wikidata.org/entity/Q124629752,Buffalo,Battery storage power station,52.51736,5.54568
 Namibia,Q1030,http://www.wikidata.org/entity/Q110933453,Erongo Battery Energy Storage System,Battery storage power station,-21.496944444,16.027777777
+Switzerland,Q39,http://www.wikidata.org/entity/Q123414212,BESS Walenstadt,Battery storage power station,47.11629,9.32272
