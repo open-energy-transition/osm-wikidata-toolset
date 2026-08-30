@@ -941,6 +941,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.513333333,
+          50.407777777
+        ]
+      },
+      "properties": {
+        "label": "Q112720425",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q112720425",
+        "country_qid": "Q34266",
+        "Wikidata Qid": "Q112720425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.023771,
           50.709635
         ]

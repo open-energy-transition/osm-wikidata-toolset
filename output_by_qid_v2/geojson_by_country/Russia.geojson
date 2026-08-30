@@ -9084,6 +9084,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.095722222,
+          44.948611111
+        ]
+      },
+      "properties": {
+        "label": "Transformer substation and electricity pylons",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q25443355",
+        "country_qid": "Q159",
+        "Wikidata Qid": "Q25443355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           21.846699714,
           54.626083766
         ]
@@ -10403,23 +10420,6 @@
         "entity": "http://www.wikidata.org/entity/Q1431535",
         "country_qid": "Q159",
         "Wikidata Qid": "Q1431535"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.166666666,
-          59.333333333
-        ]
-      },
-      "properties": {
-        "label": "Narva Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q2458214",
-        "country_qid": "Q159",
-        "Wikidata Qid": "Q2458214"
       }
     },
     {
