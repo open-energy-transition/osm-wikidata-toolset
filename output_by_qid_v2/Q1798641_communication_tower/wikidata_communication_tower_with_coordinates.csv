@@ -1,120 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Canada,Q16,http://www.wikidata.org/entity/Q5011067,CHCH Television Tower,Communication tower,43.2075,-79.7752
-Canada,Q16,http://www.wikidata.org/entity/Q134883,CN Tower,Communication tower,43.642752777,-79.387147222
-Canada,Q16,http://www.wikidata.org/entity/Q3543516,CBC Tower,Communication tower,46.4926,-72.6516
-Canada,Q16,http://www.wikidata.org/entity/Q4883108,Bell Aliant Tower,Communication tower,46.09,-64.7765
-Canada,Q16,http://www.wikidata.org/entity/Q5010762,CFPL Television Tower,Communication tower,42.9497,-81.2644
-Canada,Q16,http://www.wikidata.org/entity/Q4840769,Baden Tower,Communication tower,43.4047,-80.6347
-United Kingdom,Q145,http://www.wikidata.org/entity/Q26692424,Communications tower near Littlebury Green,Communication tower,52.015791,0.177114
-United Kingdom,Q145,http://www.wikidata.org/entity/Q26702375,"Microwave Tower, Henham",Communication tower,51.948176,0.271917
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7814621,Tolsford Hill BT Tower,Communication tower,51.1075,1.08472
-United Kingdom,Q145,http://www.wikidata.org/entity/Q2319549,Radio City Tower,Communication tower,53.406388888,-2.981944444
-United Kingdom,Q145,http://www.wikidata.org/entity/Q56524441,"Radio Mast, Broom Hill, Strood",Communication tower,51.40184,0.4833
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7650243,Sutton Common BT Tower,Communication tower,53.2061,-2.1007
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7808457,Tinshill BT Tower,Communication tower,53.8547,-1.61194
-United Kingdom,Q145,http://www.wikidata.org/entity/Q3410907,Purdown BT Tower,Communication tower,51.4853,-2.56278
-United Kingdom,Q145,http://www.wikidata.org/entity/Q797085,BT Tower,Communication tower,51.5215,-0.1389
-United Kingdom,Q145,http://www.wikidata.org/entity/Q7262953,Pye Green BT Tower,Communication tower,52.7287,-2.01965
-United Kingdom,Q145,http://www.wikidata.org/entity/Q5694430,Heaton Park BT Tower,Communication tower,53.5396,-2.25521
-Poland,Q36,http://www.wikidata.org/entity/Q1407331,Sucha Góra TV Tower,Communication tower,49.7561,21.8129
-Poland,Q36,http://www.wikidata.org/entity/Q11833105,Tatarska Góra TV Tower,Communication tower,49.77388889,22.76777778
-Poland,Q36,http://www.wikidata.org/entity/Q11695963,EKSP Grzywacz,Communication tower,53.9528,14.5025
-Poland,Q36,http://www.wikidata.org/entity/Q9373856,Q9373856,Communication tower,50.5508,16.5381
-Poland,Q36,http://www.wikidata.org/entity/Q16599287,Q16599287,Communication tower,50.8764,20.6317
-Poland,Q36,http://www.wikidata.org/entity/Q9373847,Radio tower in Feliksowka,Communication tower,50.6082,23.2608
-Poland,Q36,http://www.wikidata.org/entity/Q11833136,Skrzyczne TV Tower,Communication tower,49.6853,19.0297
-Poland,Q36,http://www.wikidata.org/entity/Q114081154,Gliwice Radio Tower,Communication tower,50.31334,18.68876
-Poland,Q36,http://www.wikidata.org/entity/Q9353826,Q9353826,Communication tower,49.4875,19.0994
-Poland,Q36,http://www.wikidata.org/entity/Q9326144,Q9326144,Communication tower,50.039,19.9464
-Poland,Q36,http://www.wikidata.org/entity/Q11833123,RTON Chrobrego,Communication tower,53.9172,14.2611
-United States,Q30,http://www.wikidata.org/entity/Q7955143,WRLP Tower,Communication tower,42.7597,-72.4331
-United States,Q30,http://www.wikidata.org/entity/Q7948754,WECT tower,Communication tower,34.5778,-78.4417
-United States,Q30,http://www.wikidata.org/entity/Q104902931,KCTV Broadcast Tower,Communication tower,39.070555555,-94.580833333
-United States,Q30,http://www.wikidata.org/entity/Q1719213,Griffin Television Tower Oklahoma,Communication tower,35.5494,-97.4972
-United States,Q30,http://www.wikidata.org/entity/Q7947925,WCML Television Tower Atlanta,Communication tower,45.1381,-84.1622
-United States,Q30,http://www.wikidata.org/entity/Q7953976,WOR TV Tower,Communication tower,40.7979,-74.0095
-United States,Q30,http://www.wikidata.org/entity/Q178187,WHDH-TV tower,Communication tower,42.3114,-71.2161
-United States,Q30,http://www.wikidata.org/entity/Q6984715,Nebraska Educational Tower Holdrege,Communication tower,40.3847,-99.4589
-United States,Q30,http://www.wikidata.org/entity/Q650097,Sutro Tower,Communication tower,37.7552,-122.4528
-United States,Q30,http://www.wikidata.org/entity/Q753669,KOBR-TV Tower,Communication tower,33.3754,-103.771
-United States,Q30,http://www.wikidata.org/entity/Q1376520,KWCH Tower,Communication tower,38.0606,-97.7639
-United States,Q30,http://www.wikidata.org/entity/Q1442026,KDLT tower,Communication tower,43.505,-96.5564
-United States,Q30,http://www.wikidata.org/entity/Q97280216,WTVR TV Tower,Communication tower,37.566388888,-77.476111111
-United States,Q30,http://www.wikidata.org/entity/Q6338344,KSWB-TV Tower,Communication tower,32.6964,-116.936
-United States,Q30,http://www.wikidata.org/entity/Q5312613,Duhamel Broadcasting Tower Angora,Communication tower,41.8411,-103.075
-United States,Q30,http://www.wikidata.org/entity/Q14680524,Kingman Army Air Forces Flexible Gunnery School Radio Tower,Communication tower,35.2586,-113.944
-United States,Q30,http://www.wikidata.org/entity/Q7672294,TV Alabama tower,Communication tower,33.48,-87.4306
-United States,Q30,http://www.wikidata.org/entity/Q365315,KXTV/KOVR tower,Communication tower,38.239722222,-121.501666666
-United States,Q30,http://www.wikidata.org/entity/Q381523,KCCI Tower,Communication tower,41.8097,-93.6214
-United States,Q30,http://www.wikidata.org/entity/Q1719060,KTAL TV Tower,Communication tower,32.9031,-94.0058
-United States,Q30,http://www.wikidata.org/entity/Q6329897,KGTV Tower,Communication tower,32.8389,-117.25
-United States,Q30,http://www.wikidata.org/entity/Q833654,KATV tower,Communication tower,34.797,-92.4889
-United States,Q30,http://www.wikidata.org/entity/Q6341621,KXTV/KOVR/KCRA Tower,Communication tower,38.2472,-121.502
-United States,Q30,http://www.wikidata.org/entity/Q96776696,WCPO TV Tower,Communication tower,39.125,-84.498888888
-United States,Q30,http://www.wikidata.org/entity/Q4654550,AT&T Madison Complex Tandem Office,Communication tower,34.0508,-118.253
-United States,Q30,http://www.wikidata.org/entity/Q7950946,WIS TV Tower,Communication tower,34.125,-80.7561
-United States,Q30,http://www.wikidata.org/entity/Q97280825,WLWT TV Tower,Communication tower,39.124166666,-84.521666666
-United States,Q30,http://www.wikidata.org/entity/Q354380,KXJB-TV mast,Communication tower,47.279166666,-97.340833333
-United States,Q30,http://www.wikidata.org/entity/Q6330160,KHJ-TV/FM Tower,Communication tower,34.2272,-118.067
-United States,Q30,http://www.wikidata.org/entity/Q7954034,WOWK Television Tower,Communication tower,38.5058,-82.2092
-United States,Q30,http://www.wikidata.org/entity/Q5130652,Redfield Tower,Communication tower,34.4419,-92.2178
-United States,Q30,http://www.wikidata.org/entity/Q7947827,WCIX TV Tower,Communication tower,25.5404,-80.4684
-United States,Q30,http://www.wikidata.org/entity/Q7950988,WIVB-TV Tower,Communication tower,42.6592,-78.6256
-United States,Q30,http://www.wikidata.org/entity/Q2158889,WITI TV Tower,Communication tower,43.0906,-87.8972
-United States,Q30,http://www.wikidata.org/entity/Q19881960,WTVY-TV Tower,Communication tower,30.919722222,-85.741666666
-United States,Q30,http://www.wikidata.org/entity/Q1120886,KVLY-TV mast,Communication tower,47.342222222,-97.289166666
-United States,Q30,http://www.wikidata.org/entity/Q14704897,KDUH-TV Mast Hemingford,Communication tower,42.1725,-103.233
-United States,Q30,http://www.wikidata.org/entity/Q753662,KFVS TV Mast,Communication tower,37.429444444,-89.503888888
-United States,Q30,http://www.wikidata.org/entity/Q14682551,KCBS-TV/FM Tower,Communication tower,34.2319,-118.073
-Estonia,Q191,http://www.wikidata.org/entity/Q571961,Valgjärve TV Mast,Communication tower,58.0975,26.67805556
-Estonia,Q191,http://www.wikidata.org/entity/Q1365010,Tallinn TV Tower,Communication tower,59.471111,24.8875
-Estonia,Q191,http://www.wikidata.org/entity/Q16411204,Pärnu TV mast,Communication tower,58.3775,24.575555555
-Estonia,Q191,http://www.wikidata.org/entity/Q2270372,Kohtla-Nõmme TV mast,Communication tower,59.34583333,27.19805556
-Estonia,Q191,http://www.wikidata.org/entity/Q622646,Koeru TV Mast,Communication tower,58.974722,26.056389
-Estonia,Q191,http://www.wikidata.org/entity/Q12376496,Tartu TV Mast,Communication tower,58.36194444,26.70194444
-France,Q142,http://www.wikidata.org/entity/Q3588207,Émetteur de Molesmes,Communication tower,47.6088,3.45808
-France,Q142,http://www.wikidata.org/entity/Q1407092,Q1407092,Communication tower,48.802414,2.204451
-France,Q142,http://www.wikidata.org/entity/Q122216611,Q122216611,Communication tower,48.60015,2.442766666
-France,Q142,http://www.wikidata.org/entity/Q86666126,Q86666126,Communication tower,46.1817,4.612
-France,Q142,http://www.wikidata.org/entity/Q1407323,Q1407323,Communication tower,48.8851,2.4222
-France,Q142,http://www.wikidata.org/entity/Q107355704,Q107355704,Communication tower,47.66,6.813333333
-France,Q142,http://www.wikidata.org/entity/Q3533833,Émetteur TDF de Chennevières-sur-Marne,Communication tower,48.804813888,2.533130555
-France,Q142,http://www.wikidata.org/entity/Q16294632,Q16294632,Communication tower,48.58611111,7.79555556
-France,Q142,http://www.wikidata.org/entity/Q117992929,Q117992929,Communication tower,45.802957,3.003559
-France,Q142,http://www.wikidata.org/entity/Q15128231,Q15128231,Communication tower,43.601651,1.473026
-France,Q142,http://www.wikidata.org/entity/Q30739137,Sites d'émission de la Croix de Guizay,Communication tower,45.400303,4.387562
-France,Q142,http://www.wikidata.org/entity/Q30739112,Émetteur du pic du Midi de Bigorre,Communication tower,42.9372776,0.1410962
-France,Q142,http://www.wikidata.org/entity/Q60847341,Q60847341,Communication tower,45.7468651,4.979783
-France,Q142,http://www.wikidata.org/entity/Q3588210,TV Mast Niort-Maisonnay,Communication tower,46.1925,-0.0528
-France,Q142,http://www.wikidata.org/entity/Q55305304,Tour hertzienne de Saint-Denis-lès-Bourg,Communication tower,46.207086,5.206781
-France,Q142,http://www.wikidata.org/entity/Q3588231,Émetteur du mont Pilat,Communication tower,45.39249,4.61131
-France,Q142,http://www.wikidata.org/entity/Q108903350,Q108903350,Communication tower,16.225277777,-61.593888888
-Finland,Q33,http://www.wikidata.org/entity/Q16902101,TV-Mast Jyväskylä,Communication tower,62.2069,25.6394
-Finland,Q33,http://www.wikidata.org/entity/Q385150,Yle Transmission Tower,Communication tower,60.20444444,24.92333333
-Finland,Q33,http://www.wikidata.org/entity/Q5411022,Eurajoki TV Mast,Communication tower,61.2811,21.6981
-Finland,Q33,http://www.wikidata.org/entity/Q7193490,Pihtipudas TV Mast,Communication tower,63.2886,25.6472
-Finland,Q33,http://www.wikidata.org/entity/Q4264882,Lapua Radio and TV-Mast,Communication tower,62.9556,22.9528
-Finland,Q33,http://www.wikidata.org/entity/Q5881671,Hollola TV Mast,Communication tower,61.0067,25.5233
-Finland,Q33,http://www.wikidata.org/entity/Q5636530,Haapavesi TV Mast,Communication tower,64.166111111,25.260833333
-Finland,Q33,http://www.wikidata.org/entity/Q7705364,Tervola Radio and TV-Mast,Communication tower,66.1167,24.6989
-Finland,Q33,http://www.wikidata.org/entity/Q83595223,Elisa communication tower,Communication tower,60.196884,24.936831
-Finland,Q33,http://www.wikidata.org/entity/Q4765726,Anjalankoski Radio and TV-Mast,Communication tower,60.6922,27.0464
-Finland,Q33,http://www.wikidata.org/entity/Q1141950,Lahti longwave transmitter,Communication tower,60.97944444,25.64694444
-Finland,Q33,http://www.wikidata.org/entity/Q41776632,Soppeenmäki TV mast,Communication tower,61.54222222,23.59805556
-Finland,Q33,http://www.wikidata.org/entity/Q7943671,Vuokatti Radio and TV-Mast,Communication tower,64.1264,28.2533
-Finland,Q33,http://www.wikidata.org/entity/Q6445261,Kuopio Radio and TV-Mast,Communication tower,62.7386,27.5414
-Finland,Q33,http://www.wikidata.org/entity/Q7855556,Turku Yle Radio Mast,Communication tower,60.3767,22.3347
-Ukraine,Q212,http://www.wikidata.org/entity/Q13668706,Odesa television tower,Communication tower,46.450083333,30.741222222
-Ukraine,Q212,http://www.wikidata.org/entity/Q97191119,Ivano-Frankivsk TV Tower,Communication tower,48.91722222,24.70833333
-Ukraine,Q212,http://www.wikidata.org/entity/Q92793735,Pryluky TV Mast,Communication tower,50.62604,32.39363
-Ukraine,Q212,http://www.wikidata.org/entity/Q12170061,Chernihiv TV Tower,Communication tower,51.494722222,31.289166666
-Ukraine,Q212,http://www.wikidata.org/entity/Q97191887,Karachun TV tower,Communication tower,48.813611,37.561667
-Ukraine,Q212,http://www.wikidata.org/entity/Q1369185,Kyiv TV Tower,Communication tower,50.471111111,30.453333333
-Ukraine,Q212,http://www.wikidata.org/entity/Q12167335,Q12167335,Communication tower,49.44849,26.98053
-Ukraine,Q212,http://www.wikidata.org/entity/Q85992906,Karachun TV tower,Communication tower,48.813611,37.561667
-Ukraine,Q212,http://www.wikidata.org/entity/Q12119116,Lviv TV tower,Communication tower,49.848,24.036838888
-Ukraine,Q212,http://www.wikidata.org/entity/Q6400703,Kharkiv TV Tower,Communication tower,50.043611111,36.235277777
-Ukraine,Q212,http://www.wikidata.org/entity/Q6401372,Kherson TV Tower,Communication tower,46.64,32.6266
 Germany,Q183,http://www.wikidata.org/entity/Q110703289,Funkturm Freiburg im Breisgau,Communication tower,48.02892,7.85568
 Germany,Q183,http://www.wikidata.org/entity/Q28124854,Q28124854,Communication tower,52.4428,9.20983
 Germany,Q183,http://www.wikidata.org/entity/Q298326,Österberg-Tower,Communication tower,48.523,9.07009
@@ -193,31 +77,36 @@ Germany,Q183,http://www.wikidata.org/entity/Q1244227,Fernmeldeturm Mannheim,Comm
 Germany,Q183,http://www.wikidata.org/entity/Q29568784,Transmitting station Berlin-Schöneberg,Communication tower,52.495833333,13.357777777
 Germany,Q183,http://www.wikidata.org/entity/Q2270139,Brandenkopf transmitter,Communication tower,48.3383,8.15355
 Germany,Q183,http://www.wikidata.org/entity/Q153646,Colonius,Communication tower,50.947222222,6.931944444
-Switzerland,Q39,http://www.wikidata.org/entity/Q1465655,Communication Tower Chasseral,Communication tower,47.1332,7.06049
-Switzerland,Q39,http://www.wikidata.org/entity/Q17521425,Directional beam antenna tower Ulmizberg,Communication tower,46.90056992,7.43400002
-Switzerland,Q39,http://www.wikidata.org/entity/Q996924,Brühlbergturm,Communication tower,47.5019,8.70247
-Switzerland,Q39,http://www.wikidata.org/entity/Q1407261,Bantiger TV Tower,Communication tower,46.9778,7.52864
-Switzerland,Q39,http://www.wikidata.org/entity/Q15715508,Bachtel Tower,Communication tower,47.294713888,8.886361111
-Switzerland,Q39,http://www.wikidata.org/entity/Q17326155,Q17326155,Communication tower,47.30472183,9.53972244
-Switzerland,Q39,http://www.wikidata.org/entity/Q26961003,Sendeturm Zürichberg,Communication tower,47.3859875,8.568067777
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1353260,Tianjin Radio and Television Tower,Communication tower,39.091944444,117.175
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407294,Tortoise Mountain TV Tower,Communication tower,30.558156,114.275083
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q168400,Canton Tower,Communication tower,23.1092,113.319147222
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q223207,Oriental Pearl Tower,Communication tower,31.241669444,121.494716666
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q9299854,Kaifeng TV Tower,Communication tower,34.80888889,114.31388889
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407298,Guangzhou TV Tower,Communication tower,23.14722,113.26305
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q129112,Zhuzhou Television Tower,Communication tower,27.821697,113.113556
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407327,Shijiazhuang TV Tower,Communication tower,38.019939,114.530016
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q190377,Central Radio & TV Tower,Communication tower,39.918091666,116.300405555
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q385663,Qingdao TV Tower,Communication tower,36.068953,120.350214
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1579238,Jiangsu Nanjing Broadcast Television Tower,Communication tower,32.067667,118.745114
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q65245,Zhongyuan Tower,Communication tower,34.724722222,113.722777777
-People's Republic of China,Q148,http://www.wikidata.org/entity/Q1139240,Liaoning Broadcast and TV Tower,Communication tower,41.780381,123.427861
-Czech Republic,Q213,http://www.wikidata.org/entity/Q106364619,antenna tower Sedlec - Lékařova Lhota,Communication tower,49.0806153,14.2702331
-Czech Republic,Q213,http://www.wikidata.org/entity/Q106364537,antenna tower Sedlec - Lékařova Lhota,Communication tower,49.0803956,14.2586278
-Czech Republic,Q213,http://www.wikidata.org/entity/Q1129608,Ještěd Tower,Communication tower,50.732628,14.984592
-Czech Republic,Q213,http://www.wikidata.org/entity/Q19602309,Krudum,Communication tower,50.1374875,12.7292975
-Czech Republic,Q213,http://www.wikidata.org/entity/Q1413217,Žižkov Television Tower,Communication tower,50.080833333,14.451388888
+Japan,Q17,http://www.wikidata.org/entity/Q847033,Fukuoka Tower,Communication tower,33.593305555,130.3515
+Japan,Q17,http://www.wikidata.org/entity/Q283373,Nagoya TV Tower,Communication tower,35.172381,136.908403
+Japan,Q17,http://www.wikidata.org/entity/Q1063319,Sapporo TV Tower,Communication tower,43.061111111,141.356388888
+Japan,Q17,http://www.wikidata.org/entity/Q1568000,Hakata Port Tower,Communication tower,33.60444444,130.39777778
+Japan,Q17,http://www.wikidata.org/entity/Q57965,Tokyo Skytree,Communication tower,35.710055555,139.810722222
+Japan,Q17,http://www.wikidata.org/entity/Q11495265,Haramachi Radio Tower,Communication tower,37.636611,140.983889
+Japan,Q17,http://www.wikidata.org/entity/Q11508062,Nihondaira Digital Tower,Communication tower,34.97430556,138.4655
+Japan,Q17,http://www.wikidata.org/entity/Q2090752,NTT Docomo Yoyogi Building,Communication tower,35.684361111,139.70325
+Japan,Q17,http://www.wikidata.org/entity/Q11542897,Yokohama Media Tower,Communication tower,35.459814,139.630017
+Estonia,Q191,http://www.wikidata.org/entity/Q571961,Valgjärve TV Mast,Communication tower,58.0975,26.67805556
+Estonia,Q191,http://www.wikidata.org/entity/Q1365010,Tallinn TV Tower,Communication tower,59.471111,24.8875
+Estonia,Q191,http://www.wikidata.org/entity/Q16411204,Pärnu TV mast,Communication tower,58.3775,24.575555555
+Estonia,Q191,http://www.wikidata.org/entity/Q2270372,Kohtla-Nõmme TV mast,Communication tower,59.34583333,27.19805556
+Estonia,Q191,http://www.wikidata.org/entity/Q622646,Koeru TV Mast,Communication tower,58.974722,26.056389
+Estonia,Q191,http://www.wikidata.org/entity/Q12376496,Tartu TV Mast,Communication tower,58.36194444,26.70194444
+Finland,Q33,http://www.wikidata.org/entity/Q16902101,TV-Mast Jyväskylä,Communication tower,62.2069,25.6394
+Finland,Q33,http://www.wikidata.org/entity/Q385150,Yle Transmission Tower,Communication tower,60.20444444,24.92333333
+Finland,Q33,http://www.wikidata.org/entity/Q5411022,Eurajoki TV Mast,Communication tower,61.2811,21.6981
+Finland,Q33,http://www.wikidata.org/entity/Q7193490,Pihtipudas TV Mast,Communication tower,63.2886,25.6472
+Finland,Q33,http://www.wikidata.org/entity/Q4264882,Lapua Radio and TV-Mast,Communication tower,62.9556,22.9528
+Finland,Q33,http://www.wikidata.org/entity/Q5881671,Hollola TV Mast,Communication tower,61.0067,25.5233
+Finland,Q33,http://www.wikidata.org/entity/Q5636530,Haapavesi TV Mast,Communication tower,64.166111111,25.260833333
+Finland,Q33,http://www.wikidata.org/entity/Q7705364,Tervola Radio and TV-Mast,Communication tower,66.1167,24.6989
+Finland,Q33,http://www.wikidata.org/entity/Q83595223,Elisa communication tower,Communication tower,60.196884,24.936831
+Finland,Q33,http://www.wikidata.org/entity/Q4765726,Anjalankoski Radio and TV-Mast,Communication tower,60.6922,27.0464
+Finland,Q33,http://www.wikidata.org/entity/Q1141950,Lahti longwave transmitter,Communication tower,60.97944444,25.64694444
+Finland,Q33,http://www.wikidata.org/entity/Q41776632,Soppeenmäki TV mast,Communication tower,61.54222222,23.59805556
+Finland,Q33,http://www.wikidata.org/entity/Q7943671,Vuokatti Radio and TV-Mast,Communication tower,64.1264,28.2533
+Finland,Q33,http://www.wikidata.org/entity/Q6445261,Kuopio Radio and TV-Mast,Communication tower,62.7386,27.5414
+Finland,Q33,http://www.wikidata.org/entity/Q7855556,Turku Yle Radio Mast,Communication tower,60.3767,22.3347
 Russia,Q159,http://www.wikidata.org/entity/Q134427292,Volgograd Broadcasting Tower,Communication tower,48.783293,44.487272
 Russia,Q159,http://www.wikidata.org/entity/Q1355638,Saint Petersburg TV Tower,Communication tower,59.976666666,30.320833333
 Russia,Q159,http://www.wikidata.org/entity/Q8047264,Yakutsk TV Tower,Communication tower,62.0274,129.723
@@ -232,13 +121,86 @@ Russia,Q159,http://www.wikidata.org/entity/Q181324,Ostankino Tower,Communication
 Russia,Q159,http://www.wikidata.org/entity/Q2017711,Moscow Octod Tower,Communication tower,55.781388888,37.489444444
 Russia,Q159,http://www.wikidata.org/entity/Q15640382,Belgorod Tower,Communication tower,50.6,36.6
 Russia,Q159,http://www.wikidata.org/entity/Q4454173,Telecentre (Ufa),Communication tower,54.72233889,55.92526944
-Hungary,Q28,http://www.wikidata.org/entity/Q366333,Lakihegy Tower,Communication tower,47.373055555,19.004444444
-Hungary,Q28,http://www.wikidata.org/entity/Q1289873,Transmitter Solt,Communication tower,46.834308333,19.031566666
-Hungary,Q28,http://www.wikidata.org/entity/Q627845,Avas TV Tower,Communication tower,48.0994114,20.7755435
-Hungary,Q28,http://www.wikidata.org/entity/Q16523231,Telefontorony,Communication tower,46.27101389,20.14533611
-Hungary,Q28,http://www.wikidata.org/entity/Q113329588,Communication tower,Communication tower,47.563467229,21.588746309
-Hungary,Q28,http://www.wikidata.org/entity/Q1407345,Bazita Peak TV Tower,Communication tower,46.81361111,16.8125
-Hungary,Q28,http://www.wikidata.org/entity/Q16522954,Q16522954,Communication tower,46.62388889,20.2825
+United States,Q30,http://www.wikidata.org/entity/Q7955143,WRLP Tower,Communication tower,42.7597,-72.4331
+United States,Q30,http://www.wikidata.org/entity/Q7948754,WECT tower,Communication tower,34.5778,-78.4417
+United States,Q30,http://www.wikidata.org/entity/Q104902931,KCTV Broadcast Tower,Communication tower,39.070555555,-94.580833333
+United States,Q30,http://www.wikidata.org/entity/Q1719213,Griffin Television Tower Oklahoma,Communication tower,35.5494,-97.4972
+United States,Q30,http://www.wikidata.org/entity/Q7947925,WCML Television Tower Atlanta,Communication tower,45.1381,-84.1622
+United States,Q30,http://www.wikidata.org/entity/Q7953976,WOR TV Tower,Communication tower,40.7979,-74.0095
+United States,Q30,http://www.wikidata.org/entity/Q178187,WHDH-TV tower,Communication tower,42.3114,-71.2161
+United States,Q30,http://www.wikidata.org/entity/Q6984715,Nebraska Educational Tower Holdrege,Communication tower,40.3847,-99.4589
+United States,Q30,http://www.wikidata.org/entity/Q650097,Sutro Tower,Communication tower,37.7552,-122.4528
+United States,Q30,http://www.wikidata.org/entity/Q753669,KOBR-TV Tower,Communication tower,33.3754,-103.771
+United States,Q30,http://www.wikidata.org/entity/Q1376520,KWCH Tower,Communication tower,38.0606,-97.7639
+United States,Q30,http://www.wikidata.org/entity/Q1442026,KDLT tower,Communication tower,43.505,-96.5564
+United States,Q30,http://www.wikidata.org/entity/Q97280216,WTVR TV Tower,Communication tower,37.566388888,-77.476111111
+United States,Q30,http://www.wikidata.org/entity/Q6338344,KSWB-TV Tower,Communication tower,32.6964,-116.936
+United States,Q30,http://www.wikidata.org/entity/Q5312613,Duhamel Broadcasting Tower Angora,Communication tower,41.8411,-103.075
+United States,Q30,http://www.wikidata.org/entity/Q14680524,Kingman Army Air Forces Flexible Gunnery School Radio Tower,Communication tower,35.2586,-113.944
+United States,Q30,http://www.wikidata.org/entity/Q7672294,TV Alabama tower,Communication tower,33.48,-87.4306
+United States,Q30,http://www.wikidata.org/entity/Q365315,KXTV/KOVR tower,Communication tower,38.239722222,-121.501666666
+United States,Q30,http://www.wikidata.org/entity/Q381523,KCCI Tower,Communication tower,41.8097,-93.6214
+United States,Q30,http://www.wikidata.org/entity/Q1719060,KTAL TV Tower,Communication tower,32.9031,-94.0058
+United States,Q30,http://www.wikidata.org/entity/Q6329897,KGTV Tower,Communication tower,32.8389,-117.25
+United States,Q30,http://www.wikidata.org/entity/Q833654,KATV tower,Communication tower,34.797,-92.4889
+United States,Q30,http://www.wikidata.org/entity/Q6341621,KXTV/KOVR/KCRA Tower,Communication tower,38.2472,-121.502
+United States,Q30,http://www.wikidata.org/entity/Q96776696,WCPO TV Tower,Communication tower,39.125,-84.498888888
+United States,Q30,http://www.wikidata.org/entity/Q4654550,AT&T Madison Complex Tandem Office,Communication tower,34.0508,-118.253
+United States,Q30,http://www.wikidata.org/entity/Q7950946,WIS TV Tower,Communication tower,34.125,-80.7561
+United States,Q30,http://www.wikidata.org/entity/Q97280825,WLWT TV Tower,Communication tower,39.124166666,-84.521666666
+United States,Q30,http://www.wikidata.org/entity/Q354380,KXJB-TV mast,Communication tower,47.279166666,-97.340833333
+United States,Q30,http://www.wikidata.org/entity/Q6330160,KHJ-TV/FM Tower,Communication tower,34.2272,-118.067
+United States,Q30,http://www.wikidata.org/entity/Q7954034,WOWK Television Tower,Communication tower,38.5058,-82.2092
+United States,Q30,http://www.wikidata.org/entity/Q5130652,Redfield Tower,Communication tower,34.4419,-92.2178
+United States,Q30,http://www.wikidata.org/entity/Q7947827,WCIX TV Tower,Communication tower,25.5404,-80.4684
+United States,Q30,http://www.wikidata.org/entity/Q7950988,WIVB-TV Tower,Communication tower,42.6592,-78.6256
+United States,Q30,http://www.wikidata.org/entity/Q2158889,WITI TV Tower,Communication tower,43.0906,-87.8972
+United States,Q30,http://www.wikidata.org/entity/Q19881960,WTVY-TV Tower,Communication tower,30.919722222,-85.741666666
+United States,Q30,http://www.wikidata.org/entity/Q1120886,KVLY-TV mast,Communication tower,47.342222222,-97.289166666
+United States,Q30,http://www.wikidata.org/entity/Q14704897,KDUH-TV Mast Hemingford,Communication tower,42.1725,-103.233
+United States,Q30,http://www.wikidata.org/entity/Q753662,KFVS TV Mast,Communication tower,37.429444444,-89.503888888
+United States,Q30,http://www.wikidata.org/entity/Q14682551,KCBS-TV/FM Tower,Communication tower,34.2319,-118.073
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1353260,Tianjin Radio and Television Tower,Communication tower,39.091944444,117.175
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407294,Tortoise Mountain TV Tower,Communication tower,30.558156,114.275083
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q168400,Canton Tower,Communication tower,23.1092,113.319147222
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q223207,Oriental Pearl Tower,Communication tower,31.241669444,121.494716666
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q9299854,Kaifeng TV Tower,Communication tower,34.80888889,114.31388889
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407298,Guangzhou TV Tower,Communication tower,23.14722,113.26305
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q129112,Zhuzhou Television Tower,Communication tower,27.821697,113.113556
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1407327,Shijiazhuang TV Tower,Communication tower,38.019939,114.530016
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q190377,Central Radio & TV Tower,Communication tower,39.918091666,116.300405555
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q385663,Qingdao TV Tower,Communication tower,36.068953,120.350214
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1579238,Jiangsu Nanjing Broadcast Television Tower,Communication tower,32.067667,118.745114
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q65245,Zhongyuan Tower,Communication tower,34.724722222,113.722777777
+People's Republic of China,Q148,http://www.wikidata.org/entity/Q1139240,Liaoning Broadcast and TV Tower,Communication tower,41.780381,123.427861
+United Kingdom,Q145,http://www.wikidata.org/entity/Q26692424,Communications tower near Littlebury Green,Communication tower,52.015791,0.177114
+United Kingdom,Q145,http://www.wikidata.org/entity/Q26702375,"Microwave Tower, Henham",Communication tower,51.948176,0.271917
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7814621,Tolsford Hill BT Tower,Communication tower,51.1075,1.08472
+United Kingdom,Q145,http://www.wikidata.org/entity/Q2319549,Radio City Tower,Communication tower,53.406388888,-2.981944444
+United Kingdom,Q145,http://www.wikidata.org/entity/Q56524441,"Radio Mast, Broom Hill, Strood",Communication tower,51.40184,0.4833
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7650243,Sutton Common BT Tower,Communication tower,53.2061,-2.1007
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7808457,Tinshill BT Tower,Communication tower,53.8547,-1.61194
+United Kingdom,Q145,http://www.wikidata.org/entity/Q3410907,Purdown BT Tower,Communication tower,51.4853,-2.56278
+United Kingdom,Q145,http://www.wikidata.org/entity/Q797085,BT Tower,Communication tower,51.5215,-0.1389
+United Kingdom,Q145,http://www.wikidata.org/entity/Q7262953,Pye Green BT Tower,Communication tower,52.7287,-2.01965
+United Kingdom,Q145,http://www.wikidata.org/entity/Q5694430,Heaton Park BT Tower,Communication tower,53.5396,-2.25521
+France,Q142,http://www.wikidata.org/entity/Q3588207,Émetteur de Molesmes,Communication tower,47.6088,3.45808
+France,Q142,http://www.wikidata.org/entity/Q1407092,Q1407092,Communication tower,48.802414,2.204451
+France,Q142,http://www.wikidata.org/entity/Q122216611,Q122216611,Communication tower,48.60015,2.442766666
+France,Q142,http://www.wikidata.org/entity/Q86666126,Q86666126,Communication tower,46.1817,4.612
+France,Q142,http://www.wikidata.org/entity/Q1407323,Q1407323,Communication tower,48.8851,2.4222
+France,Q142,http://www.wikidata.org/entity/Q107355704,Q107355704,Communication tower,47.66,6.813333333
+France,Q142,http://www.wikidata.org/entity/Q3533833,Émetteur TDF de Chennevières-sur-Marne,Communication tower,48.804813888,2.533130555
+France,Q142,http://www.wikidata.org/entity/Q16294632,Q16294632,Communication tower,48.58611111,7.79555556
+France,Q142,http://www.wikidata.org/entity/Q117992929,Q117992929,Communication tower,45.802957,3.003559
+France,Q142,http://www.wikidata.org/entity/Q15128231,Q15128231,Communication tower,43.601651,1.473026
+France,Q142,http://www.wikidata.org/entity/Q30739137,Sites d'émission de la Croix de Guizay,Communication tower,45.400303,4.387562
+France,Q142,http://www.wikidata.org/entity/Q30739112,Émetteur du pic du Midi de Bigorre,Communication tower,42.9372776,0.1410962
+France,Q142,http://www.wikidata.org/entity/Q60847341,Q60847341,Communication tower,45.7468651,4.979783
+France,Q142,http://www.wikidata.org/entity/Q3588210,TV Mast Niort-Maisonnay,Communication tower,46.1925,-0.0528
+France,Q142,http://www.wikidata.org/entity/Q55305304,Tour hertzienne de Saint-Denis-lès-Bourg,Communication tower,46.207086,5.206781
+France,Q142,http://www.wikidata.org/entity/Q3588231,Émetteur du mont Pilat,Communication tower,45.39249,4.61131
+France,Q142,http://www.wikidata.org/entity/Q108903350,Q108903350,Communication tower,16.225277777,-61.593888888
 India,Q668,http://www.wikidata.org/entity/Q924451,Pitampura TV Tower,Communication tower,28.697267,77.15035
 India,Q668,http://www.wikidata.org/entity/Q6375098,Katanga TV Tower,Communication tower,23.1471111,79.9368005
 India,Q668,http://www.wikidata.org/entity/Q187992,Rameswaram TV Tower,Communication tower,9.292656,79.309094
@@ -247,6 +209,24 @@ India,Q668,http://www.wikidata.org/entity/Q6124266,Jaisalmer TV Tower,Communicat
 India,Q668,http://www.wikidata.org/entity/Q1759799,Mumbai Television Tower,Communication tower,18.99991,72.81646
 India,Q668,http://www.wikidata.org/entity/Q7408906,Samatra TV Tower,Communication tower,23.191859,69.476877
 India,Q668,http://www.wikidata.org/entity/Q5439201,Fazilka TV Tower,Communication tower,30.39562,74.0338
+Poland,Q36,http://www.wikidata.org/entity/Q1407331,Sucha Góra TV Tower,Communication tower,49.7561,21.8129
+Poland,Q36,http://www.wikidata.org/entity/Q11833105,Tatarska Góra TV Tower,Communication tower,49.77388889,22.76777778
+Poland,Q36,http://www.wikidata.org/entity/Q11695963,EKSP Grzywacz,Communication tower,53.9528,14.5025
+Poland,Q36,http://www.wikidata.org/entity/Q9373856,Q9373856,Communication tower,50.5508,16.5381
+Poland,Q36,http://www.wikidata.org/entity/Q16599287,Q16599287,Communication tower,50.8764,20.6317
+Poland,Q36,http://www.wikidata.org/entity/Q9373847,Radio tower in Feliksowka,Communication tower,50.6082,23.2608
+Poland,Q36,http://www.wikidata.org/entity/Q11833136,Skrzyczne TV Tower,Communication tower,49.6853,19.0297
+Poland,Q36,http://www.wikidata.org/entity/Q114081154,Gliwice Radio Tower,Communication tower,50.31334,18.68876
+Poland,Q36,http://www.wikidata.org/entity/Q9353826,Q9353826,Communication tower,49.4875,19.0994
+Poland,Q36,http://www.wikidata.org/entity/Q9326144,Q9326144,Communication tower,50.039,19.9464
+Poland,Q36,http://www.wikidata.org/entity/Q11833123,RTON Chrobrego,Communication tower,53.9172,14.2611
+Switzerland,Q39,http://www.wikidata.org/entity/Q1465655,Communication Tower Chasseral,Communication tower,47.1332,7.06049
+Switzerland,Q39,http://www.wikidata.org/entity/Q17521425,Directional beam antenna tower Ulmizberg,Communication tower,46.90056992,7.43400002
+Switzerland,Q39,http://www.wikidata.org/entity/Q996924,Brühlbergturm,Communication tower,47.5019,8.70247
+Switzerland,Q39,http://www.wikidata.org/entity/Q1407261,Bantiger TV Tower,Communication tower,46.9778,7.52864
+Switzerland,Q39,http://www.wikidata.org/entity/Q15715508,Bachtel Tower,Communication tower,47.294713888,8.886361111
+Switzerland,Q39,http://www.wikidata.org/entity/Q17326155,Q17326155,Communication tower,47.30472183,9.53972244
+Switzerland,Q39,http://www.wikidata.org/entity/Q26961003,Sendeturm Zürichberg,Communication tower,47.3859875,8.568067777
 Spain,Q29,http://www.wikidata.org/entity/Q202530,Montjuïc Communications Tower,Communication tower,41.36417,2.15056
 Spain,Q29,http://www.wikidata.org/entity/Q125717571,Q125717571,Communication tower,39.404971,-0.426136
 Spain,Q29,http://www.wikidata.org/entity/Q54803667,Cuarte Torrero Mediumwave Transmitter,Communication tower,41.623499,-0.890317
@@ -259,77 +239,97 @@ Austria,Q40,http://www.wikidata.org/entity/Q1749693,Q1749693,Communication tower
 Austria,Q40,http://www.wikidata.org/entity/Q15128344,communication tower Hauser Kaibling,Communication tower,47.378111,13.769944
 Austria,Q40,http://www.wikidata.org/entity/Q15128268,Sender Himmelhof,Communication tower,48.19167,16.25505
 Austria,Q40,http://www.wikidata.org/entity/Q2151345,Exelberg Telecommunication Tower,Communication tower,48.2487,16.2441
-Sweden,Q34,http://www.wikidata.org/entity/Q1549630,Nackasändaren,Communication tower,59.29611111,18.17583333
-Sweden,Q34,http://www.wikidata.org/entity/Q133863722,Q133863722,Communication tower,58.67639,16.46778
-Sweden,Q34,http://www.wikidata.org/entity/Q28133240,Follingbomasten,Communication tower,57.592641666,18.373180555
-Japan,Q17,http://www.wikidata.org/entity/Q847033,Fukuoka Tower,Communication tower,33.593305555,130.3515
-Japan,Q17,http://www.wikidata.org/entity/Q283373,Nagoya TV Tower,Communication tower,35.172381,136.908403
-Japan,Q17,http://www.wikidata.org/entity/Q1063319,Sapporo TV Tower,Communication tower,43.061111111,141.356388888
-Japan,Q17,http://www.wikidata.org/entity/Q1568000,Hakata Port Tower,Communication tower,33.60444444,130.39777778
-Japan,Q17,http://www.wikidata.org/entity/Q57965,Tokyo Skytree,Communication tower,35.710055555,139.810722222
-Japan,Q17,http://www.wikidata.org/entity/Q11495265,Haramachi Radio Tower,Communication tower,37.636611,140.983889
-Japan,Q17,http://www.wikidata.org/entity/Q11508062,Nihondaira Digital Tower,Communication tower,34.97430556,138.4655
-Japan,Q17,http://www.wikidata.org/entity/Q2090752,NTT Docomo Yoyogi Building,Communication tower,35.684361111,139.70325
-Japan,Q17,http://www.wikidata.org/entity/Q11542897,Yokohama Media Tower,Communication tower,35.459814,139.630017
-Turkey,Q43,http://www.wikidata.org/entity/Q19613310,Çanakkale TV Tower,Communication tower,40.10625,26.434638888
-Turkey,Q43,http://www.wikidata.org/entity/Q753230,Atakule,Communication tower,39.886111111,32.856111111
-Turkey,Q43,http://www.wikidata.org/entity/Q1407350,Çamlıca TRT Television Tower,Communication tower,41.026078,29.068462
-Turkey,Q43,http://www.wikidata.org/entity/Q28657490,Çamlıca Tower,Communication tower,41.016444444,29.065472222
-Norway,Q20,http://www.wikidata.org/entity/Q123943210,The Harstad tower,Communication tower,68.809583333,16.525694444
-Norway,Q20,http://www.wikidata.org/entity/Q1415884,Tryvannstårnet,Communication tower,59.988333333,10.667777777
-Norway,Q20,http://www.wikidata.org/entity/Q19393785,Ullandhaugtårnet,Communication tower,58.940277777,5.706388888
-Netherlands,Q55,http://www.wikidata.org/entity/Q44595985,Zendmast Hilversum,Communication tower,52.242611,5.1645
-Netherlands,Q55,http://www.wikidata.org/entity/Q5154116,Communication Tower,Communication tower,51.875712,4.448558
-Netherlands,Q55,http://www.wikidata.org/entity/Q95960956,Zendmast Bezuidenhout,Communication tower,52.080693,4.335896
-Netherlands,Q55,http://www.wikidata.org/entity/Q1407321,Roermond TV tower,Communication tower,51.183933,5.975656
+Ukraine,Q212,http://www.wikidata.org/entity/Q13668706,Odesa television tower,Communication tower,46.450083333,30.741222222
+Ukraine,Q212,http://www.wikidata.org/entity/Q97191119,Ivano-Frankivsk TV Tower,Communication tower,48.91722222,24.70833333
+Ukraine,Q212,http://www.wikidata.org/entity/Q92793735,Pryluky TV Mast,Communication tower,50.62604,32.39363
+Ukraine,Q212,http://www.wikidata.org/entity/Q12170061,Chernihiv TV Tower,Communication tower,51.494722222,31.289166666
+Ukraine,Q212,http://www.wikidata.org/entity/Q97191887,Karachun TV tower,Communication tower,48.813611,37.561667
+Ukraine,Q212,http://www.wikidata.org/entity/Q1369185,Kyiv TV Tower,Communication tower,50.471111111,30.453333333
+Ukraine,Q212,http://www.wikidata.org/entity/Q12167335,Q12167335,Communication tower,49.44849,26.98053
+Ukraine,Q212,http://www.wikidata.org/entity/Q85992906,Karachun TV tower,Communication tower,48.813611,37.561667
+Ukraine,Q212,http://www.wikidata.org/entity/Q12119116,Lviv TV tower,Communication tower,49.848,24.036838888
+Ukraine,Q212,http://www.wikidata.org/entity/Q6400703,Kharkiv TV Tower,Communication tower,50.043611111,36.235277777
+Ukraine,Q212,http://www.wikidata.org/entity/Q6401372,Kherson TV Tower,Communication tower,46.64,32.6266
+Hungary,Q28,http://www.wikidata.org/entity/Q366333,Lakihegy Tower,Communication tower,47.373055555,19.004444444
+Hungary,Q28,http://www.wikidata.org/entity/Q1289873,Transmitter Solt,Communication tower,46.834308333,19.031566666
+Hungary,Q28,http://www.wikidata.org/entity/Q627845,Avas TV Tower,Communication tower,48.0994114,20.7755435
+Hungary,Q28,http://www.wikidata.org/entity/Q16523231,Telefontorony,Communication tower,46.27101389,20.14533611
+Hungary,Q28,http://www.wikidata.org/entity/Q113329588,Communication tower,Communication tower,47.563467229,21.588746309
+Hungary,Q28,http://www.wikidata.org/entity/Q1407345,Bazita Peak TV Tower,Communication tower,46.81361111,16.8125
+Hungary,Q28,http://www.wikidata.org/entity/Q16522954,Q16522954,Communication tower,46.62388889,20.2825
 Iran,Q794,http://www.wikidata.org/entity/Q622796,Milad Tower,Communication tower,35.744611111,51.375333333
 Iran,Q794,http://www.wikidata.org/entity/Q28599718,Gorgan Tower,Communication tower,36.844583333,54.39125
 Iran,Q794,http://www.wikidata.org/entity/Q5875701,Black and White Tower,Communication tower,25.638638888,57.771305555
 Iran,Q794,http://www.wikidata.org/entity/Q105978574,Qorban Tower (Isfahan),Communication tower,32.647777777,51.570472222
+Norway,Q20,http://www.wikidata.org/entity/Q123943210,The Harstad tower,Communication tower,68.809583333,16.525694444
+Norway,Q20,http://www.wikidata.org/entity/Q1415884,Tryvannstårnet,Communication tower,59.988333333,10.667777777
+Norway,Q20,http://www.wikidata.org/entity/Q19393785,Ullandhaugtårnet,Communication tower,58.940277777,5.706388888
 Latvia,Q211,http://www.wikidata.org/entity/Q97317368,Āgenskalns TV tower,Communication tower,56.936944444,24.072222222
 Latvia,Q211,http://www.wikidata.org/entity/Q830319,Riga Radio and TV Tower,Communication tower,56.923611111,24.136111111
 Latvia,Q211,http://www.wikidata.org/entity/Q1798444,Riga LVRTC Transmitter,Communication tower,56.938,24.28241667
 New Zealand,Q664,http://www.wikidata.org/entity/Q119032744,Waiatarua TV Tower,Communication tower,-36.92626,174.56807
 New Zealand,Q664,http://www.wikidata.org/entity/Q722125,Sky Tower,Communication tower,-36.848472222,174.762305555
+Sweden,Q34,http://www.wikidata.org/entity/Q1549630,Nackasändaren,Communication tower,59.29611111,18.17583333
+Sweden,Q34,http://www.wikidata.org/entity/Q133863722,Q133863722,Communication tower,58.67639,16.46778
+Sweden,Q34,http://www.wikidata.org/entity/Q28133240,Follingbomasten,Communication tower,57.592641666,18.373180555
+Canada,Q16,http://www.wikidata.org/entity/Q5011067,CHCH Television Tower,Communication tower,43.2075,-79.7752
+Canada,Q16,http://www.wikidata.org/entity/Q134883,CN Tower,Communication tower,43.642752777,-79.387147222
+Canada,Q16,http://www.wikidata.org/entity/Q3543516,CBC Tower,Communication tower,46.4926,-72.6516
+Canada,Q16,http://www.wikidata.org/entity/Q4883108,Bell Aliant Tower,Communication tower,46.09,-64.7765
+Canada,Q16,http://www.wikidata.org/entity/Q5010762,CFPL Television Tower,Communication tower,42.9497,-81.2644
+Canada,Q16,http://www.wikidata.org/entity/Q4840769,Baden Tower,Communication tower,43.4047,-80.6347
+Netherlands,Q55,http://www.wikidata.org/entity/Q44595985,Zendmast Hilversum,Communication tower,52.242611,5.1645
+Netherlands,Q55,http://www.wikidata.org/entity/Q5154116,Communication Tower,Communication tower,51.875712,4.448558
+Netherlands,Q55,http://www.wikidata.org/entity/Q95960956,Zendmast Bezuidenhout,Communication tower,52.080693,4.335896
+Netherlands,Q55,http://www.wikidata.org/entity/Q1407321,Roermond TV tower,Communication tower,51.183933,5.975656
 South Korea,Q884,http://www.wikidata.org/entity/Q69134,N Seoul Tower,Communication tower,37.551216,126.988276
 South Korea,Q884,http://www.wikidata.org/entity/Q2472610,83 Tower,Communication tower,35.85338889,128.56644444
 Brazil,Q155,http://www.wikidata.org/entity/Q1569524,Torre TV Bandeirantes,Communication tower,-23.555555555,-46.665555555
 Brazil,Q155,http://www.wikidata.org/entity/Q627859,Brasilia Digital TV Tower,Communication tower,-15.699269,-47.829569
-Lithuania,Q37,http://www.wikidata.org/entity/Q97215268,Q97215268,Communication tower,54.80193,23.794126
-Lithuania,Q37,http://www.wikidata.org/entity/Q1407353,Vilnius TV Tower,Communication tower,54.687111111,25.214611111
 Australia,Q408,http://www.wikidata.org/entity/Q300206,AWA Tower,Communication tower,-33.8669,151.206
 Australia,Q408,http://www.wikidata.org/entity/Q880443,Black Mountain Tower,Communication tower,-35.275555555,149.097777777
-Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1407325,Riyadh TV Tower,Communication tower,24.6433,46.6958
-Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1407285,Jeddah TV Tower,Communication tower,21.473,39.1996
-Azerbaijan,Q227,http://www.wikidata.org/entity/Q4810553,Astara TV Tower,Communication tower,38.48423333,48.83649722
-Azerbaijan,Q227,http://www.wikidata.org/entity/Q1407274,Baku TV Tower,Communication tower,40.351388888,49.823333333
-Slovakia,Q214,http://www.wikidata.org/entity/Q5311043,Dubnik Transmitter,Communication tower,48.92275,21.46255
-Slovakia,Q214,http://www.wikidata.org/entity/Q12778919,Q12778919,Communication tower,48.882583,20.139869
-Soviet Union,Q15180,http://www.wikidata.org/entity/Q13668706,Odesa television tower,Communication tower,46.450083333,30.741222222
-Soviet Union,Q15180,http://www.wikidata.org/entity/Q134426527,Volgograd TV Tower,Communication tower,48.741446,44.530686
-Belarus,Q184,http://www.wikidata.org/entity/Q7937013,Vitebsk TV Tower,Communication tower,55.1933,30.1665
-Belarus,Q184,http://www.wikidata.org/entity/Q4295196,Minsk TV tower,Communication tower,53.909583333,27.571944444
-Uruguay,Q77,http://www.wikidata.org/entity/Q109313102,Torre SAETA,Communication tower,-34.908083333,-56.180194444
-Kazakhstan,Q232,http://www.wikidata.org/entity/Q44585528,Pavlodar TV tower,Communication tower,52.29173,76.974224
-Egypt,Q79,http://www.wikidata.org/entity/Q614684,Cairo Tower,Communication tower,30.04583333,31.22444444
-Croatia,Q224,http://www.wikidata.org/entity/Q462813,Zagreb TV Tower,Communication tower,45.899444444,15.948055555
-Moldova,Q217,http://www.wikidata.org/entity/Q378593,Strășeni TV Mast,Communication tower,47.12138889,28.565
-Georgia,Q230,http://www.wikidata.org/entity/Q5586423,Gori TV Broadcasting Tower,Communication tower,42.031666666,44.0475
-Georgia,Q230,http://www.wikidata.org/entity/Q1407344,Tbilisi TV Broadcasting Tower,Communication tower,41.695833333,44.784722222
-Chile,Q298,http://www.wikidata.org/entity/Q1421270,Torre Entel,Communication tower,-33.44466667,-70.656
+Lithuania,Q37,http://www.wikidata.org/entity/Q97215268,Q97215268,Communication tower,54.80193,23.794126
+Lithuania,Q37,http://www.wikidata.org/entity/Q1407353,Vilnius TV Tower,Communication tower,54.687111111,25.214611111
+Czech Republic,Q213,http://www.wikidata.org/entity/Q106364619,antenna tower Sedlec - Lékařova Lhota,Communication tower,49.0806153,14.2702331
+Czech Republic,Q213,http://www.wikidata.org/entity/Q106364537,antenna tower Sedlec - Lékařova Lhota,Communication tower,49.0803956,14.2586278
+Czech Republic,Q213,http://www.wikidata.org/entity/Q1129608,Ještěd Tower,Communication tower,50.732628,14.984592
+Czech Republic,Q213,http://www.wikidata.org/entity/Q19602309,Krudum,Communication tower,50.1374875,12.7292975
+Czech Republic,Q213,http://www.wikidata.org/entity/Q1413217,Žižkov Television Tower,Communication tower,50.080833333,14.451388888
 Greece,Q41,http://www.wikidata.org/entity/Q1275726,Athens ERA-1 transmitter,Communication tower,38.150314,23.860206
 Greece,Q41,http://www.wikidata.org/entity/Q383061,OTE Tower,Communication tower,40.626214,22.954486
-Bulgaria,Q219,http://www.wikidata.org/entity/Q2295819,Snezhanka Tower,Communication tower,41.636494,24.677775
-Luxembourg,Q32,http://www.wikidata.org/entity/Q250541,Dudelange Radio Tower,Communication tower,49.463333333,6.095833333
-Turkmenistan,Q874,http://www.wikidata.org/entity/Q1407337,Turkmenistan Tower,Communication tower,37.862586111,58.238169444
-Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q24970077,Hum Tower,Communication tower,43.87247222,18.38647222
-Serbia,Q403,http://www.wikidata.org/entity/Q1258275,Avala Tower,Communication tower,44.695833333,20.514444444
+Georgia,Q230,http://www.wikidata.org/entity/Q5586423,Gori TV Broadcasting Tower,Communication tower,42.031666666,44.0475
+Georgia,Q230,http://www.wikidata.org/entity/Q1407344,Tbilisi TV Broadcasting Tower,Communication tower,41.695833333,44.784722222
+Azerbaijan,Q227,http://www.wikidata.org/entity/Q4810553,Astara TV Tower,Communication tower,38.48423333,48.83649722
+Azerbaijan,Q227,http://www.wikidata.org/entity/Q1407274,Baku TV Tower,Communication tower,40.351388888,49.823333333
+Turkey,Q43,http://www.wikidata.org/entity/Q19613310,Çanakkale TV Tower,Communication tower,40.10625,26.434638888
+Turkey,Q43,http://www.wikidata.org/entity/Q753230,Atakule,Communication tower,39.886111111,32.856111111
+Turkey,Q43,http://www.wikidata.org/entity/Q1407350,Çamlıca TRT Television Tower,Communication tower,41.026078,29.068462
+Turkey,Q43,http://www.wikidata.org/entity/Q28657490,Çamlıca Tower,Communication tower,41.016444444,29.065472222
+Slovakia,Q214,http://www.wikidata.org/entity/Q5311043,Dubnik Transmitter,Communication tower,48.92275,21.46255
+Slovakia,Q214,http://www.wikidata.org/entity/Q12778919,Q12778919,Communication tower,48.882583,20.139869
+Uruguay,Q77,http://www.wikidata.org/entity/Q109313102,Torre SAETA,Communication tower,-34.908083333,-56.180194444
+Kazakhstan,Q232,http://www.wikidata.org/entity/Q44585528,Pavlodar TV tower,Communication tower,52.29173,76.974224
+Soviet Union,Q15180,http://www.wikidata.org/entity/Q13668706,Odesa television tower,Communication tower,46.450083333,30.741222222
+Soviet Union,Q15180,http://www.wikidata.org/entity/Q134426527,Volgograd TV Tower,Communication tower,48.741446,44.530686
 North Korea,Q423,http://www.wikidata.org/entity/Q1141083,Pyongyang TV Tower,Communication tower,39.05,125.758611111
-Indonesia,Q252,http://www.wikidata.org/entity/Q841981,Indosiar Television Tower,Communication tower,-6.193351,106.766544
-Nigeria,Q1033,http://www.wikidata.org/entity/Q110826181,"Delta State Broadcasting Station, Asaba, Delta State",Communication tower,6.215192777,6.688483222
+Belarus,Q184,http://www.wikidata.org/entity/Q7937013,Vitebsk TV Tower,Communication tower,55.1933,30.1665
+Belarus,Q184,http://www.wikidata.org/entity/Q4295196,Minsk TV tower,Communication tower,53.909583333,27.571944444
+Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1407325,Riyadh TV Tower,Communication tower,24.6433,46.6958
+Saudi Arabia,Q851,http://www.wikidata.org/entity/Q1407285,Jeddah TV Tower,Communication tower,21.473,39.1996
 Armenia,Q399,http://www.wikidata.org/entity/Q1407311,Yerevan TV Tower,Communication tower,40.171288888,44.536158333
+Luxembourg,Q32,http://www.wikidata.org/entity/Q250541,Dudelange Radio Tower,Communication tower,49.463333333,6.095833333
+Egypt,Q79,http://www.wikidata.org/entity/Q614684,Cairo Tower,Communication tower,30.04583333,31.22444444
+Turkmenistan,Q874,http://www.wikidata.org/entity/Q1407337,Turkmenistan Tower,Communication tower,37.862586111,58.238169444
+Indonesia,Q252,http://www.wikidata.org/entity/Q841981,Indosiar Television Tower,Communication tower,-6.193351,106.766544
+Chile,Q298,http://www.wikidata.org/entity/Q1421270,Torre Entel,Communication tower,-33.44466667,-70.656
+Bulgaria,Q219,http://www.wikidata.org/entity/Q2295819,Snezhanka Tower,Communication tower,41.636494,24.677775
+Bosnia and Herzegovina,Q225,http://www.wikidata.org/entity/Q24970077,Hum Tower,Communication tower,43.87247222,18.38647222
+Moldova,Q217,http://www.wikidata.org/entity/Q378593,Strășeni TV Mast,Communication tower,47.12138889,28.565
 South Africa,Q258,http://www.wikidata.org/entity/Q1702028,Lukasrand Tower,Communication tower,-25.766158,28.205689
+Nigeria,Q1033,http://www.wikidata.org/entity/Q110826181,"Delta State Broadcasting Station, Asaba, Delta State",Communication tower,6.215192777,6.688483222
 Pakistan,Q843,http://www.wikidata.org/entity/Q124466621,"Communication Tower Telenor Headoffice, Islamabad",Communication tower,33.60348,73.16365
-Mexico,Q96,http://www.wikidata.org/entity/Q119016840,Telmex Tower,Communication tower,19.429186486,-99.144014881
+Croatia,Q224,http://www.wikidata.org/entity/Q462813,Zagreb TV Tower,Communication tower,45.899444444,15.948055555
 Romania,Q218,http://www.wikidata.org/entity/Q7692206,Techirghiol TV Tower,Communication tower,44.036666666,28.623611111
+Serbia,Q403,http://www.wikidata.org/entity/Q1258275,Avala Tower,Communication tower,44.695833333,20.514444444
 Belgium,Q31,http://www.wikidata.org/entity/Q23819517,Reyers Tower,Communication tower,50.853,4.40167
+Mexico,Q96,http://www.wikidata.org/entity/Q119016840,Telmex Tower,Communication tower,19.429186486,-99.144014881

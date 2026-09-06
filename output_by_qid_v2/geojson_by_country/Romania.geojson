@@ -958,23 +958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.565,
-          44.30444444
-        ]
-      },
-      "properties": {
-        "label": "Iron Gate II Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q1136390",
-        "country_qid": "Q218",
-        "Wikidata Qid": "Q1136390"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.261667,
           45.365
         ]
@@ -1427,23 +1410,6 @@
         "entity": "http://www.wikidata.org/entity/Q7459741",
         "country_qid": "Q218",
         "Wikidata Qid": "Q7459741"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.52916667,
-          44.67083333
-        ]
-      },
-      "properties": {
-        "label": "Iron Gate I Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q1289417",
-        "country_qid": "Q218",
-        "Wikidata Qid": "Q1289417"
       }
     },
     {

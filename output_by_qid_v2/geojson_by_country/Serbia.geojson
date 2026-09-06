@@ -176,6 +176,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.565,
+          44.30444444
+        ]
+      },
+      "properties": {
+        "label": "Iron Gate II Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1136390",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q1136390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.9297704,
           44.9482622
         ]
@@ -305,23 +322,6 @@
         "entity": "http://www.wikidata.org/entity/Q30974131",
         "country_qid": "Q403",
         "Wikidata Qid": "Q30974131"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.106777777,
-          44.367972222
-        ]
-      },
-      "properties": {
-        "label": "Zvornik Hydroelectric Power Station",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q12011284",
-        "country_qid": "Q403",
-        "Wikidata Qid": "Q12011284"
       }
     },
     {
@@ -465,6 +465,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.52916667,
+          44.67083333
+        ]
+      },
+      "properties": {
+        "label": "Iron Gate I Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1289417",
+        "country_qid": "Q403",
+        "Wikidata Qid": "Q1289417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.2937686,
           44.4808167
         ]
@@ -543,23 +560,6 @@
         "entity": "http://www.wikidata.org/entity/Q124548094",
         "country_qid": "Q403",
         "Wikidata Qid": "Q124548094"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.41025,
-          43.964083333
-        ]
-      },
-      "properties": {
-        "label": "Bajina Bašta Hydroelectric Power Plant",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q30974191",
-        "country_qid": "Q403",
-        "Wikidata Qid": "Q30974191"
       }
     },
     {
