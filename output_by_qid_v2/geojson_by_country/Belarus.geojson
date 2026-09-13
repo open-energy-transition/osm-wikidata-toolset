@@ -2199,23 +2199,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.499444444,
-          50.906388888
-        ]
-      },
-      "properties": {
-        "label": "Kyiv Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1425651",
-        "country_qid": "Q184",
-        "Wikidata Qid": "Q1425651"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           27.7831,
           54.4321
         ]

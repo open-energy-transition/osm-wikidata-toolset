@@ -1,4 +1,8 @@
 country_name,country_qid,entity,label,type,latitude,longitude
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131560727,Dogger Bank A Offshore Substation,Offshore HVDC converter platform,54.7833,1.86005
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131572461,Sofia Offshore Converter Platform,Offshore HVDC converter platform,54.99518,2.25928
+United Kingdom,Q145,http://www.wikidata.org/entity/Q131560777,Dogger Bank B Offshore Substation,Offshore HVDC converter platform,54.98462,1.65343
+United Kingdom,Q145,http://www.wikidata.org/entity/Q134731299,Dogger Bank C Offshore Substation,Offshore HVDC converter platform,55.02233,2.71059
 Germany,Q183,http://www.wikidata.org/entity/Q60159567,BorWin beta,Offshore HVDC converter platform,54.355166666,6.024611111
 Germany,Q183,http://www.wikidata.org/entity/Q129014536,DolWin kappa,Offshore HVDC converter platform,53.97854,6.92156
 Germany,Q183,http://www.wikidata.org/entity/Q60173970,DolWin gamma,Offshore HVDC converter platform,53.995930555,6.42065
@@ -9,9 +13,5 @@ Germany,Q183,http://www.wikidata.org/entity/Q60154705,DolWin alpha,Offshore HVDC
 Germany,Q183,http://www.wikidata.org/entity/Q60152307,DolWin beta,Offshore HVDC converter platform,53.978194444,6.9235
 Germany,Q183,http://www.wikidata.org/entity/Q60150983,HelWin alpha,Offshore HVDC converter platform,54.452119444,7.739919444
 Germany,Q183,http://www.wikidata.org/entity/Q60151321,HelWin beta,Offshore HVDC converter platform,54.453511111,7.739430555
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131560727,Dogger Bank A Offshore Substation,Offshore HVDC converter platform,54.7833,1.86005
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131572461,Sofia Offshore Converter Platform,Offshore HVDC converter platform,54.99518,2.25928
-United Kingdom,Q145,http://www.wikidata.org/entity/Q131560777,Dogger Bank B Offshore Substation,Offshore HVDC converter platform,54.98462,1.65343
-United Kingdom,Q145,http://www.wikidata.org/entity/Q134731299,Dogger Bank C Offshore Substation,Offshore HVDC converter platform,55.02233,2.71059
 Netherlands,Q55,http://www.wikidata.org/entity/Q131714396,IJmuiden Ver Beta Offshore Converter Station,Offshore HVDC converter platform,52.914,3.58
 Netherlands,Q55,http://www.wikidata.org/entity/Q131713025,IJmuiden Ver Alpha Offshore Converter Station,Offshore HVDC converter platform,52.8107,3.4809

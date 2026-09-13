@@ -91109,23 +91109,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.867953,
-          45.829661
-        ]
-      },
-      "properties": {
-        "label": "Col Major",
-        "type": "Weather station",
-        "entity": "http://www.wikidata.org/entity/Q88959596",
-        "country_qid": "Q142",
-        "Wikidata Qid": "Q88959596"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.7,
           44.8
         ]

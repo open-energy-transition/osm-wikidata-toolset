@@ -2692,6 +2692,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.47027778,
+          41.30111111
+        ]
+      },
+      "properties": {
+        "label": "Bemposta Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q3375350",
+        "country_qid": "Q29",
+        "Wikidata Qid": "Q3375350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.886972222,
           37.183608333
         ]
@@ -3433,6 +3450,23 @@
         "entity": "http://www.wikidata.org/entity/Q3248218",
         "country_qid": "Q29",
         "Wikidata Qid": "Q3248218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263888888,
+          41.488888888
+        ]
+      },
+      "properties": {
+        "label": "Miranda Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q3375894",
+        "country_qid": "Q29",
+        "Wikidata Qid": "Q3375894"
       }
     },
     {
@@ -5779,6 +5813,23 @@
         "entity": "http://www.wikidata.org/entity/Q56371825",
         "country_qid": "Q29",
         "Wikidata Qid": "Q56371825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.540087,
+          39.663667
+        ]
+      },
+      "properties": {
+        "label": "Cedillo Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q11963336",
+        "country_qid": "Q29",
+        "Wikidata Qid": "Q11963336"
       }
     },
     {
