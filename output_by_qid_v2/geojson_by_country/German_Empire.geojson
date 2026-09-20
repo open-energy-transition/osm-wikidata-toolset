@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.75221,
+          48.3966
+        ]
+      },
+      "properties": {
+        "label": "Lerchenfeld Bridge Gate",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q116181773",
+        "country_qid": "Q43287",
+        "Wikidata Qid": "Q116181773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.544603,
           50.102945
         ]

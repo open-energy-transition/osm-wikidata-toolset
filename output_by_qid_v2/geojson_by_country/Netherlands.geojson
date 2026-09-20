@@ -6993,23 +6993,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.716667,
-          51.44
-        ]
-      },
-      "properties": {
-        "label": "BritNed",
-        "type": "Underground power cable",
-        "entity": "http://www.wikidata.org/entity/Q918000",
-        "country_qid": "Q55",
-        "Wikidata Qid": "Q918000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.57259,
           53.0118
         ]

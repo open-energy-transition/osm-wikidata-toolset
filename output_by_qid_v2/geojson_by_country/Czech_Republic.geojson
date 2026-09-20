@@ -27376,23 +27376,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.38773333,
-          50.90985556
-        ]
-      },
-      "properties": {
-        "label": "Obere Schleuse",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q1325960",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q1325960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.379163,
           49.240803
         ]
@@ -38640,23 +38623,6 @@
         "entity": "http://www.wikidata.org/entity/Q133439305",
         "country_qid": "Q213",
         "Wikidata Qid": "Q133439305"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4930583,
-          49.6182075
-        ]
-      },
-      "properties": {
-        "label": "Q134088784",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q134088784",
-        "country_qid": "Q213",
-        "Wikidata Qid": "Q134088784"
       }
     },
     {
