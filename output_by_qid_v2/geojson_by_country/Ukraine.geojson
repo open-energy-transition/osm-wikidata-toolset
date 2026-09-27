@@ -1621,23 +1621,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.095722222,
-          44.948611111
-        ]
-      },
-      "properties": {
-        "label": "Transformer substation and electricity pylons",
-        "type": "Electrical substation",
-        "entity": "http://www.wikidata.org/entity/Q25443355",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q25443355"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.7367513,
           46.4714804
         ]
@@ -5616,23 +5599,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.5206,
-          44.6116
-        ]
-      },
-      "properties": {
-        "label": "Chernomorets design studio",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q86685442",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q86685442"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           33.510555555,
           47.986388888
         ]
@@ -6391,23 +6357,6 @@
         "entity": "http://www.wikidata.org/entity/Q4220239",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4220239"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.266,
-          44.974
-        ]
-      },
-      "properties": {
-        "label": "Koktebel winery",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q4183131",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4183131"
       }
     },
     {
@@ -7231,23 +7180,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.5775,
-          44.5
-        ]
-      },
-      "properties": {
-        "label": "Q112114444",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q112114444",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q112114444"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           28.666071082,
           51.025509439
         ]
@@ -7258,23 +7190,6 @@
         "entity": "http://www.wikidata.org/entity/Q107584890",
         "country_qid": "Q212",
         "Wikidata Qid": "Q107584890"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.5380132,
-          45.2839833
-        ]
-      },
-      "properties": {
-        "label": "Ak-Monai quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105616668",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105616668"
       }
     },
     {
@@ -7326,40 +7241,6 @@
         "entity": "http://www.wikidata.org/entity/Q108534037",
         "country_qid": "Q212",
         "Wikidata Qid": "Q108534037"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.3475,
-          45.440833333
-        ]
-      },
-      "properties": {
-        "label": "Kezin quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q106044102",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q106044102"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.301573,
-          45.382643
-        ]
-      },
-      "properties": {
-        "label": "Bagerovsky quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105079501",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105079501"
       }
     },
     {
@@ -7435,23 +7316,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.32377,
-          45.446657
-        ]
-      },
-      "properties": {
-        "label": "Tashkalak quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105597673",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105597673"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           37.082778,
           48.468889
         ]
@@ -7513,23 +7377,6 @@
         "entity": "http://www.wikidata.org/entity/Q12171234",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12171234"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.171461,
-          44.651132
-        ]
-      },
-      "properties": {
-        "label": "Beshuy mines",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q130970495",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q130970495"
       }
     },
     {
@@ -7632,23 +7479,6 @@
         "entity": "http://www.wikidata.org/entity/Q12099991",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12099991"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.394722222,
-          45.381111111
-        ]
-      },
-      "properties": {
-        "label": "Turkmen quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q106071479",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q106071479"
       }
     },
     {
@@ -7775,23 +7605,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.216431,
-          45.035696
-        ]
-      },
-      "properties": {
-        "label": "Opuk quarries",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105630723",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105630723"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           32.31782778,
           48.45634444
         ]
@@ -7802,23 +7615,6 @@
         "entity": "http://www.wikidata.org/entity/Q12074421",
         "country_qid": "Q212",
         "Wikidata Qid": "Q12074421"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.181326,
-          45.420434
-        ]
-      },
-      "properties": {
-        "label": "Q105337172",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q105337172",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q105337172"
       }
     },
     {

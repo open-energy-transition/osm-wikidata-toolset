@@ -27529,23 +27529,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.861611111,
-          46.436111111
-        ]
-      },
-      "properties": {
-        "label": "Shebunino coal mine",
-        "type": "Mine",
-        "entity": "http://www.wikidata.org/entity/Q120713329",
-        "country_qid": "Q17",
-        "Wikidata Qid": "Q120713329"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.2053,
           36.3749
         ]
