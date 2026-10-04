@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3944,
-          45.3369
-        ]
-      },
-      "properties": {
-        "label": "3. Maj",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q2297404",
-        "country_qid": "Q28513",
-        "Wikidata Qid": "Q2297404"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.4037978,
           50.0426097
         ]
