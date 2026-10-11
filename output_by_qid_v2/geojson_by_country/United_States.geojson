@@ -157528,23 +157528,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1647,
-          26.5589
-        ]
-      },
-      "properties": {
-        "label": "Falcon Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q2188401",
-        "country_qid": "Q30",
-        "Wikidata Qid": "Q2188401"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.8743,
           42.7794
         ]
@@ -207178,23 +207161,6 @@
         "entity": "http://www.wikidata.org/entity/Q116720898",
         "country_qid": "Q30",
         "Wikidata Qid": "Q116720898"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.05777778,
-          29.45027778
-        ]
-      },
-      "properties": {
-        "label": "Amistad Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q15179838",
-        "country_qid": "Q30",
-        "Wikidata Qid": "Q15179838"
       }
     },
     {

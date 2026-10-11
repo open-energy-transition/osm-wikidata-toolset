@@ -1,6 +1,4 @@
 country_name,country_qid,entity,label,type,latitude,longitude
-Turkey,Q43,http://www.wikidata.org/entity/Q29002619,Lake Tuz Natural Gas Storage,Energy storage (concept),,
-Turkey,Q43,http://www.wikidata.org/entity/Q30602045,Northern Marmara and Değirmenköy,Energy storage (concept),,
 France,Q142,http://www.wikidata.org/entity/Q29118062,Q29118062,Energy storage (concept),,
 France,Q142,http://www.wikidata.org/entity/Q29123555,Q29123555,Energy storage (concept),,
 France,Q142,http://www.wikidata.org/entity/Q29130994,Q29130994,Energy storage (concept),,
@@ -32,4 +30,6 @@ France,Q142,http://www.wikidata.org/entity/Q29295601,Q29295601,Energy storage (c
 France,Q142,http://www.wikidata.org/entity/Q29326725,Q29326725,Energy storage (concept),,
 France,Q142,http://www.wikidata.org/entity/Q29226967,Paschal candle,Energy storage (concept),,
 France,Q142,http://www.wikidata.org/entity/Q29130343,Church candlestick of Basilique Saint-Gervais d'Avranches,Energy storage (concept),,
+Turkey,Q43,http://www.wikidata.org/entity/Q29002619,Lake Tuz Natural Gas Storage,Energy storage (concept),,
+Turkey,Q43,http://www.wikidata.org/entity/Q30602045,Northern Marmara and Değirmenköy,Energy storage (concept),,
 Poland,Q36,http://www.wikidata.org/entity/Q113990073,CUGS Mogilno,Energy storage (concept),,

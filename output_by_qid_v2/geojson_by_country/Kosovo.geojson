@@ -125,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          20.264166666,
+          42.181111111
+        ]
+      },
+      "properties": {
+        "label": "Fierza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15062919",
+        "country_qid": "Q1246",
+        "Wikidata Qid": "Q15062919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.5728456,
           42.3651709
         ]
