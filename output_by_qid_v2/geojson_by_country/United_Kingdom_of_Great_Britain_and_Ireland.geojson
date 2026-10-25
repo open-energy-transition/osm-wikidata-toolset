@@ -74,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.275,
+          53.357
+        ]
+      },
+      "properties": {
+        "label": "Broadstone Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q30116186",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q30116186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.156388888,
           51.518888888
         ]
