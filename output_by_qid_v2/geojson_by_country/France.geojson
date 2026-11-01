@@ -329,6 +329,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q13105104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.0019032,
           45.3843231
         ]
@@ -985,6 +1002,23 @@
         "entity": "http://www.wikidata.org/entity/Q65923087",
         "country_qid": "Q142",
         "Wikidata Qid": "Q65923087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.915,
+          48.68472222
+        ]
+      },
+      "properties": {
+        "label": "Gambsheim barrage",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q15130268",
+        "country_qid": "Q142",
+        "Wikidata Qid": "Q15130268"
       }
     },
     {
