@@ -4307,23 +4307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.166666666,
-          59.333333333
-        ]
-      },
-      "properties": {
-        "label": "Narva Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q2458214",
-        "country_qid": "Q191",
-        "Wikidata Qid": "Q2458214"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.5464,
           58.11183
         ]
