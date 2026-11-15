@@ -244,23 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.7614,
-          -16.5217
-        ]
-      },
-      "properties": {
-        "label": "Kariba Dam",
-        "type": "power plant",
-        "entity": "http://www.wikidata.org/entity/Q1367609",
-        "country_qid": "Q954",
-        "Wikidata Qid": "Q1367609"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           29.358611111,
           -19.786111111
         ]

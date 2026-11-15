@@ -414,23 +414,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.13984,
-          41.06263
-        ]
-      },
-      "properties": {
-        "label": "Berkaber Reservoir",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q16398134",
-        "country_qid": "Q227",
-        "Wikidata Qid": "Q16398134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           48.77444444,
           38.65194444
         ]
@@ -492,23 +475,6 @@
         "entity": "http://www.wikidata.org/entity/Q16395607",
         "country_qid": "Q227",
         "Wikidata Qid": "Q16395607"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.2479,
-          39.59844
-        ]
-      },
-      "properties": {
-        "label": "Jinli Lich",
-        "type": "Reservoir",
-        "entity": "http://www.wikidata.org/entity/Q21984285",
-        "country_qid": "Q227",
-        "Wikidata Qid": "Q21984285"
       }
     },
     {
